@@ -134,7 +134,7 @@
       var cards = root.querySelector('#eraCards');
       if (cards) cards.innerHTML = list.map(function (x) {
         var k = D.eras.indexOf(x), l = eraLink(x);
-        return '<a class="card erac" href="' + (l ? l.href : '#/chapter/1') + '"><span class="thumb tile ch1"><span class="tile-cross" aria-hidden="true"></span><span class="bigdate" aria-hidden="true">' + x.from + '<small>–' + x.to + '</small></span></span><span class="kicker">Era ' + (k + 1) + ' · section ' + esc(x.pdfSection || '') + '</span><span class="ctitle"><span lang="da">' + esc(x.titleDa) + '</span></span><span class="muted small">' + esc(x.titleEn) + '</span></a>';
+        return '<a class="card erac" href="' + (l ? l.href : '#/chapter/1') + '"><span class="thumb tile ch1' + (x.image ? ' has-img' : '') + '"><span class="tile-cross" aria-hidden="true"></span>' + (x.image ? '<img alt="" src="' + esc(D.url(x.image)) + '">' : '') + '<span class="bigdate" aria-hidden="true">' + x.from + '<small>–' + x.to + '</small></span></span><span class="kicker">Era ' + (k + 1) + ' · section ' + esc(x.pdfSection || '') + '</span><span class="ctitle"><span lang="da">' + esc(x.titleDa) + '</span></span><span class="muted small">' + esc(x.titleEn) + '</span></a>';
       }).join('');
       root.querySelectorAll('.chip').forEach(function (b) { b.setAttribute('aria-pressed', b.dataset.g === group); });
     }

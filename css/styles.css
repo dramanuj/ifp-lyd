@@ -417,3 +417,6 @@ code { background: var(--bg2); padding: 1px 6px; border-radius: 5px; font-size: 
 @media (max-width: 899px) { .flag-pill span { display: none; } .flag-pill { width: 44px; padding: 0; justify-content: center; } }
 .seekwrap { position: relative; flex: 1; min-width: 0; display: flex; align-items: center; } .seekwrap input[type=range] { width: 100%; }
 a.pill { text-decoration: none; }
+/* timeline cards: keep the dates readable on bright illustrations */
+.erac .thumb.has-img::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 60%; background: linear-gradient(transparent, rgba(0,0,0,.72)); z-index: 1; pointer-events: none; }
+.erac .bigdate { text-shadow: 0 1px 6px rgba(0,0,0,.6); }

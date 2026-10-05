@@ -2331,7 +2331,9 @@
    "titleEn": "The Viking Age",
    "pdfSection": "1.2",
    "ep": "ep1",
-   "summary": "Denmark was gathered under one king and power began to be centralised. The Vikings traded, raided and settled abroad, and most Danes became Christian."
+   "summary": "Denmark was gathered under one king and power began to be centralised. The Vikings traded, raided and settled abroad, and most Danes became Christian.",
+   "image": "images/ch1/p008-fig1.svg",
+   "imageAlt": "A Viking ship from the 800s."
   },
   {
    "id": "e2",
@@ -2341,7 +2343,9 @@
    "titleEn": "The Middle Ages",
    "pdfSection": "1.3",
    "ep": "ep1",
-   "summary": "King, church and nobility often fought for power. The period brought the Jutland Law, the Black Death and the Kalmar Union."
+   "summary": "King, church and nobility often fought for power. The period brought the Jutland Law, the Black Death and the Kalmar Union.",
+   "image": "images/ch1/p011-fig1.svg",
+   "imageAlt": "Nørre Asminderup Church in north-west Zealand is one of Denmark's many medieval churches."
   },
   {
    "id": "e3",
@@ -2351,7 +2355,9 @@
    "titleEn": "Reformation, Swedish wars and absolutism",
    "pdfSection": "1.4",
    "ep": "ep1",
-   "summary": "Protestantism was introduced in 1536 and the king's power grew. After lost wars with Sweden, absolutism was introduced in 1660-61."
+   "summary": "Protestantism was introduced in 1536 and the king's power grew. After lost wars with Sweden, absolutism was introduced in 1660-61.",
+   "image": "images/ch1/p013-fig1.svg",
+   "imageAlt": "\"Christian III's Bible\" is the first translation of the Bible into Danish and was published in 1550."
   },
   {
    "id": "e4",
@@ -2361,7 +2367,9 @@
    "titleEn": "Seafaring and colonial power",
    "pdfSection": "1.5",
    "ep": "ep2",
-   "summary": "Denmark became a colonial power, with trading posts in India, forts in Ghana and colonies in the West Indies."
+   "summary": "Denmark became a colonial power, with trading posts in India, forts in Ghana and colonies in the West Indies.",
+   "image": "images/ch1/p017-fig1.svg",
+   "imageAlt": "The fortress Dansborg in the former Danish colony of Tranquebar in India."
   },
   {
    "id": "e5",
@@ -2371,7 +2379,9 @@
    "titleEn": "The Enlightenment and the road to democracy",
    "pdfSection": "1.6",
    "ep": "ep2",
-   "summary": "Enlightenment ideas, land reforms and Struensee's reforms led to Denmark's first free constitution in 1849."
+   "summary": "Enlightenment ideas, land reforms and Struensee's reforms led to Denmark's first free constitution in 1849.",
+   "image": "images/ch1/p020-fig1.svg",
+   "imageAlt": "King Christian VII reclining on the sofa. At the table Queen Caroline Mathilde and the king's personal physician Johann Friedrich Struensee. Painting by Kristian Zahrtmann."
   },
   {
    "id": "e6",
@@ -2381,7 +2391,9 @@
    "titleEn": "The Schleswig wars",
    "pdfSection": "1.7",
    "ep": "ep2",
-   "summary": "Tension between Danes and Germans in the duchies led to two wars; Denmark lost Schleswig and Holstein in 1864."
+   "summary": "Tension between Danes and Germans in the duchies led to two wars; Denmark lost Schleswig and Holstein in 1864.",
+   "image": "images/ch1/p026-fig1.svg",
+   "imageAlt": "Danish soldiers retreating from the Dannevirke in 1864."
   },
   {
    "id": "e7",
@@ -2391,7 +2403,9 @@
    "titleEn": "Industrialisation and new political movements",
    "pdfSection": "1.8",
    "ep": "ep3",
-   "summary": "Industry, the labour movement, the cooperative movement and the women's movement reshaped society, and parliamentarism broke through in 1901."
+   "summary": "Industry, the labour movement, the cooperative movement and the women's movement reshaped society, and parliamentarism broke through in 1901.",
+   "image": "images/ch1/p027-fig1.svg",
+   "imageAlt": "Work at a brewery around 1900."
   },
   {
    "id": "e8",
@@ -2401,7 +2415,9 @@
    "titleEn": "World war, crises and social reforms",
    "pdfSection": "1.9",
    "ep": "ep3",
-   "summary": "Denmark stayed out of the First World War, regained North Schleswig in 1920 and met the crisis of the 1930s with the Kanslergade Agreement."
+   "summary": "Denmark stayed out of the First World War, regained North Schleswig in 1920 and met the crisis of the 1930s with the Kanslergade Agreement.",
+   "image": "images/ch1/p036-fig1.svg",
+   "imageAlt": "The stock-market crash of 1929 on Wall Street, New York."
   },
   {
    "id": "e9",
@@ -2411,7 +2427,9 @@
    "titleEn": "The German occupation",
    "pdfSection": "1.10",
    "ep": "ep4",
-   "summary": "Germany occupied Denmark on 9 April 1940. Resistance grew, most Danish Jews were saved in 1943, and Denmark was liberated on 5 May 1945."
+   "summary": "Germany occupied Denmark on 9 April 1940. Resistance grew, most Danish Jews were saved in 1943, and Denmark was liberated on 5 May 1945.",
+   "image": "images/ch1/p038-fig1.svg",
+   "imageAlt": "German aircraft over Copenhagen on 9 April 1940."
   },
   {
    "id": "e10",
@@ -2421,7 +2439,9 @@
    "titleEn": "Cold War, welfare and youth revolt",
    "pdfSection": "1.11",
    "ep": "ep4",
-   "summary": "Denmark joined NATO, the welfare state grew in the booming 1960s, and young people rebelled against traditional norms."
+   "summary": "Denmark joined NATO, the welfare state grew in the booming 1960s, and young people rebelled against traditional norms.",
+   "image": "images/ch1/p044-fig1.svg",
+   "imageAlt": "Soviet troops exercising in Poland and Canadian troops in West Germany during the Cold War."
   },
   {
    "id": "e11",
@@ -2431,7 +2451,9 @@
    "titleEn": "Europe and the oil crisis",
    "pdfSection": "1.12",
    "ep": "ep5",
-   "summary": "Denmark joined the EC in 1973 and was hit by the oil crisis; the landslide election of 1973 changed the party system."
+   "summary": "Denmark joined the EC in 1973 and was hit by the oil crisis; the landslide election of 1973 changed the party system.",
+   "image": "images/ch1/p051-fig1.svg",
+   "imageAlt": "A demonstration on City Hall Square against Denmark's membership of the EC."
   },
   {
    "id": "e12",
@@ -2441,7 +2463,9 @@
    "titleEn": "The global society",
    "pdfSection": "1.13",
    "ep": "ep6",
-   "summary": "The Cold War ended, the EU opt-outs were agreed, and Denmark took part in international missions and faced the 2008 financial crisis and Covid-19."
+   "summary": "The Cold War ended, the EU opt-outs were agreed, and Denmark took part in international missions and faced the 2008 financial crisis and Covid-19.",
+   "image": "images/ch1/p055-fig1.svg",
+   "imageAlt": "The Berlin Wall fell in November 1989."
   }
  ],
  "downloads": [
