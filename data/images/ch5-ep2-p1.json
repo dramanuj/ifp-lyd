@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch5-ep2-p1",
+ "images": [
+  {
+   "id": "p150-fig1",
+   "src": "images/ch5/p150-fig1.svg",
+   "start": 301.7,
+   "caption": "Tove Ditlevsen (1917-76).",
+   "illustration": true,
+   "alt": "Tove Ditlevsen (1917-76).",
+   "page": 150,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 391.7
+  },
+  {
+   "id": "p148-fig1",
+   "src": "images/ch5/p148-fig1.svg",
+   "start": 401.5,
+   "caption": "Books by five Danish authors: Steen Steensen Blicher, Emma Gad, Henrik Pontoppidan, Klaus Rifbjerg and Naja Marie Aidt.",
+   "illustration": true,
+   "alt": "Books by five Danish authors: Steen Steensen Blicher, Emma Gad, Henrik Pontoppidan, Klaus Rifbjerg and Naja Marie Aidt.",
+   "page": 148,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 491.5
+  }
+ ]
+}

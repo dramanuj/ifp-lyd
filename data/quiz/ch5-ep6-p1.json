@@ -1,0 +1,122 @@
+[
+{
+"id": "ch5-ep6-p1-q1",
+"n": 1,
+"q": "Which architect designed Aarhus City Hall together with Erik Møller?",
+"options": [
+{
+"l": "A",
+"t": "Bjarke Ingels"
+},
+{
+"l": "B",
+"t": "Arne Jacobsen"
+},
+{
+"l": "C",
+"t": "Vilhelm Dahlerup"
+}
+],
+"answer": "B",
+"answerText": "Arne Jacobsen",
+"appeared": "It appeared in the June 2020 exam.",
+"da": {
+"q": "Hvilken arkitekt har sammen med Erik Møller tegnet rådhuset i Aarhus?",
+"options": [
+"Bjarke Ingels",
+"Arne Jacobsen",
+"Vilhelm Dahlerup"
+],
+"answer": "Arne Jacobsen"
+},
+"qStart": 431.56,
+"aStart": 451.79,
+"aEnd": 457.01,
+"learn": {
+"start": 380.66,
+"end": 393.14,
+"text": "Arne Jacobsen designed the National Bank, Aarhus City Hall, and the chairs the Seven and the Egg.",
+"score": 7.0
+}
+},
+{
+"id": "ch5-ep6-p1-q2",
+"n": 2,
+"q": "Which of the following buildings did the well-known Danish architect and designer Arne Jacobsen design?",
+"options": [
+{
+"l": "A",
+"t": "The Opera House in Copenhagen"
+},
+{
+"l": "B",
+"t": "Christiansborg"
+},
+{
+"l": "C",
+"t": "Denmark's National Bank"
+}
+],
+"answer": "C",
+"answerText": "Denmark's National Bank",
+"appeared": "It appeared in the November 2021 exam.",
+"da": {
+"q": "Hvilken af følgende bygninger har den kendte danske arkitekt og designer Arne Jacobsen tegnet?",
+"options": [
+"Operaen i København",
+"Christiansborg",
+"Danmarks Nationalbank"
+],
+"answer": "Danmarks Nationalbank"
+},
+"qStart": 457.46,
+"aStart": 480.5,
+"aEnd": 486.5,
+"learn": {
+"start": 195.35,
+"end": 235.2,
+"text": "Arne Jacobsen, who lived from 1902 to 71, has also made a great mark on both architecture and design. He was inspired by several different styles, not least functionalism. Examples of his architecture are Denmark's National Bank in Copenhagen and Aarhus City Hall.",
+"score": 5.8
+}
+},
+{
+"id": "ch5-ep6-p1-q3",
+"n": 3,
+"q": "Which Danish architect designed the opera house in Sydney in Australia?",
+"options": [
+{
+"l": "A",
+"t": "Dorte Mandrup"
+},
+{
+"l": "B",
+"t": "Jørn Utzon"
+},
+{
+"l": "C",
+"t": "Arne Jacobsen"
+}
+],
+"answer": "B",
+"answerText": "Jørn Utzon",
+"appeared": "It appeared in the November 2022 exam.",
+"da": {
+"q": "Hvilken dansk arkitekt har tegnet operahuset i Sydney i Australien?",
+"options": [
+"Dorte Mandrup",
+"Jørn Utzon",
+"Arne Jacobsen"
+],
+"answer": "Jørn Utzon"
+},
+"qStart": 487.05,
+"aStart": 506.05,
+"aEnd": 511.35,
+"learn": {
+"start": 247.11,
+"end": 265.55,
+"text": "The architect Jørn Utzon, who lived from 1918 to 2008, was a pioneer of this development when he in the late 1950s designed the iconic opera house in Australia's biggest city, Sydney.",
+"score": 7.5
+}
+}
+]

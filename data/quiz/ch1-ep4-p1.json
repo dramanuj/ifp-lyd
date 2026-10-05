@@ -1,0 +1,237 @@
+[
+{
+"id": "ch1-ep4-p1-q1",
+"n": 1,
+"q": "How long did Denmark's official military resistance last when Germany attacked on the ninth of April 1940?",
+"options": [
+{
+"l": "A",
+"t": "Less than a day"
+},
+{
+"l": "B",
+"t": "Between one and two weeks"
+},
+{
+"l": "C",
+"t": "About a month and a half"
+}
+],
+"answer": "A",
+"answerText": "Less than a day",
+"appeared": "It appeared in the June 2022 and November 2023 exams.",
+"da": {
+"q": "Hvor længe varede Danmarks officielle militære modstand, da Tyskland angreb Danmark den 9. april 1940?",
+"options": [
+"Mindre end en dag",
+"Mellem en og to uger",
+"Cirka halvanden måned"
+],
+"answer": "Mindre end en dag"
+},
+"qStart": 690.82,
+"aStart": 713.64,
+"aEnd": 720.74,
+"learn": {
+"start": 50.25,
+"end": 65.47,
+"text": "Denmark and Norway were attacked and occupied by the German military on the ninth of April, 1940. The German explanation was that Germany wanted to protect the two countries against a British occupation.",
+"score": 6.1
+}
+},
+{
+"id": "ch1-ep4-p1-q2",
+"n": 2,
+"q": "In which year did the Danish government's cooperation policy with the German occupying power end?",
+"options": [
+{
+"l": "A",
+"t": "1941"
+},
+{
+"l": "B",
+"t": "1943"
+},
+{
+"l": "C",
+"t": "1945"
+}
+],
+"answer": "B",
+"answerText": "1943",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvilket år ophørte den danske regerings samarbejdspolitik med den tyske besættelsesmagt under 2. Verdenskrig?",
+"options": [
+"1941",
+"1943",
+"1945"
+],
+"answer": "1943"
+},
+"qStart": 721.29,
+"aStart": 742.83,
+"aEnd": 748.57,
+"learn": {
+"start": 266.38,
+"end": 308.06,
+"text": "On the twenty-ninth of August, 1943, the government decided to submit its resignation to the king, after Scavenius had rejected the Germans' demand to intervene actively against the strikes and the ever-growing resistance to the German occupation, including the German demand for the death penalty for sabotage. This ended the Danish government's policy of cooperation with Nazi Germany. The German occupying power at the same time dissolved the Danish military.",
+"score": 6.5
+}
+},
+{
+"id": "ch1-ep4-p1-q3",
+"n": 3,
+"q": "When did the Danish government's cooperation policy with Germany take place during the Second World War?",
+"options": [
+{
+"l": "A",
+"t": "1940 to 43"
+},
+{
+"l": "B",
+"t": "1943 to 45"
+}
+],
+"answer": "A",
+"answerText": "1940 to 43",
+"appeared": "It appeared in the May 2024 and June 2026 exams.",
+"da": {
+"q": "Hvornår fandt den danske regerings samarbejdspolitik med Tyskland under 2. Verdenskrig sted?",
+"options": [
+"1940-43",
+"1943-45"
+],
+"answer": "1940-43"
+},
+"qStart": 749.12,
+"aStart": 769.32,
+"aEnd": 776.8,
+"learn": {
+"start": 558.99,
+"end": 601.72,
+"text": "With about sixty million dead worldwide, the Second World War is the bloodiest war in world history, and the death toll was far higher in almost all other German-occupied countries. For example, the Netherlands lost about two hundred thousand citizens, and in Eastern Europe, where the war was far bloodier than in Western Europe, Poland alone lost five to six million citizens. The relatively low death toll and limited destruction are due, first, to the quick Danish surrender in April 1940 and the subsequent policy of cooperation with the Germans.",
+"score": 5.8
+}
+},
+{
+"id": "ch1-ep4-p1-q4",
+"n": 4,
+"q": "Which group of citizens was helped, in their thousands, to flee from Denmark to Sweden in October 1943?",
+"options": [
+{
+"l": "A",
+"t": "Danish communists"
+},
+{
+"l": "B",
+"t": "Danish soldiers"
+},
+{
+"l": "C",
+"t": "Danish Jews"
+}
+],
+"answer": "C",
+"answerText": "Danish Jews",
+"appeared": "It appeared in the November 2020 and November 2022 exams.",
+"da": {
+"q": "Hvilken gruppe borgere blev i tusindtal hjulpet med at flygte fra Danmark til Sverige i oktober 1943?",
+"options": [
+"Danske kommunister",
+"Danske soldater",
+"Danske jøder"
+],
+"answer": "Danske jøder"
+},
+"qStart": 777.35,
+"aStart": 799.88,
+"aEnd": 806.81,
+"learn": {
+"start": 352.25,
+"end": 366.19,
+"text": "Most were helped to Sweden by fellow Danish citizens, just before the Germans tried to arrest the Danish Jews in October 1943.",
+"score": 8.0
+}
+},
+{
+"id": "ch1-ep4-p1-q5",
+"n": 5,
+"q": "When was it decided by a referendum in Iceland to establish an independent republic, independent of Denmark?",
+"options": [
+{
+"l": "A",
+"t": "1901"
+},
+{
+"l": "B",
+"t": "1918"
+},
+{
+"l": "C",
+"t": "1944"
+}
+],
+"answer": "C",
+"answerText": "1944",
+"appeared": "It appeared in the November 2020, May 2023 and November 2025 exams.",
+"da": {
+"q": "Hvornår blev det ved en folkeafstemning i Island besluttet at oprette en selvstændig republik uafhængig af Danmark?",
+"options": [
+"1901",
+"1918",
+"1944"
+],
+"answer": "1944"
+},
+"qStart": 807.36,
+"aStart": 829.8,
+"aEnd": 838.36,
+"learn": {
+"start": 444.84,
+"end": 476.01,
+"text": "The Act of Union from 1918 expired in 1943, and Denmark, being under German occupation, had no real possibility to renegotiate it. In a referendum, an almost unanimous Icelandic population decided on full independence. The Republic of Iceland was proclaimed on the seventeenth of June, 1944, which therefore became Iceland's national day.",
+"score": 5.0
+}
+},
+{
+"id": "ch1-ep4-p1-q6",
+"n": 6,
+"q": "On which date is Denmark's liberation in 1945, after five years of German occupation, marked?",
+"options": [
+{
+"l": "A",
+"t": "The eighth of March"
+},
+{
+"l": "B",
+"t": "The ninth of April"
+},
+{
+"l": "C",
+"t": "The fifth of May"
+}
+],
+"answer": "C",
+"answerText": "The fifth of May",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "På hvilken dato markeres Danmarks befrielse i 1945 efter fem års tysk besættelse?",
+"options": [
+"8. marts",
+"9. april",
+"5. maj"
+],
+"answer": "5. maj"
+},
+"qStart": 838.91,
+"aStart": 861.54,
+"aEnd": 866.96,
+"learn": {
+"start": 520.27,
+"end": 536.74,
+"text": "In the spring of 1945, Nazi Germany collapsed after hard fighting in Europe. On the fifth of May, Denmark was officially liberated by British forces, after the German troops had surrendered.",
+"score": 5.2
+}
+}
+]

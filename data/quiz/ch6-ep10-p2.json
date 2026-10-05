@@ -1,0 +1,162 @@
+[
+{
+"id": "ch6-ep10-p2-q1",
+"n": 1,
+"q": "Who received the Nobel Prize in Physics in 1922?",
+"options": [
+{
+"l": "A",
+"t": "Niels Bohr"
+},
+{
+"l": "B",
+"t": "Jens Christian Skou"
+},
+{
+"l": "C",
+"t": "Johannes V. Jensen"
+}
+],
+"answer": "A",
+"answerText": "Niels Bohr",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Hvem modtog i 1922 Nobelprisen i fysik?",
+"options": [
+"Niels Bohr",
+"Jens Christian Skou",
+"Johannes V. Jensen"
+],
+"answer": "Niels Bohr"
+},
+"qStart": 361.12,
+"aStart": 382.58,
+"aEnd": 387.52,
+"learn": {
+"start": 304.81,
+"end": 321.25,
+"text": "Niels Bohr received the Nobel Prize in Physics in 1922.",
+"score": 8.0
+}
+},
+{
+"id": "ch6-ep10-p2-q2",
+"n": 2,
+"q": "What did the scientist Niels Bohr receive the Nobel Prize for in 1922?",
+"options": [
+{
+"l": "A",
+"t": "A method for measuring the speed of light"
+},
+{
+"l": "B",
+"t": "A model of the structure of atoms"
+},
+{
+"l": "C",
+"t": "A theory of the Earth's magnetic field"
+}
+],
+"answer": "B",
+"answerText": "A model of the structure of atoms",
+"appeared": "It appeared in the November 2022 and June 2026 exams.",
+"da": {
+"q": "Hvad fik videnskabsmanden Niels Bohr Nobelprisen for i 1922?",
+"options": [
+"En metode til måling af lysets hastighed",
+"En model over atomers opbygning",
+"En teori om jordens magnetfelt"
+],
+"answer": "En model over atomers opbygning"
+},
+"qStart": 388.07,
+"aStart": 411.48,
+"aEnd": 419.66,
+"learn": {
+"start": 58.06,
+"end": 89.28,
+"text": "In the 20th century the Danish physicist Niels Bohr, who lived from 1885 to 1962, achieved international fame. As a young man he set up a model of the structure of atoms. For it he received in 1922 the Nobel Prize in Physics.",
+"score": 7.3
+}
+},
+{
+"id": "ch6-ep10-p2-q3",
+"n": 3,
+"q": "What was Knud Rasmussen, 1879 to 1933, especially known for?",
+"options": [
+{
+"l": "A",
+"t": "He was a composer"
+},
+{
+"l": "B",
+"t": "He was a painter"
+},
+{
+"l": "C",
+"t": "He was a polar explorer"
+}
+],
+"answer": "C",
+"answerText": "He was a polar explorer",
+"appeared": "It appeared in the November 2021 and May 2024 exams.",
+"da": {
+"q": "Hvad var Knud Rasmussen (1879-1933) særligt kendt for?",
+"options": [
+"Han var komponist",
+"Han var kunstmaler",
+"Han var polarforsker"
+],
+"answer": "Han var polarforsker"
+},
+"qStart": 420.21,
+"aStart": 441.66,
+"aEnd": 449.08,
+"learn": {
+"start": 7.44,
+"end": 22.58,
+"text": "The Danish-Greenlandic polar explorer Knud Rasmussen, who lived from 1879 to 1933, has been of great importance for the exploration of Greenland and other Arctic areas.",
+"score": 7.0
+}
+},
+{
+"id": "ch6-ep10-p2-q4",
+"n": 4,
+"q": "Which Nobel Prize was Morten Meldal awarded in December 2022?",
+"options": [
+{
+"l": "A",
+"t": "The Nobel Prize in Economics"
+},
+{
+"l": "B",
+"t": "The Nobel Prize in Literature"
+},
+{
+"l": "C",
+"t": "The Nobel Prize in Chemistry"
+}
+],
+"answer": "C",
+"answerText": "The Nobel Prize in Chemistry",
+"appeared": "It appeared in the May 2023 exam.",
+"da": {
+"q": "Hvilken nobelpris blev Morten Meldal tildelt i december 2022?",
+"options": [
+"Nobelprisen i økonomi",
+"Nobelprisen i litteratur",
+"Nobelprisen i kemi"
+],
+"answer": "Nobelprisen i kemi"
+},
+"qStart": 449.63,
+"aStart": 471.63,
+"aEnd": 477.41,
+"learn": {
+"start": 190.68,
+"end": 212.27,
+"text": "Morten Meldal, born 1954, who is professor at the University of Copenhagen, received together with two American researchers the Nobel Prize in Chemistry in 2022 for having laid the foundation for the so-called click chemistry.",
+"score": 9.5
+}
+}
+]

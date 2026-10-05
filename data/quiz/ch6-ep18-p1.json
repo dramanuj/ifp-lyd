@@ -1,0 +1,162 @@
+[
+{
+"id": "ch6-ep18-p1-q1",
+"n": 1,
+"q": "What was life expectancy for women in 2019 to 2020?",
+"options": [
+{
+"l": "A",
+"t": "78 to 79 years"
+},
+{
+"l": "B",
+"t": "83 to 84 years"
+},
+{
+"l": "C",
+"t": "88 to 89 years"
+}
+],
+"answer": "B",
+"answerText": "83 to 84 years",
+"appeared": "It appeared in the November 2021 exam.",
+"da": {
+"q": "Hvad var middel-levetiden for kvinder i 2019-2020?",
+"options": [
+"78-79 år",
+"83-84 år",
+"88-89 år"
+],
+"answer": "83-84 år"
+},
+"qStart": 329.54,
+"aStart": 351.64,
+"aEnd": 358.0,
+"learn": {
+"start": 59.01,
+"end": 71.12,
+"text": "Life expectancy is, in 2024 to 2025, 83.9 years for women and 80.3 years for men.",
+"score": 6.0
+}
+},
+{
+"id": "ch6-ep18-p1-q2",
+"n": 2,
+"q": "How long was life expectancy for men in 2020 to 2021?",
+"options": [
+{
+"l": "A",
+"t": "About 73 years"
+},
+{
+"l": "B",
+"t": "About 80 years"
+},
+{
+"l": "C",
+"t": "About 87 years"
+}
+],
+"answer": "B",
+"answerText": "About 80 years",
+"appeared": "It appeared in the November 2022 exam.",
+"da": {
+"q": "Hvor lang var middellevetiden for mænd i 2020-2021?",
+"options": [
+"Cirka 73 år",
+"Cirka 80 år",
+"Cirka 87 år"
+],
+"answer": "Cirka 80 år"
+},
+"qStart": 358.55,
+"aStart": 379.06,
+"aEnd": 384.7,
+"learn": {
+"start": 59.01,
+"end": 71.12,
+"text": "Life expectancy is, in 2024 to 2025, 83.9 years for women and 80.3 years for men.",
+"score": 6.0
+}
+},
+{
+"id": "ch6-ep18-p1-q3",
+"n": 3,
+"q": "How old must you be to buy cigarettes in Denmark?",
+"options": [
+{
+"l": "A",
+"t": "At least 16 years"
+},
+{
+"l": "B",
+"t": "At least 18 years"
+},
+{
+"l": "C",
+"t": "At least 21 years"
+}
+],
+"answer": "B",
+"answerText": "At least 18 years",
+"appeared": "It appeared in the November 2021, May 2024 and May 2025 exams.",
+"da": {
+"q": "Hvor gammel skal man være for at købe cigaretter i Danmark?",
+"options": [
+"Mindst 16 år",
+"Mindst 18 år",
+"Mindst 21 år"
+],
+"answer": "Mindst 18 år"
+},
+"qStart": 385.25,
+"aStart": 403.98,
+"aEnd": 412.86,
+"learn": {
+"start": 286.4,
+"end": 308.1,
+"text": "For example you must be 16 years old to buy beer in the shops, with an alcohol content of between 1.2 and 6 percent, and 18 years to buy cigarettes, strong beer, wine and strong spirits, with an alcohol content of 6.6 percent and above.",
+"score": 7.0
+}
+},
+{
+"id": "ch6-ep18-p1-q4",
+"n": 4,
+"q": "How old must you at least be to buy strong spirits?",
+"options": [
+{
+"l": "A",
+"t": "15 years"
+},
+{
+"l": "B",
+"t": "18 years"
+},
+{
+"l": "C",
+"t": "21 years"
+}
+],
+"answer": "B",
+"answerText": "18 years",
+"appeared": "It appeared in the May 2023 and November 2024 exams.",
+"da": {
+"q": "Hvor gammel skal man mindst være for at købe stærk spiritus?",
+"options": [
+"15 år",
+"18 år",
+"21 år"
+],
+"answer": "18 år"
+},
+"qStart": 413.41,
+"aStart": 431.79,
+"aEnd": 438.91,
+"learn": {
+"start": 286.4,
+"end": 308.1,
+"text": "For example you must be 16 years old to buy beer in the shops, with an alcohol content of between 1.2 and 6 percent, and 18 years to buy cigarettes, strong beer, wine and strong spirits, with an alcohol content of 6.6 percent and above.",
+"score": 8.0
+}
+}
+]

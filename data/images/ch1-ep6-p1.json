@@ -1,0 +1,76 @@
+{
+ "version": 1,
+ "partId": "ch1-ep6-p1",
+ "images": [
+  {
+   "id": "p055-fig1",
+   "src": "images/ch1/p055-fig1.svg",
+   "start": 57.9,
+   "caption": "The Berlin Wall fell in November 1989.",
+   "illustration": true,
+   "alt": "The Berlin Wall fell in November 1989.",
+   "page": 55,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 147.9
+  },
+  {
+   "id": "p057-fig1",
+   "src": "images/ch1/p057-fig1.svg",
+   "start": 347.2,
+   "caption": "The housing estate Gellerupparken in Aarhus.",
+   "illustration": true,
+   "alt": "The housing estate Gellerupparken in Aarhus.",
+   "page": 57,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 379.0
+  },
+  {
+   "id": "p058-fig1",
+   "src": "images/ch1/p058-fig1.svg",
+   "start": 379.0,
+   "caption": "Pia Kjærsgaard, former leader of the Danish People's Party (1995-2012) and the first female Speaker of the Folketing (2015-19).",
+   "illustration": true,
+   "alt": "Pia Kjærsgaard, former leader of the Danish People's Party (1995-2012) and the first female Speaker of the Folketing (2015-19).",
+   "page": 58,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 421.8
+  },
+  {
+   "id": "p057-fig2",
+   "src": "images/ch1/p057-fig2.svg",
+   "start": 421.8,
+   "caption": "Poul Nyrup Rasmussen, prime minister 1993-2001.",
+   "illustration": true,
+   "alt": "Poul Nyrup Rasmussen, prime minister 1993-2001.",
+   "page": 57,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 511.8
+  },
+  {
+   "id": "p059-fig1",
+   "src": "images/ch1/p059-fig1.svg",
+   "start": 574.8,
+   "caption": "Danish soldiers in Iraq in 2003.",
+   "illustration": true,
+   "alt": "Danish soldiers in Iraq in 2003.",
+   "page": 59,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 664.8
+  }
+ ]
+}

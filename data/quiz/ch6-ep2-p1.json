@@ -1,0 +1,237 @@
+[
+{
+"id": "ch6-ep2-p1-q1",
+"n": 1,
+"q": "What are Anna Ancher and Michael Ancher especially known for?",
+"options": [
+{
+"l": "A",
+"t": "They were composers"
+},
+{
+"l": "B",
+"t": "They were film directors"
+},
+{
+"l": "C",
+"t": "They were painters"
+}
+],
+"answer": "C",
+"answerText": "They were painters",
+"appeared": "It appeared in the June 2022 exam.",
+"da": {
+"q": "Hvad er Anna Ancher og Michael Ancher særligt kendt for?",
+"options": [
+"De var komponister",
+"De var filminstruktører",
+"De var kunstmalere"
+],
+"answer": "De var kunstmalere"
+},
+"qStart": 647.47,
+"aStart": 666.54,
+"aEnd": 671.8,
+"learn": {
+"start": 111.72,
+"end": 135.62,
+"text": "In the period of about 1875 to 1910, Skagen was in the summer an international meeting place for painters, kunstmalere, called the Skagen Painters, Skagensmalerne, such as Anna Ancher, Michael Ancher and P.S.",
+"score": 4.5
+}
+},
+{
+"id": "ch6-ep2-p1-q2",
+"n": 2,
+"q": "What is P.S. Krøyer, 1851 to 1909, especially known for?",
+"options": [
+{
+"l": "A",
+"t": "He was an author"
+},
+{
+"l": "B",
+"t": "He was a composer"
+},
+{
+"l": "C",
+"t": "He was a painter"
+}
+],
+"answer": "C",
+"answerText": "He was a painter",
+"appeared": "It appeared in the May 2024 exam.",
+"da": {
+"q": "Hvad er P.S. Krøyer (1851-1909) særlig kendt for?",
+"options": [
+"Han var forfatter",
+"Han var komponist",
+"Han var kunstmaler"
+],
+"answer": "Han var kunstmaler"
+},
+"qStart": 672.25,
+"aStart": 694.92,
+"aEnd": 700.03,
+"learn": null
+},
+{
+"id": "ch6-ep2-p1-q3",
+"n": 3,
+"q": "In which town in Jutland did Anna Ancher and Michael Ancher paint especially many of their pictures at the end of the 1800s?",
+"options": [
+{
+"l": "A",
+"t": "Silkeborg"
+},
+{
+"l": "B",
+"t": "Sønderborg"
+},
+{
+"l": "C",
+"t": "Skagen"
+}
+],
+"answer": "C",
+"answerText": "Skagen",
+"appeared": "It appeared in the November 2024 and June 2026 exams.",
+"da": {
+"q": "Ved hvilken by i Jylland malede Anna Ancher og Michael Ancher særligt mange af deres billeder i slutningen af 1800-tallet?",
+"options": [
+"Silkeborg",
+"Sønderborg",
+"Skagen"
+],
+"answer": "Skagen"
+},
+"qStart": 700.48,
+"aStart": 723.18,
+"aEnd": 729.78,
+"learn": {
+"start": 111.72,
+"end": 135.62,
+"text": "In the period of about 1875 to 1910, Skagen was in the summer an international meeting place for painters, kunstmalere, called the Skagen Painters, Skagensmalerne, such as Anna Ancher, Michael Ancher and P.S.",
+"score": 4.5
+}
+},
+{
+"id": "ch6-ep2-p1-q4",
+"n": 4,
+"q": "Along which coast in Denmark are there especially many bunkers that the Germans had built during the Second World War?",
+"options": [
+{
+"l": "A",
+"t": "Lolland's south coast"
+},
+{
+"l": "B",
+"t": "Zealand's east coast"
+},
+{
+"l": "C",
+"t": "Jutland's west coast"
+}
+],
+"answer": "C",
+"answerText": "Jutland's west coast",
+"appeared": "It appeared in the May 2024 and June 2026 exams.",
+"da": {
+"q": "Langs hvilken kyst i Danmark ligger der særligt mange bunkere, som tyskerne fik bygget under 2. Verdenskrig?",
+"options": [
+"Lollands sydkyst",
+"Sjællands østkyst",
+"Jyllands vestkyst"
+],
+"answer": "Jyllands vestkyst"
+},
+"qStart": 730.33,
+"aStart": 752.67,
+"aEnd": 759.62,
+"learn": {
+"start": 179.78,
+"end": 195.25,
+"text": "Therefore, from 1942, many bunkers were built and landmines laid along the whole of Jutland's west coast, Jyllands vestkyst.",
+"score": 9.5
+}
+},
+{
+"id": "ch6-ep2-p1-q5",
+"n": 5,
+"q": "What is the oldest town in Denmark called?",
+"options": [
+{
+"l": "A",
+"t": "Ribe"
+},
+{
+"l": "B",
+"t": "Esbjerg"
+},
+{
+"l": "C",
+"t": "Frederikshavn"
+}
+],
+"answer": "A",
+"answerText": "Ribe",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Hvad hedder den ældste by i Danmark?",
+"options": [
+"Ribe",
+"Esbjerg",
+"Frederikshavn"
+],
+"answer": "Ribe"
+},
+"qStart": 760.17,
+"aStart": 776.92,
+"aEnd": 781.74,
+"learn": {
+"start": 410.62,
+"end": 419.17,
+"text": "Ribe arose as a market and trading place at the beginning of the 700s and is thereby the oldest town in Denmark.",
+"score": 4.5
+}
+},
+{
+"id": "ch6-ep2-p1-q6",
+"n": 6,
+"q": "In which Danish city can you visit, among other things, Den Gamle By and the art museum ARoS?",
+"options": [
+{
+"l": "A",
+"t": "Helsingør"
+},
+{
+"l": "B",
+"t": "Odense"
+},
+{
+"l": "C",
+"t": "Aarhus"
+}
+],
+"answer": "C",
+"answerText": "Aarhus",
+"appeared": "It appeared in the May 2025 exam.",
+"da": {
+"q": "I hvilken dansk by kan man blandt andet besøge Den Gamle By og kunstmuseet ARoS?",
+"options": [
+"Helsingør",
+"Odense",
+"Aarhus"
+],
+"answer": "Aarhus"
+},
+"qStart": 782.29,
+"aStart": 802.9,
+"aEnd": 807.6,
+"learn": {
+"start": 242.4,
+"end": 255.82,
+"text": "Parts of the Market Town Museum, Købstadsmuseet, in Aarhus, called Den Gamle By, \"The Old Town\", are a model of a small Danish town as it could have looked in the 1800s.",
+"score": 5.5
+}
+}
+]

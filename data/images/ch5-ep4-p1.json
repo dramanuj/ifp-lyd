@@ -1,0 +1,62 @@
+{
+ "version": 1,
+ "partId": "ch5-ep4-p1",
+ "images": [
+  {
+   "id": "p153-fig1",
+   "src": "images/ch5/p153-fig1.svg",
+   "start": 47.8,
+   "caption": "The Sun Chariot from the Bronze Age, found in Trundholm Moor in north-west Zealand.",
+   "illustration": true,
+   "alt": "The Sun Chariot from the Bronze Age, found in Trundholm Moor in north-west Zealand.",
+   "page": 153,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 129.8
+  },
+  {
+   "id": "p154-fig1",
+   "src": "images/ch5/p154-fig1.svg",
+   "start": 129.8,
+   "caption": "Wall paintings of Bible stories in Birkerød Church north of Copenhagen.",
+   "illustration": true,
+   "alt": "Wall paintings of Bible stories in Birkerød Church north of Copenhagen.",
+   "page": 154,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 219.8
+  },
+  {
+   "id": "p156-fig1",
+   "src": "images/ch5/p156-fig1.svg",
+   "start": 404.0,
+   "caption": "\"Sunshine in the Blue Room\", Anna Ancher (1891). (Caption text appears in the book's body text.)",
+   "illustration": true,
+   "alt": "\"Sunshine in the Blue Room\", Anna Ancher (1891). (Caption text appears in the book's body text.)",
+   "page": 156,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "painting",
+   "width": 1600,
+   "height": 900,
+   "end": 494.0
+  },
+  {
+   "id": "p157-fig1",
+   "src": "images/ch5/p157-fig1.svg",
+   "start": 592.4,
+   "caption": "Your Rainbow Panorama, Olafur Eliasson 2011, ARoS Aarhus Art Museum.",
+   "illustration": true,
+   "alt": "Your Rainbow Panorama, Olafur Eliasson 2011, ARoS Aarhus Art Museum.",
+   "page": 157,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 682.4
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+[
+{
+"id": "ch2-ep3-p2-q1",
+"n": 1,
+"q": "May a judge wear religious symbols in a courtroom in Denmark?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the June 2020 and November 2021 exams.",
+"da": {
+"q": "Må en dommer bære religiøse symboler i en retssal i Danmark?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 343.91,
+"aStart": 358.32,
+"aEnd": 364.54,
+"learn": {
+"start": 53.77,
+"end": 62.04,
+"text": "A judge may therefore not wear symbols that indicate a religious or political conviction.",
+"score": 5.0
+}
+},
+{
+"id": "ch2-ep3-p2-q2",
+"n": 2,
+"q": "Can the government decide how a judge should rule in a specific trial?",
+"options": [
+{
+"l": "A",
+"t": "No"
+},
+{
+"l": "B",
+"t": "Yes"
+}
+],
+"answer": "A",
+"answerText": "No",
+"appeared": "It appeared in the June 2021 and June 2022 exams.",
+"da": {
+"q": "Kan regeringen bestemme, hvordan en dommer skal dømme i en konkret retssag?",
+"options": [
+"Nej",
+"Ja"
+],
+"answer": "Nej"
+},
+"qStart": 365.09,
+"aStart": 379.84,
+"aEnd": 385.84,
+"learn": {
+"start": 15.69,
+"end": 23.86,
+"text": "That means the Folketing and the government cannot concretely decide how the courts should judge in a trial.",
+"score": 5.0
+}
+},
+{
+"id": "ch2-ep3-p2-q3",
+"n": 3,
+"q": "What is the highest court in Denmark called?",
+"options": [
+{
+"l": "A",
+"t": "Landsretten, the High Court"
+},
+{
+"l": "B",
+"t": "Højesteret, the Supreme Court"
+},
+{
+"l": "C",
+"t": "Statsretten"
+}
+],
+"answer": "B",
+"answerText": "Højesteret, the Supreme Court",
+"appeared": "It appeared in the November 2021 exam.",
+"da": {
+"q": "Hvad hedder den øverste domstol i Danmark?",
+"options": [
+"Landsretten",
+"Højesteret",
+"Statsretten"
+],
+"answer": "Højesteret"
+},
+"qStart": 386.39,
+"aStart": 405.58,
+"aEnd": 412.18,
+"learn": {
+"start": 145.34,
+"end": 151.21,
+"text": "The highest court in Denmark is the Supreme Court, Højesteret.",
+"score": 7.5
+}
+},
+{
+"id": "ch2-ep3-p2-q4",
+"n": 4,
+"q": "Where can a decision from the city court, byretten, be appealed?",
+"options": [
+{
+"l": "A",
+"t": "The High Court, Landsretten"
+},
+{
+"l": "B",
+"t": "The Supreme Court, Højesteret"
+}
+],
+"answer": "A",
+"answerText": "The High Court, Landsretten",
+"appeared": "It appeared in the June 2022 and November 2023 exams.",
+"da": {
+"q": "Hvortil kan man anke en afgørelse fra byretten?",
+"options": [
+"Landsretten",
+"Højesteret"
+],
+"answer": "Landsretten"
+},
+"qStart": 412.73,
+"aStart": 431.08,
+"aEnd": 439.0,
+"learn": {
+"start": 181.01,
+"end": 191.62,
+"text": "If a case begins in the city court, it can as a main rule be appealed to the high court.",
+"score": 6.0
+}
+}
+]

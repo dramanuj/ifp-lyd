@@ -1,0 +1,162 @@
+[
+{
+"id": "ch5-ep5-p1-q1",
+"n": 1,
+"q": "Who wrote a large number of the hymns in Den Danske Salmebog?",
+"options": [
+{
+"l": "A",
+"t": "Herman Bang"
+},
+{
+"l": "B",
+"t": "Ludvig Holberg"
+},
+{
+"l": "C",
+"t": "N.F.S. Grundtvig"
+}
+],
+"answer": "C",
+"answerText": "N.F.S. Grundtvig",
+"appeared": "It appeared in the June 2022 and June 2026 exams.",
+"da": {
+"q": "Hvem har skrevet et stort antal af salmerne i Den Danske Salmebog?",
+"options": [
+"Herman Bang",
+"Ludvig Holberg",
+"N.F.S. Grundtvig"
+],
+"answer": "N.F.S. Grundtvig"
+},
+"qStart": 547.79,
+"aStart": 568.47,
+"aEnd": 577.28,
+"learn": {
+"start": 91.02,
+"end": 119.41,
+"text": "Of these four, Grundtvig is the one to remember: he wrote a very large number of the hymns, salmer, in the Danish hymnbook, Den Danske Salmebog.",
+"score": 8.5
+}
+},
+{
+"id": "ch5-ep5-p1-q2",
+"n": 2,
+"q": "Which pop group released the number Barbie Girl in the 1990s?",
+"options": [
+{
+"l": "A",
+"t": "Whigfield"
+},
+{
+"l": "B",
+"t": "Me and My"
+},
+{
+"l": "C",
+"t": "Aqua"
+}
+],
+"answer": "C",
+"answerText": "Aqua",
+"appeared": "It appeared in the November 2022 and May 2024 exams.",
+"da": {
+"q": "Hvilken popgruppe udgav nummeret Barbie Girl i 1990’erne?",
+"options": [
+"Whigfield",
+"Me & My",
+"Aqua"
+],
+"answer": "Aqua"
+},
+"qStart": 577.83,
+"aStart": 595.56,
+"aEnd": 601.75,
+"learn": {
+"start": 334.48,
+"end": 348.9,
+"text": "In the 1990s the Danish-Norwegian music group Aqua had great success with their dance pop, where especially the number \"Barbie Girl\" was a global hit.",
+"score": 7.5
+}
+},
+{
+"id": "ch5-ep5-p1-q3",
+"n": 3,
+"q": "What was the lead singer in the band Gasolin called?",
+"options": [
+{
+"l": "A",
+"t": "Kim Larsen"
+},
+{
+"l": "B",
+"t": "Michael Bundesen"
+},
+{
+"l": "C",
+"t": "Steffen Brandt"
+}
+],
+"answer": "A",
+"answerText": "Kim Larsen",
+"appeared": "It appeared in the May 2023 and November 2025 exams.",
+"da": {
+"q": "Hvad hed forsangeren i bandet Gasolin?",
+"options": [
+"Kim Larsen",
+"Michael Bundesen",
+"Steffen Brandt"
+],
+"answer": "Kim Larsen"
+},
+"qStart": 602.3,
+"aStart": 620.12,
+"aEnd": 627.13,
+"learn": {
+"start": 275.72,
+"end": 334.48,
+"text": "Gasolin, with the lead singer Kim Larsen, who lived from 1945 to 2018, combined pop and rock and contributed to the Danish song treasure with songs such as \"Kvinde min\", from 1975, and \"Hva' gør vi nu, lille du?\", from 1976. Kim Larsen had a long career as a singer and songwriter, and many of his songs are used at family parties, because he can express feelings, humour and solidarity in a simple and subtly witty way. Anne Linnet's song \"Smuk og dejlig\", from 1976, is about lesbian love, and the band TV2 from Aarhus, which self-ironically called itself \"Denmark's most boring orchestra\", sings about, among other things, everyday life, love and the importance of daring to live life and seize its opportunities.",
+"score": 6.2
+}
+},
+{
+"id": "ch5-ep5-p1-q4",
+"n": 4,
+"q": "What was Carl Nielsen, 1865 to 1931, especially known for?",
+"options": [
+{
+"l": "A",
+"t": "He was a painter"
+},
+{
+"l": "B",
+"t": "He was an architect"
+},
+{
+"l": "C",
+"t": "He was a composer"
+}
+],
+"answer": "C",
+"answerText": "He was a composer",
+"appeared": "It appeared in the November 2023 and May 2025 exams.",
+"da": {
+"q": "Hvad var Carl Nielsen (1865-1931) særligt kendt for?",
+"options": [
+"Han var maler",
+"Han var arkitekt",
+"Han var komponist"
+],
+"answer": "Han var komponist"
+},
+"qStart": 627.68,
+"aStart": 648.21,
+"aEnd": 655.24,
+"learn": {
+"start": 171.23,
+"end": 207.35,
+"text": "One of the best-known composers in the Højskolesangbog, the Folk High School Songbook, is Carl Nielsen, who lived from 1865 to 1931, and who had roots in a popular musical life on Funen. With his operas, symphonies, chamber music and songs he became the most prominent Danish composer ever.",
+"score": 5.7
+}
+}
+]

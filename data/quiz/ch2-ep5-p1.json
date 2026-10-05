@@ -1,0 +1,237 @@
+[
+{
+"id": "ch2-ep5-p1-q1",
+"n": 1,
+"q": "How many municipalities are there in Denmark?",
+"options": [
+{
+"l": "A",
+"t": "275"
+},
+{
+"l": "B",
+"t": "179"
+},
+{
+"l": "C",
+"t": "98"
+}
+],
+"answer": "C",
+"answerText": "98",
+"appeared": "It appeared in the November 2020 and June 2022 exams.",
+"da": {
+"q": "Hvor mange kommuner er der i Danmark?",
+"options": [
+"275",
+"179",
+"98"
+],
+"answer": "98"
+},
+"qStart": 588.58,
+"aStart": 606.91,
+"aEnd": 613.17,
+"learn": {
+"start": 239.82,
+"end": 257.76,
+"text": "Denmark thus consists of 98 municipalities and is divided into five regions.",
+"score": 3.5
+}
+},
+{
+"id": "ch2-ep5-p1-q2",
+"n": 2,
+"q": "When were the regions created?",
+"options": [
+{
+"l": "A",
+"t": "2007"
+},
+{
+"l": "B",
+"t": "1968"
+},
+{
+"l": "C",
+"t": "1929"
+}
+],
+"answer": "A",
+"answerText": "2007",
+"appeared": "It appeared in the November 2020 and November 2021 exams.",
+"da": {
+"q": "Hvornår blev regionerne oprettet?",
+"options": [
+"2007",
+"1968",
+"1929"
+],
+"answer": "2007"
+},
+"qStart": 613.72,
+"aStart": 630.99,
+"aEnd": 637.78,
+"learn": {
+"start": 500.24,
+"end": 513.93,
+"text": "On the first of January, 2007, 271 municipalities became 98, and 14 counties became 5 regions.",
+"score": 2.5
+}
+},
+{
+"id": "ch2-ep5-p1-q3",
+"n": 3,
+"q": "How often are municipal elections held?",
+"options": [
+{
+"l": "A",
+"t": "Every third year"
+},
+{
+"l": "B",
+"t": "Every fourth year"
+},
+{
+"l": "C",
+"t": "Every fifth year"
+}
+],
+"answer": "B",
+"answerText": "Every fourth year",
+"appeared": "It appeared in the June 2021, November 2022 and November 2024 exams.",
+"da": {
+"q": "Hvor ofte afholdes der kommunalvalg?",
+"options": [
+"Hvert 3. år",
+"Hvert 4. år",
+"Hvert 5. år"
+],
+"answer": "Hvert 4. år"
+},
+"qStart": 638.33,
+"aStart": 656.09,
+"aEnd": 664.99,
+"learn": {
+"start": 313.91,
+"end": 336.43,
+"text": "Members of both municipal councils and regional councils are elected for four years at a time. The election is held all over the country every four years in November, and the municipalities and regions cannot choose to hold elections at other times.",
+"score": 3.9
+}
+},
+{
+"id": "ch2-ep5-p1-q4",
+"n": 4,
+"q": "Can the regions levy taxes?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the May 2023 exam.",
+"da": {
+"q": "Kan regionerne opkræve skatter?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 665.54,
+"aStart": 678.54,
+"aEnd": 683.14,
+"learn": {
+"start": 219.18,
+"end": 239.82,
+"text": "The distribution of tasks between the state, the municipalities and the regions was also changed. The state and the municipalities can themselves levy taxes.",
+"score": 2.6
+}
+},
+{
+"id": "ch2-ep5-p1-q5",
+"n": 5,
+"q": "Which authorities levy taxes?",
+"options": [
+{
+"l": "A",
+"t": "The state and the regions"
+},
+{
+"l": "B",
+"t": "The state and the municipalities"
+},
+{
+"l": "C",
+"t": "The regions and the municipalities"
+}
+],
+"answer": "B",
+"answerText": "The state and the municipalities",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Hvilke myndigheder udskriver skatter?",
+"options": [
+"Staten og regionerne",
+"Staten og kommunerne",
+"Regionerne og kommunerne"
+],
+"answer": "Staten og kommunerne"
+},
+"qStart": 683.69,
+"aStart": 704.4,
+"aEnd": 711.09,
+"learn": {
+"start": 229.76,
+"end": 239.82,
+"text": "The state and the municipalities can themselves levy taxes.",
+"score": 5.0
+}
+},
+{
+"id": "ch2-ep5-p1-q6",
+"n": 6,
+"q": "Who do municipal councils consist of?",
+"options": [
+{
+"l": "A",
+"t": "Civil servants appointed by the government"
+},
+{
+"l": "B",
+"t": "Politicians elected by the municipality's population"
+},
+{
+"l": "C",
+"t": "Representatives chosen by the local business and association life"
+}
+],
+"answer": "B",
+"answerText": "Politicians elected by the municipality's population",
+"appeared": "It appeared in the June 2026 exam.",
+"da": {
+"q": "Hvem består kommunalbestyrelser af?",
+"options": [
+"Embedsmænd udpeget af regeringen",
+"Politikere valgt af kommunens befolkning",
+"Repræsentanter udvalgt af det lokale erhvervs- og foreningsliv"
+],
+"answer": "Politikere valgt af kommunens befolkning"
+},
+"qStart": 711.64,
+"aStart": 735.44,
+"aEnd": 743.17,
+"learn": {
+"start": 294.33,
+"end": 305.0,
+"text": "Danish municipalities are led by elected municipal councils, kommunalbestyrelser, which are often called city councils, byråd.",
+"score": 3.5
+}
+}
+]

@@ -1,0 +1,37 @@
+[
+{
+"id": "ch6-ep14-p1-q1",
+"n": 1,
+"q": "How has the number of students on the long higher educations developed over the last 20 years?",
+"options": [
+{
+"l": "A",
+"t": "It has risen"
+},
+{
+"l": "B",
+"t": "It has fallen"
+}
+],
+"answer": "A",
+"answerText": "It has risen",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "Hvordan har antallet af studerende på de lange videregående uddannelser overordnet udviklet sig de seneste 20 år?",
+"options": [
+"Det er steget",
+"Det er faldet"
+],
+"answer": "Det er steget"
+},
+"qStart": 872.79,
+"aStart": 890.04,
+"aEnd": 895.19,
+"learn": {
+"start": 822.3,
+"end": 842.8,
+"text": "About 29,000 completed a master's in 2025; the number completing a long higher education has risen, det er steget.",
+"score": 7.0
+}
+}
+]

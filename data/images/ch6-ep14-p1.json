@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch6-ep14-p1",
+ "images": [
+  {
+   "id": "p225-fig1",
+   "src": "images/ch6/p225-fig1.svg",
+   "start": 276.2,
+   "caption": "Pupils in 8th grade working together in groups.",
+   "illustration": true,
+   "alt": "Pupils in 8th grade working together in groups.",
+   "page": 225,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 366.2
+  },
+  {
+   "id": "p228-fig1",
+   "src": "images/ch6/p228-fig1.svg",
+   "start": 696.9,
+   "caption": "Students at a vocational school in Hvidovre.",
+   "illustration": true,
+   "alt": "Students at a vocational school in Hvidovre.",
+   "page": 228,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 786.9
+  }
+ ]
+}

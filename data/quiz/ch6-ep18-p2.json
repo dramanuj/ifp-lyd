@@ -1,0 +1,122 @@
+[
+{
+"id": "ch6-ep18-p2-q1",
+"n": 1,
+"q": "What are the regions responsible for running?",
+"options": [
+{
+"l": "A",
+"t": "The police"
+},
+{
+"l": "B",
+"t": "Hospitals"
+},
+{
+"l": "C",
+"t": "Kindergartens"
+}
+],
+"answer": "B",
+"answerText": "Hospitals",
+"appeared": "It appeared in the June 2020 and June 2022 exams.",
+"da": {
+"q": "Hvad har regionerne ansvaret for at drive?",
+"options": [
+"Politi",
+"Sygehuse",
+"Børnehaver"
+],
+"answer": "Sygehuse"
+},
+"qStart": 461.16,
+"aStart": 477.86,
+"aEnd": 484.33,
+"learn": {
+"start": 118.98,
+"end": 132.97,
+"text": "It is the regions, regionerne, that are responsible for running by far most of the health service. The regions run the hospitals, sygehuse; the municipalities and the state do not run hospitals.",
+"score": 3.9
+}
+},
+{
+"id": "ch6-ep18-p2-q2",
+"n": 2,
+"q": "Who has the main responsibility for running the hospitals?",
+"options": [
+{
+"l": "A",
+"t": "The state"
+},
+{
+"l": "B",
+"t": "The regions"
+},
+{
+"l": "C",
+"t": "The municipalities"
+}
+],
+"answer": "B",
+"answerText": "The regions",
+"appeared": "It appeared in the May 2025 exam.",
+"da": {
+"q": "Hvem har hovedansvaret for driften af sygehusene?",
+"options": [
+"Staten",
+"Regionerne",
+"Kommunerne"
+],
+"answer": "Regionerne"
+},
+"qStart": 484.88,
+"aStart": 502.78,
+"aEnd": 507.91,
+"learn": {
+"start": 118.98,
+"end": 132.97,
+"text": "It is the regions, regionerne, that are responsible for running by far most of the health service. The regions run the hospitals, sygehuse; the municipalities and the state do not run hospitals.",
+"score": 3.0
+}
+},
+{
+"id": "ch6-ep18-p2-q3",
+"n": 3,
+"q": "Who is responsible for running child and youth dental care?",
+"options": [
+{
+"l": "A",
+"t": "The municipalities"
+},
+{
+"l": "B",
+"t": "The regions"
+},
+{
+"l": "C",
+"t": "The state"
+}
+],
+"answer": "A",
+"answerText": "The municipalities",
+"appeared": "It appeared in the November 2023 exam.",
+"da": {
+"q": "Hvem har ansvaret for driften af børne- og ungdomstandplejen?",
+"options": [
+"Kommunerne",
+"Regionerne",
+"Staten"
+],
+"answer": "Kommunerne"
+},
+"qStart": 508.46,
+"aStart": 526.77,
+"aEnd": 532.57,
+"learn": {
+"start": 296.25,
+"end": 326.75,
+"text": "It is thus the municipalities that are responsible for, among other things, care and rehabilitation after hospital admission, and also home nursing, treatment of alcohol and drug abuse, child and youth dental care, social psychiatry and prevention, including offers of help to stop smoking.",
+"score": 6.5
+}
+}
+]

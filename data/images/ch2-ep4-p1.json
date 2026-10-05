@@ -1,0 +1,20 @@
+{
+ "version": 1,
+ "partId": "ch2-ep4-p1",
+ "images": [
+  {
+   "id": "p082-fig1",
+   "src": "images/ch2/p082-fig1.svg",
+   "start": 345.9,
+   "caption": "A debate between the party leaders in 2026.",
+   "illustration": true,
+   "alt": "A debate between the party leaders in 2026.",
+   "page": 82,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 435.9
+  }
+ ]
+}

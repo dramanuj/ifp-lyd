@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "partId": "ch3-ep1-p1",
+ "images": [
+  {
+   "id": "p105-fig1",
+   "src": "images/ch3/p105-fig1.svg",
+   "start": 123.7,
+   "caption": "A social and health care assistant at work in home care.",
+   "illustration": true,
+   "alt": "A social and health care assistant at work in home care.",
+   "page": 105,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 142.6
+  },
+  {
+   "id": "p104-fig1",
+   "src": "images/ch3/p104-fig1.svg",
+   "start": 142.6,
+   "caption": "The Finance Act for 2026: the total budget of the state's expenditure and revenue.",
+   "illustration": true,
+   "alt": "The Finance Act for 2026: the total budget of the state's expenditure and revenue.",
+   "page": 104,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "chart",
+   "width": 1600,
+   "height": 900,
+   "end": 232.6
+  },
+  {
+   "id": "p107-fig1",
+   "src": "images/ch3/p107-fig1.svg",
+   "start": 557.5,
+   "caption": "A Danish nursery (vuggestue).",
+   "illustration": true,
+   "alt": "A Danish nursery (vuggestue).",
+   "page": 107,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 647.5
+  }
+ ]
+}

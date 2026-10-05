@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch6-ep10-p2",
+ "images": [
+  {
+   "id": "p213-fig1",
+   "src": "images/ch6/p213-fig1.svg",
+   "start": 108.5,
+   "caption": "Inge Lehmann.",
+   "illustration": true,
+   "alt": "Inge Lehmann.",
+   "page": 213,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 186.6
+  },
+  {
+   "id": "p214-fig1",
+   "src": "images/ch6/p214-fig1.svg",
+   "start": 186.6,
+   "caption": "Lene Vestergaard Hau.",
+   "illustration": true,
+   "alt": "Lene Vestergaard Hau.",
+   "page": 214,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 276.6
+  }
+ ]
+}

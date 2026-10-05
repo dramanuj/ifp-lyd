@@ -1,0 +1,42 @@
+[
+{
+"id": "ch6-ep16-p1-q1",
+"n": 1,
+"q": "At which place in Copenhagen was a terror attack carried out in 2015?",
+"options": [
+{
+"l": "A",
+"t": "At the Jewish synagogue"
+},
+{
+"l": "B",
+"t": "At the Central Station"
+},
+{
+"l": "C",
+"t": "At the airport"
+}
+],
+"answer": "A",
+"answerText": "At the Jewish synagogue",
+"appeared": "It appeared in the May 2023 exam.",
+"da": {
+"q": "Hvilket af følgende steder i København blev der begået et terrorangreb i 2015?",
+"options": [
+"Ved den jødiske synagoge",
+"Ved Hovedbanegården",
+"I lufthavnen"
+],
+"answer": "Ved den jødiske synagoge"
+},
+"qStart": 506.46,
+"aStart": 526.31,
+"aEnd": 531.51,
+"learn": {
+"start": 462.93,
+"end": 479.28,
+"text": "The 2015 terror attack, at the Jewish synagogue in central Copenhagen, killed a Jewish guard outside it; it was not at the central station or the airport.",
+"score": 7.0
+}
+}
+]

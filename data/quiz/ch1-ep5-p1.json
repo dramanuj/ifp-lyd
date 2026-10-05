@@ -1,0 +1,467 @@
+[
+{
+"id": "ch1-ep5-p1-q1",
+"n": 1,
+"q": "What did Danes vote yes to in a referendum in 1972?",
+"options": [
+{
+"l": "A",
+"t": "Denmark's entry into the EC"
+},
+{
+"l": "B",
+"t": "Denmark's entry into NATO"
+},
+{
+"l": "C",
+"t": "Denmark's entry into the UN"
+}
+],
+"answer": "A",
+"answerText": "Denmark's entry into the EC",
+"appeared": "It appeared in 4 different exams, most recently in June 2026.",
+"da": {
+"q": "Hvad blev der afholdt en folkeafstemning om i 1972?",
+"options": [
+"Danmarks indtræden i EF",
+"Danmarks indtræden i NATO",
+"Danmarks indtræden i FN"
+],
+"answer": "Danmarks indtræden i EF"
+},
+"qStart": 848.89,
+"aStart": 871.25,
+"aEnd": 879.5,
+"learn": {
+"start": 766.58,
+"end": 781.35,
+"text": "The EF began in 1958 and Denmark joined on the first of January, 1973, after a sixty-three point three percent yes vote in October 1972.",
+"score": 3.5
+}
+},
+{
+"id": "ch1-ep5-p1-q2",
+"n": 2,
+"q": "Which international organisation did Denmark become a member of in 1973?",
+"options": [
+{
+"l": "A",
+"t": "The EC"
+},
+{
+"l": "B",
+"t": "The WTO"
+},
+{
+"l": "C",
+"t": "The OECD"
+}
+],
+"answer": "A",
+"answerText": "The EC",
+"appeared": "It appeared in the November 2021 exam.",
+"da": {
+"q": "Hvilken af følgende internationale organisationer blev Danmark medlem af i 1973?",
+"options": [
+"EF",
+"WTO",
+"OECD"
+],
+"answer": "EF"
+},
+"qStart": 879.95,
+"aStart": 901.02,
+"aEnd": 906.08,
+"learn": {
+"start": 12.21,
+"end": 25.21,
+"text": "Denmark became a member of the European Community, the EF, which was the forerunner of the present-day EU, in 1973.",
+"score": 3.0
+}
+},
+{
+"id": "ch1-ep5-p1-q3",
+"n": 3,
+"q": "In which decade was Denmark hit by a multi-year economic crisis triggered by big oil price rises?",
+"options": [
+{
+"l": "A",
+"t": "The 1930s"
+},
+{
+"l": "B",
+"t": "The 1950s"
+},
+{
+"l": "C",
+"t": "The 1970s"
+}
+],
+"answer": "C",
+"answerText": "The 1970s",
+"appeared": "It appeared in the June 2022, November 2024 and June 2026 exams.",
+"da": {
+"q": "I hvilket årti blev Danmark ramt af en flerårig økonomisk krise, som blev udløst af store prisstigninger på olie?",
+"options": [
+"1930’erne",
+"1950’erne",
+"1970’erne"
+],
+"answer": "1970’erne"
+},
+"qStart": 906.63,
+"aStart": 929.45,
+"aEnd": 938.5,
+"learn": {
+"start": 16.61,
+"end": 35.98,
+"text": "And at the beginning of the 1970s, after many years of good economy and growth, Denmark, like many other countries, was hit by economic crisis.",
+"score": 5.5
+}
+},
+{
+"id": "ch1-ep5-p1-q4",
+"n": 4,
+"q": "Why is the 1973 general election called the Landslide Election, Jordskredsvalget?",
+"options": [
+{
+"l": "A",
+"t": "Because more women than men were elected to the Folketing"
+},
+{
+"l": "B",
+"t": "Because many voters voted for new parties"
+},
+{
+"l": "C",
+"t": "Because the Social Democrats achieved an absolute majority"
+}
+],
+"answer": "B",
+"answerText": "Because many voters voted for new parties",
+"appeared": "It appeared in the June 2020, November 2021 and May 2024 exams.",
+"da": {
+"q": "Hvorfor kaldes folketingsvalget i 1973 for Jordskredsvalget?",
+"options": [
+"Fordi der blev valgt flere kvinder end mænd til Folketinget",
+"Fordi der var mange vælgere, der stemte på nye partier",
+"Fordi Socialdemokratiet opnåede absolut flertal"
+],
+"answer": "Fordi der var mange vælgere, der stemte på nye partier"
+},
+"qStart": 939.05,
+"aStart": 965.54,
+"aEnd": 975.2,
+"learn": {
+"start": 756.32,
+"end": 766.58,
+"text": "The Landslide Election happened because many voters voted for new parties.",
+"score": 11.0
+}
+},
+{
+"id": "ch1-ep5-p1-q5",
+"n": 5,
+"q": "Which party was Poul Schlüter chairman of when he was prime minister from 1982 to 1993?",
+"options": [
+{
+"l": "A",
+"t": "Venstre"
+},
+{
+"l": "B",
+"t": "The Social Democrats"
+},
+{
+"l": "C",
+"t": "The Conservative People's Party"
+}
+],
+"answer": "C",
+"answerText": "The Conservative People's Party",
+"appeared": "It appeared in the June 2021, June 2022 and May 2025 exams.",
+"da": {
+"q": "Hvilket parti var Poul Schlüter formand for, da han var statsminister i perioden 1982-1993?",
+"options": [
+"Venstre",
+"Socialdemokratiet",
+"Det Konservative Folkeparti"
+],
+"answer": "Det Konservative Folkeparti"
+},
+"qStart": 975.75,
+"aStart": 997.97,
+"aEnd": 1006.99,
+"learn": {
+"start": 472.77,
+"end": 487.17,
+"text": "Poul Schlüter is the first and so far only prime minister from the Conservative People's Party.",
+"score": 9.5
+}
+},
+{
+"id": "ch1-ep5-p1-q6",
+"n": 6,
+"q": "Which party has held the prime minister's post for the most years in total since the Change of System in 1901?",
+"options": [
+{
+"l": "A",
+"t": "Venstre"
+},
+{
+"l": "B",
+"t": "The Conservative People's Party"
+}
+],
+"answer": "A",
+"answerText": "Venstre",
+"appeared": "It appeared in the November 2022 and June 2026 exams.",
+"da": {
+"q": "Hvilket af følgende partier har haft statsministerposten i sammenlagt flest år siden systemskiftet i 1901?",
+"options": [
+"Venstre",
+"Det Konservative Folkeparti"
+],
+"answer": "Venstre"
+},
+"qStart": 1007.54,
+"aStart": 1026.98,
+"aEnd": 1033.6,
+"learn": {
+"start": 481.07,
+"end": 499.53,
+"text": "This is because Venstre has most of the time been the largest centre-right party since the Change of System in 1901, and therefore has normally held the prime minister's post when there have been centre-right governments after 1901.",
+"score": 11.5
+}
+},
+{
+"id": "ch1-ep5-p1-q7",
+"n": 7,
+"q": "In which decade did the monopoly of Danmarks Radio, and thereby its exclusive right to broadcast Danish TV, end?",
+"options": [
+{
+"l": "A",
+"t": "The 1940s"
+},
+{
+"l": "B",
+"t": "The 1960s"
+},
+{
+"l": "C",
+"t": "The 1980s"
+}
+],
+"answer": "C",
+"answerText": "The 1980s",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "I hvilket årti ophørte Danmarks Radios monopol og dermed eneretten til at sende dansk tv?",
+"options": [
+"1940’erne",
+"1960’erne",
+"1980’erne"
+],
+"answer": "1980’erne"
+},
+"qStart": 1034.15,
+"aStart": 1057.11,
+"aEnd": 1062.5,
+"learn": {
+"start": 551.48,
+"end": 570.35,
+"text": "The Schlüter government also abolished DR's monopoly, that is its exclusive right, to broadcast Danish TV, which DR had had since the first Danish television broadcast in 1948.",
+"score": 5.0
+}
+},
+{
+"id": "ch1-ep5-p1-q8",
+"n": 8,
+"q": "When was free abortion introduced?",
+"options": [
+{
+"l": "A",
+"t": "1935"
+},
+{
+"l": "B",
+"t": "1951"
+},
+{
+"l": "C",
+"t": "1973"
+}
+],
+"answer": "C",
+"answerText": "1973",
+"appeared": "It appeared in the November 2020 and June 2022 exams.",
+"da": {
+"q": "Hvornår blev der indført fri abort?",
+"options": [
+"1935",
+"1951",
+"1973"
+],
+"answer": "1973"
+},
+"qStart": 1063.05,
+"aStart": 1081.0,
+"aEnd": 1088.1,
+"learn": {
+"start": 652.63,
+"end": 669.01,
+"text": "Opposition to free abortion was a significant reason why the Christian People's Party, which is now called the Christian Democrats, was formed and elected to the Folketing in 1973.",
+"score": 3.5
+}
+},
+{
+"id": "ch1-ep5-p1-q9",
+"n": 9,
+"q": "What change came into force in 2025 regarding free abortion?",
+"options": [
+{
+"l": "A",
+"t": "The limit for free abortion was raised from twelve to eighteen weeks"
+},
+{
+"l": "B",
+"t": "The limit for free abortion was lowered from twelve to nine weeks"
+}
+],
+"answer": "A",
+"answerText": "The limit for free abortion was raised from twelve to eighteen weeks",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Hvilken ændring trådte i kraft i 2025 angående den fri abort?",
+"options": [
+"Grænsen for fri abort blev hævet fra 12 til 18 uger",
+"Grænsen for fri abort blev sænket fra 12 til 9 uger"
+],
+"answer": "Grænsen for fri abort blev hævet fra 12 til 18 uger"
+},
+"qStart": 1088.65,
+"aStart": 1110.99,
+"aEnd": 1119.31,
+"learn": {
+"start": 657.75,
+"end": 677.72,
+"text": "But free abortion still applies, and in 2025 the limit for free abortion was raised from the twelfth to the eighteenth week of pregnancy.",
+"score": 9.0
+}
+},
+{
+"id": "ch1-ep5-p1-q10",
+"n": 10,
+"q": "What did the Red Stocking movement work for, among other things?",
+"options": [
+{
+"l": "A",
+"t": "Equality between men and women"
+},
+{
+"l": "B",
+"t": "Introduction of twelve years of basic schooling"
+},
+{
+"l": "C",
+"t": "Old-age pension for everyone"
+}
+],
+"answer": "A",
+"answerText": "Equality between men and women",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Hvad arbejdede rødstrømpebevægelsen blandt andet for?",
+"options": [
+"Ligestilling mellem mænd og kvinder",
+"Indførelse af 12 års grundskole",
+"Folkepension til alle"
+],
+"answer": "Ligestilling mellem mænd og kvinder"
+},
+"qStart": 1119.86,
+"aStart": 1142.32,
+"aEnd": 1148.65,
+"learn": {
+"start": 599.37,
+"end": 632.18,
+"text": "For example, women in the Red Stocking movement, rødstrømpebevægelsen, fought through political actions for better conditions for women. Throughout the 1970s, equality was a very hot political topic. In 1976, the Folketing, on the basis of an EF directive, passed a law on equal pay for the same work.",
+"score": 5.4
+}
+},
+{
+"id": "ch1-ep5-p1-q11",
+"n": 11,
+"q": "Which political movement was the Red Stocking movement part of?",
+"options": [
+{
+"l": "A",
+"t": "The labour movement of the 1930s"
+},
+{
+"l": "B",
+"t": "The women's movement of the 1970s"
+},
+{
+"l": "C",
+"t": "The environmental movement of the 1990s"
+}
+],
+"answer": "B",
+"answerText": "The women's movement of the 1970s",
+"appeared": "It appeared in the May 2023 and November 2025 exams.",
+"da": {
+"q": "Hvilken politisk bevægelse var rødstrømpebevægelsen en del af?",
+"options": [
+"Arbejderbevægelsen i 30’erne",
+"Kvindebevægelsen i 70’erne",
+"Miljøbevægelsen i 90’erne"
+],
+"answer": "Kvindebevægelsen i 70’erne"
+},
+"qStart": 1149.2,
+"aStart": 1172.67,
+"aEnd": 1181.42,
+"learn": {
+"start": 596.4,
+"end": 619.26,
+"text": "After women had begun to come out onto the labour market from the middle of the 1960s, many women in the 1970s demanded more equality as a continuation of this. For example, women in the Red Stocking movement, rødstrømpebevægelsen, fought through political actions for better conditions for women.",
+"score": 7.4
+}
+},
+{
+"id": "ch1-ep5-p1-q12",
+"n": 12,
+"q": "Is there a rule in Danish law that an employer must give women and men equal pay for the same work?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Er der i dansk lov en regel om, at en arbejdsgiver skal give kvinder og mænd lige løn for samme arbejde?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 1181.97,
+"aStart": 1198.86,
+"aEnd": 1203.56,
+"learn": {
+"start": 619.26,
+"end": 637.33,
+"text": "In 1976, the Folketing, on the basis of an EF directive, passed a law on equal pay for the same work. Free access to abortion was another of the women's movement's political goals.",
+"score": 4.3
+}
+}
+]

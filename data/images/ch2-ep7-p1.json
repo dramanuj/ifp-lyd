@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "partId": "ch2-ep7-p1",
+ "images": [
+  {
+   "id": "p097-fig1",
+   "src": "images/ch2/p097-fig1.svg",
+   "start": 299.8,
+   "caption": "A demonstration on Christiansborg Palace Square in Copenhagen in 2023 against the abolition of Great Prayer Day (Store Bededag).",
+   "illustration": true,
+   "alt": "A demonstration on Christiansborg Palace Square in Copenhagen in 2023 against the abolition of Great Prayer Day (Store Bededag).",
+   "page": 97,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 299.8
+  },
+  {
+   "id": "p098-fig1",
+   "src": "images/ch2/p098-fig1.svg",
+   "start": 299.8,
+   "caption": "Copenhagen City Hall.",
+   "illustration": true,
+   "alt": "Copenhagen City Hall.",
+   "page": 98,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 389.8
+  },
+  {
+   "id": "p099-fig1",
+   "src": "images/ch2/p099-fig1.svg",
+   "start": 528.1,
+   "caption": "The court at Frederiksberg.",
+   "illustration": true,
+   "alt": "The court at Frederiksberg.",
+   "page": 99,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 618.1
+  }
+ ]
+}

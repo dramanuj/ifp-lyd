@@ -1,0 +1,242 @@
+[
+{
+"id": "ch6-ep6-p1-q1",
+"n": 1,
+"q": "Which group of citizens was helped, in their thousands, to flee from Denmark to Sweden in October 1943?",
+"options": [
+{
+"l": "A",
+"t": "Danish communists"
+},
+{
+"l": "B",
+"t": "Danish soldiers"
+},
+{
+"l": "C",
+"t": "Danish Jews"
+}
+],
+"answer": "C",
+"answerText": "Danish Jews",
+"appeared": "It appeared in the November 2020 and November 2022 exams.",
+"da": {
+"q": "Hvilken gruppe borgere blev i tusindtal hjulpet med at flygte fra Danmark til Sverige i oktober 1943?",
+"options": [
+"Danske kommunister",
+"Danske soldater",
+"Danske jøder"
+],
+"answer": "Danske jøder"
+},
+"qStart": 501.98,
+"aStart": 524.46,
+"aEnd": 531.4,
+"learn": {
+"start": 112.49,
+"end": 128.68,
+"text": "Among other things, that is why by far most Danish Jews were helped to Sweden by Danish fellow citizens in 1943 during Nazi Germany's occupation of Denmark.",
+"score": 8.0
+}
+},
+{
+"id": "ch6-ep6-p1-q2",
+"n": 2,
+"q": "From which of the following countries did the most immigrants come to Denmark in the 1960s?",
+"options": [
+{
+"l": "A",
+"t": "Hungary"
+},
+{
+"l": "B",
+"t": "Turkey"
+},
+{
+"l": "C",
+"t": "Vietnam"
+}
+],
+"answer": "B",
+"answerText": "Turkey",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Fra hvilket af følgende lande kom der flest indvandrere til Danmark i 1960’erne?",
+"options": [
+"Ungarn",
+"Tyrkiet",
+"Vietnam"
+],
+"answer": "Tyrkiet"
+},
+"qStart": 531.95,
+"aStart": 551.09,
+"aEnd": 555.94,
+"learn": {
+"start": 340.46,
+"end": 356.04,
+"text": "The ten countries that most immigrants and descendants in Denmark originate from are, in January 2026, thus Turkey, 68,000.",
+"score": 4.5
+}
+},
+{
+"id": "ch6-ep6-p1-q3",
+"n": 3,
+"q": "From which country did over 200,000 war refugees come to Denmark in connection with the Second World War?",
+"options": [
+{
+"l": "A",
+"t": "France"
+},
+{
+"l": "B",
+"t": "Germany"
+},
+{
+"l": "C",
+"t": "Russia"
+}
+],
+"answer": "B",
+"answerText": "Germany",
+"appeared": "It appeared in the November 2021 exam.",
+"da": {
+"q": "Fra hvilket land kom der over 200.000 krigsflygtninge til Danmark i forbindelse med 2. Verdenskrig?",
+"options": [
+"Frankrig",
+"Tyskland",
+"Rusland"
+],
+"answer": "Tyskland"
+},
+"qStart": 556.49,
+"aStart": 576.69,
+"aEnd": 581.8,
+"learn": {
+"start": 128.68,
+"end": 151.72,
+"text": "In the time around the Second World War, it was especially war refugees who came to Denmark. The biggest group was the just under 240,000 war refugees from Germany, who came at the end of or right after the occupation, in 1945.",
+"score": 6.5
+}
+},
+{
+"id": "ch6-ep6-p1-q4",
+"n": 4,
+"q": "Which of the following countries do the most immigrants and descendants in Denmark originate from?",
+"options": [
+{
+"l": "A",
+"t": "Pakistan"
+},
+{
+"l": "B",
+"t": "Iran"
+},
+{
+"l": "C",
+"t": "Turkey"
+}
+],
+"answer": "C",
+"answerText": "Turkey",
+"appeared": "It appeared in the June 2022 exam.",
+"da": {
+"q": "Hvilket af følgende lande har flest indvandrere og efterkommere i Danmark oprindelse i?",
+"options": [
+"Pakistan",
+"Iran",
+"Tyrkiet"
+],
+"answer": "Tyrkiet"
+},
+"qStart": 582.35,
+"aStart": 601.64,
+"aEnd": 606.6,
+"learn": {
+"start": 340.46,
+"end": 356.04,
+"text": "The ten countries that most immigrants and descendants in Denmark originate from are, in January 2026, thus Turkey, 68,000.",
+"score": 6.5
+}
+},
+{
+"id": "ch6-ep6-p1-q5",
+"n": 5,
+"q": "Which EU country do the most immigrants and descendants in Denmark originate from?",
+"options": [
+{
+"l": "A",
+"t": "Spain"
+},
+{
+"l": "B",
+"t": "Poland"
+},
+{
+"l": "C",
+"t": "France"
+}
+],
+"answer": "B",
+"answerText": "Poland",
+"appeared": "It appeared in the May 2023 and May 2025 exams.",
+"da": {
+"q": "Hvilket EU-land har flest indvandrere og efterkommere i Danmark oprindelse i?",
+"options": [
+"Spanien",
+"Polen",
+"Frankrig"
+],
+"answer": "Polen"
+},
+"qStart": 607.15,
+"aStart": 625.82,
+"aEnd": 632.1,
+"learn": {
+"start": 325.34,
+"end": 346.39,
+"text": "As of the first of January 2026, 44,000 displaced persons from Ukraine live in Denmark. Turkey, with 68,000, is the country most immigrants and descendants originate from.",
+"score": 4.3
+}
+},
+{
+"id": "ch6-ep6-p1-q6",
+"n": 6,
+"q": "From which country did especially many asylum seekers come to Denmark in 2015?",
+"options": [
+{
+"l": "A",
+"t": "Syria"
+},
+{
+"l": "B",
+"t": "Iran"
+},
+{
+"l": "C",
+"t": "Ukraine"
+}
+],
+"answer": "A",
+"answerText": "Syria",
+"appeared": "It appeared in the November 2023 exam.",
+"da": {
+"q": "Fra hvilket land kom der særligt mange asylansøgere til Danmark i 2015?",
+"options": [
+"Syrien",
+"Iran",
+"Ukraine"
+],
+"answer": "Syrien"
+},
+"qStart": 632.65,
+"aStart": 652.08,
+"aEnd": 657.05,
+"learn": {
+"start": 254.58,
+"end": 285.58,
+"text": "The number of asylum seekers who came to Europe and Denmark reached a peak during the so-called refugee crisis, where in total 21,000 sought asylum in Denmark in 2015. The biggest group had fled the civil war in Syria. In addition, in the same period many more foreigners have also come to Denmark to work.",
+"score": 5.8
+}
+}
+]

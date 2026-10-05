@@ -1,0 +1,197 @@
+[
+{
+"id": "ch6-ep7-p1-q1",
+"n": 1,
+"q": "Which island group is part of the Danish Realm Community?",
+"options": [
+{
+"l": "A",
+"t": "The Shetland Islands"
+},
+{
+"l": "B",
+"t": "The Orkney Islands"
+},
+{
+"l": "C",
+"t": "The Faroe Islands"
+}
+],
+"answer": "C",
+"answerText": "The Faroe Islands",
+"appeared": "It appeared in the June 2020 and June 2021 exams.",
+"da": {
+"q": "Hvilken af følgende øgrupper er en del af det danske rigsfællesskab?",
+"options": [
+"Shetlandsøerne",
+"Orkneyøerne",
+"Færøerne"
+],
+"answer": "Færøerne"
+},
+"qStart": 463.9,
+"aStart": 482.73,
+"aEnd": 489.5,
+"learn": {
+"start": 78.57,
+"end": 101.54,
+"text": "Greenland is geographically part of the North American continent and lies far to the north, northeast of Canada. Greenland's area makes up 98 percent of the area of the entire realm community, Denmark, Greenland and the Faroe Islands.",
+"score": 5.2
+}
+},
+{
+"id": "ch6-ep7-p1-q2",
+"n": 2,
+"q": "Where does the USA have the Thule air base?",
+"options": [
+{
+"l": "A",
+"t": "On Bornholm"
+},
+{
+"l": "B",
+"t": "In the Faroe Islands"
+},
+{
+"l": "C",
+"t": "In Greenland"
+}
+],
+"answer": "C",
+"answerText": "In Greenland",
+"appeared": "It appeared in the November 2021 and November 2024 exams.",
+"da": {
+"q": "Hvor har USA luftbasen Thulebasen?",
+"options": [
+"På Bornholm",
+"På Færøerne",
+"I Grønland"
+],
+"answer": "I Grønland"
+},
+"qStart": 490.05,
+"aStart": 507.06,
+"aEnd": 513.73,
+"learn": {
+"start": 394.65,
+"end": 437.93,
+"text": "After the Second World War, the USA continued to have military bases in Greenland by agreement with Denmark. At the beginning of the 1950s, the Americans built a base in Qaanaaq, Thule, in North Greenland, whereby the settlement of several Greenlandic families was moved to make room for the base. The base is the USA's northernmost military base, and there was only a short distance to the Soviet Union, and therefore it was central to the air defence of the USA and NATO.",
+"score": 5.0
+}
+},
+{
+"id": "ch6-ep7-p1-q3",
+"n": 3,
+"q": "What is Greenland's largest town called?",
+"options": [
+{
+"l": "A",
+"t": "Nuuk"
+},
+{
+"l": "B",
+"t": "Tórshavn"
+},
+{
+"l": "C",
+"t": "Reykjavik"
+}
+],
+"answer": "A",
+"answerText": "Nuuk",
+"appeared": "It appeared in the May 2023 and May 2025 exams.",
+"da": {
+"q": "Hvad hedder Grønlands største by?",
+"options": [
+"Nuuk",
+"Tórshavn",
+"Reykjavik"
+],
+"answer": "Nuuk"
+},
+"qStart": 514.28,
+"aStart": 529.99,
+"aEnd": 535.87,
+"learn": {
+"start": 135.88,
+"end": 146.58,
+"text": "About 20,000 live in the capital Nuuk, also called Godthåb, which is Greenland's largest town.",
+"score": 5.5
+}
+},
+{
+"id": "ch6-ep7-p1-q4",
+"n": 4,
+"q": "How large a share of Greenland is covered by ice all year?",
+"options": [
+{
+"l": "A",
+"t": "About 40 percent"
+},
+{
+"l": "B",
+"t": "About 60 percent"
+},
+{
+"l": "C",
+"t": "About 80 percent"
+}
+],
+"answer": "C",
+"answerText": "About 80 percent",
+"appeared": "It appeared in the November 2023 and June 2026 exams.",
+"da": {
+"q": "Hvor stor en andel af Grønland er dækket af is hele året?",
+"options": [
+"Cirka 40 procent",
+"Cirka 60 procent",
+"Cirka 80 procent"
+],
+"answer": "Cirka 80 procent"
+},
+"qStart": 536.42,
+"aStart": 555.99,
+"aEnd": 563.43,
+"learn": {
+"start": 92.99,
+"end": 105.79,
+"text": "About 83 percent of Greenland is covered by ice all year.",
+"score": 5.5
+}
+},
+{
+"id": "ch6-ep7-p1-q5",
+"n": 5,
+"q": "Does the constitution apply in the Faroe Islands and Greenland?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the May 2024 and November 2025 exams.",
+"da": {
+"q": "Gælder grundloven på Færøerne og i Grønland?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 563.98,
+"aStart": 578.49,
+"aEnd": 584.54,
+"learn": {
+"start": 15.7,
+"end": 32.15,
+"text": "The constitution applies to all three parts of Denmark's realm, which has the king as head of state. The Faroe Islands and Greenland each elect two members to the Folketing.",
+"score": 3.5
+}
+}
+]

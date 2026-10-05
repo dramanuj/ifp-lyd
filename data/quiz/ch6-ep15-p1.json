@@ -1,0 +1,307 @@
+[
+{
+"id": "ch6-ep15-p1-q1",
+"n": 1,
+"q": "How old must you be according to Danish law to marry without any special permission?",
+"options": [
+{
+"l": "A",
+"t": "At least 14 years"
+},
+{
+"l": "B",
+"t": "At least 16 years"
+},
+{
+"l": "C",
+"t": "At least 18 years"
+}
+],
+"answer": "C",
+"answerText": "At least 18 years",
+"appeared": "It appeared in the June 2020 exam.",
+"da": {
+"q": "Hvor gammel skal man ifølge dansk lov være for at blive gift uden nogen særlig tilladelse?",
+"options": [
+"Mindst 14 år",
+"Mindst 16 år",
+"Mindst 18 år"
+],
+"answer": "Mindst 18 år"
+},
+"qStart": 466.67,
+"aStart": 487.25,
+"aEnd": 492.6,
+"learn": {
+"start": 222.67,
+"end": 240.27,
+"text": "When children become 18 years old and thereby of age, they can freely choose how they want to live their lives and with whom.",
+"score": 4.0
+}
+},
+{
+"id": "ch6-ep15-p1-q2",
+"n": 2,
+"q": "Does a homosexual couple have the right to enter into a marriage?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the November 2020 and May 2023 exams.",
+"da": {
+"q": "Har et homoseksuelt par ret til at indgå ægteskab?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 493.15,
+"aStart": 507.66,
+"aEnd": 513.59,
+"learn": {
+"start": 117.16,
+"end": 144.25,
+"text": "But in 1989 Denmark became the first country in the world to give two persons of the same sex the right to enter into a registered partnership, which has largely the same legal effects as a marriage. Persons of the same sex have since 2012 been able to marry, including to be married in the national church.",
+"score": 3.5
+}
+},
+{
+"id": "ch6-ep15-p1-q3",
+"n": 3,
+"q": "When did persons of the same sex get the right to marry?",
+"options": [
+{
+"l": "A",
+"t": "1972"
+},
+{
+"l": "B",
+"t": "1992"
+},
+{
+"l": "C",
+"t": "2012"
+}
+],
+"answer": "C",
+"answerText": "2012",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvornår fik personer af samme køn ret til at indgå ægteskab?",
+"options": [
+"1972",
+"1992",
+"2012"
+],
+"answer": "2012"
+},
+"qStart": 514.14,
+"aStart": 532.68,
+"aEnd": 537.94,
+"learn": {
+"start": 117.16,
+"end": 144.25,
+"text": "But in 1989 Denmark became the first country in the world to give two persons of the same sex the right to enter into a registered partnership, which has largely the same legal effects as a marriage. Persons of the same sex have since 2012 been able to marry, including to be married in the national church.",
+"score": 4.8
+}
+},
+{
+"id": "ch6-ep15-p1-q4",
+"n": 4,
+"q": "In which year did persons of the same sex get the right to enter into a registered partnership?",
+"options": [
+{
+"l": "A",
+"t": "1955"
+},
+{
+"l": "B",
+"t": "1972"
+},
+{
+"l": "C",
+"t": "1989"
+}
+],
+"answer": "C",
+"answerText": "1989",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Hvilket år fik personer af samme køn ret til at indgå et registreret partnerskab?",
+"options": [
+"1955",
+"1972",
+"1989"
+],
+"answer": "1989"
+},
+"qStart": 538.49,
+"aStart": 559.74,
+"aEnd": 565.38,
+"learn": {
+"start": 117.16,
+"end": 137.51,
+"text": "But in 1989 Denmark became the first country in the world to give two persons of the same sex the right to enter into a registered partnership, which has largely the same legal effects as a marriage.",
+"score": 7.5
+}
+},
+{
+"id": "ch6-ep15-p1-q5",
+"n": 5,
+"q": "According to Danish law, can a married couple be divorced even if one party does not want it?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the June 2021 and November 2023 exams.",
+"da": {
+"q": "Kan et ægtepar ifølge dansk lov blive skilt, selvom den ene part ikke ønsker det?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 565.93,
+"aStart": 582.89,
+"aEnd": 589.06,
+"learn": {
+"start": 273.33,
+"end": 293.0,
+"text": "So divorce is possible even if the other spouse does not want it: the answer to \"can a couple be divorced if one party refuses\" is yes.",
+"score": 7.0
+}
+},
+{
+"id": "ch6-ep15-p1-q6",
+"n": 6,
+"q": "Who normally has parental authority when a father and a mother who are married to each other have a joint child?",
+"options": [
+{
+"l": "A",
+"t": "The father and mother together"
+},
+{
+"l": "B",
+"t": "The father"
+},
+{
+"l": "C",
+"t": "The mother"
+}
+],
+"answer": "A",
+"answerText": "The father and mother together",
+"appeared": "It appeared in the June 2022 exam.",
+"da": {
+"q": "Hvem har som udgangspunkt forældremyndigheden, når en far og en mor, der er gift med hinanden, har et fælles barn?",
+"options": [
+"Faren og moren i fællesskab",
+"Faren",
+"Moren"
+],
+"answer": "Faren og moren i fællesskab"
+},
+"qStart": 589.61,
+"aStart": 610.86,
+"aEnd": 617.0,
+"learn": {
+"start": 297.37,
+"end": 321.81,
+"text": "In a marriage the mother and father have joint parental authority, fælles forældremyndighed, over their joint children. The exams also ask about parents who live together: the starting point is that the father and the mother have it together.",
+"score": 9.1
+}
+},
+{
+"id": "ch6-ep15-p1-q7",
+"n": 7,
+"q": "Who has parental authority as a starting point when a mother and father who live together have a joint child?",
+"options": [
+{
+"l": "A",
+"t": "The father and mother together"
+},
+{
+"l": "B",
+"t": "The mother"
+},
+{
+"l": "C",
+"t": "The father"
+}
+],
+"answer": "A",
+"answerText": "The father and mother together",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Hvem har som udgangspunkt forældremyndigheden, når en mor og far, der bor sammen, har et fælles barn?",
+"options": [
+"Faren og moren i fællesskab",
+"Moren",
+"Faren"
+],
+"answer": "Faren og moren i fællesskab"
+},
+"qStart": 617.55,
+"aStart": 638.6,
+"aEnd": 644.64,
+"learn": {
+"start": 297.37,
+"end": 321.81,
+"text": "In a marriage the mother and father have joint parental authority, fælles forældremyndighed, over their joint children. The exams also ask about parents who live together: the starting point is that the father and the mother have it together.",
+"score": 12.6
+}
+},
+{
+"id": "ch6-ep15-p1-q8",
+"n": 8,
+"q": "Can you go to prison if you illegally force someone to enter into a marriage?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the May 2024 exam.",
+"da": {
+"q": "Kan man komme i fængsel, hvis man ulovligt tvinger nogen til at indgå et ægteskab?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 645.19,
+"aStart": 660.16,
+"aEnd": 664.5,
+"learn": {
+"start": 257.03,
+"end": 272.78,
+"text": "It is therefore punishable, strafbart, to try to force someone to enter into a marriage that they do not themselves want. Forced marriage, tvangsægteskab, can lead to prison, fængsel.",
+"score": 4.3
+}
+}
+]

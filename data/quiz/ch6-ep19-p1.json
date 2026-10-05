@@ -1,0 +1,162 @@
+[
+{
+"id": "ch6-ep19-p1-q1",
+"n": 1,
+"q": "What are Denmark and a number of other countries especially committed to under the Paris Agreement from 2015?",
+"options": [
+{
+"l": "A",
+"t": "To reduce the emission of greenhouse gases into the atmosphere"
+},
+{
+"l": "B",
+"t": "To spend more money on defence"
+},
+{
+"l": "C",
+"t": "To cooperate on preventing cross-border crime"
+}
+],
+"answer": "A",
+"answerText": "To reduce the emission of greenhouse gases into the atmosphere",
+"appeared": "It appeared in the June 2022 and May 2024 exams.",
+"da": {
+"q": "Hvad er Danmark og en række andre lande især forpligtet til ifølge Paris-aftalen fra 2015?",
+"options": [
+"At reducere udslippet af drivhusgasser i atmosfæren",
+"At bruge flere penge på forsvaret",
+"At samarbejde om forebyggelse af grænseoverskridende kriminalitet"
+],
+"answer": "At reducere udslippet af drivhusgasser i atmosfæren"
+},
+"qStart": 772.96,
+"aStart": 799.43,
+"aEnd": 808.83,
+"learn": {
+"start": 162.4,
+"end": 183.51,
+"text": "A number of international agreements have been entered into, including the so-called Paris Agreement in 2015, which obliges almost all the world's countries to contribute to reducing the global emission of greenhouse gases over the coming decades.",
+"score": 9.5
+}
+},
+{
+"id": "ch6-ep19-p1-q2",
+"n": 2,
+"q": "What is the Paris Agreement, which the UN adopted in 2015, especially about?",
+"options": [
+{
+"l": "A",
+"t": "Climate"
+},
+{
+"l": "B",
+"t": "Defence"
+},
+{
+"l": "C",
+"t": "Crime"
+}
+],
+"answer": "A",
+"answerText": "Climate",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Hvad handler Paris-aftalen, som FN vedtog i 2015, især om?",
+"options": [
+"Klima",
+"Forsvar",
+"Kriminalitet"
+],
+"answer": "Klima"
+},
+"qStart": 809.38,
+"aStart": 828.89,
+"aEnd": 833.99,
+"learn": {
+"start": 635.06,
+"end": 658.92,
+"text": "Denmark's emissions have fallen about 47 percent since 1990, but Denmark emits only about one thousandth of the world's climate gases. The Paris Agreement dates from 2015.",
+"score": 3.9
+}
+},
+{
+"id": "ch6-ep19-p1-q3",
+"n": 3,
+"q": "Which type of renewable energy produces the largest share of Denmark's electricity consumption?",
+"options": [
+{
+"l": "A",
+"t": "Solar energy"
+},
+{
+"l": "B",
+"t": "Wind energy"
+},
+{
+"l": "C",
+"t": "Wave energy"
+}
+],
+"answer": "B",
+"answerText": "Wind energy",
+"appeared": "It appeared in the May 2024 exam.",
+"da": {
+"q": "Hvilken type vedvarende energi producerer den største andel af Danmarks el-forbrug?",
+"options": [
+"Solenergi",
+"Vindenergi",
+"Bølgeenergi"
+],
+"answer": "Vindenergi"
+},
+"qStart": 834.54,
+"aStart": 855.13,
+"aEnd": 860.21,
+"learn": {
+"start": 679.85,
+"end": 700.54,
+"text": "In 2025 wind turbines produced 52 percent of electricity consumption, making wind energy, vindenergi, Denmark's biggest renewable source of electricity, far ahead of solar energy and wave energy.",
+"score": 8.0
+}
+},
+{
+"id": "ch6-ep19-p1-q4",
+"n": 4,
+"q": "What was agreed in the Green Tripartite, Den Grønne Trepart, in June 2024?",
+"options": [
+{
+"l": "A",
+"t": "That part of Denmark's agricultural land is to be converted to nature"
+},
+{
+"l": "B",
+"t": "To reduce the quotas for how much may be fished in Danish waters"
+},
+{
+"l": "C",
+"t": "To raise public support for electric cars"
+}
+],
+"answer": "A",
+"answerText": "That part of Denmark's agricultural land is to be converted to nature",
+"appeared": "It appeared in the November 2024 and June 2026 exams.",
+"da": {
+"q": "Hvad blev aftalt i 'Den Grønne Trepart' mellem regeringen, kommunerne og en række erhvervsorganisationer, fagforeninger og miljøorganisationer i juni 2024?",
+"options": [
+"At en del af Danmarks landbrugsjord skal omdannes til natur",
+"At reducere kvoterne for, hvor meget der må fiskes i dansk farvand",
+"At forhøje den offentlige støtte til el-biler"
+],
+"answer": "At en del af Danmarks landbrugsjord skal omdannes til natur"
+},
+"qStart": 860.76,
+"aStart": 887.88,
+"aEnd": 898.07,
+"learn": {
+"start": 722.38,
+"end": 742.75,
+"text": "In 2024 the Green Tripartite agreed that about 15 percent of agricultural land is to be converted to nature, with low-lying land the priority; low-lying land is seven percent of farmland but half of agriculture's CO2 emission.",
+"score": 10.0
+}
+}
+]

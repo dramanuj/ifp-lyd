@@ -1,0 +1,282 @@
+[
+{
+"id": "ch5-ep4-p1-q1",
+"n": 1,
+"q": "What is C.W. Eckersberg known for?",
+"options": [
+{
+"l": "A",
+"t": "He was a painter"
+},
+{
+"l": "B",
+"t": "He was a composer"
+},
+{
+"l": "C",
+"t": "He was a ballet choreographer"
+}
+],
+"answer": "A",
+"answerText": "He was a painter",
+"appeared": "It appeared in the June 2020 exam.",
+"da": {
+"q": "Hvad er C.W. Eckersberg kendt for?",
+"options": [
+"Han var kunstmaler",
+"Han var komponist",
+"Han var balletkoreograf"
+],
+"answer": "Han var kunstmaler"
+},
+"qStart": 730.84,
+"aStart": 751.28,
+"aEnd": 756.46,
+"learn": {
+"start": 662.3,
+"end": 679.49,
+"text": "Bertel Thorvaldsen, 1770 to 1844, is the best-known sculptor; his museum opened in 1848. C.W. Eckersberg was a leading Golden Age painter.",
+"score": 2.7
+}
+},
+{
+"id": "ch5-ep4-p1-q2",
+"n": 2,
+"q": "When did the philosopher Søren Kierkegaard live?",
+"options": [
+{
+"l": "A",
+"t": "In the 1700s"
+},
+{
+"l": "B",
+"t": "In the 1800s"
+},
+{
+"l": "C",
+"t": "In the 1900s"
+}
+],
+"answer": "B",
+"answerText": "In the 1800s",
+"appeared": "It appeared in the June 2020 and May 2025 exams.",
+"da": {
+"q": "Hvornår levede filosoffen Søren Kierkegaard?",
+"options": [
+"I 1700-tallet",
+"I 1800-tallet",
+"I 1900-tallet"
+],
+"answer": "I 1800-tallet"
+},
+"qStart": 757.01,
+"aStart": 775.82,
+"aEnd": 782.66,
+"learn": {
+"start": 227.97,
+"end": 242.61,
+"text": "Andersen, who lived from 1805 to 75, the philosopher Søren Kierkegaard, 1813 to 55, who lived in the 1800s, the physicist H.C.",
+"score": 4.5
+}
+},
+{
+"id": "ch5-ep4-p1-q3",
+"n": 3,
+"q": "Who designed Your Rainbow Panorama, Din regnbueudsigt, which is placed on top of the art museum ARoS in Aarhus?",
+"options": [
+{
+"l": "A",
+"t": "Arne Jacobsen"
+},
+{
+"l": "B",
+"t": "Olafur Eliasson"
+},
+{
+"l": "C",
+"t": "Jørn Utzon"
+}
+],
+"answer": "B",
+"answerText": "Olafur Eliasson",
+"appeared": "It appeared in the November 2021 exam.",
+"da": {
+"q": "Hvem har designet ”Your rainbow panorama” (Din regnbueudsigt), der er placeret oven på kunstmuseet ARoS i Aarhus?",
+"options": [
+"Arne Jacobsen",
+"Olafur Eliasson",
+"Jørn Utzon"
+],
+"answer": "Olafur Eliasson"
+},
+"qStart": 783.21,
+"aStart": 805.5,
+"aEnd": 811.23,
+"learn": {
+"start": 585.77,
+"end": 617.27,
+"text": "Another artist who has made a mark in recent decades is the Danish-Icelandic Olafur Eliasson, born 1967. One of his best-known works is Your Rainbow Panorama, in Danish Din regnbueudsigt, from 2011, on top of the art museum ARoS in Aarhus, which is a 150-metre-long circular glass walkway where you can look out over Aarhus in all the colours of the rainbow.",
+"score": 10.4
+}
+},
+{
+"id": "ch5-ep4-p1-q4",
+"n": 4,
+"q": "What are Anna Ancher and Michael Ancher especially known for?",
+"options": [
+{
+"l": "A",
+"t": "They were composers"
+},
+{
+"l": "B",
+"t": "They were film directors"
+},
+{
+"l": "C",
+"t": "They were painters"
+}
+],
+"answer": "C",
+"answerText": "They were painters",
+"appeared": "It appeared in the June 2022 exam.",
+"da": {
+"q": "Hvad er Anna Ancher og Michael Ancher særligt kendt for?",
+"options": [
+"De var komponister",
+"De var filminstruktører",
+"De var kunstmalere"
+],
+"answer": "De var kunstmalere"
+},
+"qStart": 811.78,
+"aStart": 830.93,
+"aEnd": 836.18,
+"learn": {
+"start": 369.02,
+"end": 390.81,
+"text": "Krøyer, who lived from 1851 to 1909, and the married couple Anna Ancher, 1859 to 1935, and Michael Ancher, 1849 to 1927, who belong to the circle of the so-called Skagen Painters.",
+"score": 4.5
+}
+},
+{
+"id": "ch5-ep4-p1-q5",
+"n": 5,
+"q": "What is P.S. Krøyer, 1851 to 1909, especially known for?",
+"options": [
+{
+"l": "A",
+"t": "He was an author"
+},
+{
+"l": "B",
+"t": "He was a composer"
+},
+{
+"l": "C",
+"t": "He was a painter"
+}
+],
+"answer": "C",
+"answerText": "He was a painter",
+"appeared": "It appeared in the May 2024 exam.",
+"da": {
+"q": "Hvad er P.S. Krøyer (1851-1909) særlig kendt for?",
+"options": [
+"Han var forfatter",
+"Han var komponist",
+"Han var kunstmaler"
+],
+"answer": "Han var kunstmaler"
+},
+"qStart": 836.63,
+"aStart": 859.31,
+"aEnd": 864.41,
+"learn": {
+"start": 369.02,
+"end": 390.81,
+"text": "Krøyer, who lived from 1851 to 1909, and the married couple Anna Ancher, 1859 to 1935, and Michael Ancher, 1849 to 1927, who belong to the circle of the so-called Skagen Painters.",
+"score": 3.0
+}
+},
+{
+"id": "ch5-ep4-p1-q6",
+"n": 6,
+"q": "In which town in Jutland did Anna Ancher and Michael Ancher paint especially many of their pictures at the end of the 1800s?",
+"options": [
+{
+"l": "A",
+"t": "Silkeborg"
+},
+{
+"l": "B",
+"t": "Sønderborg"
+},
+{
+"l": "C",
+"t": "Skagen"
+}
+],
+"answer": "C",
+"answerText": "Skagen",
+"appeared": "It appeared in the November 2024 and June 2026 exams.",
+"da": {
+"q": "Ved hvilken by i Jylland malede Anna Ancher og Michael Ancher særligt mange af deres billeder i slutningen af 1800-tallet?",
+"options": [
+"Silkeborg",
+"Sønderborg",
+"Skagen"
+],
+"answer": "Skagen"
+},
+"qStart": 864.86,
+"aStart": 887.57,
+"aEnd": 894.16,
+"learn": {
+"start": 369.02,
+"end": 398.56,
+"text": "Krøyer, who lived from 1851 to 1909, and the married couple Anna Ancher, 1859 to 1935, and Michael Ancher, 1849 to 1927, who belong to the circle of the so-called Skagen Painters. Towards the end of the 1800s, a number of painters settled in Skagen, which is Denmark's northernmost town.",
+"score": 6.5
+}
+},
+{
+"id": "ch5-ep4-p1-q7",
+"n": 7,
+"q": "In which Danish city can you visit, among other things, Den Gamle By and the art museum ARoS?",
+"options": [
+{
+"l": "A",
+"t": "Helsingør"
+},
+{
+"l": "B",
+"t": "Odense"
+},
+{
+"l": "C",
+"t": "Aarhus"
+}
+],
+"answer": "C",
+"answerText": "Aarhus",
+"appeared": "It appeared in the May 2025 exam.",
+"da": {
+"q": "I hvilken dansk by kan man blandt andet besøge Den Gamle By og kunstmuseet ARoS?",
+"options": [
+"Helsingør",
+"Odense",
+"Aarhus"
+],
+"answer": "Aarhus"
+},
+"qStart": 894.71,
+"aStart": 915.32,
+"aEnd": 920.02,
+"learn": {
+"start": 592.43,
+"end": 617.27,
+"text": "One of his best-known works is Your Rainbow Panorama, in Danish Din regnbueudsigt, from 2011, on top of the art museum ARoS in Aarhus, which is a 150-metre-long circular glass walkway where you can look out over Aarhus in all the colours of the rainbow.",
+"score": 5.5
+}
+}
+]

@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "partId": "ch3-ep2-p1",
+ "images": [
+  {
+   "id": "p108-fig1",
+   "src": "images/ch3/p108-fig1.svg",
+   "start": 141.0,
+   "caption": "Elderly people being served a meal at a care home.",
+   "illustration": true,
+   "alt": "Elderly people being served a meal at a care home.",
+   "page": 108,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 231.0
+  },
+  {
+   "id": "p109-fig1",
+   "src": "images/ch3/p109-fig1.svg",
+   "start": 288.7,
+   "caption": "A job centre in the Municipality of Copenhagen, which among other things helps unemployed citizens into work.",
+   "illustration": true,
+   "alt": "A job centre in the Municipality of Copenhagen, which among other things helps unemployed citizens into work.",
+   "page": 109,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 378.7
+  },
+  {
+   "id": "p110-fig1",
+   "src": "images/ch3/p110-fig1.svg",
+   "start": 577.5,
+   "caption": "Children and young people reading on the grass.",
+   "illustration": true,
+   "alt": "Children and young people reading on the grass.",
+   "page": 110,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 667.5
+  }
+ ]
+}

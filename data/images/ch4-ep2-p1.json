@@ -1,0 +1,20 @@
+{
+ "version": 1,
+ "partId": "ch4-ep2-p1",
+ "images": [
+  {
+   "id": "p125-fig1",
+   "src": "images/ch4/p125-fig1.svg",
+   "start": 152.1,
+   "caption": "Newspapers the day after a majority of Danes voted no to the Maastricht Treaty in 1992.",
+   "illustration": true,
+   "alt": "Newspapers the day after a majority of Danes voted no to the Maastricht Treaty in 1992.",
+   "page": 125,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 242.1
+  }
+ ]
+}

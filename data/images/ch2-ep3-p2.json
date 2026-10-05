@@ -1,0 +1,20 @@
+{
+ "version": 1,
+ "partId": "ch2-ep3-p2",
+ "images": [
+  {
+   "id": "p080-fig1",
+   "src": "images/ch2/p080-fig1.svg",
+   "start": 173.5,
+   "caption": "The Copenhagen City Court (Københavns Byret).",
+   "illustration": true,
+   "alt": "The Copenhagen City Court (Københavns Byret).",
+   "page": 80,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 263.5
+  }
+ ]
+}

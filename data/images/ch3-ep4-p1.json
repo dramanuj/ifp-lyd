@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch3-ep4-p1",
+ "images": [
+  {
+   "id": "p115-fig1",
+   "src": "images/ch3/p115-fig1.svg",
+   "start": 535.1,
+   "caption": "Carlsberg beer.",
+   "illustration": true,
+   "alt": "Carlsberg beer.",
+   "page": 115,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 541.4
+  },
+  {
+   "id": "p115-fig2",
+   "src": "images/ch3/p115-fig2.svg",
+   "start": 541.4,
+   "caption": "LEGO.",
+   "illustration": true,
+   "alt": "LEGO.",
+   "page": 115,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 631.4
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "version": 1,
+ "partId": "ch2-ep1-p1",
+ "images": [
+  {
+   "id": "p067-fig1",
+   "src": "images/ch2/p067-fig1.svg",
+   "start": 136.1,
+   "caption": "Slotsholmen in Copenhagen with the Folketing, the Supreme Court and several ministries.",
+   "illustration": true,
+   "alt": "Slotsholmen in Copenhagen with the Folketing, the Supreme Court and several ministries.",
+   "page": 67,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 188.4
+  },
+  {
+   "id": "p068-fig1",
+   "src": "images/ch2/p068-fig1.svg",
+   "start": 188.4,
+   "caption": "The Constitution in the Folketing.",
+   "illustration": true,
+   "alt": "The Constitution in the Folketing.",
+   "page": 68,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 278.4
+  },
+  {
+   "id": "p069-fig1",
+   "src": "images/ch2/p069-fig1.svg",
+   "start": 357.2,
+   "caption": "5 June is called Constitution Day and is celebrated every year as a national festive day with political meetings all over the country.",
+   "illustration": true,
+   "alt": "5 June is called Constitution Day and is celebrated every year as a national festive day with political meetings all over the country.",
+   "page": 69,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 447.2
+  },
+  {
+   "id": "p071-fig1",
+   "src": "images/ch2/p071-fig1.svg",
+   "start": 592.9,
+   "caption": "Queen Margrethe II (born 1940, reigned 1972-2024) receives Ukraine's president Volodymyr Zelensky and his wife Olena on a state visit to Denmark in 2023.",
+   "illustration": true,
+   "alt": "Queen Margrethe II (born 1940, reigned 1972-2024) receives Ukraine's president Volodymyr Zelensky and his wife Olena on a state visit to Denmark in 2023.",
+   "page": 71,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 682.9
+  }
+ ]
+}

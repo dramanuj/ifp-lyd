@@ -1,0 +1,477 @@
+[
+{
+"id": "ch2-ep1-p1-q1",
+"n": 1,
+"q": "When was the constitution last changed?",
+"options": [
+{
+"l": "A",
+"t": "1849"
+},
+{
+"l": "B",
+"t": "1920"
+},
+{
+"l": "C",
+"t": "1953"
+}
+],
+"answer": "C",
+"answerText": "1953",
+"appeared": "It appeared in the June 2020 exam.",
+"da": {
+"q": "Hvornår blev grundloven sidst ændret?",
+"options": [
+"1849",
+"1920",
+"1953"
+],
+"answer": "1953"
+},
+"qStart": 735.08,
+"aStart": 752.9,
+"aEnd": 758.23,
+"learn": {
+"start": 248.85,
+"end": 265.05,
+"text": "The current constitution is therefore from 1953. Much has changed in Denmark over the last one hundred and seventy-five years.",
+"score": 3.9
+}
+},
+{
+"id": "ch2-ep1-p1-q2",
+"n": 2,
+"q": "When was Denmark's Constitution introduced?",
+"options": [
+{
+"l": "A",
+"t": "1849"
+},
+{
+"l": "B",
+"t": "1814"
+},
+{
+"l": "C",
+"t": "1789"
+}
+],
+"answer": "A",
+"answerText": "1849",
+"appeared": "It appeared in the November 2020 and May 2024 exams.",
+"da": {
+"q": "Hvornår blev Danmarks Riges Grundlov indført?",
+"options": [
+"1849",
+"1814",
+"1789"
+],
+"answer": "1849"
+},
+"qStart": 758.78,
+"aStart": 777.06,
+"aEnd": 784.01,
+"learn": {
+"start": 162.21,
+"end": 174.29,
+"text": "Denmark got its first democratic constitution on the fifth of June, 1849.",
+"score": 3.5
+}
+},
+{
+"id": "ch2-ep1-p1-q3",
+"n": 3,
+"q": "Which day is celebrated on the fifth of June?",
+"options": [
+{
+"l": "A",
+"t": "The Queen's birthday"
+},
+{
+"l": "B",
+"t": "Denmark's liberation"
+},
+{
+"l": "C",
+"t": "Constitution Day, Grundlovsdag"
+}
+],
+"answer": "C",
+"answerText": "Constitution Day, Grundlovsdag",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Hvilken mærkedag fejres den 5. juni?",
+"options": [
+"Dronningens fødselsdag",
+"Danmarks befrielse",
+"Grundlovsdag"
+],
+"answer": "Grundlovsdag"
+},
+"qStart": 784.56,
+"aStart": 803.83,
+"aEnd": 810.07,
+"learn": {
+"start": 364.01,
+"end": 381.31,
+"text": "The fifth of June is called Constitution Day and is celebrated every year as a national day of celebration, with political meetings all over the country.",
+"score": 7.0
+}
+},
+{
+"id": "ch2-ep1-p1-q4",
+"n": 4,
+"q": "Which day is Constitution Day in Denmark?",
+"options": [
+{
+"l": "A",
+"t": "The fifth of June"
+},
+{
+"l": "B",
+"t": "The fifteenth of June"
+},
+{
+"l": "C",
+"t": "The twenty-third of June"
+}
+],
+"answer": "A",
+"answerText": "The fifth of June",
+"appeared": "It appeared in the June 2022 exam.",
+"da": {
+"q": "Hvilken dag er det grundlovsdag i Danmark?",
+"options": [
+"Den 5. juni",
+"Den 15. juni",
+"Den 23. juni"
+],
+"answer": "Den 5. juni"
+},
+"qStart": 810.62,
+"aStart": 829.09,
+"aEnd": 834.56,
+"learn": {
+"start": 162.21,
+"end": 177.8,
+"text": "Denmark got its first democratic constitution on the fifth of June, 1849. That is why this date is Constitution Day, Grundlovsdag.",
+"score": 5.2
+}
+},
+{
+"id": "ch2-ep1-p1-q5",
+"n": 5,
+"q": "Through which constitutional amendment did women get the vote for the Folketing?",
+"options": [
+{
+"l": "A",
+"t": "The amendment of 1866"
+},
+{
+"l": "B",
+"t": "The amendment of 1915"
+},
+{
+"l": "C",
+"t": "The amendment of 1953"
+}
+],
+"answer": "B",
+"answerText": "The amendment of 1915",
+"appeared": "It appeared in the November 2020, June 2021 and June 2022 exams.",
+"da": {
+"q": "Ved hvilken grundlovsændring fik kvinder valgret til Folketinget?",
+"options": [
+"Grundlovsændringen i 1866",
+"Grundlovsændringen i 1915",
+"Grundlovsændringen i 1953"
+],
+"answer": "Grundlovsændringen i 1915"
+},
+"qStart": 835.11,
+"aStart": 858.07,
+"aEnd": 867.52,
+"learn": {
+"start": 219.57,
+"end": 246.26,
+"text": "Women and servants, that is, people without their own household, who served and lived with another family, did not get the vote. This only happened with the constitution of 1915. Since then, the voting age for the Folketing has gradually been lowered from thirty years down to the present voting age of eighteen years, which was adopted in 1978.",
+"score": 5.0
+}
+},
+{
+"id": "ch2-ep1-p1-q6",
+"n": 6,
+"q": "What was adopted with the constitutional amendment of 1915?",
+"options": [
+{
+"l": "A",
+"t": "That women could inherit the Danish throne"
+},
+{
+"l": "B",
+"t": "That women got the vote for the Folketing"
+},
+{
+"l": "C",
+"t": "That women had to serve conscription"
+}
+],
+"answer": "B",
+"answerText": "That women got the vote for the Folketing",
+"appeared": "It appeared in the May 2025 exam.",
+"da": {
+"q": "Hvad blev vedtaget med grundlovsændringen i 1915?",
+"options": [
+"At kvinder fik mulighed for at arve den danske trone",
+"At kvinder fik stemmeret til Folketinget",
+"At kvinder skulle aftjene værnepligt"
+],
+"answer": "At kvinder fik stemmeret til Folketinget"
+},
+"qStart": 868.07,
+"aStart": 890.96,
+"aEnd": 897.27,
+"learn": {
+"start": 675.44,
+"end": 697.06,
+"text": "It can only be changed with support from both the Folketing and the population. Women got the vote with the constitution of 1915. The voting age of eighteen was adopted in 1978.",
+"score": 6.2
+}
+},
+{
+"id": "ch2-ep1-p1-q7",
+"n": 7,
+"q": "Did women get the vote for the Folketing with the constitution of 1849?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the November 2023 and November 2025 exams.",
+"da": {
+"q": "Fik kvinder valgret til Folketinget med grundloven i 1849?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 897.82,
+"aStart": 913.58,
+"aEnd": 920.37,
+"learn": {
+"start": 219.57,
+"end": 246.26,
+"text": "Women and servants, that is, people without their own household, who served and lived with another family, did not get the vote. This only happened with the constitution of 1915. Since then, the voting age for the Folketing has gradually been lowered from thirty years down to the present voting age of eighteen years, which was adopted in 1978.",
+"score": 4.6
+}
+},
+{
+"id": "ch2-ep1-p1-q8",
+"n": 8,
+"q": "Between whom are the legislative, the executive and the judicial power divided?",
+"options": [
+{
+"l": "A",
+"t": "The Folketing, the government and the courts"
+},
+{
+"l": "B",
+"t": "The Folketing, the regions and the courts"
+},
+{
+"l": "C",
+"t": "The government, the regions and the municipalities"
+}
+],
+"answer": "A",
+"answerText": "The Folketing, the government and the courts",
+"appeared": "It appeared in 4 different exams, most recently in November 2025.",
+"da": {
+"q": "Hvem er den lovgivende, den udøvende og den dømmende magt fordelt mellem?",
+"options": [
+"Folketinget, regeringen og domstolene",
+"Folketinget, regionerne og domstolene",
+"Regeringen, regionerne og kommunerne"
+],
+"answer": "Folketinget, regeringen og domstolene"
+},
+"qStart": 920.92,
+"aStart": 946.11,
+"aEnd": 955.3,
+"learn": {
+"start": 485.46,
+"end": 511.67,
+"text": "The separation of powers means that the government and the Folketing together make laws, the legislative power. It is the government that, through the ministries, administers the laws in practice and puts them into effect, the executive power. The third power is the courts, the judicial power.",
+"score": 6.5
+}
+},
+{
+"id": "ch2-ep1-p1-q9",
+"n": 9,
+"q": "Who holds the judicial power?",
+"options": [
+{
+"l": "A",
+"t": "The Folketing"
+},
+{
+"l": "B",
+"t": "The government"
+},
+{
+"l": "C",
+"t": "The courts"
+}
+],
+"answer": "C",
+"answerText": "The courts",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Hvem har den dømmende magt?",
+"options": [
+"Folketinget",
+"Regeringen",
+"Domstolene"
+],
+"answer": "Domstolene"
+},
+"qStart": 955.85,
+"aStart": 972.14,
+"aEnd": 977.03,
+"learn": {
+"start": 500.27,
+"end": 511.67,
+"text": "The third power is the courts, the judicial power.",
+"score": 3.5
+}
+},
+{
+"id": "ch2-ep1-p1-q10",
+"n": 10,
+"q": "Which right is secured in the constitution?",
+"options": [
+{
+"l": "A",
+"t": "The right to a holiday"
+},
+{
+"l": "B",
+"t": "The right to own hunting weapons"
+},
+{
+"l": "C",
+"t": "The right to express oneself"
+}
+],
+"answer": "C",
+"answerText": "The right to express oneself",
+"appeared": "It appeared in the November 2022 and June 2026 exams.",
+"da": {
+"q": "Hvilken rettighed er sikret i grundloven?",
+"options": [
+"Retten til at holde ferie",
+"Retten til at eje jagtvåben",
+"Retten til at ytre sig"
+],
+"answer": "Retten til at ytre sig"
+},
+"qStart": 977.58,
+"aStart": 996.92,
+"aEnd": 1004.69,
+"learn": {
+"start": 615.99,
+"end": 637.87,
+"text": "The constitution also secures and protects several fundamental freedoms and human rights. This includes the right to freely express your opinions under responsibility before the courts, freedom of expression, ytringsfrihed.",
+"score": 4.3
+}
+},
+{
+"id": "ch2-ep1-p1-q11",
+"n": 11,
+"q": "Which right is secured in the constitution?",
+"options": [
+{
+"l": "A",
+"t": "The right to form an association"
+},
+{
+"l": "B",
+"t": "The right to carry a weapon"
+},
+{
+"l": "C",
+"t": "The right to a holiday"
+}
+],
+"answer": "A",
+"answerText": "The right to form an association",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Hvilken rettighed er sikret i grundloven?",
+"options": [
+"Retten til at danne en forening",
+"Retten til at bære et våben",
+"Retten til at holde ferie"
+],
+"answer": "Retten til at danne en forening"
+},
+"qStart": 1005.24,
+"aStart": 1024.32,
+"aEnd": 1030.19,
+"learn": {
+"start": 637.87,
+"end": 652.92,
+"text": "And the right to form associations. The constitution also protects personal freedom, freedom of religion, the right of property, and the privacy of private life.",
+"score": 4.3
+}
+},
+{
+"id": "ch2-ep1-p1-q12",
+"n": 12,
+"q": "From which country did Denmark receive a state visit by a president in August 2023?",
+"options": [
+{
+"l": "A",
+"t": "France"
+},
+{
+"l": "B",
+"t": "India"
+},
+{
+"l": "C",
+"t": "Ukraine"
+}
+],
+"answer": "C",
+"answerText": "Ukraine",
+"appeared": "It appeared in the November 2023 exam.",
+"da": {
+"q": "Fra hvilket land modtog Danmark statsbesøg af en præsident i august 2023?",
+"options": [
+"Frankrig",
+"Indien",
+"Ukraine Spørgsmål 40-45 angår danske værdier"
+],
+"answer": "Ukraine Spørgsmål 40-45 angår danske værdier"
+},
+"qStart": 1030.74,
+"aStart": 1049.82,
+"aEnd": 1054.95,
+"learn": {
+"start": 592.85,
+"end": 608.57,
+"text": "A photo in the chapter shows her receiving Ukraine's president Volodymyr Zelensky and his wife Olena on a state visit to Denmark in 2023.",
+"score": 6.5
+}
+}
+]

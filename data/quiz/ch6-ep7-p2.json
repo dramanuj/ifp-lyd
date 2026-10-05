@@ -1,0 +1,117 @@
+[
+{
+"id": "ch6-ep7-p2-q1",
+"n": 1,
+"q": "When did the law on home rule in Greenland come into force?",
+"options": [
+{
+"l": "A",
+"t": "1949"
+},
+{
+"l": "B",
+"t": "1979"
+},
+{
+"l": "C",
+"t": "2009"
+}
+],
+"answer": "B",
+"answerText": "1979",
+"appeared": "It appeared in the November 2020 and June 2021 exams.",
+"da": {
+"q": "Hvornår trådte loven om hjemmestyre i Grønland i kraft?",
+"options": [
+"1949",
+"1979",
+"2009"
+],
+"answer": "1979"
+},
+"qStart": 475.73,
+"aStart": 494.16,
+"aEnd": 501.38,
+"learn": {
+"start": 23.66,
+"end": 50.8,
+"text": "After a referendum, Greenland got home rule by law in 1979, which meant that Greenland gradually in the following years took over responsibility for, and the possibility of passing its own laws in, a number of areas, for example social policy, taxes and duties, and education.",
+"score": 5.5
+}
+},
+{
+"id": "ch6-ep7-p2-q2",
+"n": 2,
+"q": "Are Greenland and the Faroe Islands part of the EU?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the November 2022 and May 2025 exams.",
+"da": {
+"q": "Er Grønland og Færøerne en del af EU?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 501.93,
+"aStart": 515.87,
+"aEnd": 522.17,
+"learn": {
+"start": 446.36,
+"end": 454.97,
+"text": "Today neither Greenland nor the Faroe Islands is part of the EU, although Denmark is.",
+"score": 4.0
+}
+},
+{
+"id": "ch6-ep7-p2-q3",
+"n": 3,
+"q": "Which symbol is part of Greenland's flag?",
+"options": [
+{
+"l": "A",
+"t": "A cross"
+},
+{
+"l": "B",
+"t": "A triangle"
+},
+{
+"l": "C",
+"t": "A circle"
+}
+],
+"answer": "C",
+"answerText": "A circle",
+"appeared": "It appeared in the May 2024 and November 2025 exams.",
+"da": {
+"q": "Hvilket symbol indgår i Grønlands flag?",
+"options": [
+"Et kors",
+"En trekant",
+"En cirkel"
+],
+"answer": "En cirkel"
+},
+"qStart": 522.72,
+"aStart": 539.83,
+"aEnd": 546.4,
+"learn": {
+"start": 101.58,
+"end": 113.12,
+"text": "The circle in the flag symbolises the rising sun in the white Greenlandic landscape. The flag is widely used in Greenland.",
+"score": 3.0
+}
+}
+]

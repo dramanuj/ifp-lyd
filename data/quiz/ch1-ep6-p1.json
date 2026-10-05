@@ -1,0 +1,397 @@
+[
+{
+"id": "ch1-ep6-p1-q1",
+"n": 1,
+"q": "Which party was Poul Nyrup Rasmussen chairman of when he was prime minister, from 1993 to 2001?",
+"options": [
+{
+"l": "A",
+"t": "The Conservative People's Party"
+},
+{
+"l": "B",
+"t": "Venstre"
+},
+{
+"l": "C",
+"t": "The Social Democrats"
+}
+],
+"answer": "C",
+"answerText": "The Social Democrats",
+"appeared": "It appeared in the June 2020 and November 2023 exams.",
+"da": {
+"q": "Hvilket parti var Poul Nyrup Rasmussen formand for, da han var statsminister 1993-2001?",
+"options": [
+"Det Konservative Folkeparti",
+"Venstre",
+"Socialdemokratiet"
+],
+"answer": "Socialdemokratiet"
+},
+"qStart": 712.85,
+"aStart": 735.79,
+"aEnd": 743.06,
+"learn": {
+"start": 282.41,
+"end": 293.07,
+"text": "In 1993, the Social Democrats came to power again, with Poul Nyrup Rasmussen as the new prime minister.",
+"score": 9.0
+}
+},
+{
+"id": "ch1-ep6-p1-q2",
+"n": 2,
+"q": "When was the Red-Green Alliance, Enhedslisten, first elected to the Folketing?",
+"options": [
+{
+"l": "A",
+"t": "1973"
+},
+{
+"l": "B",
+"t": "1994"
+},
+{
+"l": "C",
+"t": "2011"
+}
+],
+"answer": "B",
+"answerText": "1994",
+"appeared": "It appeared in the June 2022 exam.",
+"da": {
+"q": "Hvornår blev Enhedslisten valgt til Folketinget første gang?",
+"options": [
+"1973",
+"1994",
+"2011"
+],
+"answer": "1994"
+},
+"qStart": 743.61,
+"aStart": 764.05,
+"aEnd": 769.61,
+"learn": {
+"start": 251.59,
+"end": 274.06,
+"text": "The opposition to the EU in parts of the population also became one of the reasons why the Red-Green Alliance, Enhedslisten, which in 1989 had been formed as a coming together of a number of smaller left-wing parties, was elected to the Folketing for the first time in 1994.",
+"score": 8.5
+}
+},
+{
+"id": "ch1-ep6-p1-q3",
+"n": 3,
+"q": "Which of the following themes had great political attention in the 1990s?",
+"options": [
+{
+"l": "A",
+"t": "Integration of immigrants"
+},
+{
+"l": "B",
+"t": "Denmark's role in the Arctic"
+},
+{
+"l": "C",
+"t": "Danish participation in the war in Afghanistan"
+}
+],
+"answer": "A",
+"answerText": "Integration of immigrants",
+"appeared": "It appeared in the June 2020 exam.",
+"da": {
+"q": "Hvilket af følgende temaer havde stor politisk opmærksomhed i 1990’erne?",
+"options": [
+"Integration af indvandrere",
+"Danmarks rolle i Arktis",
+"Dansk deltagelse i krigen i Afghanistan"
+],
+"answer": "Integration af indvandrere"
+},
+"qStart": 770.16,
+"aStart": 792.96,
+"aEnd": 798.59,
+"learn": {
+"start": 340.32,
+"end": 379.02,
+"text": "The question of integration got great political attention in this period, among other things because relatively many people with a foreign background in Denmark did poorly in the education system, and because a relatively large share was without work and received social benefits such as cash benefit, kontanthjælp, and early retirement pension, førtidspension. Many Danes also thought that some immigrants had a culture that was very different from the Danes', and that they were not always good enough at learning the Danish language.",
+"score": 6.1
+}
+},
+{
+"id": "ch1-ep6-p1-q4",
+"n": 4,
+"q": "In which year was the Danish People's Party first elected to the Folketing?",
+"options": [
+{
+"l": "A",
+"t": "1958"
+},
+{
+"l": "B",
+"t": "1978"
+},
+{
+"l": "C",
+"t": "1998"
+}
+],
+"answer": "C",
+"answerText": "1998",
+"appeared": "It appeared in the November 2022 exam.",
+"da": {
+"q": "Hvilket år blev Dansk Folkeparti valgt til Folketinget første gang?",
+"options": [
+"1958",
+"1978",
+"1998"
+],
+"answer": "1998"
+},
+"qStart": 799.14,
+"aStart": 818.96,
+"aEnd": 824.43,
+"learn": {
+"start": 370.19,
+"end": 398.39,
+"text": "The wish for tightening of the foreigners and integration policy among many Danes was of great importance for the Danish People's Party, Dansk Folkeparti, with party founder and party leader Pia Kjærsgaard, born 1947, at the head, being elected to the Folketing for the first time in 1998.",
+"score": 7.5
+}
+},
+{
+"id": "ch1-ep6-p1-q5",
+"n": 5,
+"q": "Which of the following politicians helped found the Danish People's Party?",
+"options": [
+{
+"l": "A",
+"t": "Pernille Vermund"
+},
+{
+"l": "B",
+"t": "Inger Støjberg"
+},
+{
+"l": "C",
+"t": "Pia Kjærsgaard"
+}
+],
+"answer": "C",
+"answerText": "Pia Kjærsgaard",
+"appeared": "It appeared in the November 2023 exam.",
+"da": {
+"q": "Hvilken af følgende politikere var med til at stifte Dansk Folkeparti?",
+"options": [
+"Pernille Vermund",
+"Inger Støjberg",
+"Pia Kjærsgaard"
+],
+"answer": "Pia Kjærsgaard"
+},
+"qStart": 824.98,
+"aStart": 844.03,
+"aEnd": 849.59,
+"learn": {
+"start": 378.97,
+"end": 417.61,
+"text": "Pia Kjærsgaard led the party from 1995 to 2012, and from 2015 to 2019 she was the first woman to be Speaker of the Folketing. The Danish People's Party contributed to the foreigners policy becoming an important theme at the general elections in the following decades.",
+"score": 6.1
+}
+},
+{
+"id": "ch1-ep6-p1-q6",
+"n": 6,
+"q": "When did the Cold War end?",
+"options": [
+{
+"l": "A",
+"t": "Around 1950"
+},
+{
+"l": "B",
+"t": "Around 1970"
+},
+{
+"l": "C",
+"t": "Around 1990"
+}
+],
+"answer": "C",
+"answerText": "Around 1990",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvornår ophørte Den Kolde Krig?",
+"options": [
+"Omkring 1950",
+"Omkring 1970",
+"Omkring 1990"
+],
+"answer": "Omkring 1990"
+},
+"qStart": 850.14,
+"aStart": 868.31,
+"aEnd": 874.06,
+"learn": {
+"start": 57.86,
+"end": 74.32,
+"text": "Around 1990, the communist system in Eastern Europe collapsed. The fall of the Berlin Wall in 1989, in November, and the dissolution of the Soviet Union in 1991, meant the end of the Cold War.",
+"score": 5.2
+}
+},
+{
+"id": "ch1-ep6-p1-q7",
+"n": 7,
+"q": "Which country did Denmark send soldiers to following the terror attack on the USA on the eleventh of September 2001?",
+"options": [
+{
+"l": "A",
+"t": "Mali"
+},
+{
+"l": "B",
+"t": "Kosovo"
+},
+{
+"l": "C",
+"t": "Afghanistan"
+}
+],
+"answer": "C",
+"answerText": "Afghanistan",
+"appeared": "It appeared in the November 2023 exam.",
+"da": {
+"q": "Hvilket land sendte Danmark soldater til på baggrund af terrorangrebet i USA den 11. september 2001?",
+"options": [
+"Mali",
+"Kosovo",
+"Afghanistan"
+],
+"answer": "Afghanistan"
+},
+"qStart": 874.61,
+"aStart": 895.89,
+"aEnd": 901.27,
+"learn": {
+"start": 550.52,
+"end": 583.55,
+"text": "After the terror attack on the USA on the eleventh of September, 2001, combating terrorism became an important task in most countries. This has especially led to increased cooperation between intelligence services, but also to military interventions, in which Denmark has taken an active part. Behind the attack on the USA in 2001 were terrorists who operated from Afghanistan, in understanding with the then Afghan regime.",
+"score": 6.5
+}
+},
+{
+"id": "ch1-ep6-p1-q8",
+"n": 8,
+"q": "Did the Danish government at the time support the American-led invasion of Iraq in 2003?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the May 2023 and May 2025 exams.",
+"da": {
+"q": "Støttede den daværende danske regering den amerikansk ledede invasion af Irak i 2003 (Irak-krigen)?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 901.82,
+"aStart": 918.27,
+"aEnd": 924.17,
+"learn": {
+"start": 574.85,
+"end": 604.3,
+"text": "In 2002 the Folketing decided to send Danish soldiers to Afghanistan to take part in an American-led effort. In 2003 the USA attacked Iraq to remove the Iraqi dictator Saddam Hussein and Iraq's alleged weapons of mass destruction. Again, the Danish government backed it and sent Danish soldiers.",
+"score": 4.6
+}
+},
+{
+"id": "ch1-ep6-p1-q9",
+"n": 9,
+"q": "Which country did Denmark send soldiers to in 2003, following an American-led invasion?",
+"options": [
+{
+"l": "A",
+"t": "Syria"
+},
+{
+"l": "B",
+"t": "Iraq"
+},
+{
+"l": "C",
+"t": "Libya"
+}
+],
+"answer": "B",
+"answerText": "Iraq",
+"appeared": "It appeared in the May 2024 exam.",
+"da": {
+"q": "Hvilket land sendte Danmark soldater til i 2003 på baggrund af en amerikansk ledet invasion?",
+"options": [
+"Syrien",
+"Irak",
+"Libyen"
+],
+"answer": "Irak"
+},
+"qStart": 924.72,
+"aStart": 944.88,
+"aEnd": 949.55,
+"learn": {
+"start": 574.85,
+"end": 599.86,
+"text": "In 2002 the Folketing decided to send Danish soldiers to Afghanistan to take part in an American-led effort. In 2003 the USA attacked Iraq to remove the Iraqi dictator Saddam Hussein and Iraq's alleged weapons of mass destruction.",
+"score": 5.7
+}
+},
+{
+"id": "ch1-ep6-p1-q10",
+"n": 10,
+"q": "At which place in Copenhagen was a terror attack carried out in 2015?",
+"options": [
+{
+"l": "A",
+"t": "At the Jewish synagogue"
+},
+{
+"l": "B",
+"t": "At the Central Station"
+},
+{
+"l": "C",
+"t": "At the airport"
+}
+],
+"answer": "A",
+"answerText": "At the Jewish synagogue",
+"appeared": "It appeared in the May 2023 exam.",
+"da": {
+"q": "Hvilket af følgende steder i København blev der begået et terrorangreb i 2015?",
+"options": [
+"Ved den jødiske synagoge",
+"Ved Hovedbanegården",
+"I lufthavnen"
+],
+"answer": "Ved den jødiske synagoge"
+},
+"qStart": 950.1,
+"aStart": 970.02,
+"aEnd": 975.22,
+"learn": {
+"start": 657.81,
+"end": 687.22,
+"text": "In 2015, Denmark was hit by a terror attack in Copenhagen, where a man who sympathised with the terror organisation Islamic State shot and killed a film-maker while he took part in a debate meeting about \"Art, blasphemy and freedom of expression\" at Østerbro. Later the same day, the terrorist tried to force his way into the Jewish synagogue in central Copenhagen.",
+"score": 6.1
+}
+}
+]

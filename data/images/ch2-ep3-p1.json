@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch2-ep3-p1",
+ "images": [
+  {
+   "id": "p076-fig1",
+   "src": "images/ch2/p076-fig1.svg",
+   "start": 129.7,
+   "caption": "Government ministers walking out of a palace gateway.",
+   "illustration": true,
+   "alt": "Government ministers walking out of a palace gateway.",
+   "page": 76,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 219.7
+  },
+  {
+   "id": "p078-fig1",
+   "src": "images/ch2/p078-fig1.svg",
+   "start": 491.6,
+   "caption": "The Prime Minister's Office (right) in Prins Jørgens Gård at Christiansborg Palace in Copenhagen.",
+   "illustration": true,
+   "alt": "The Prime Minister's Office (right) in Prins Jørgens Gård at Christiansborg Palace in Copenhagen.",
+   "page": 78,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 581.6
+  }
+ ]
+}

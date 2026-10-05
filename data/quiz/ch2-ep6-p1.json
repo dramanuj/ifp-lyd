@@ -1,0 +1,117 @@
+[
+{
+"id": "ch2-ep6-p1-q1",
+"n": 1,
+"q": "Which party did farmers typically vote for in the middle of the 1900s?",
+"options": [
+{
+"l": "A",
+"t": "The Danish People's Party"
+},
+{
+"l": "B",
+"t": "The Greens"
+},
+{
+"l": "C",
+"t": "Venstre"
+}
+],
+"answer": "C",
+"answerText": "Venstre",
+"appeared": "It appeared in the June 2020 and May 2024 exams.",
+"da": {
+"q": "Hvilket parti stemte landmænd typisk på i midten af 1900-tallet?",
+"options": [
+"Dansk Folkeparti",
+"De grønne",
+"Venstre"
+],
+"answer": "Venstre"
+},
+"qStart": 380.02,
+"aStart": 399.5,
+"aEnd": 405.69,
+"learn": {
+"start": 81.3,
+"end": 100.92,
+"text": "Workers typically voted for the Social Democrats, farmers voted for Venstre, and the self-employed and the middle class typically voted for the Conservative People's Party.",
+"score": 5.5
+}
+},
+{
+"id": "ch2-ep6-p1-q2",
+"n": 2,
+"q": "Which party did workers typically vote for in the middle of the 1900s?",
+"options": [
+{
+"l": "A",
+"t": "Venstre"
+},
+{
+"l": "B",
+"t": "The Social Democrats, Socialdemokratiet"
+},
+{
+"l": "C",
+"t": "The Social Liberal Party"
+}
+],
+"answer": "B",
+"answerText": "The Social Democrats, Socialdemokratiet",
+"appeared": "It appeared in the November 2020 and June 2022 exams.",
+"da": {
+"q": "Hvilket parti stemte arbejdere typisk på i midten af 1900-tallet?",
+"options": [
+"Venstre",
+"Socialdemokratiet",
+"Radikale Venstre"
+],
+"answer": "Socialdemokratiet"
+},
+"qStart": 406.24,
+"aStart": 427.64,
+"aEnd": 436.25,
+"learn": {
+"start": 81.3,
+"end": 100.92,
+"text": "Workers typically voted for the Social Democrats, farmers voted for Venstre, and the self-employed and the middle class typically voted for the Conservative People's Party.",
+"score": 7.0
+}
+},
+{
+"id": "ch2-ep6-p1-q3",
+"n": 3,
+"q": "How have the political parties' membership numbers developed overall since 1950?",
+"options": [
+{
+"l": "A",
+"t": "They have fallen"
+},
+{
+"l": "B",
+"t": "They have risen"
+}
+],
+"answer": "A",
+"answerText": "They have fallen",
+"appeared": "It appeared in 4 different exams, most recently in June 2026.",
+"da": {
+"q": "Hvordan har de politiske partiers medlemstal overordnet udviklet sig siden 1950?",
+"options": [
+"De er faldet",
+"De er steget"
+],
+"answer": "De er faldet"
+},
+"qStart": 436.8,
+"aStart": 453.65,
+"aEnd": 461.06,
+"learn": {
+"start": 180.6,
+"end": 195.0,
+"text": "The parties act in that way as mouthpieces for the population's different political opinions, but they also have great influence on voters' opinions.",
+"score": 4.5
+}
+}
+]

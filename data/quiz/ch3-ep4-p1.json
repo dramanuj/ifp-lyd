@@ -1,0 +1,192 @@
+[
+{
+"id": "ch3-ep4-p1-q1",
+"n": 1,
+"q": "How large a share of those in employment work in the public sector?",
+"options": [
+{
+"l": "A",
+"t": "About one third"
+},
+{
+"l": "B",
+"t": "About two thirds"
+}
+],
+"answer": "A",
+"answerText": "About one third",
+"appeared": "It appeared in the June 2020 and November 2021 exams.",
+"da": {
+"q": "Hvor stor en del af de beskæftigede arbejder i den offentlige sektor?",
+"options": [
+"Ca. en tredjedel",
+"Ca. to tredjedele"
+],
+"answer": "Ca. en tredjedel"
+},
+"qStart": 616.34,
+"aStart": 632.36,
+"aEnd": 639.27,
+"learn": {
+"start": 196.76,
+"end": 208.29,
+"text": "That is roughly one third, so most employees, about two thirds, work in the private sector, not the public sector.",
+"score": 6.0
+}
+},
+{
+"id": "ch3-ep4-p1-q2",
+"n": 2,
+"q": "Is the majority of employees in Denmark employed in the public sector?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the May 2025 exam.",
+"da": {
+"q": "Er flertallet af lønmodtagerne i Danmark ansat i den offentlige sektor?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 639.82,
+"aStart": 654.74,
+"aEnd": 659.37,
+"learn": {
+"start": 184.22,
+"end": 200.95,
+"text": "Today, almost four out of five people employed work in private or public service companies, for example in tourism, health, consulting or education. About 30 percent of employees in Denmark work in the public sector.",
+"score": 4.3
+}
+},
+{
+"id": "ch3-ep4-p1-q3",
+"n": 3,
+"q": "Which of the following companies is known for producing wind turbines?",
+"options": [
+{
+"l": "A",
+"t": "Novo Nordisk"
+},
+{
+"l": "B",
+"t": "Mærsk"
+},
+{
+"l": "C",
+"t": "Vestas"
+}
+],
+"answer": "C",
+"answerText": "Vestas",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Hvilken af følgende virksomheder er kendt for at producere vindmøller?",
+"options": [
+"Novo Nordisk",
+"Mærsk",
+"Vestas"
+],
+"answer": "Vestas"
+},
+"qStart": 659.92,
+"aStart": 678.23,
+"aEnd": 683.45,
+"learn": {
+"start": 309.59,
+"end": 331.14,
+"text": "Add to that companies from the green sector. The Danish Vestas was in 2024 the world's largest wind turbine producer.",
+"score": 3.0
+}
+},
+{
+"id": "ch3-ep4-p1-q4",
+"n": 4,
+"q": "Where did most people work around 1850?",
+"options": [
+{
+"l": "A",
+"t": "In industry"
+},
+{
+"l": "B",
+"t": "In agriculture"
+},
+{
+"l": "C",
+"t": "In fishing"
+}
+],
+"answer": "B",
+"answerText": "In agriculture",
+"appeared": "It appeared in the May 2024 and June 2026 exams.",
+"da": {
+"q": "Hvor arbejdede der flest mennesker omkring 1850?",
+"options": [
+"I industrien",
+"I landbruget",
+"I fiskeriet"
+],
+"answer": "I landbruget"
+},
+"qStart": 684.0,
+"aStart": 700.65,
+"aEnd": 707.2,
+"learn": {
+"start": 156.96,
+"end": 184.22,
+"text": "Progress continued, but at a somewhat slower pace, until the second big wave of industrialisation, which was from the end of the 1950s to around 1970. From the beginning of the 1970s, the share of people employed in industry fell, just as had earlier happened in agriculture.",
+"score": 3.0
+}
+},
+{
+"id": "ch3-ep4-p1-q5",
+"n": 5,
+"q": "Which country does Denmark have the largest trade with, imports and exports combined, according to the 2026 edition of the learning material? This is an updated question, because older exam keys said Germany.",
+"options": [
+{
+"l": "A",
+"t": "China"
+},
+{
+"l": "B",
+"t": "The USA"
+},
+{
+"l": "C",
+"t": "Germany"
+}
+],
+"answer": "B",
+"answerText": "The USA",
+"appeared": "This is not an old exam answer: older exam keys said Germany, but in the 2026 material the USA, with 14.1 percent, is ahead of Germany, with 12.7 percent.",
+"da": {
+"q": "Hvilket af følgende lande har Danmark størst samhandel (import og eksport) med? [opdateret til lærematerialet 2026]",
+"options": [
+"Kina",
+"USA",
+"Tyskland"
+],
+"answer": "USA"
+},
+"qStart": 707.75,
+"aStart": 735.3,
+"aEnd": 750.7,
+"learn": {
+"start": 348.37,
+"end": 371.05,
+"text": "That is naturally also because Denmark is a small country, and trade with other countries, not least the neighbouring countries, therefore takes up a lot of space. Germany is the country Denmark imports, buys, most from, and the USA is the country Denmark exports, sells, most to.",
+"score": 7.4
+}
+}
+]

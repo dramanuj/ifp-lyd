@@ -1,0 +1,282 @@
+[
+{
+"id": "ch6-ep3-p1-q1",
+"n": 1,
+"q": "Where are the most Danish kings and queens buried?",
+"options": [
+{
+"l": "A",
+"t": "Viborg Cathedral"
+},
+{
+"l": "B",
+"t": "Roskilde Cathedral"
+},
+{
+"l": "C",
+"t": "Ribe Cathedral"
+}
+],
+"answer": "B",
+"answerText": "Roskilde Cathedral",
+"appeared": "It appeared in the November 2023 and May 2025 exams.",
+"da": {
+"q": "Hvor ligger flest danske konger og dronninger begravet?",
+"options": [
+"Viborg Domkirke",
+"Roskilde Domkirke",
+"Ribe Domkirke"
+],
+"answer": "Roskilde Domkirke"
+},
+"qStart": 561.3,
+"aStart": 579.77,
+"aEnd": 587.18,
+"learn": {
+"start": 132.73,
+"end": 157.38,
+"text": "Since the beginning of the 1400s, Roskilde Cathedral has been the Danish royal family's preferred burial church. About 40 Danish kings and queens, more than anywhere else, are buried here.",
+"score": 6.1
+}
+},
+{
+"id": "ch6-ep3-p1-q2",
+"n": 2,
+"q": "In which Danish city can you visit H.C. Andersen's House?",
+"options": [
+{
+"l": "A",
+"t": "Aarhus"
+},
+{
+"l": "B",
+"t": "Odense"
+},
+{
+"l": "C",
+"t": "Copenhagen"
+}
+],
+"answer": "B",
+"answerText": "Odense",
+"appeared": "It appeared in the May 2024 exam.",
+"da": {
+"q": "I hvilken dansk by kan man besøge H.C. Andersens Hus?",
+"options": [
+"Aarhus",
+"Odense",
+"København"
+],
+"answer": "Odense"
+},
+"qStart": 587.73,
+"aStart": 605.8,
+"aEnd": 610.6,
+"learn": {
+"start": 341.94,
+"end": 355.4,
+"text": "Andersen's House, H.C. Andersens Hus. In 2021 an entirely new museum opened about the poet and his beloved fairy tales in Odense's H.C.",
+"score": 2.7
+}
+},
+{
+"id": "ch6-ep3-p1-q3",
+"n": 3,
+"q": "What function did Kronborg Castle in Helsingør have until 1857?",
+"options": [
+{
+"l": "A",
+"t": "Home of the Supreme Court"
+},
+{
+"l": "B",
+"t": "Burial place of Danish kings and queens"
+},
+{
+"l": "C",
+"t": "Collecting toll from ships sailing through Øresund"
+}
+],
+"answer": "C",
+"answerText": "Collecting toll from ships sailing through Øresund",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "Hvilken funktion havde Kronborg Slot i Helsingør frem til 1857?",
+"options": [
+"Hjemsted for Højesteret",
+"Gravsted for danske konger og dronninger",
+"Opkrævning af told fra skibe, der sejlede gennem Øresund"
+],
+"answer": "Opkrævning af told fra skibe, der sejlede gennem Øresund"
+},
+"qStart": 611.15,
+"aStart": 634.71,
+"aEnd": 642.05,
+"learn": {
+"start": 454.1,
+"end": 474.69,
+"text": "From 1429 ships through Øresund had to pay the Sound Dues, abolished in 1857. Kronborg, at Helsingør, was built to secure the Sound Dues: until 1857 its job was to collect toll, told, from every ship sailing through the Øresund.",
+"score": 10.0
+}
+},
+{
+"id": "ch6-ep3-p1-q4",
+"n": 4,
+"q": "Which island is, among other things, known for its round churches?",
+"options": [
+{
+"l": "A",
+"t": "Bornholm"
+},
+{
+"l": "B",
+"t": "Samsø"
+},
+{
+"l": "C",
+"t": "Langeland"
+}
+],
+"answer": "A",
+"answerText": "Bornholm",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "Hvilken ø er blandt andet kendt for sine runde kirker?",
+"options": [
+"Bornholm",
+"Samsø",
+"Langeland"
+],
+"answer": "Bornholm"
+},
+"qStart": 642.6,
+"aStart": 660.66,
+"aEnd": 665.7,
+"learn": {
+"start": 423.41,
+"end": 429.16,
+"text": "Bornholm is not least known for its four round churches, rundkirker.",
+"score": 4.5
+}
+},
+{
+"id": "ch6-ep3-p1-q5",
+"n": 5,
+"q": "Which Danish island is known for its almost 130-metre-high cliff?",
+"options": [
+{
+"l": "A",
+"t": "Møn"
+},
+{
+"l": "B",
+"t": "Læsø"
+},
+{
+"l": "C",
+"t": "Als"
+}
+],
+"answer": "A",
+"answerText": "Møn",
+"appeared": "It appeared in the May 2025 exam.",
+"da": {
+"q": "Hvilken dansk ø er kendt for sin næsten 130 meter høje klint (skrænt ved kyst)?",
+"options": [
+"Møn",
+"Læsø",
+"Als"
+],
+"answer": "Møn"
+},
+"qStart": 666.25,
+"aStart": 684.22,
+"aEnd": 688.63,
+"learn": {
+"start": 213.42,
+"end": 225.06,
+"text": "The up to 40-metre-high cliff in East Zealand facing the Baltic Sea is built up over millions of years of ancient layers of white-grey limestone, white chalk and flint.",
+"score": 3.0
+}
+},
+{
+"id": "ch6-ep3-p1-q6",
+"n": 6,
+"q": "Which Zealand castle forms the setting of William Shakespeare's play Hamlet?",
+"options": [
+{
+"l": "A",
+"t": "Amalienborg"
+},
+{
+"l": "B",
+"t": "Kronborg"
+},
+{
+"l": "C",
+"t": "Fredensborg Castle"
+}
+],
+"answer": "B",
+"answerText": "Kronborg",
+"appeared": "It appeared in the June 2026 exam.",
+"da": {
+"q": "Hvilket sjællandsk slot danner rammen om William Shakespeares teaterstykke Hamlet?",
+"options": [
+"Amalienborg",
+"Kronborg",
+"Fredensborg Slot"
+],
+"answer": "Kronborg"
+},
+"qStart": 689.08,
+"aStart": 709.46,
+"aEnd": 714.59,
+"learn": {
+"start": 75.71,
+"end": 97.94,
+"text": "Kronborg Castle is especially known abroad because it forms the setting of the English playwright William Shakespeare's play \"The Tragedy of Hamlet, Prince of Denmark\" from 1603, often shortened to Hamlet.",
+"score": 8.5
+}
+},
+{
+"id": "ch6-ep3-p1-q7",
+"n": 7,
+"q": "On which Danish island does the ruin Hammershus lie?",
+"options": [
+{
+"l": "A",
+"t": "Samsø"
+},
+{
+"l": "B",
+"t": "Langeland"
+},
+{
+"l": "C",
+"t": "Bornholm"
+}
+],
+"answer": "C",
+"answerText": "Bornholm",
+"appeared": "It appeared in the June 2026 exam.",
+"da": {
+"q": "På hvilken dansk ø ligger ruinen Hammershus?",
+"options": [
+"Samsø",
+"Langeland",
+"Bornholm"
+],
+"answer": "Bornholm"
+},
+"qStart": 715.14,
+"aStart": 732.68,
+"aEnd": 737.81,
+"learn": {
+"start": 524.54,
+"end": 545.25,
+"text": "Hammershus, built in the 1200s, was abandoned in 1743 and is Northern Europe's largest castle ruin. Bornholm has four round churches, and Østerlars is the largest, from about 1150.",
+"score": 3.0
+}
+}
+]

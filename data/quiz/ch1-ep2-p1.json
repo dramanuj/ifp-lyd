@@ -1,0 +1,437 @@
+[
+{
+"id": "ch1-ep2-p1-q1",
+"n": 1,
+"q": "In which century did the Danish slave trade between Africa and the Danish colonies in the Caribbean take place?",
+"options": [
+{
+"l": "A",
+"t": "The 1100s"
+},
+{
+"l": "B",
+"t": "The 1400s"
+},
+{
+"l": "C",
+"t": "The 1700s"
+}
+],
+"answer": "C",
+"answerText": "The 1700s",
+"appeared": "It appeared in the May 2023 and November 2024 exams.",
+"da": {
+"q": "I hvilket af følgende århundreder fandt dansk slavehandel mellem Afrika og de danske kolonier i Caribien sted?",
+"options": [
+"1100-tallet",
+"1400-tallet",
+"1700-tallet"
+],
+"answer": "1700-tallet"
+},
+"qStart": 845.09,
+"aStart": 867.69,
+"aEnd": 875.08,
+"learn": {
+"start": 149.17,
+"end": 162.11,
+"text": "The Danish slave trade took place in the 1700s, until the ban of 1803.",
+"score": 5.5
+}
+},
+{
+"id": "ch1-ep2-p1-q2",
+"n": 2,
+"q": "Which country was the Danish West Indies sold to in 1917?",
+"options": [
+{
+"l": "A",
+"t": "France"
+},
+{
+"l": "B",
+"t": "Great Britain"
+},
+{
+"l": "C",
+"t": "The USA"
+}
+],
+"answer": "C",
+"answerText": "The USA",
+"appeared": "It appeared in the November 2022 and November 2025 exams.",
+"da": {
+"q": "Hvilket land blev Dansk Vestindien solgt til i 1917?",
+"options": [
+"Frankrig",
+"Storbritannien",
+"USA"
+],
+"answer": "USA"
+},
+"qStart": 875.63,
+"aStart": 893.94,
+"aEnd": 901.01,
+"learn": {
+"start": 187.15,
+"end": 201.32,
+"text": "The Danish West Indian Islands were sold to the USA in 1917, and today they go by the name the American Virgin Islands.",
+"score": 5.5
+}
+},
+{
+"id": "ch1-ep2-p1-q3",
+"n": 3,
+"q": "Which population group had its rights limited by the introduction of the stavnsbånd in 1733?",
+"options": [
+{
+"l": "A",
+"t": "The middle class"
+},
+{
+"l": "B",
+"t": "The peasants"
+},
+{
+"l": "C",
+"t": "The nobility"
+}
+],
+"answer": "B",
+"answerText": "The peasants",
+"appeared": "It appeared in the June 2021 and November 2022 exams.",
+"da": {
+"q": "Hvilken befolkningsgruppe fik begrænset deres rettigheder med indførelsen af stavnsbåndet i 1733?",
+"options": [
+"Borgerskabet",
+"Bønderne",
+"Adelen"
+],
+"answer": "Bønderne"
+},
+"qStart": 901.56,
+"aStart": 922.39,
+"aEnd": 929.11,
+"learn": {
+"start": 248.8,
+"end": 269.37,
+"text": "To secure stable labour on the estates, the king introduced the stavnsbånd in 1733. It meant that all peasants, who made up most of the population, had to stay on the estate where they were born, until they were forty years old.",
+"score": 4.8
+}
+},
+{
+"id": "ch1-ep2-p1-q4",
+"n": 4,
+"q": "What did the stavnsbånd of the 1700s involve?",
+"options": [
+{
+"l": "A",
+"t": "That the king had the exclusive right to trade with foreign countries"
+},
+{
+"l": "B",
+"t": "That peasants had a limited right to move"
+},
+{
+"l": "C",
+"t": "That Christianity was the only permitted religion"
+}
+],
+"answer": "B",
+"answerText": "That peasants had a limited right to move",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Hvad indebar stavnsbåndet i 1700-tallet?",
+"options": [
+"At kongen havde eneret på at handle med udlandet",
+"At bønderne havde begrænset ret til at flytte",
+"At kristendommen var den eneste tilladte religion"
+],
+"answer": "At bønderne havde begrænset ret til at flytte"
+},
+"qStart": 929.66,
+"aStart": 953.82,
+"aEnd": 960.7,
+"learn": {
+"start": 246.6,
+"end": 269.37,
+"text": "In the first half of the 1700s, there was an economic crisis in Danish agriculture. To secure stable labour on the estates, the king introduced the stavnsbånd in 1733. It meant that all peasants, who made up most of the population, had to stay on the estate where they were born, until they were forty years old.",
+"score": 3.8
+}
+},
+{
+"id": "ch1-ep2-p1-q5",
+"n": 5,
+"q": "Which country was Denmark in union with until 1814?",
+"options": [
+{
+"l": "A",
+"t": "Sweden"
+},
+{
+"l": "B",
+"t": "Estonia"
+},
+{
+"l": "C",
+"t": "Norway"
+}
+],
+"answer": "C",
+"answerText": "Norway",
+"appeared": "It appeared in the June 2021 and May 2023 exams.",
+"da": {
+"q": "Hvilket land var Danmark i union med indtil 1814?",
+"options": [
+"Sverige",
+"Estland",
+"Norge"
+],
+"answer": "Norge"
+},
+"qStart": 961.25,
+"aStart": 978.84,
+"aEnd": 985.24,
+"learn": {
+"start": 685.67,
+"end": 705.35,
+"text": "This meant that in a peace agreement in 1814, Denmark had to give Norway to Sweden. Over four hundred years of Danish-Norwegian union, since 1380, was thereby brought to an end.",
+"score": 3.9
+}
+},
+{
+"id": "ch1-ep2-p1-q6",
+"n": 6,
+"q": "Which country defeated Denmark in the Battle of the Roads in 1801, during the Napoleonic Wars?",
+"options": [
+{
+"l": "A",
+"t": "Great Britain"
+},
+{
+"l": "B",
+"t": "The Netherlands"
+},
+{
+"l": "C",
+"t": "Spain"
+}
+],
+"answer": "A",
+"answerText": "Great Britain",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "Hvilket land blev Danmark angrebet og besejret af i Slaget på Reden i 1801 under Napoleonskrigene?",
+"options": [
+"Storbritannien",
+"Nederlandene",
+"Spanien"
+],
+"answer": "Storbritannien"
+},
+"qStart": 985.79,
+"aStart": 1006.47,
+"aEnd": 1011.94,
+"learn": {
+"start": 619.85,
+"end": 653.38,
+"text": "The merchant fleet was protected by Denmark's own war fleet, and Great Britain was unhappy about that, because it did not want Denmark to trade with France. So in 1801 the British fleet attacked and defeated the Danish fleet. The battle is called the Battle of the Roads, Slaget på Reden, because it took place in the waters just outside Copenhagen's harbour, in the area called Copenhagen Roads.",
+"score": 6.2
+}
+},
+{
+"id": "ch1-ep2-p1-q7",
+"n": 7,
+"q": "What happened in Denmark in 1807?",
+"options": [
+{
+"l": "A",
+"t": "Denmark had to cede Schleswig"
+},
+{
+"l": "B",
+"t": "The king signed Denmark's Constitution"
+},
+{
+"l": "C",
+"t": "The British bombarded Copenhagen"
+}
+],
+"answer": "C",
+"answerText": "The British bombarded Copenhagen",
+"appeared": "It appeared in the November 2021 exam.",
+"da": {
+"q": "Hvilken begivenhed fandt sted i Danmark i 1807?",
+"options": [
+"Danmark måtte afstå Slesvig",
+"Kongen underskrev Danmarks Riges Grundlov",
+"Briterne bombarderede København"
+],
+"answer": "Briterne bombarderede København"
+},
+"qStart": 1012.49,
+"aStart": 1033.51,
+"aEnd": 1040.11,
+"learn": {
+"start": 653.38,
+"end": 676.91,
+"text": "In 1807, the French emperor Napoleon the First wanted to wage economic war on Great Britain by blocking the trade routes to and from Great Britain with warships. To prevent Napoleon from using the Danish ships in the blockade, the British chose to seize the whole Danish fleet, and bombarded Copenhagen in the process.",
+"score": 4.8
+}
+},
+{
+"id": "ch1-ep2-p1-q8",
+"n": 8,
+"q": "When did Denmark's Constitution come into force?",
+"options": [
+{
+"l": "A",
+"t": "1849"
+},
+{
+"l": "B",
+"t": "1864"
+},
+{
+"l": "C",
+"t": "1899"
+}
+],
+"answer": "A",
+"answerText": "1849",
+"appeared": "It appeared in 4 different exams, most recently in June 2026.",
+"da": {
+"q": "Hvornår trådte Danmarks Riges Grundlov i kraft?",
+"options": [
+"1849",
+"1864",
+"1899"
+],
+"answer": "1849"
+},
+"qStart": 1040.66,
+"aStart": 1059.3,
+"aEnd": 1067.12,
+"learn": {
+"start": 751.7,
+"end": 766.68,
+"text": "On the fifth of June, 1849, Frederik the Seventh signed Denmark's first free constitution, \"Danmarks Riges Grundlov\".",
+"score": 3.5
+}
+},
+{
+"id": "ch1-ep2-p1-q9",
+"n": 9,
+"q": "What happened in 1849?",
+"options": [
+{
+"l": "A",
+"t": "Denmark lost Skåne"
+},
+{
+"l": "B",
+"t": "The stavnsbånd was abolished"
+},
+{
+"l": "C",
+"t": "The constitution was introduced"
+}
+],
+"answer": "C",
+"answerText": "The constitution was introduced",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "Hvad skete i 1849?",
+"options": [
+"Danmark mistede Skåne",
+"Stavnsbåndet blev ophævet",
+"Grundloven blev indført"
+],
+"answer": "Grundloven blev indført"
+},
+"qStart": 1067.67,
+"aStart": 1086.74,
+"aEnd": 1092.98,
+"learn": {
+"start": 751.7,
+"end": 766.68,
+"text": "On the fifth of June, 1849, Frederik the Seventh signed Denmark's first free constitution, \"Danmarks Riges Grundlov\".",
+"score": 2.5
+}
+},
+{
+"id": "ch1-ep2-p1-q10",
+"n": 10,
+"q": "Did women get the vote for the Folketing with the constitution of 1849?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the November 2023 and November 2025 exams.",
+"da": {
+"q": "Fik kvinder valgret til Folketinget med grundloven i 1849?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 1093.53,
+"aStart": 1109.17,
+"aEnd": 1115.96,
+"learn": {
+"start": 793.42,
+"end": 821.3,
+"text": "To be elected to the Folketing, you had to be twenty-five years old, while members of the Landsting had to be forty and have a high income. Neither women nor the poor had the right to vote, or could be elected to either of the two chambers. All in all, the constitution meant that about fifteen percent of the population over thirty had the right to vote.",
+"score": 3.1
+}
+},
+{
+"id": "ch1-ep2-p1-q11",
+"n": 11,
+"q": "Which island group is in the Realm Community with Denmark?",
+"options": [
+{
+"l": "A",
+"t": "The Faroe Islands"
+},
+{
+"l": "B",
+"t": "The Orkney Islands"
+},
+{
+"l": "C",
+"t": "The Shetland Islands"
+}
+],
+"answer": "A",
+"answerText": "The Faroe Islands",
+"appeared": "It appeared in the June 2020 and June 2021 exams.",
+"da": {
+"q": "Hvilken af følgende øgrupper er i rigsfællesskab med Danmark?",
+"options": [
+"Færøerne",
+"Orkneyøerne",
+"Shetlandsøerne"
+],
+"answer": "Færøerne"
+},
+"qStart": 1116.51,
+"aStart": 1135.56,
+"aEnd": 1142.44,
+"learn": {
+"start": 192.95,
+"end": 210.53,
+"text": "Greenland now has self-government, but is still in a so-called Realm Community, the rigsfællesskab, with Denmark, together with the Faroe Islands.",
+"score": 6.0
+}
+}
+]

@@ -1,0 +1,42 @@
+[
+{
+"id": "ch4-ep7-p1-q1",
+"n": 1,
+"q": "Where does the USA have the Thule air base?",
+"options": [
+{
+"l": "A",
+"t": "On Bornholm"
+},
+{
+"l": "B",
+"t": "In the Faroe Islands"
+},
+{
+"l": "C",
+"t": "In Greenland"
+}
+],
+"answer": "C",
+"answerText": "In Greenland",
+"appeared": "It appeared in the November 2021 and November 2024 exams.",
+"da": {
+"q": "Hvor har USA luftbasen Thulebasen?",
+"options": [
+"På Bornholm",
+"På Færøerne",
+"I Grønland"
+],
+"answer": "I Grønland"
+},
+"qStart": 797.8,
+"aStart": 814.81,
+"aEnd": 821.48,
+"learn": {
+"start": 744.31,
+"end": 763.11,
+"text": "In 1951, Denmark and the USA signed an agreement on US military activities in Greenland, and the Thule air base at Qaanaaq was built; it is now called Pituffik Space Base.",
+"score": 5.5
+}
+}
+]

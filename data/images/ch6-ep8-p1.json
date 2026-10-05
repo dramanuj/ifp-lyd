@@ -1,0 +1,62 @@
+{
+ "version": 1,
+ "partId": "ch6-ep8-p1",
+ "images": [
+  {
+   "id": "p203-fig1",
+   "src": "images/ch6/p203-fig1.svg",
+   "start": 21.8,
+   "caption": "Map of the Faroe Islands.",
+   "illustration": true,
+   "alt": "Map of the Faroe Islands.",
+   "page": 203,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "map",
+   "width": 1600,
+   "height": 900,
+   "end": 32.6
+  },
+  {
+   "id": "p207-fig1",
+   "src": "images/ch6/p207-fig1.svg",
+   "start": 32.6,
+   "caption": "The Faroe Islands' capital and largest town, Tórshavn.",
+   "illustration": true,
+   "alt": "The Faroe Islands' capital and largest town, Tórshavn.",
+   "page": 207,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 122.6
+  },
+  {
+   "id": "p204-fig1",
+   "src": "images/ch6/p204-fig1.svg",
+   "start": 157.9,
+   "caption": "Ruins from the 1700s of sheep stables at the village of Trøllanes in the Faroe Islands.",
+   "illustration": true,
+   "alt": "Ruins from the 1700s of sheep stables at the village of Trøllanes in the Faroe Islands.",
+   "page": 204,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 247.9
+  },
+  {
+   "id": "p205-fig1",
+   "src": "images/ch6/p205-fig1.svg",
+   "start": 695.3,
+   "caption": "Fishing from a Faroese trawler.",
+   "illustration": true,
+   "alt": "Fishing from a Faroese trawler.",
+   "page": 205,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 785.3
+  }
+ ]
+}

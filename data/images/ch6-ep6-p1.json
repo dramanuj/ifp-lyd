@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "partId": "ch6-ep6-p1",
+ "images": [
+  {
+   "id": "p194-fig1",
+   "src": "images/ch6/p194-fig1.svg",
+   "start": 224.3,
+   "caption": "Iranian refugees arrive in Denmark in 1984.",
+   "illustration": true,
+   "alt": "Iranian refugees arrive in Denmark in 1984.",
+   "page": 194,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 314.3
+  },
+  {
+   "id": "p193-fig1",
+   "src": "images/ch6/p193-fig1.svg",
+   "start": 408.3,
+   "caption": "A Danish fishing cutter with Jewish refugees heading for the Swedish coast in 1943.",
+   "illustration": true,
+   "alt": "A Danish fishing cutter with Jewish refugees heading for the Swedish coast in 1943.",
+   "page": 193,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 454.4
+  },
+  {
+   "id": "p195-fig1",
+   "src": "images/ch6/p195-fig1.svg",
+   "start": 454.4,
+   "caption": "Eastern European craftsmen laying a roof on a house near Copenhagen.",
+   "illustration": true,
+   "alt": "Eastern European craftsmen laying a roof on a house near Copenhagen.",
+   "page": 195,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 544.4
+  }
+ ]
+}

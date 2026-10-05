@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "partId": "ch5-ep5-p1",
+ "images": [
+  {
+   "id": "p159-fig1",
+   "src": "images/ch5/p159-fig1.svg",
+   "start": 261.8,
+   "caption": "Gasolin, a Danish rock group in the 1970s.",
+   "illustration": true,
+   "alt": "Gasolin, a Danish rock group in the 1970s.",
+   "page": 159,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 351.8
+  },
+  {
+   "id": "p160-fig1",
+   "src": "images/ch5/p160-fig1.svg",
+   "start": 370.2,
+   "caption": "The pop group Aqua in 1998.",
+   "illustration": true,
+   "alt": "The pop group Aqua in 1998.",
+   "page": 160,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 405.9
+  },
+  {
+   "id": "p160-fig2",
+   "src": "images/ch5/p160-fig2.svg",
+   "start": 405.9,
+   "caption": "Emmelie de Forest, winner of the Eurovision Song Contest 2013.",
+   "illustration": true,
+   "alt": "Emmelie de Forest, winner of the Eurovision Song Contest 2013.",
+   "page": 160,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 495.9
+  }
+ ]
+}

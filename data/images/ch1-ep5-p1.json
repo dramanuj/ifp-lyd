@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "partId": "ch1-ep5-p1",
+ "images": [
+  {
+   "id": "p051-fig1",
+   "src": "images/ch1/p051-fig1.svg",
+   "start": 198.4,
+   "caption": "A demonstration on City Hall Square against Denmark's membership of the EC.",
+   "illustration": true,
+   "alt": "A demonstration on City Hall Square against Denmark's membership of the EC.",
+   "page": 51,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 288.4
+  },
+  {
+   "id": "p054-fig1",
+   "src": "images/ch1/p054-fig1.svg",
+   "start": 701.7,
+   "caption": "The international symbol of the anti-nuclear-power movement, which originated in the Danish branch of the movement.",
+   "illustration": true,
+   "alt": "The international symbol of the anti-nuclear-power movement, which originated in the Danish branch of the movement.",
+   "page": 54,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 791.7
+  },
+  {
+   "id": "p053-fig1",
+   "src": "images/ch1/p053-fig1.svg",
+   "start": 815.1,
+   "caption": "Poul Schlüter was prime minister 1982-93.",
+   "illustration": true,
+   "alt": "Poul Schlüter was prime minister 1982-93.",
+   "page": 53,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 905.1
+  }
+ ]
+}

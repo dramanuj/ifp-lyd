@@ -1,0 +1,162 @@
+[
+{
+"id": "ch6-ep10-p1-q1",
+"n": 1,
+"q": "Which Danish scientist is known for discovering electromagnetism?",
+"options": [
+{
+"l": "A",
+"t": "Niels Bohr"
+},
+{
+"l": "B",
+"t": "Ole Rømer"
+},
+{
+"l": "C",
+"t": "H.C. Ørsted"
+}
+],
+"answer": "C",
+"answerText": "H.C. Ørsted",
+"appeared": "It appeared in the June 2020 exam.",
+"da": {
+"q": "Hvilken dansk videnskabsmand er kendt for opdagelsen af elektromagnetismen?",
+"options": [
+"Niels Bohr",
+"Ole Rømer",
+"H.C. Ørsted"
+],
+"answer": "H.C. Ørsted"
+},
+"qStart": 384.01,
+"aStart": 404.98,
+"aEnd": 411.84,
+"learn": {
+"start": 230.84,
+"end": 244.9,
+"text": "Ørsted, who lived from 1777 to 1851, discovered that electric current produces magnetism, the so-called electromagnetism.",
+"score": 2.5
+}
+},
+{
+"id": "ch6-ep10-p1-q2",
+"n": 2,
+"q": "When did the philosopher Søren Kierkegaard live?",
+"options": [
+{
+"l": "A",
+"t": "In the 1700s"
+},
+{
+"l": "B",
+"t": "In the 1800s"
+},
+{
+"l": "C",
+"t": "In the 1900s"
+}
+],
+"answer": "B",
+"answerText": "In the 1800s",
+"appeared": "It appeared in the June 2020 and May 2025 exams.",
+"da": {
+"q": "Hvornår levede filosoffen Søren Kierkegaard?",
+"options": [
+"I 1700-tallet",
+"I 1800-tallet",
+"I 1900-tallet"
+],
+"answer": "I 1800-tallet"
+},
+"qStart": 412.39,
+"aStart": 431.2,
+"aEnd": 438.04,
+"learn": {
+"start": 306.65,
+"end": 339.97,
+"text": "Søren Kierkegaard is regarded as the founder of existentialist philosophy, which assumes that every human being becomes who they are through the choices they make. In the middle of the 1800s, ideas about women's liberation and equality between the sexes were formulated by the author Mathilde Fibiger, who lived from 1830 to 1872, who published the epistolary novel Clara Raphael.",
+"score": 3.0
+}
+},
+{
+"id": "ch6-ep10-p1-q3",
+"n": 3,
+"q": "What is Vitus Bering especially known for?",
+"options": [
+{
+"l": "A",
+"t": "He was a philosopher"
+},
+{
+"l": "B",
+"t": "He was an explorer"
+},
+{
+"l": "C",
+"t": "He was a composer"
+}
+],
+"answer": "B",
+"answerText": "He was an explorer",
+"appeared": "It appeared in the November 2023 exam.",
+"da": {
+"q": "Hvad er Vitus Bering særligt kendt for?",
+"options": [
+"Han var filosof",
+"Han var opdagelsesrejsende",
+"Han var komponist"
+],
+"answer": "Han var opdagelsesrejsende"
+},
+"qStart": 438.59,
+"aStart": 456.65,
+"aEnd": 462.26,
+"learn": {
+"start": 154.27,
+"end": 184.9,
+"text": "Until the beginning of the 1700s, it was not known whether Asia and North America were connected by land. To explore this question, the Russian tsar, emperor, Peter the Great sent out in 1725 an expedition led by the Danish naval officer and explorer Vitus Bering, who lived from 1681 to 1741.",
+"score": 3.9
+}
+},
+{
+"id": "ch6-ep10-p1-q4",
+"n": 4,
+"q": "What is Tycho Brahe, 1546 to 1601, especially known for?",
+"options": [
+{
+"l": "A",
+"t": "He was an astronomer"
+},
+{
+"l": "B",
+"t": "He was a hymn writer"
+},
+{
+"l": "C",
+"t": "He was an explorer"
+}
+],
+"answer": "A",
+"answerText": "He was an astronomer",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "Hvad er Tycho Brahe (1546-1601) særlig kendt for?",
+"options": [
+"Han var astronom",
+"Han var salmedigter",
+"Han var opdagelsesrejsende"
+],
+"answer": "Han var astronom"
+},
+"qStart": 462.81,
+"aStart": 483.4,
+"aEnd": 488.96,
+"learn": {
+"start": 43.28,
+"end": 63.3,
+"text": "One of the first Danish scientists was the astronomer Tycho Brahe, who lived from 1546 to 1601, a nobleman from Skåne, who in 1559 came to Copenhagen to study at the university.",
+"score": 5.5
+}
+}
+]

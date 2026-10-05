@@ -1,0 +1,90 @@
+{
+ "version": 1,
+ "partId": "ch6-ep4-p1",
+ "images": [
+  {
+   "id": "p187-fig1",
+   "src": "images/ch6/p187-fig1.svg",
+   "start": 232.1,
+   "caption": "Amalienborg seen from the air.",
+   "illustration": true,
+   "alt": "Amalienborg seen from the air.",
+   "page": 187,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 322.1
+  },
+  {
+   "id": "p189-fig1",
+   "src": "images/ch6/p189-fig1.svg",
+   "start": 428.3,
+   "caption": "The housing development 8-Tallet in Ørestad on Amager.",
+   "illustration": true,
+   "alt": "The housing development 8-Tallet in Ørestad on Amager.",
+   "page": 189,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 462.8
+  },
+  {
+   "id": "p186-fig1",
+   "src": "images/ch6/p186-fig1.svg",
+   "start": 462.8,
+   "caption": "The Round Tower (Rundetårn) in Copenhagen.",
+   "illustration": true,
+   "alt": "The Round Tower (Rundetårn) in Copenhagen.",
+   "page": 186,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 462.8
+  },
+  {
+   "id": "p186-fig2",
+   "src": "images/ch6/p186-fig2.svg",
+   "start": 462.8,
+   "caption": "Rosenborg Castle in Copenhagen.",
+   "illustration": true,
+   "alt": "Rosenborg Castle in Copenhagen.",
+   "page": 186,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 511.7
+  },
+  {
+   "id": "p188-fig1",
+   "src": "images/ch6/p188-fig1.svg",
+   "start": 511.7,
+   "caption": "Tivoli in Copenhagen on a summer evening.",
+   "illustration": true,
+   "alt": "Tivoli in Copenhagen on a summer evening.",
+   "page": 188,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 511.7
+  },
+  {
+   "id": "p188-fig2",
+   "src": "images/ch6/p188-fig2.svg",
+   "start": 511.7,
+   "caption": "The statue of the Little Mermaid at Langelinie in Copenhagen.",
+   "illustration": true,
+   "alt": "The statue of the Little Mermaid at Langelinie in Copenhagen.",
+   "page": 188,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 601.7
+  }
+ ]
+}

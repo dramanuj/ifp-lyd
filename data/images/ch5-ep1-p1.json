@@ -1,0 +1,20 @@
+{
+ "version": 1,
+ "partId": "ch5-ep1-p1",
+ "images": [
+  {
+   "id": "p145-fig1",
+   "src": "images/ch5/p145-fig1.svg",
+   "start": 118.5,
+   "caption": "Danish art history has traces going back to the Stone Age. Here pottery in the form of the so-called 'Skarpsalling vessel', made about 3,200 years before Christ.",
+   "illustration": true,
+   "alt": "Danish art history has traces going back to the Stone Age. Here pottery in the form of the so-called 'Skarpsalling vessel', made about 3,200 years before Christ.",
+   "page": 145,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 208.5
+  }
+ ]
+}

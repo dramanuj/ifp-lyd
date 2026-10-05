@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch5-ep8-p1",
+ "images": [
+  {
+   "id": "p168-fig1",
+   "src": "images/ch5/p168-fig1.svg",
+   "start": 83.5,
+   "caption": "Asta Nielsen.",
+   "illustration": true,
+   "alt": "Asta Nielsen.",
+   "page": 168,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 173.5
+  },
+  {
+   "id": "p169-fig1",
+   "src": "images/ch5/p169-fig1.svg",
+   "start": 481.5,
+   "caption": "The TV series Matador.",
+   "illustration": true,
+   "alt": "The TV series Matador.",
+   "page": 169,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 571.5
+  }
+ ]
+}

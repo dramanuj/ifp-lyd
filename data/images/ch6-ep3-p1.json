@@ -1,0 +1,76 @@
+{
+ "version": 1,
+ "partId": "ch6-ep3-p1",
+ "images": [
+  {
+   "id": "p182-fig1",
+   "src": "images/ch6/p182-fig1.svg",
+   "start": 69.0,
+   "caption": "Kronborg Castle at Helsingør (Elsinore).",
+   "illustration": true,
+   "alt": "Kronborg Castle at Helsingør (Elsinore).",
+   "page": 182,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 159.0
+  },
+  {
+   "id": "p183-fig1",
+   "src": "images/ch6/p183-fig1.svg",
+   "start": 170.4,
+   "caption": "Royal tombs in Roskilde Cathedral: King Christian IV (b. 1577, r. 1588-1648) and Queen Anna Cathrine (1577-1612), and King Frederik III (b. 1609, r. 1648-70) and Queen Sophie Amalie (1628-85).",
+   "illustration": true,
+   "alt": "Royal tombs in Roskilde Cathedral: King Christian IV (b. 1577, r. 1588-1648) and Queen Anna Cathrine (1577-1612), and King Frederik III (b. 1609, r. 1648-70) and Queen Sophie Amalie (1628-85).",
+   "page": 183,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 260.4
+  },
+  {
+   "id": "p184-fig1",
+   "src": "images/ch6/p184-fig1.svg",
+   "start": 277.9,
+   "caption": "Møns Klint (the chalk cliffs of Møn).",
+   "illustration": true,
+   "alt": "Møns Klint (the chalk cliffs of Møn).",
+   "page": 184,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 367.9
+  },
+  {
+   "id": "p185-fig1",
+   "src": "images/ch6/p185-fig1.svg",
+   "start": 530.1,
+   "caption": "The ruins of Hammershus on Bornholm.",
+   "illustration": true,
+   "alt": "The ruins of Hammershus on Bornholm.",
+   "page": 185,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 538.9
+  },
+  {
+   "id": "p185-fig2",
+   "src": "images/ch6/p185-fig2.svg",
+   "start": 538.9,
+   "caption": "Østerlars Round Church on Bornholm.",
+   "illustration": true,
+   "alt": "Østerlars Round Church on Bornholm.",
+   "page": 185,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 628.9
+  }
+ ]
+}

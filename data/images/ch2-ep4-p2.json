@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch2-ep4-p2",
+ "images": [
+  {
+   "id": "p083-fig1",
+   "src": "images/ch2/p083-fig1.svg",
+   "start": 60.7,
+   "caption": "A meeting in the Folketing chamber.",
+   "illustration": true,
+   "alt": "A meeting in the Folketing chamber.",
+   "page": 83,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 145.1
+  },
+  {
+   "id": "p084-fig1",
+   "src": "images/ch2/p084-fig1.svg",
+   "start": 145.1,
+   "caption": "A meeting in the Folketing chamber.",
+   "illustration": true,
+   "alt": "A meeting in the Folketing chamber.",
+   "page": 84,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 235.1
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+[
+{
+"id": "ch5-ep3-p1-q1",
+"n": 1,
+"q": "What are Suzanne Brøgger and Naja Marie Aidt especially known for?",
+"options": [
+{
+"l": "A",
+"t": "They are actresses"
+},
+{
+"l": "B",
+"t": "They are painters"
+},
+{
+"l": "C",
+"t": "They are authors"
+}
+],
+"answer": "C",
+"answerText": "They are authors",
+"appeared": "It appeared in the May 2023 exam.",
+"da": {
+"q": "Hvad er Suzanne Brøgger og Naja Marie Aidt især kendte for?",
+"options": [
+"De er skuespillere",
+"De er malere",
+"De er forfattere"
+],
+"answer": "De er forfattere"
+},
+"qStart": 470.69,
+"aStart": 489.33,
+"aEnd": 494.35,
+"learn": {
+"start": 359.99,
+"end": 380.25,
+"text": "Suzanne Brøgger, born 1944, and Naja Marie Aidt, born 1963, are both authors, forfattere.",
+"score": 6.5
+}
+},
+{
+"id": "ch5-ep3-p1-q2",
+"n": 2,
+"q": "What is Inger Christensen, 1935 to 2009, especially known for?",
+"options": [
+{
+"l": "A",
+"t": "She was a painter"
+},
+{
+"l": "B",
+"t": "She was a poet"
+},
+{
+"l": "C",
+"t": "She was an actress"
+}
+],
+"answer": "B",
+"answerText": "She was a poet",
+"appeared": "It appeared in the May 2024 and June 2026 exams.",
+"da": {
+"q": "Hvad er Inger Christensen (1935-2009) særlig kendt for?",
+"options": [
+"Hun var kunstmaler",
+"Hun var digter",
+"Hun var skuespiller"
+],
+"answer": "Hun var digter"
+},
+"qStart": 494.9,
+"aStart": 515.63,
+"aEnd": 522.32,
+"learn": {
+"start": 21.15,
+"end": 37.42,
+"text": "Another striking poet was Inger Christensen, who lived from 1935 to 2009.",
+"score": 5.5
+}
+},
+{
+"id": "ch5-ep3-p1-q3",
+"n": 3,
+"q": "What is Yahya Hassan, 1995 to 2020, especially known for?",
+"options": [
+{
+"l": "A",
+"t": "He was a musician"
+},
+{
+"l": "B",
+"t": "He was a poet"
+},
+{
+"l": "C",
+"t": "He was a football player"
+}
+],
+"answer": "B",
+"answerText": "He was a poet",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "Hvad er Yahya Hassan (1995-2020) særligt kendt for?",
+"options": [
+"Han var musiker",
+"Han var digter",
+"Han var fodboldspiller"
+],
+"answer": "Han var digter"
+},
+"qStart": 522.87,
+"aStart": 543.33,
+"aEnd": 548.73,
+"learn": {
+"start": 93.69,
+"end": 112.08,
+"text": "One of Michael Strunge's later readers was Yahya Hassan, who lived from 1995 to 2020, was a poet, a digter, and made his debut with the poetry collection Yahya Hassan in 2013.",
+"score": 5.5
+}
+}
+]

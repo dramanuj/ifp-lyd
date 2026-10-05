@@ -1,0 +1,117 @@
+[
+{
+"id": "ch3-ep5-p1-q1",
+"n": 1,
+"q": "Who are the contracting parties when collective agreements on, for example, pay, pension and working conditions are made on the private labour market?",
+"options": [
+{
+"l": "A",
+"t": "The state and the municipalities"
+},
+{
+"l": "B",
+"t": "The government and civil servants"
+},
+{
+"l": "C",
+"t": "Trade unions and employers' organisations"
+}
+],
+"answer": "C",
+"answerText": "Trade unions and employers' organisations",
+"appeared": "It appeared in the June 2020, June 2022 and May 2023 exams.",
+"da": {
+"q": "Hvem er aftaleparter, når der skal indgås overenskomster om fx løn, pension og arbejdsforhold på det private arbejdsmarked?",
+"options": [
+"Stat og kommuner",
+"Regering og embedsmænd",
+"Fagforeninger og arbejdsgiverorganisationer"
+],
+"answer": "Fagforeninger og arbejdsgiverorganisationer"
+},
+"qStart": 753.73,
+"aStart": 781.71,
+"aEnd": 791.52,
+"learn": {
+"start": 371.58,
+"end": 402.43,
+"text": "That can be working hours, overtime pay, notice periods or minimum wage. Denmark thus has no statutory minimum wage, but the agreements between trade unions and employers' organisations in reality have the same effect. Another example is employees' pension, where the parties of the labour market have agreed a labour market pension on top of the old-age pension that the state pays.",
+"score": 10.8
+}
+},
+{
+"id": "ch3-ep5-p1-q2",
+"n": 2,
+"q": "Who does DA represent when collective agreements are negotiated on the Danish labour market?",
+"options": [
+{
+"l": "A",
+"t": "The employers"
+},
+{
+"l": "B",
+"t": "The government"
+},
+{
+"l": "C",
+"t": "The employees"
+}
+],
+"answer": "A",
+"answerText": "The employers",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvem repræsenterer DA, når der skal forhandles kollektive overenskomster på det danske arbejds- marked?",
+"options": [
+"Arbejdsgiverne",
+"Regeringen",
+"Lønmodtagerne"
+],
+"answer": "Arbejdsgiverne"
+},
+"qStart": 792.07,
+"aStart": 811.91,
+"aEnd": 817.16,
+"learn": {
+"start": 424.86,
+"end": 448.55,
+"text": "More than 80 percent of the Danish labour market is covered by collective agreements. A collective agreement is an agreement between a trade union and an employer or employers' organisation about pay and working conditions within a particular area, which the parties themselves delimit in the agreement.",
+"score": 5.7
+}
+},
+{
+"id": "ch3-ep5-p1-q3",
+"n": 3,
+"q": "Is the majority of employees on the Danish labour market a member of a trade union?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the June 2022 exam.",
+"da": {
+"q": "Er flertallet af lønmodtagere på det danske arbejdsmarked medlem af en fagforening?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 817.71,
+"aStart": 833.26,
+"aEnd": 837.79,
+"learn": {
+"start": 232.8,
+"end": 251.35,
+"text": "On the Danish labour market, the large majority of employees are professionally organised, although the share has fallen in recent decades. Almost two out of three, 68 percent, of employees were in 2025 members of a trade union.",
+"score": 6.1
+}
+}
+]

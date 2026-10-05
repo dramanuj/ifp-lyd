@@ -1,0 +1,77 @@
+[
+{
+"id": "ch1-ep2-p2-q1",
+"n": 1,
+"q": "Which historical event took place in 1864?",
+"options": [
+{
+"l": "A",
+"t": "Denmark lost the Second Schleswig War"
+},
+{
+"l": "B",
+"t": "Denmark got its first Social Democratic prime minister"
+},
+{
+"l": "C",
+"t": "Danish women got the vote for the Folketing"
+}
+],
+"answer": "A",
+"answerText": "Denmark lost the Second Schleswig War",
+"appeared": "It appeared in the June 2021 and November 2022 exams.",
+"da": {
+"q": "Hvilken historisk begivenhed fandt sted i 1864?",
+"options": [
+"Danmark tabte Den 2. Slesvigske Krig",
+"Danmark fik sin første socialdemokratiske statsminister",
+"Danske kvinder fik valgret til Folketinget"
+],
+"answer": "Danmark tabte Den 2. Slesvigske Krig"
+},
+"qStart": 487.92,
+"aStart": 511.07,
+"aEnd": 519.42,
+"learn": {
+"start": 32.74,
+"end": 46.77,
+"text": "In 1864, the national tensions again triggered a war. This time the Germans won, and Denmark lost both Schleswig and Holstein.",
+"score": 6.1
+}
+},
+{
+"id": "ch1-ep2-p2-q2",
+"n": 2,
+"q": "What was the result of the Second Schleswig War in 1864?",
+"options": [
+{
+"l": "A",
+"t": "Denmark conquered Schleswig"
+},
+{
+"l": "B",
+"t": "Denmark lost Schleswig"
+}
+],
+"answer": "B",
+"answerText": "Denmark lost Schleswig",
+"appeared": "It appeared in the May 2025 exam.",
+"da": {
+"q": "Hvad blev resultatet af Den 2. Slesvigske Krig i 1864?",
+"options": [
+"Danmark erobrede Slesvig",
+"Danmark tabte Slesvig"
+],
+"answer": "Danmark tabte Slesvig"
+},
+"qStart": 519.97,
+"aStart": 537.84,
+"aEnd": 543.65,
+"learn": {
+"start": 32.74,
+"end": 46.77,
+"text": "In 1864, the national tensions again triggered a war. This time the Germans won, and Denmark lost both Schleswig and Holstein.",
+"score": 6.5
+}
+}
+]

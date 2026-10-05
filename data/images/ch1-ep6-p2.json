@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "partId": "ch1-ep6-p2",
+ "images": [
+  {
+   "id": "p061-fig1",
+   "src": "images/ch1/p061-fig1.svg",
+   "start": 111.9,
+   "caption": "Helle Thorning-Schmidt, Denmark's first female prime minister 2011-15, together with Lars Løkke Rasmussen, prime minister 2009-11 and 2015-19.",
+   "illustration": true,
+   "alt": "Helle Thorning-Schmidt, Denmark's first female prime minister 2011-15, together with Lars Løkke Rasmussen, prime minister 2009-11 and 2015-19.",
+   "page": 61,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 201.9
+  },
+  {
+   "id": "p062-fig1",
+   "src": "images/ch1/p062-fig1.svg",
+   "start": 531.9,
+   "caption": "Prime Minister Mette Frederiksen being vaccinated against coronavirus, 2021.",
+   "illustration": true,
+   "alt": "Prime Minister Mette Frederiksen being vaccinated against coronavirus, 2021.",
+   "page": 62,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 561.4
+  },
+  {
+   "id": "p065-fig1",
+   "src": "images/ch1/p065-fig1.svg",
+   "start": 561.4,
+   "caption": "Folketing election 2026: seat distribution and percentage of votes by party.",
+   "illustration": true,
+   "alt": "Folketing election 2026: seat distribution and percentage of votes by party.",
+   "page": 65,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "chart",
+   "width": 1600,
+   "height": 900,
+   "end": 651.4
+  }
+ ]
+}

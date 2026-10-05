@@ -1,0 +1,357 @@
+[
+{
+"id": "ch1-ep3-p2-q1",
+"n": 1,
+"q": "Was Denmark occupied by German troops during the First World War?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the June 2022, November 2023 and November 2025 exams.",
+"da": {
+"q": "Var Danmark besat af tyske tropper under 1. verdenskrig (1914-18)?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 709.24,
+"aStart": 724.21,
+"aEnd": 732.51,
+"learn": {
+"start": 68.97,
+"end": 80.84,
+"text": "Denmark was neutral, and was never occupied by German troops in the First World War.",
+"score": 7.0
+}
+},
+{
+"id": "ch1-ep3-p2-q2",
+"n": 2,
+"q": "In connection with which war was Denmark hit by the Spanish Flu?",
+"options": [
+{
+"l": "A",
+"t": "The Second Schleswig War"
+},
+{
+"l": "B",
+"t": "The First World War"
+},
+{
+"l": "C",
+"t": "The Second World War"
+}
+],
+"answer": "B",
+"answerText": "The First World War",
+"appeared": "It appeared in the November 2021 and May 2023 exams.",
+"da": {
+"q": "I forbindelse med hvilken krig blev Danmark ramt af influenzaepidemien Den Spanske Syge?",
+"options": [
+"2. Slesvigske Krig",
+"1. Verdenskrig",
+"2. Verdenskrig"
+],
+"answer": "1. Verdenskrig"
+},
+"qStart": 733.06,
+"aStart": 753.26,
+"aEnd": 760.67,
+"learn": {
+"start": 154.84,
+"end": 181.64,
+"text": "Toward the end of the war, in 1918, the world and Denmark were hit by a very aggressive, contagious and deadly influenza virus, which got the name the Spanish Flu. The disease did not originate in Spain at all, but got its name because it was Spanish newspapers that first wrote about it.",
+"score": 8.3
+}
+},
+{
+"id": "ch1-ep3-p2-q3",
+"n": 3,
+"q": "When was North Schleswig, today called South Jutland, reunited with Denmark?",
+"options": [
+{
+"l": "A",
+"t": "1864"
+},
+{
+"l": "B",
+"t": "1901"
+},
+{
+"l": "C",
+"t": "1920"
+}
+],
+"answer": "C",
+"answerText": "1920",
+"appeared": "It appeared in the November 2021 and May 2024 exams.",
+"da": {
+"q": "Hvornår blev Nordslesvig, i dag kaldet Sønderjylland, genforenet med Danmark?",
+"options": [
+"1864",
+"1901",
+"1920"
+],
+"answer": "1920"
+},
+"qStart": 761.22,
+"aStart": 781.93,
+"aEnd": 788.67,
+"learn": {
+"start": 281.65,
+"end": 310.69,
+"text": "On the fifteenth of June, 1920, the border was formally moved south from the Kongeå river to the present border between Denmark and Germany. North Schleswig, now called Sønderjylland, South Jutland, was thereby reunited with Denmark.",
+"score": 7.4
+}
+},
+{
+"id": "ch1-ep3-p2-q4",
+"n": 4,
+"q": "When was the land border between Denmark and Germany last changed?",
+"options": [
+{
+"l": "A",
+"t": "1720"
+},
+{
+"l": "B",
+"t": "1820"
+},
+{
+"l": "C",
+"t": "1920"
+}
+],
+"answer": "C",
+"answerText": "1920",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "Hvornår er landegrænsen mellem Danmark og Tyskland sidst blevet ændret?",
+"options": [
+"1720",
+"1820",
+"1920"
+],
+"answer": "1920"
+},
+"qStart": 789.22,
+"aStart": 808.15,
+"aEnd": 813.43,
+"learn": {
+"start": 281.65,
+"end": 303.8,
+"text": "On the fifteenth of June, 1920, the border was formally moved south from the Kongeå river to the present border between Denmark and Germany.",
+"score": 5.5
+}
+},
+{
+"id": "ch1-ep3-p2-q5",
+"n": 5,
+"q": "When did Denmark get its first female minister?",
+"options": [
+{
+"l": "A",
+"t": "1924"
+},
+{
+"l": "B",
+"t": "1947"
+},
+{
+"l": "C",
+"t": "1975"
+}
+],
+"answer": "A",
+"answerText": "1924",
+"appeared": "It appeared in the November 2020, November 2023 and June 2026 exams.",
+"da": {
+"q": "Hvornår fik Danmark sin første kvindelige minister?",
+"options": [
+"1924",
+"1947",
+"1975"
+],
+"answer": "1924"
+},
+"qStart": 813.98,
+"aStart": 832.88,
+"aEnd": 841.59,
+"learn": {
+"start": 480.62,
+"end": 504.75,
+"text": "In 1924, the cigar sorter Thorvald Stauning had become Denmark's first Social Democratic prime minister, in the year 1924. This government, which lasted two years, until 1926, also included the country's first female minister.",
+"score": 4.8
+}
+},
+{
+"id": "ch1-ep3-p2-q6",
+"n": 6,
+"q": "When did Denmark get its first Social Democratic prime minister?",
+"options": [
+{
+"l": "A",
+"t": "1871"
+},
+{
+"l": "B",
+"t": "1924"
+},
+{
+"l": "C",
+"t": "1966"
+}
+],
+"answer": "B",
+"answerText": "1924",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Hvornår fik Danmark sin første socialdemokratiske statsminister?",
+"options": [
+"1871",
+"1924",
+"1966"
+],
+"answer": "1924"
+},
+"qStart": 842.14,
+"aStart": 862.2,
+"aEnd": 867.59,
+"learn": {
+"start": 480.62,
+"end": 496.94,
+"text": "In 1924, the cigar sorter Thorvald Stauning had become Denmark's first Social Democratic prime minister, in the year 1924.",
+"score": 7.5
+}
+},
+{
+"id": "ch1-ep3-p2-q7",
+"n": 7,
+"q": "Who was Denmark's first Social Democratic prime minister?",
+"options": [
+{
+"l": "A",
+"t": "Thorvald Stauning"
+},
+{
+"l": "B",
+"t": "Jens Otto Krag"
+},
+{
+"l": "C",
+"t": "Anker Jørgensen"
+}
+],
+"answer": "A",
+"answerText": "Thorvald Stauning",
+"appeared": "It appeared in the November 2021 and May 2023 exams.",
+"da": {
+"q": "Hvem var Danmarks første socialdemokratiske statsminister?",
+"options": [
+"Thorvald Stauning",
+"Jens Otto Krag",
+"Anker Jørgensen"
+],
+"answer": "Thorvald Stauning"
+},
+"qStart": 868.14,
+"aStart": 887.15,
+"aEnd": 894.08,
+"learn": {
+"start": 480.62,
+"end": 496.94,
+"text": "In 1924, the cigar sorter Thorvald Stauning had become Denmark's first Social Democratic prime minister, in the year 1924.",
+"score": 9.0
+}
+},
+{
+"id": "ch1-ep3-p2-q8",
+"n": 8,
+"q": "In which decade was Thorvald Stauning prime minister?",
+"options": [
+{
+"l": "A",
+"t": "The 1930s"
+},
+{
+"l": "B",
+"t": "The 1950s"
+},
+{
+"l": "C",
+"t": "The 1970s"
+}
+],
+"answer": "A",
+"answerText": "The 1930s",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "I hvilket af følgende årtier var Thorvald Stauning statsminister?",
+"options": [
+"1930’erne",
+"1950’erne",
+"1970’erne"
+],
+"answer": "1930’erne"
+},
+"qStart": 894.63,
+"aStart": 913.94,
+"aEnd": 919.63,
+"learn": {
+"start": 475.67,
+"end": 496.94,
+"text": "Unemployment rose sharply, and reached over thirty percent at the beginning of the 1930s. In 1924, the cigar sorter Thorvald Stauning had become Denmark's first Social Democratic prime minister, in the year 1924.",
+"score": 4.8
+}
+},
+{
+"id": "ch1-ep3-p2-q9",
+"n": 9,
+"q": "What problems was the Kanslergade Agreement of 1933 meant to solve?",
+"options": [
+{
+"l": "A",
+"t": "Economic problems"
+},
+{
+"l": "B",
+"t": "Environmental problems"
+},
+{
+"l": "C",
+"t": "Integration problems"
+}
+],
+"answer": "A",
+"answerText": "Economic problems",
+"appeared": "It appeared in the June 2021, November 2022 and May 2025 exams.",
+"da": {
+"q": "Hvilke problemer i samfundet skulle Kanslergadeforliget fra 1933 især løse?",
+"options": [
+"Økonomiske problemer",
+"Miljømæssige problemer",
+"Integrationsproblemer"
+],
+"answer": "Økonomiske problemer"
+},
+"qStart": 920.18,
+"aStart": 940.57,
+"aEnd": 949.42,
+"learn": {
+"start": 632.62,
+"end": 641.88,
+"text": "The Kanslergade Agreement was about the economic crisis.",
+"score": 3.5
+}
+}
+]

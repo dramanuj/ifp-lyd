@@ -1,0 +1,252 @@
+[
+{
+"id": "ch2-ep3-p1-q1",
+"n": 1,
+"q": "Can the prime minister appoint a minister who is not a member of the Folketing?",
+"options": [
+{
+"l": "A",
+"t": "No"
+},
+{
+"l": "B",
+"t": "Yes"
+}
+],
+"answer": "B",
+"answerText": "Yes",
+"appeared": "It appeared in 4 different exams, most recently in May 2024.",
+"da": {
+"q": "Kan statsministeren udpege en minister, der ikke er medlem af Folketinget?",
+"options": [
+"Nej",
+"Ja"
+],
+"answer": "Ja"
+},
+"qStart": 586.43,
+"aStart": 601.64,
+"aEnd": 608.33,
+"learn": {
+"start": 410.86,
+"end": 447.05,
+"text": "However, each minister can themselves appoint between one and three so-called special advisers, who are employed in the ministry to give the minister political advice, for example in relation to the Folketing, the rest of the government and the media. The special advisers are often appointed because they agree with the minister's policy, and unlike the other civil servants, they leave their jobs when a new minister comes in. The number of ministers is not fixed, but decided by the prime minister.",
+"score": 3.1
+}
+},
+{
+"id": "ch2-ep3-p1-q2",
+"n": 2,
+"q": "Can a person be prime minister for more than two election periods?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the November 2020, November 2022 and May 2025 exams.",
+"da": {
+"q": "Kan man være statsminister i mere end to valgperioder?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 608.88,
+"aStart": 623.64,
+"aEnd": 631.34,
+"learn": {
+"start": 558.94,
+"end": 570.38,
+"text": "There is no limit to how many election periods a prime minister may be in power.",
+"score": 4.0
+}
+},
+{
+"id": "ch2-ep3-p1-q3",
+"n": 3,
+"q": "Can a government consist of one or more parties that together do not have a majority in the Folketing?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the November 2020, November 2021 and November 2025 exams.",
+"da": {
+"q": "Kan en regering bestå af et eller flere partier, der ikke tilsammen har flertal i Folketinget?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 631.89,
+"aStart": 648.61,
+"aEnd": 656.29,
+"learn": {
+"start": 49.15,
+"end": 69.94,
+"text": "If the government parties together have a majority in the Folketing, we speak of a majority government. One example of a majority government was the government of 2022 to 26, which consisted of the Social Democrats, Venstre and the Moderates.",
+"score": 6.1
+}
+},
+{
+"id": "ch2-ep3-p1-q4",
+"n": 4,
+"q": "Which type of government has been most common in Denmark since the Second World War?",
+"options": [
+{
+"l": "A",
+"t": "Minority governments, mindretalsregeringer"
+},
+{
+"l": "B",
+"t": "Majority governments, flertalsregeringer"
+}
+],
+"answer": "A",
+"answerText": "Minority governments, mindretalsregeringer",
+"appeared": "It appeared in the June 2021 and May 2024 exams.",
+"da": {
+"q": "Hvilken type regering har været mest almindelig i Danmark siden 2. Verdenskrig?",
+"options": [
+"Mindretalsregeringer",
+"Flertalsregeringer"
+],
+"answer": "Mindretalsregeringer"
+},
+"qStart": 656.84,
+"aStart": 677.21,
+"aEnd": 685.51,
+"learn": {
+"start": 69.94,
+"end": 93.87,
+"text": "Since the Second World War, however, the vast majority of governments have been so-called minority governments.",
+"score": 7.0
+}
+},
+{
+"id": "ch2-ep3-p1-q5",
+"n": 5,
+"q": "Who can, independently of others, call a general election before the end of the four-year election period?",
+"options": [
+{
+"l": "A",
+"t": "The Speaker of the Folketing"
+},
+{
+"l": "B",
+"t": "The prime minister"
+}
+],
+"answer": "B",
+"answerText": "The prime minister",
+"appeared": "It appeared in the June 2020 and November 2022 exams.",
+"da": {
+"q": "Hvem kan uafhængigt af andre udskrive folketingsvalg inden udløbet af den 4-årige valgperiode?",
+"options": [
+"Folketingets formand",
+"Statsministeren"
+],
+"answer": "Statsministeren"
+},
+"qStart": 686.06,
+"aStart": 705.85,
+"aEnd": 712.69,
+"learn": {
+"start": 508.0,
+"end": 524.05,
+"text": "The Folketing is elected for a period of at most four years at a time. The prime minister can call a new election at any time during an election period.",
+"score": 6.1
+}
+},
+{
+"id": "ch2-ep3-p1-q6",
+"n": 6,
+"q": "Which party has held the post of prime minister for the most years in total since the Change of System in 1901? The options are Venstre and the Conservative People's Party.",
+"options": [
+{
+"l": "A",
+"t": "Venstre"
+},
+{
+"l": "B",
+"t": "The Conservative People's Party"
+}
+],
+"answer": "A",
+"answerText": "Venstre",
+"appeared": "It appeared in the November 2022 and June 2026 exams.",
+"da": {
+"q": "Hvilket af følgende partier har haft statsministerposten i sammenlagt flest år siden Systemskiftet i 1901?",
+"options": [
+"Venstre",
+"Det Konservative Folkeparti"
+],
+"answer": "Venstre"
+},
+"qStart": 713.24,
+"aStart": 736.17,
+"aEnd": 742.79,
+"learn": {
+"start": 337.61,
+"end": 359.21,
+"text": "From the Change of System, Systemskiftet, in 1901 up to 2026, the Social Democrats have held the post of prime minister for a total of 63 years, Venstre for 37 years, the Social Liberal Party for 12 years, and the Conservative People's Party for 10 years.",
+"score": 14.5
+}
+},
+{
+"id": "ch2-ep3-p1-q7",
+"n": 7,
+"q": "Which of the following parties has been in government for the most years in total?",
+"options": [
+{
+"l": "A",
+"t": "The Socialist People's Party, SF"
+},
+{
+"l": "B",
+"t": "The Social Liberal Party, Radikale Venstre"
+},
+{
+"l": "C",
+"t": "The Danish People's Party"
+}
+],
+"answer": "B",
+"answerText": "The Social Liberal Party, Radikale Venstre",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "Hvilket af følgende partier har samlet set været i regering flest år?",
+"options": [
+"Socialistisk Folkeparti",
+"Radikale Venstre",
+"Dansk Folkeparti"
+],
+"answer": "Radikale Venstre"
+},
+"qStart": 743.24,
+"aStart": 767.43,
+"aEnd": 774.46,
+"learn": {
+"start": 203.23,
+"end": 220.64,
+"text": "The Folketing's four oldest parties, the Social Democrats, Venstre, the Social Liberal Party and the Conservative People's Party, are also the four parties which have been government parties for clearly the most years in total.",
+"score": 10.0
+}
+}
+]

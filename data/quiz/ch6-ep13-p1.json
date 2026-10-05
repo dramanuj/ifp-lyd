@@ -1,0 +1,162 @@
+[
+{
+"id": "ch6-ep13-p1-q1",
+"n": 1,
+"q": "Which group of young people were there the most of at the folk high schools in the 1800s?",
+"options": [
+{
+"l": "A",
+"t": "Children of estate owners"
+},
+{
+"l": "B",
+"t": "Children of workers"
+},
+{
+"l": "C",
+"t": "Children of farmers"
+}
+],
+"answer": "C",
+"answerText": "Children of farmers",
+"appeared": "It appeared in the June 2020 exam.",
+"da": {
+"q": "Hvilken gruppe unge var der flest af på højskolerne i 1800-tallet?",
+"options": [
+"Godsejernes børn",
+"Arbejdernes børn",
+"Bøndernes børn"
+],
+"answer": "Bøndernes børn"
+},
+"qStart": 521.55,
+"aStart": 542.09,
+"aEnd": 547.39,
+"learn": {
+"start": 203.59,
+"end": 223.97,
+"text": "The folk high school was aimed especially at young men and women from the rural environment, in practice the children of farmers, bøndernes børn, not the children of the estate owners, godsejernes børn, and not workers' children.",
+"score": 6.0
+}
+},
+{
+"id": "ch6-ep13-p1-q2",
+"n": 2,
+"q": "Which movement did Grundtvig have a special importance for in the 1800s?",
+"options": [
+{
+"l": "A",
+"t": "The folk high school movement"
+},
+{
+"l": "B",
+"t": "The labour movement"
+},
+{
+"l": "C",
+"t": "The resistance movement"
+}
+],
+"answer": "A",
+"answerText": "The folk high school movement",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Hvilken bevægelse fik Grundtvig i særlig grad betydning for i 1800-tallet?",
+"options": [
+"Højskolebevægelsen",
+"Arbejderbevægelsen",
+"Modstandsbevægelsen"
+],
+"answer": "Højskolebevægelsen"
+},
+"qStart": 547.94,
+"aStart": 567.97,
+"aEnd": 573.68,
+"learn": {
+"start": 147.98,
+"end": 156.3,
+"text": "Grundtvig's ideas also became the basis for the folk high school movement, højskolebevægelsen.",
+"score": 8.0
+}
+},
+{
+"id": "ch6-ep13-p1-q3",
+"n": 3,
+"q": "Which of the following persons gave inspiration in the 1800s to the founding of folk high schools?",
+"options": [
+{
+"l": "A",
+"t": "Thomas Kingo"
+},
+{
+"l": "B",
+"t": "Johannes V. Jensen"
+},
+{
+"l": "C",
+"t": "N.F.S. Grundtvig"
+}
+],
+"answer": "C",
+"answerText": "N.F.S. Grundtvig",
+"appeared": "It appeared in the June 2021 and May 2023 exams.",
+"da": {
+"q": "Hvilken af følgende personer gav i 1800-tallet inspiration til oprettelsen af folkehøjskoler?",
+"options": [
+"Thomas Kingo",
+"Johannes V. Jensen",
+"N.F.S. Grundtvig"
+],
+"answer": "N.F.S. Grundtvig"
+},
+"qStart": 574.13,
+"aStart": 599.18,
+"aEnd": 607.77,
+"learn": {
+"start": 3.7,
+"end": 28.65,
+"text": "Grundtvig, Danishness, folk high schools and church life. The priest, hymn writer and social commentator Nikolai Frederik Severin Grundtvig, who lived from 1783 to 1872, became a central figure in the development of thinking, culture and association life in Denmark in the 1800s.",
+"score": 4.8
+}
+},
+{
+"id": "ch6-ep13-p1-q4",
+"n": 4,
+"q": "Who wrote a large number of the hymns in Den Danske Salmebog?",
+"options": [
+{
+"l": "A",
+"t": "Herman Bang"
+},
+{
+"l": "B",
+"t": "Ludvig Holberg"
+},
+{
+"l": "C",
+"t": "N.F.S. Grundtvig"
+}
+],
+"answer": "C",
+"answerText": "N.F.S. Grundtvig",
+"appeared": "It appeared in the June 2022 and June 2026 exams.",
+"da": {
+"q": "Hvem har skrevet et stort antal af salmerne i Den Danske Salmebog?",
+"options": [
+"Herman Bang",
+"Ludvig Holberg",
+"N.F.S. Grundtvig"
+],
+"answer": "N.F.S. Grundtvig"
+},
+"qStart": 608.22,
+"aStart": 629.07,
+"aEnd": 637.88,
+"learn": {
+"start": 391.58,
+"end": 412.34,
+"text": "Besides his church and political work, Grundtvig was Denmark's most productive author of patriotic songs and hymns. In the course of his long life he thus wrote more than 1,500, and many of them are still found in the Folk High School Songbook and in Den Danske Salmebog, the Danish Hymnbook.",
+"score": 5.7
+}
+}
+]

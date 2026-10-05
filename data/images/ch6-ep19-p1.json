@@ -1,0 +1,62 @@
+{
+ "version": 1,
+ "partId": "ch6-ep19-p1",
+ "images": [
+  {
+   "id": "p244-fig1",
+   "src": "images/ch6/p244-fig1.svg",
+   "start": 418.2,
+   "caption": "Charging an electric car.",
+   "illustration": true,
+   "alt": "Charging an electric car.",
+   "page": 244,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 508.2
+  },
+  {
+   "id": "p245-fig1",
+   "src": "images/ch6/p245-fig1.svg",
+   "start": 587.1,
+   "caption": "Cows in a field in Denmark.",
+   "illustration": true,
+   "alt": "Cows in a field in Denmark.",
+   "page": 245,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 626.5
+  },
+  {
+   "id": "p242-fig1",
+   "src": "images/ch6/p242-fig1.svg",
+   "start": 626.5,
+   "caption": "Flooding of the River Rhine in Germany.",
+   "illustration": true,
+   "alt": "Flooding of the River Rhine in Germany.",
+   "page": 242,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 662.7
+  },
+  {
+   "id": "p243-fig1",
+   "src": "images/ch6/p243-fig1.svg",
+   "start": 662.7,
+   "caption": "Wind turbine park in the Øresund.",
+   "illustration": true,
+   "alt": "Wind turbine park in the Øresund.",
+   "page": 243,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 752.7
+  }
+ ]
+}

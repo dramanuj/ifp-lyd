@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch1-ep2-p2",
+ "images": [
+  {
+   "id": "p025-fig1",
+   "src": "images/ch1/p025-fig1.svg",
+   "start": 127.7,
+   "caption": "Soldiers from the Schleswig wars are cheered by the population.",
+   "illustration": true,
+   "alt": "Soldiers from the Schleswig wars are cheered by the population.",
+   "page": 25,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 217.7
+  },
+  {
+   "id": "p026-fig1",
+   "src": "images/ch1/p026-fig1.svg",
+   "start": 250.5,
+   "caption": "Danish soldiers retreating from the Dannevirke in 1864.",
+   "illustration": true,
+   "alt": "Danish soldiers retreating from the Dannevirke in 1864.",
+   "page": 26,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 340.5
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+[
+{
+"id": "ch6-ep8-p1-q1",
+"n": 1,
+"q": "When was free abortion introduced?",
+"options": [
+{
+"l": "A",
+"t": "1935"
+},
+{
+"l": "B",
+"t": "1951"
+},
+{
+"l": "C",
+"t": "1973"
+}
+],
+"answer": "C",
+"answerText": "1973",
+"appeared": "It appeared in the November 2020 and June 2022 exams.",
+"da": {
+"q": "Hvornår blev der indført fri abort?",
+"options": [
+"1935",
+"1951",
+"1973"
+],
+"answer": "1973"
+},
+"qStart": 794.55,
+"aStart": 812.49,
+"aEnd": 819.59,
+"learn": {
+"start": 395.57,
+"end": 410.66,
+"text": "While Denmark introduced free abortion in 1973, and a large majority of the Danish population supports free abortion, there is greater disagreement on the issue in the Faroe Islands.",
+"score": 4.5
+}
+},
+{
+"id": "ch6-ep8-p1-q2",
+"n": 2,
+"q": "How many inhabitants do the Faroe Islands have? The exams round the figure.",
+"options": [
+{
+"l": "A",
+"t": "About 55,000"
+},
+{
+"l": "B",
+"t": "About 155,000"
+},
+{
+"l": "C",
+"t": "About 255,000"
+}
+],
+"answer": "A",
+"answerText": "About 55,000",
+"appeared": "It appeared in the June 2026 exam.",
+"da": {
+"q": "Hvor mange indbyggere har Færøerne?",
+"options": [
+"Cirka 55.000",
+"Cirka 155.000",
+"Cirka 255.000"
+],
+"answer": "Cirka 55.000"
+},
+"qStart": 820.14,
+"aStart": 843.13,
+"aEnd": 849.03,
+"learn": {
+"start": 21.82,
+"end": 32.61,
+"text": "The Faroe Islands have 55,000 inhabitants.",
+"score": 7.0
+}
+},
+{
+"id": "ch6-ep8-p1-q3",
+"n": 3,
+"q": "What is the largest town in the Faroe Islands called?",
+"options": [
+{
+"l": "A",
+"t": "Reykjavik"
+},
+{
+"l": "B",
+"t": "Nuuk"
+},
+{
+"l": "C",
+"t": "Tórshavn"
+}
+],
+"answer": "C",
+"answerText": "Tórshavn",
+"appeared": "It appeared in the November 2022 and November 2024 exams.",
+"da": {
+"q": "Hvad hedder Færøernes største by?",
+"options": [
+"Reykjavik",
+"Nuuk",
+"Tórshavn"
+],
+"answer": "Tórshavn"
+},
+"qStart": 849.58,
+"aStart": 866.21,
+"aEnd": 873.11,
+"learn": {
+"start": 29.03,
+"end": 39.08,
+"text": "About 14,000 of them live in the capital Tórshavn, which is also the largest town in the Faroe Islands.",
+"score": 5.5
+}
+},
+{
+"id": "ch6-ep8-p1-q4",
+"n": 4,
+"q": "Which symbol is part of the Faroe Islands' flag?",
+"options": [
+{
+"l": "A",
+"t": "A circle"
+},
+{
+"l": "B",
+"t": "A star"
+},
+{
+"l": "C",
+"t": "A cross"
+}
+],
+"answer": "C",
+"answerText": "A cross",
+"appeared": "It appeared in the May 2023 and May 2025 exams.",
+"da": {
+"q": "Hvilket symbol indgår i Færøernes flag?",
+"options": [
+"En cirkel",
+"En stjerne",
+"Et kors"
+],
+"answer": "Et kors"
+},
+"qStart": 873.66,
+"aStart": 891.01,
+"aEnd": 897.49,
+"learn": {
+"start": 568.58,
+"end": 587.03,
+"text": "The Faroe Islands' flag is called Merkið, \"the Mark\". It was drawn up in 1919 and is a flag of the Nordic type with a cross and with the colours white, blue and red.",
+"score": 3.9
+}
+}
+]

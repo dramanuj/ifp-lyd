@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch2-ep6-p1",
+ "images": [
+  {
+   "id": "p091-fig1",
+   "src": "images/ch2/p091-fig1.svg",
+   "start": 346.0,
+   "caption": "The Speaker of the Folketing, Søren Gade of Venstre.",
+   "illustration": true,
+   "alt": "The Speaker of the Folketing, Søren Gade of Venstre.",
+   "page": 91,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 352.1
+  },
+  {
+   "id": "p094-fig1",
+   "src": "images/ch2/p094-fig1.svg",
+   "start": 352.1,
+   "caption": "A father and children take part in the national fundraising day for the Danish Red Cross.",
+   "illustration": true,
+   "alt": "A father and children take part in the national fundraising day for the Danish Red Cross.",
+   "page": 94,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 442.1
+  }
+ ]
+}

@@ -1,0 +1,2608 @@
+{
+ "version": 1,
+ "generated": "2026-10-05",
+ "source": {
+  "titleDa": "Læremateriale til Indfødsretsprøven",
+  "titleEn": "Learning Material for the Citizenship Test",
+  "subtitleDa": "Indfødsretsprøven",
+  "edition": "August 2026",
+  "editionNote": "Editorial deadline June 2026",
+  "publisher": "Udlændinge- og Integrationsministeriet / SIRI",
+  "isbn": "97887-85355-02-7",
+  "pages": 246
+ },
+ "chapters": [
+  {
+   "n": 1,
+   "titleDa": "Danmarks historie",
+   "titleEn": "History of Denmark",
+   "pages": [
+    5,
+    65
+   ],
+   "description": "From the Vikings to today: eleven centuries of Danish history, from the first kings to the EU, the welfare state and the present.",
+   "episodes": [
+    {
+     "n": 1,
+     "title": "From the Vikings to absolute monarchy",
+     "pdfSections": [
+      "1.1",
+      "1.2",
+      "1.3",
+      "1.4"
+     ],
+     "pages": [
+      5,
+      16
+     ],
+     "eras": [
+      "e1",
+      "e2",
+      "e3"
+     ],
+     "parts": [
+      {
+       "id": "ch1-ep1-p1",
+       "p": 1,
+       "np": 2,
+       "title": "From the Vikings to absolute monarchy (part 1 of 2)",
+       "file": "ch1-ep1-part1-vikings-to-absolutism",
+       "audio": "audio/ch1/ch1-ep1-part1-vikings-to-absolutism.mp3",
+       "audioBytes": 9671544,
+       "transcript": "transcripts/ch1/ch1-ep1-part1-vikings-to-absolutism.vtt",
+       "images": "data/images/ch1-ep1-p1.json",
+       "quiz": "data/quiz/ch1-ep1-p1.json",
+       "duration": 1178.2,
+       "quizStart": 850.0,
+       "quizCount": 11,
+       "pages": [
+        5,
+        12
+       ],
+       "eraAnchors": {
+        "e1": 3.4,
+        "e2": 454.8
+       },
+       "imageCount": 5,
+       "cover": "covers/ch1-ep1-p1.jpg"
+      },
+      {
+       "id": "ch1-ep1-p2",
+       "p": 2,
+       "np": 2,
+       "title": "From the Vikings to absolute monarchy (part 2 of 2)",
+       "file": "ch1-ep1-part2-vikings-to-absolutism",
+       "audio": "audio/ch1/ch1-ep1-part2-vikings-to-absolutism.mp3",
+       "audioBytes": 7439318,
+       "transcript": "transcripts/ch1/ch1-ep1-part2-vikings-to-absolutism.vtt",
+       "images": "data/images/ch1-ep1-p2.json",
+       "quiz": "data/quiz/ch1-ep1-p2.json",
+       "duration": 901.4,
+       "quizStart": 661.0,
+       "quizCount": 8,
+       "pages": [
+        13,
+        16
+       ],
+       "eraAnchors": {
+        "e3": 18.1
+       },
+       "imageCount": 3,
+       "cover": "covers/ch1-ep1-p2.jpg"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "Colonies, the Enlightenment and the Schleswig wars",
+     "pdfSections": [
+      "1.5",
+      "1.6",
+      "1.7"
+     ],
+     "pages": [
+      17,
+      26
+     ],
+     "eras": [
+      "e4",
+      "e5",
+      "e6"
+     ],
+     "parts": [
+      {
+       "id": "ch1-ep2-p1",
+       "p": 1,
+       "np": 2,
+       "title": "Colonies, the Enlightenment and the Schleswig wars (part 1 of 2)",
+       "file": "ch1-ep2-part1-colonies-to-schleswig",
+       "audio": "audio/ch1/ch1-ep2-part1-colonies-to-schleswig.mp3",
+       "audioBytes": 9455477,
+       "transcript": "transcripts/ch1/ch1-ep2-part1-colonies-to-schleswig.vtt",
+       "images": "data/images/ch1-ep2-p1.json",
+       "quiz": "data/quiz/ch1-ep2-p1.json",
+       "duration": 1150.7,
+       "quizStart": 829.6,
+       "quizCount": 11,
+       "pages": [
+        17,
+        23
+       ],
+       "eraAnchors": {
+        "e4": 19.3,
+        "e5": 211.1
+       },
+       "imageCount": 7,
+       "cover": "covers/ch1-ep2-p1.jpg"
+      },
+      {
+       "id": "ch1-ep2-p2",
+       "p": 2,
+       "np": 2,
+       "title": "Colonies, the Enlightenment and the Schleswig wars (part 2 of 2)",
+       "file": "ch1-ep2-part2-colonies-to-schleswig",
+       "audio": "audio/ch1/ch1-ep2-part2-colonies-to-schleswig.mp3",
+       "audioBytes": 4638442,
+       "transcript": "transcripts/ch1/ch1-ep2-part2-colonies-to-schleswig.vtt",
+       "images": "data/images/ch1-ep2-p2.json",
+       "quiz": "data/quiz/ch1-ep2-p2.json",
+       "duration": 547.4,
+       "quizStart": 472.4,
+       "quizCount": 2,
+       "pages": [
+        24,
+        26
+       ],
+       "eraAnchors": {
+        "e6": 21.4
+       },
+       "imageCount": 2,
+       "cover": "covers/ch1-ep2-p2.jpg"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "Industrialisation, new movements and the crisis years",
+     "pdfSections": [
+      "1.8",
+      "1.9"
+     ],
+     "pages": [
+      27,
+      37
+     ],
+     "eras": [
+      "e7",
+      "e8"
+     ],
+     "parts": [
+      {
+       "id": "ch1-ep3-p1",
+       "p": 1,
+       "np": 2,
+       "title": "Industrialisation, new movements and the crisis years (part 1 of 2)",
+       "file": "ch1-ep3-part1-industrialisation-to-crisis",
+       "audio": "audio/ch1/ch1-ep3-part1-industrialisation-to-crisis.mp3",
+       "audioBytes": 9863550,
+       "transcript": "transcripts/ch1/ch1-ep3-part1-industrialisation-to-crisis.vtt",
+       "images": "data/images/ch1-ep3-p1.json",
+       "quiz": "data/quiz/ch1-ep3-p1.json",
+       "duration": 1200.9,
+       "quizStart": 829.4,
+       "quizCount": 12,
+       "pages": [
+        27,
+        33
+       ],
+       "eraAnchors": {
+        "e7": 57.8
+       },
+       "imageCount": 6,
+       "cover": "covers/ch1-ep3-p1.jpg"
+      },
+      {
+       "id": "ch1-ep3-p2",
+       "p": 2,
+       "np": 2,
+       "title": "Industrialisation, new movements and the crisis years (part 2 of 2)",
+       "file": "ch1-ep3-part2-industrialisation-to-crisis",
+       "audio": "audio/ch1/ch1-ep3-part2-industrialisation-to-crisis.mp3",
+       "audioBytes": 7839447,
+       "transcript": "transcripts/ch1/ch1-ep3-part2-industrialisation-to-crisis.vtt",
+       "images": "data/images/ch1-ep3-p2.json",
+       "quiz": "data/quiz/ch1-ep3-p2.json",
+       "duration": 953.2,
+       "quizStart": 693.7,
+       "quizCount": 9,
+       "pages": [
+        34,
+        37
+       ],
+       "eraAnchors": {
+        "e8": 9.4
+       },
+       "imageCount": 4,
+       "cover": "covers/ch1-ep3-p2.jpg"
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "Occupation, the Cold War and the youth revolt",
+     "pdfSections": [
+      "1.10",
+      "1.11"
+     ],
+     "pages": [
+      38,
+      49
+     ],
+     "eras": [
+      "e9",
+      "e10"
+     ],
+     "parts": [
+      {
+       "id": "ch1-ep4-p1",
+       "p": 1,
+       "np": 2,
+       "title": "Occupation, the Cold War and the youth revolt (part 1 of 2)",
+       "file": "ch1-ep4-part1-occupation-to-youth-revolt",
+       "audio": "audio/ch1/ch1-ep4-part1-occupation-to-youth-revolt.mp3",
+       "audioBytes": 7222907,
+       "transcript": "transcripts/ch1/ch1-ep4-part1-occupation-to-youth-revolt.vtt",
+       "images": "data/images/ch1-ep4-p1.json",
+       "quiz": "data/quiz/ch1-ep4-p1.json",
+       "duration": 877.1,
+       "quizStart": 675.3,
+       "quizCount": 6,
+       "pages": [
+        38,
+        42
+       ],
+       "eraAnchors": {
+        "e9": 26.7
+       },
+       "imageCount": 4,
+       "cover": "covers/ch1-ep4-p1.jpg"
+      },
+      {
+       "id": "ch1-ep4-p2",
+       "p": 2,
+       "np": 2,
+       "title": "Occupation, the Cold War and the youth revolt (part 2 of 2)",
+       "file": "ch1-ep4-part2-occupation-to-youth-revolt",
+       "audio": "audio/ch1/ch1-ep4-part2-occupation-to-youth-revolt.mp3",
+       "audioBytes": 10689622,
+       "transcript": "transcripts/ch1/ch1-ep4-part2-occupation-to-youth-revolt.vtt",
+       "images": "data/images/ch1-ep4-p2.json",
+       "quiz": "data/quiz/ch1-ep4-p2.json",
+       "duration": 1310.0,
+       "quizStart": 886.6,
+       "quizCount": 14,
+       "pages": [
+        43,
+        49
+       ],
+       "eraAnchors": {
+        "e10": 13.1
+       },
+       "imageCount": 7,
+       "cover": "covers/ch1-ep4-p2.jpg"
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "Denmark in Europe and the oil crisis",
+     "pdfSections": [
+      "1.12"
+     ],
+     "pages": [
+      50,
+      54
+     ],
+     "eras": [
+      "e11"
+     ],
+     "parts": [
+      {
+       "id": "ch1-ep5-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Denmark in Europe and the oil crisis",
+       "file": "ch1-ep5-europe-and-oil-crisis",
+       "audio": "audio/ch1/ch1-ep5-europe-and-oil-crisis.mp3",
+       "audioBytes": 9888166,
+       "transcript": "transcripts/ch1/ch1-ep5-europe-and-oil-crisis.vtt",
+       "images": "data/images/ch1-ep5-p1.json",
+       "quiz": "data/quiz/ch1-ep5-p1.json",
+       "duration": 1207.3,
+       "quizStart": 833.5,
+       "quizCount": 12,
+       "pages": [
+        50,
+        54
+       ],
+       "eraAnchors": {
+        "e11": 16.6
+       },
+       "imageCount": 3,
+       "cover": "covers/ch1-ep5-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "Denmark in the global community",
+     "pdfSections": [
+      "1.13"
+     ],
+     "pages": [
+      55,
+      65
+     ],
+     "eras": [
+      "e12"
+     ],
+     "parts": [
+      {
+       "id": "ch1-ep6-p1",
+       "p": 1,
+       "np": 2,
+       "title": "Denmark in the global community (part 1 of 2)",
+       "file": "ch1-ep6-part1-global-denmark-1990-today",
+       "audio": "audio/ch1/ch1-ep6-part1-global-denmark-1990-today.mp3",
+       "audioBytes": 8156082,
+       "transcript": "transcripts/ch1/ch1-ep6-part1-global-denmark-1990-today.vtt",
+       "images": "data/images/ch1-ep6-p1.json",
+       "quiz": "data/quiz/ch1-ep6-p1.json",
+       "duration": 987.6,
+       "quizStart": 697.4,
+       "quizCount": 10,
+       "pages": [
+        55,
+        59
+       ],
+       "eraAnchors": {
+        "e12": 64.9
+       },
+       "imageCount": 5,
+       "cover": "covers/ch1-ep6-p1.jpg"
+      },
+      {
+       "id": "ch1-ep6-p2",
+       "p": 2,
+       "np": 2,
+       "title": "Denmark in the global community (part 2 of 2)",
+       "file": "ch1-ep6-part2-global-denmark-1990-today",
+       "audio": "audio/ch1/ch1-ep6-part2-global-denmark-1990-today.mp3",
+       "audioBytes": 9670464,
+       "transcript": "transcripts/ch1/ch1-ep6-part2-global-denmark-1990-today.vtt",
+       "images": "data/images/ch1-ep6-p2.json",
+       "quiz": "data/quiz/ch1-ep6-p2.json",
+       "duration": 1183.3,
+       "quizStart": 859.5,
+       "quizCount": 11,
+       "pages": [
+        60,
+        65
+       ],
+       "eraAnchors": {},
+       "imageCount": 3,
+       "cover": "covers/ch1-ep6-p2.jpg"
+      }
+     ]
+    }
+   ],
+   "cover": "covers/chapter-1.jpg"
+  },
+  {
+   "n": 2,
+   "titleDa": "Det danske demokrati",
+   "titleEn": "Danish democracy",
+   "pages": [
+    66,
+    102
+   ],
+   "description": "The constitution, the Folketing, the government, the courts, elections, local government and your rights and duties.",
+   "episodes": [
+    {
+     "n": 1,
+     "title": "The constitution",
+     "pdfSections": [
+      "2.1",
+      "2.2.1"
+     ],
+     "pages": [
+      66,
+      71
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch2-ep1-p1",
+       "p": 1,
+       "np": 1,
+       "title": "The constitution",
+       "file": "ch2-ep1-the-constitution",
+       "audio": "audio/ch2/ch2-ep1-the-constitution.mp3",
+       "audioBytes": 8707488,
+       "transcript": "transcripts/ch2/ch2-ep1-the-constitution.vtt",
+       "images": "data/images/ch2-ep1-p1.json",
+       "quiz": "data/quiz/ch2-ep1-p1.json",
+       "duration": 1058.7,
+       "quizStart": 719.6,
+       "quizCount": 12,
+       "pages": [
+        66,
+        71
+       ],
+       "eraAnchors": {},
+       "imageCount": 4,
+       "cover": "covers/ch2-ep1-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "The Folketing",
+     "pdfSections": [
+      "2.2.2"
+     ],
+     "pages": [
+      72,
+      74
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch2-ep2-p1",
+       "p": 1,
+       "np": 1,
+       "title": "The Folketing",
+       "file": "ch2-ep2-the-folketing",
+       "audio": "audio/ch2/ch2-ep2-the-folketing.mp3",
+       "audioBytes": 6562579,
+       "transcript": "transcripts/ch2/ch2-ep2-the-folketing.vtt",
+       "images": "data/images/ch2-ep2-p1.json",
+       "quiz": "data/quiz/ch2-ep2-p1.json",
+       "duration": 796.5,
+       "quizStart": 658.5,
+       "quizCount": 4,
+       "pages": [
+        72,
+        74
+       ],
+       "eraAnchors": {},
+       "imageCount": 1,
+       "cover": "covers/ch2-ep2-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "Government and courts",
+     "pdfSections": [
+      "2.2.2"
+     ],
+     "pages": [
+      75,
+      79
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch2-ep3-p1",
+       "p": 1,
+       "np": 2,
+       "title": "Government and courts (part 1 of 2)",
+       "file": "ch2-ep3-part1-government-and-courts",
+       "audio": "audio/ch2/ch2-ep3-part1-government-and-courts.mp3",
+       "audioBytes": 6491339,
+       "transcript": "transcripts/ch2/ch2-ep3-part1-government-and-courts.vtt",
+       "images": "data/images/ch2-ep3-p1.json",
+       "quiz": "data/quiz/ch2-ep3-p1.json",
+       "duration": 783.0,
+       "quizStart": 570.9,
+       "quizCount": 7,
+       "pages": [
+        75,
+        78
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch2-ep3-p1.jpg"
+      },
+      {
+       "id": "ch2-ep3-p2",
+       "p": 2,
+       "np": 2,
+       "title": "Government and courts (part 2 of 2)",
+       "file": "ch2-ep3-part2-government-and-courts",
+       "audio": "audio/ch2/ch2-ep3-part2-government-and-courts.mp3",
+       "audioBytes": 3753838,
+       "transcript": "transcripts/ch2/ch2-ep3-part2-government-and-courts.vtt",
+       "images": "data/images/ch2-ep3-p2.json",
+       "quiz": "data/quiz/ch2-ep3-p2.json",
+       "duration": 442.8,
+       "quizStart": 328.4,
+       "quizCount": 4,
+       "pages": [
+        79,
+        79
+       ],
+       "eraAnchors": {},
+       "imageCount": 1,
+       "cover": "covers/ch2-ep3-p2.jpg"
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "Elections, law-making and referendums",
+     "pdfSections": [
+      "2.2.2",
+      "2.2.3",
+      "2.2.4"
+     ],
+     "pages": [
+      80,
+      85
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch2-ep4-p1",
+       "p": 1,
+       "np": 2,
+       "title": "Elections, law-making and referendums (part 1 of 2)",
+       "file": "ch2-ep4-part1-elections-and-lawmaking",
+       "audio": "audio/ch2/ch2-ep4-part1-elections-and-lawmaking.mp3",
+       "audioBytes": 4062146,
+       "transcript": "transcripts/ch2/ch2-ep4-part1-elections-and-lawmaking.vtt",
+       "images": "data/images/ch2-ep4-p1.json",
+       "quiz": "data/quiz/ch2-ep4-p1.json",
+       "duration": 477.4,
+       "quizStart": 368.1,
+       "quizCount": 3,
+       "pages": [
+        80,
+        82
+       ],
+       "eraAnchors": {},
+       "imageCount": 1,
+       "cover": "covers/ch2-ep4-p1.jpg"
+      },
+      {
+       "id": "ch2-ep4-p2",
+       "p": 2,
+       "np": 2,
+       "title": "Elections, law-making and referendums (part 2 of 2)",
+       "file": "ch2-ep4-part2-elections-and-lawmaking",
+       "audio": "audio/ch2/ch2-ep4-part2-elections-and-lawmaking.mp3",
+       "audioBytes": 5232404,
+       "transcript": "transcripts/ch2/ch2-ep4-part2-elections-and-lawmaking.vtt",
+       "images": "data/images/ch2-ep4-p2.json",
+       "quiz": "data/quiz/ch2-ep4-p2.json",
+       "duration": 624.8,
+       "quizStart": 483.6,
+       "quizCount": 5,
+       "pages": [
+        83,
+        85
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch2-ep4-p2.jpg"
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "Local self-government",
+     "pdfSections": [
+      "2.2.5"
+     ],
+     "pages": [
+      86,
+      89
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch2-ep5-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Local self-government",
+       "file": "ch2-ep5-local-government",
+       "audio": "audio/ch2/ch2-ep5-local-government.mp3",
+       "audioBytes": 6203914,
+       "transcript": "transcripts/ch2/ch2-ep5-local-government.vtt",
+       "images": "data/images/ch2-ep5-p1.json",
+       "quiz": "data/quiz/ch2-ep5-p1.json",
+       "duration": 746.9,
+       "quizStart": 573.1,
+       "quizCount": 6,
+       "pages": [
+        86,
+        89
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch2-ep5-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "The players in a democracy",
+     "pdfSections": [
+      "2.2.6",
+      "2.2.7"
+     ],
+     "pages": [
+      90,
+      95
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch2-ep6-p1",
+       "p": 1,
+       "np": 2,
+       "title": "The players in a democracy (part 1 of 2)",
+       "file": "ch2-ep6-part1-participants-of-democracy",
+       "audio": "audio/ch2/ch2-ep6-part1-participants-of-democracy.mp3",
+       "audioBytes": 4003740,
+       "transcript": "transcripts/ch2/ch2-ep6-part1-participants-of-democracy.vtt",
+       "images": "data/images/ch2-ep6-p1.json",
+       "quiz": "data/quiz/ch2-ep6-p1.json",
+       "duration": 472.6,
+       "quizStart": 364.5,
+       "quizCount": 3,
+       "pages": [
+        90,
+        91
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch2-ep6-p1.jpg"
+      },
+      {
+       "id": "ch2-ep6-p2",
+       "p": 2,
+       "np": 2,
+       "title": "The players in a democracy (part 2 of 2)",
+       "file": "ch2-ep6-part2-participants-of-democracy",
+       "audio": "audio/ch2/ch2-ep6-part2-participants-of-democracy.mp3",
+       "audioBytes": 5987392,
+       "transcript": "transcripts/ch2/ch2-ep6-part2-participants-of-democracy.vtt",
+       "images": "data/images/ch2-ep6-p2.json",
+       "quiz": "data/quiz/ch2-ep6-p2.json",
+       "duration": 721.7,
+       "quizStart": 677.4,
+       "quizCount": 1,
+       "pages": [
+        92,
+        95
+       ],
+       "eraAnchors": {},
+       "imageCount": 1,
+       "cover": "covers/ch2-ep6-p2.jpg"
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "title": "Rights, duties and justice",
+     "pdfSections": [
+      "2.3"
+     ],
+     "pages": [
+      96,
+      102
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch2-ep7-p1",
+       "p": 1,
+       "np": 2,
+       "title": "Rights, duties and justice (part 1 of 2)",
+       "file": "ch2-ep7-part1-rights-duties-and-justice",
+       "audio": "audio/ch2/ch2-ep7-part1-rights-duties-and-justice.mp3",
+       "audioBytes": 5849288,
+       "transcript": "transcripts/ch2/ch2-ep7-part1-rights-duties-and-justice.vtt",
+       "images": "data/images/ch2-ep7-p1.json",
+       "quiz": "data/quiz/ch2-ep7-p1.json",
+       "duration": 701.0,
+       "quizStart": 572.8,
+       "quizCount": 4,
+       "pages": [
+        96,
+        99
+       ],
+       "eraAnchors": {},
+       "imageCount": 3,
+       "cover": "covers/ch2-ep7-p1.jpg"
+      },
+      {
+       "id": "ch2-ep7-p2",
+       "p": 2,
+       "np": 2,
+       "title": "Rights, duties and justice (part 2 of 2)",
+       "file": "ch2-ep7-part2-rights-duties-and-justice",
+       "audio": "audio/ch2/ch2-ep7-part2-rights-duties-and-justice.mp3",
+       "audioBytes": 5584123,
+       "transcript": "transcripts/ch2/ch2-ep7-part2-rights-duties-and-justice.vtt",
+       "images": "data/images/ch2-ep7-p2.json",
+       "quiz": "data/quiz/ch2-ep7-p2.json",
+       "duration": 669.9,
+       "quizStart": 544.7,
+       "quizCount": 4,
+       "pages": [
+        100,
+        102
+       ],
+       "eraAnchors": {},
+       "imageCount": 1,
+       "cover": "covers/ch2-ep7-p2.jpg"
+      }
+     ]
+    }
+   ],
+   "cover": "covers/chapter-2.jpg"
+  },
+  {
+   "n": 3,
+   "titleDa": "Den danske økonomi",
+   "titleEn": "The Danish economy",
+   "pages": [
+    103,
+    120
+   ],
+   "description": "The welfare society, taxes and pensions, business life, foreign trade and the Danish labour market model.",
+   "episodes": [
+    {
+     "n": 1,
+     "title": "The welfare model",
+     "pdfSections": [
+      "3.1",
+      "3.2"
+     ],
+     "pages": [
+      103,
+      107
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch3-ep1-p1",
+       "p": 1,
+       "np": 1,
+       "title": "The welfare model",
+       "file": "ch3-ep1-welfare-model",
+       "audio": "audio/ch3/ch3-ep1-welfare-model.mp3",
+       "audioBytes": 6016335,
+       "transcript": "transcripts/ch3/ch3-ep1-welfare-model.vtt",
+       "images": "data/images/ch3-ep1-p1.json",
+       "quiz": "data/quiz/ch3-ep1-p1.json",
+       "duration": 720.4,
+       "quizStart": 646.6,
+       "quizCount": 2,
+       "pages": [
+        103,
+        107
+       ],
+       "eraAnchors": {},
+       "imageCount": 3,
+       "cover": "covers/ch3-ep1-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "Pensions, work and taxes",
+     "pdfSections": [
+      "3.2.1",
+      "3.2.2"
+     ],
+     "pages": [
+      108,
+      110
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch3-ep2-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Pensions, work and taxes",
+       "file": "ch3-ep2-pensions-work-and-taxes",
+       "audio": "audio/ch3/ch3-ep2-pensions-work-and-taxes.mp3",
+       "audioBytes": 7116910,
+       "transcript": "transcripts/ch3/ch3-ep2-pensions-work-and-taxes.vtt",
+       "images": "data/images/ch3-ep2-p1.json",
+       "quiz": "data/quiz/ch3-ep2-p1.json",
+       "duration": 859.6,
+       "quizStart": 630.9,
+       "quizCount": 8,
+       "pages": [
+        108,
+        110
+       ],
+       "eraAnchors": {},
+       "imageCount": 3,
+       "cover": "covers/ch3-ep2-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "Who delivers welfare",
+     "pdfSections": [
+      "3.2.3"
+     ],
+     "pages": [
+      111,
+      113
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch3-ep3-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Who delivers welfare",
+       "file": "ch3-ep3-who-delivers-welfare",
+       "audio": "audio/ch3/ch3-ep3-who-delivers-welfare.mp3",
+       "audioBytes": 5766534,
+       "transcript": "transcripts/ch3/ch3-ep3-who-delivers-welfare.vtt",
+       "images": "data/images/ch3-ep3-p1.json",
+       "quiz": "data/quiz/ch3-ep3-p1.json",
+       "duration": 693.4,
+       "quizStart": 504.3,
+       "quizCount": 7,
+       "pages": [
+        111,
+        113
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch3-ep3-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "Business and trade",
+     "pdfSections": [
+      "3.3"
+     ],
+     "pages": [
+      114,
+      116
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch3-ep4-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Business and trade",
+       "file": "ch3-ep4-business-and-trade",
+       "audio": "audio/ch3/ch3-ep4-business-and-trade.mp3",
+       "audioBytes": 6242229,
+       "transcript": "transcripts/ch3/ch3-ep4-business-and-trade.vtt",
+       "images": "data/images/ch3-ep4-p1.json",
+       "quiz": "data/quiz/ch3-ep4-p1.json",
+       "duration": 754.5,
+       "quizStart": 600.8,
+       "quizCount": 5,
+       "pages": [
+        114,
+        116
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch3-ep4-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "The labour market",
+     "pdfSections": [
+      "3.4"
+     ],
+     "pages": [
+      117,
+      120
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch3-ep5-p1",
+       "p": 1,
+       "np": 1,
+       "title": "The labour market",
+       "file": "ch3-ep5-the-labour-market",
+       "audio": "audio/ch3/ch3-ep5-the-labour-market.mp3",
+       "audioBytes": 6939261,
+       "transcript": "transcripts/ch3/ch3-ep5-the-labour-market.vtt",
+       "images": "data/images/ch3-ep5-p1.json",
+       "quiz": "data/quiz/ch3-ep5-p1.json",
+       "duration": 841.6,
+       "quizStart": 738.2,
+       "quizCount": 3,
+       "pages": [
+        117,
+        120
+       ],
+       "eraAnchors": {},
+       "imageCount": 1,
+       "cover": "covers/ch3-ep5-p1.jpg"
+      }
+     ]
+    }
+   ],
+   "cover": "covers/chapter-3.jpg"
+  },
+  {
+   "n": 4,
+   "titleDa": "Danmark og omverdenen",
+   "titleEn": "Denmark and the world",
+   "pages": [
+    121,
+    143
+   ],
+   "description": "The EU and its institutions, the UN, development aid, foreign and security policy, Greenland and the Arctic.",
+   "episodes": [
+    {
+     "n": 1,
+     "title": "The European Union",
+     "pdfSections": [
+      "4.1",
+      "4.2.1"
+     ],
+     "pages": [
+      121,
+      124
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch4-ep1-p1",
+       "p": 1,
+       "np": 1,
+       "title": "The European Union",
+       "file": "ch4-ep1-the-european-union",
+       "audio": "audio/ch4/ch4-ep1-the-european-union.mp3",
+       "audioBytes": 5293388,
+       "transcript": "transcripts/ch4/ch4-ep1-the-european-union.vtt",
+       "images": "data/images/ch4-ep1-p1.json",
+       "quiz": "data/quiz/ch4-ep1-p1.json",
+       "duration": 630.7,
+       "quizStart": 549.7,
+       "quizCount": 2,
+       "pages": [
+        121,
+        124
+       ],
+       "eraAnchors": {},
+       "imageCount": 1,
+       "cover": "covers/ch4-ep1-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "Denmark and the EU",
+     "pdfSections": [
+      "4.2.1"
+     ],
+     "pages": [
+      125,
+      126
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch4-ep2-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Denmark and the EU",
+       "file": "ch4-ep2-denmark-and-the-eu",
+       "audio": "audio/ch4/ch4-ep2-denmark-and-the-eu.mp3",
+       "audioBytes": 5036981,
+       "transcript": "transcripts/ch4/ch4-ep2-denmark-and-the-eu.vtt",
+       "images": "data/images/ch4-ep2-p1.json",
+       "quiz": "data/quiz/ch4-ep2-p1.json",
+       "duration": 602.2,
+       "quizStart": 429.9,
+       "quizCount": 6,
+       "pages": [
+        125,
+        126
+       ],
+       "eraAnchors": {},
+       "imageCount": 1,
+       "cover": "covers/ch4-ep2-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "EU institutions and the Council of Europe",
+     "pdfSections": [
+      "4.2.1",
+      "4.2.2"
+     ],
+     "pages": [
+      127,
+      130
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch4-ep3-p1",
+       "p": 1,
+       "np": 1,
+       "title": "EU institutions and the Council of Europe",
+       "file": "ch4-ep3-eu-institutions-and-council-of-europe",
+       "audio": "audio/ch4/ch4-ep3-eu-institutions-and-council-of-europe.mp3",
+       "audioBytes": 6485072,
+       "transcript": "transcripts/ch4/ch4-ep3-eu-institutions-and-council-of-europe.vtt",
+       "images": "data/images/ch4-ep3-p1.json",
+       "quiz": "data/quiz/ch4-ep3-p1.json",
+       "duration": 783.1,
+       "quizStart": 653.5,
+       "quizCount": 4,
+       "pages": [
+        127,
+        130
+       ],
+       "eraAnchors": {},
+       "imageCount": 3,
+       "cover": "covers/ch4-ep3-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "The United Nations",
+     "pdfSections": [
+      "4.3.1"
+     ],
+     "pages": [
+      131,
+      133
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch4-ep4-p1",
+       "p": 1,
+       "np": 1,
+       "title": "The United Nations",
+       "file": "ch4-ep4-the-united-nations",
+       "audio": "audio/ch4/ch4-ep4-the-united-nations.mp3",
+       "audioBytes": 5034238,
+       "transcript": "transcripts/ch4/ch4-ep4-the-united-nations.vtt",
+       "images": "data/images/ch4-ep4-p1.json",
+       "quiz": "data/quiz/ch4-ep4-p1.json",
+       "duration": 600.6,
+       "quizStart": 484.5,
+       "quizCount": 3,
+       "pages": [
+        131,
+        133
+       ],
+       "eraAnchors": {},
+       "imageCount": 3,
+       "cover": "covers/ch4-ep4-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "Development aid and Africa",
+     "pdfSections": [
+      "4.3.2"
+     ],
+     "pages": [
+      134,
+      135
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch4-ep5-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Development aid and Africa",
+       "file": "ch4-ep5-development-aid-and-africa",
+       "audio": "audio/ch4/ch4-ep5-development-aid-and-africa.mp3",
+       "audioBytes": 3106619,
+       "transcript": "transcripts/ch4/ch4-ep5-development-aid-and-africa.vtt",
+       "images": "data/images/ch4-ep5-p1.json",
+       "quiz": "data/quiz/ch4-ep5-p1.json",
+       "duration": 361.8,
+       "quizStart": 319.6,
+       "quizCount": 1,
+       "pages": [
+        134,
+        135
+       ],
+       "eraAnchors": {},
+       "imageCount": 1,
+       "cover": "covers/ch4-ep5-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "Foreign policy after the Cold War",
+     "pdfSections": [
+      "4.4.1",
+      "4.4.2"
+     ],
+     "pages": [
+      136,
+      139
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch4-ep6-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Foreign policy after the Cold War",
+       "file": "ch4-ep6-activist-foreign-policy",
+       "audio": "audio/ch4/ch4-ep6-activist-foreign-policy.mp3",
+       "audioBytes": 6308767,
+       "transcript": "transcripts/ch4/ch4-ep6-activist-foreign-policy.vtt",
+       "images": "data/images/ch4-ep6-p1.json",
+       "quiz": "data/quiz/ch4-ep6-p1.json",
+       "duration": 766.0,
+       "quizStart": 560.4,
+       "quizCount": 7,
+       "pages": [
+        136,
+        139
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch4-ep6-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "title": "Defence, Ukraine and the Arctic",
+     "pdfSections": [
+      "4.4.3",
+      "4.4.4"
+     ],
+     "pages": [
+      140,
+      143
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch4-ep7-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Defence, Ukraine and the Arctic",
+       "file": "ch4-ep7-defence-ukraine-and-the-arctic",
+       "audio": "audio/ch4/ch4-ep7-defence-ukraine-and-the-arctic.mp3",
+       "audioBytes": 6804461,
+       "transcript": "transcripts/ch4/ch4-ep7-defence-ukraine-and-the-arctic.vtt",
+       "images": "data/images/ch4-ep7-p1.json",
+       "quiz": "data/quiz/ch4-ep7-p1.json",
+       "duration": 825.3,
+       "quizStart": 782.3,
+       "quizCount": 1,
+       "pages": [
+        140,
+        143
+       ],
+       "eraAnchors": {},
+       "imageCount": 3,
+       "cover": "covers/ch4-ep7-p1.jpg"
+      }
+     ]
+    }
+   ],
+   "cover": "covers/chapter-4.jpg"
+  },
+  {
+   "n": 5,
+   "titleDa": "Dansk kulturliv",
+   "titleEn": "Danish culture",
+   "pages": [
+    144,
+    173
+   ],
+   "description": "Literature, art, music, architecture and design, performing arts and film.",
+   "episodes": [
+    {
+     "n": 1,
+     "title": "Literature: from runes to Romanticism",
+     "pdfSections": [
+      "5.1",
+      "5.2"
+     ],
+     "pages": [
+      144,
+      147
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch5-ep1-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Literature: from runes to Romanticism",
+       "file": "ch5-ep1-literature-to-romanticism",
+       "audio": "audio/ch5/ch5-ep1-literature-to-romanticism.mp3",
+       "audioBytes": 5868876,
+       "transcript": "transcripts/ch5/ch5-ep1-literature-to-romanticism.vtt",
+       "images": "data/images/ch5-ep1-p1.json",
+       "quiz": "data/quiz/ch5-ep1-p1.json",
+       "duration": 706.0,
+       "quizStart": 523.8,
+       "quizCount": 6,
+       "pages": [
+        144,
+        147
+       ],
+       "eraAnchors": {},
+       "imageCount": 1,
+       "cover": "covers/ch5-ep1-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "Literature: the Modern Breakthrough",
+     "pdfSections": [
+      "5.2"
+     ],
+     "pages": [
+      148,
+      150
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch5-ep2-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Literature: the Modern Breakthrough",
+       "file": "ch5-ep2-literature-modern-breakthrough",
+       "audio": "audio/ch5/ch5-ep2-literature-modern-breakthrough.mp3",
+       "audioBytes": 5872229,
+       "transcript": "transcripts/ch5/ch5-ep2-literature-modern-breakthrough.vtt",
+       "images": "data/images/ch5-ep2-p1.json",
+       "quiz": "data/quiz/ch5-ep2-p1.json",
+       "duration": 709.6,
+       "quizStart": 444.5,
+       "quizCount": 9,
+       "pages": [
+        148,
+        150
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch5-ep2-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "Literature from the 1960s",
+     "pdfSections": [
+      "5.2"
+     ],
+     "pages": [
+      151,
+      152
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch5-ep3-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Literature from the 1960s",
+       "file": "ch5-ep3-literature-from-the-1960s",
+       "audio": "audio/ch5/ch5-ep3-literature-from-the-1960s.mp3",
+       "audioBytes": 4633571,
+       "transcript": "transcripts/ch5/ch5-ep3-literature-from-the-1960s.vtt",
+       "images": "data/images/ch5-ep3-p1.json",
+       "quiz": "data/quiz/ch5-ep3-p1.json",
+       "duration": 552.5,
+       "quizStart": 455.2,
+       "quizCount": 3,
+       "pages": [
+        151,
+        152
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch5-ep3-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "Visual art and sculpture",
+     "pdfSections": [
+      "5.3"
+     ],
+     "pages": [
+      153,
+      157
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch5-ep4-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Visual art and sculpture",
+       "file": "ch5-ep4-visual-art-and-sculpture",
+       "audio": "audio/ch5/ch5-ep4-visual-art-and-sculpture.mp3",
+       "audioBytes": 7590984,
+       "transcript": "transcripts/ch5/ch5-ep4-visual-art-and-sculpture.vtt",
+       "images": "data/images/ch5-ep4-p1.json",
+       "quiz": "data/quiz/ch5-ep4-p1.json",
+       "duration": 923.8,
+       "quizStart": 715.4,
+       "quizCount": 7,
+       "pages": [
+        153,
+        157
+       ],
+       "eraAnchors": {},
+       "imageCount": 4,
+       "cover": "covers/ch5-ep4-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "Music",
+     "pdfSections": [
+      "5.4"
+     ],
+     "pages": [
+      158,
+      160
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch5-ep5-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Music",
+       "file": "ch5-ep5-music",
+       "audio": "audio/ch5/ch5-ep5-music.mp3",
+       "audioBytes": 5481116,
+       "transcript": "transcripts/ch5/ch5-ep5-music.vtt",
+       "images": "data/images/ch5-ep5-p1.json",
+       "quiz": "data/quiz/ch5-ep5-p1.json",
+       "duration": 659.0,
+       "quizStart": 532.4,
+       "quizCount": 4,
+       "pages": [
+        158,
+        160
+       ],
+       "eraAnchors": {},
+       "imageCount": 3,
+       "cover": "covers/ch5-ep5-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "Architecture and design",
+     "pdfSections": [
+      "5.5"
+     ],
+     "pages": [
+      161,
+      163
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch5-ep6-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Architecture and design",
+       "file": "ch5-ep6-architecture-and-design",
+       "audio": "audio/ch5/ch5-ep6-architecture-and-design.mp3",
+       "audioBytes": 4375980,
+       "transcript": "transcripts/ch5/ch5-ep6-architecture-and-design.vtt",
+       "images": "data/images/ch5-ep6-p1.json",
+       "quiz": "data/quiz/ch5-ep6-p1.json",
+       "duration": 515.1,
+       "quizStart": 416.1,
+       "quizCount": 3,
+       "pages": [
+        161,
+        163
+       ],
+       "eraAnchors": {},
+       "imageCount": 3,
+       "cover": "covers/ch5-ep6-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "title": "Performing arts",
+     "pdfSections": [
+      "5.6"
+     ],
+     "pages": [
+      164,
+      167
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch5-ep7-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Performing arts",
+       "file": "ch5-ep7-performing-arts",
+       "audio": "audio/ch5/ch5-ep7-performing-arts.mp3",
+       "audioBytes": 4801069,
+       "transcript": "transcripts/ch5/ch5-ep7-performing-arts.vtt",
+       "images": "data/images/ch5-ep7-p1.json",
+       "quiz": "data/quiz/ch5-ep7-p1.json",
+       "duration": 577.4,
+       "quizStart": null,
+       "quizCount": 0,
+       "pages": [
+        164,
+        167
+       ],
+       "eraAnchors": {},
+       "imageCount": 1,
+       "cover": "covers/ch5-ep7-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "title": "Film: the early years",
+     "pdfSections": [
+      "5.7"
+     ],
+     "pages": [
+      168,
+      170
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch5-ep8-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Film: the early years",
+       "file": "ch5-ep8-film-the-early-years",
+       "audio": "audio/ch5/ch5-ep8-film-the-early-years.mp3",
+       "audioBytes": 5106235,
+       "transcript": "transcripts/ch5/ch5-ep8-film-the-early-years.vtt",
+       "images": "data/images/ch5-ep8-p1.json",
+       "quiz": "data/quiz/ch5-ep8-p1.json",
+       "duration": 616.2,
+       "quizStart": 513.4,
+       "quizCount": 3,
+       "pages": [
+        168,
+        170
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch5-ep8-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "title": "Film: Dogme 95 and today",
+     "pdfSections": [
+      "5.7"
+     ],
+     "pages": [
+      171,
+      173
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch5-ep9-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Film: Dogme 95 and today",
+       "file": "ch5-ep9-film-dogme-and-today",
+       "audio": "audio/ch5/ch5-ep9-film-dogme-and-today.mp3",
+       "audioBytes": 6392593,
+       "transcript": "transcripts/ch5/ch5-ep9-film-dogme-and-today.vtt",
+       "images": "data/images/ch5-ep9-p1.json",
+       "quiz": "data/quiz/ch5-ep9-p1.json",
+       "duration": 772.8,
+       "quizStart": 554.1,
+       "quizCount": 8,
+       "pages": [
+        171,
+        173
+       ],
+       "eraAnchors": {},
+       "imageCount": 5,
+       "cover": "covers/ch5-ep9-p1.jpg"
+      }
+     ]
+    }
+   ],
+   "cover": "covers/chapter-5.jpg"
+  },
+  {
+   "n": 6,
+   "titleDa": "Temaopslag",
+   "titleEn": "Theme spotlights",
+   "pages": [
+    174,
+    246
+   ],
+   "description": "Geography and sights, the flag and royal house, immigration, Greenland and the Faroe Islands, the Nordic countries, science, religion, customs, Grundtvig, school, family, equality, health and climate.",
+   "episodes": [
+    {
+     "n": 1,
+     "title": "Geography",
+     "pdfSections": [
+      "6.1"
+     ],
+     "pages": [
+      174,
+      176
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep1-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Geography",
+       "file": "ch6-ep1-geography",
+       "audio": "audio/ch6/ch6-ep1-geography.mp3",
+       "audioBytes": 5361057,
+       "transcript": "transcripts/ch6/ch6-ep1-geography.vtt",
+       "images": "data/images/ch6-ep1-p1.json",
+       "quiz": "data/quiz/ch6-ep1-p1.json",
+       "duration": 647.5,
+       "quizStart": 449.1,
+       "quizCount": 7,
+       "pages": [
+        174,
+        176
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch6-ep1-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "Sights: Jutland",
+     "pdfSections": [
+      "6.2"
+     ],
+     "pages": [
+      177,
+      181
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep2-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Sights: Jutland",
+       "file": "ch6-ep2-sights-jutland",
+       "audio": "audio/ch6/ch6-ep2-sights-jutland.mp3",
+       "audioBytes": 6654900,
+       "transcript": "transcripts/ch6/ch6-ep2-sights-jutland.vtt",
+       "images": "data/images/ch6-ep2-p1.json",
+       "quiz": "data/quiz/ch6-ep2-p1.json",
+       "duration": 811.4,
+       "quizStart": 632.0,
+       "quizCount": 6,
+       "pages": [
+        177,
+        181
+       ],
+       "eraAnchors": {},
+       "imageCount": 3,
+       "cover": "covers/ch6-ep2-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "Sights: the islands",
+     "pdfSections": [
+      "6.2"
+     ],
+     "pages": [
+      182,
+      185
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep3-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Sights: the islands",
+       "file": "ch6-ep3-sights-islands",
+       "audio": "audio/ch6/ch6-ep3-sights-islands.mp3",
+       "audioBytes": 6117969,
+       "transcript": "transcripts/ch6/ch6-ep3-sights-islands.vtt",
+       "images": "data/images/ch6-ep3-p1.json",
+       "quiz": "data/quiz/ch6-ep3-p1.json",
+       "duration": 741.6,
+       "quizStart": 545.8,
+       "quizCount": 7,
+       "pages": [
+        182,
+        185
+       ],
+       "eraAnchors": {},
+       "imageCount": 5,
+       "cover": "covers/ch6-ep3-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "Copenhagen",
+     "pdfSections": [
+      "6.2"
+     ],
+     "pages": [
+      186,
+      189
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep4-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Copenhagen",
+       "file": "ch6-ep4-copenhagen",
+       "audio": "audio/ch6/ch6-ep4-copenhagen.mp3",
+       "audioBytes": 5592941,
+       "transcript": "transcripts/ch6/ch6-ep4-copenhagen.vtt",
+       "images": "data/images/ch6-ep4-p1.json",
+       "quiz": "data/quiz/ch6-ep4-p1.json",
+       "duration": 669.9,
+       "quizStart": 537.3,
+       "quizCount": 4,
+       "pages": [
+        186,
+        189
+       ],
+       "eraAnchors": {},
+       "imageCount": 6,
+       "cover": "covers/ch6-ep4-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "The flag and the royal house",
+     "pdfSections": [
+      "6.3",
+      "6.4"
+     ],
+     "pages": [
+      190,
+      192
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep5-p1",
+       "p": 1,
+       "np": 1,
+       "title": "The flag and the royal house",
+       "file": "ch6-ep5-flag-and-royal-house",
+       "audio": "audio/ch6/ch6-ep5-flag-and-royal-house.mp3",
+       "audioBytes": 5565212,
+       "transcript": "transcripts/ch6/ch6-ep5-flag-and-royal-house.vtt",
+       "images": "data/images/ch6-ep5-p1.json",
+       "quiz": "data/quiz/ch6-ep5-p1.json",
+       "duration": 668.8,
+       "quizStart": 441.3,
+       "quizCount": 8,
+       "pages": [
+        190,
+        192
+       ],
+       "eraAnchors": {},
+       "imageCount": 3,
+       "cover": "covers/ch6-ep5-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "Immigration through the ages",
+     "pdfSections": [
+      "6.5"
+     ],
+     "pages": [
+      193,
+      195
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep6-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Immigration through the ages",
+       "file": "ch6-ep6-immigration-through-time",
+       "audio": "audio/ch6/ch6-ep6-immigration-through-time.mp3",
+       "audioBytes": 5510425,
+       "transcript": "transcripts/ch6/ch6-ep6-immigration-through-time.vtt",
+       "images": "data/images/ch6-ep6-p1.json",
+       "quiz": "data/quiz/ch6-ep6-p1.json",
+       "duration": 660.8,
+       "quizStart": 486.5,
+       "quizCount": 6,
+       "pages": [
+        193,
+        195
+       ],
+       "eraAnchors": {},
+       "imageCount": 3,
+       "cover": "covers/ch6-ep6-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "title": "The Realm Community and Greenland",
+     "pdfSections": [
+      "6.6"
+     ],
+     "pages": [
+      196,
+      202
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep7-p1",
+       "p": 1,
+       "np": 2,
+       "title": "The Realm Community and Greenland (part 1 of 2)",
+       "file": "ch6-ep7-part1-the-realm-and-greenland",
+       "audio": "audio/ch6/ch6-ep7-part1-the-realm-and-greenland.mp3",
+       "audioBytes": 4967845,
+       "transcript": "transcripts/ch6/ch6-ep7-part1-the-realm-and-greenland.vtt",
+       "images": "data/images/ch6-ep7-p1.json",
+       "quiz": "data/quiz/ch6-ep7-p1.json",
+       "duration": 594.8,
+       "quizStart": 448.4,
+       "quizCount": 5,
+       "pages": [
+        196,
+        200
+       ],
+       "eraAnchors": {},
+       "imageCount": 5,
+       "cover": "covers/ch6-ep7-p1.jpg"
+      },
+      {
+       "id": "ch6-ep7-p2",
+       "p": 2,
+       "np": 2,
+       "title": "The Realm Community and Greenland (part 2 of 2)",
+       "file": "ch6-ep7-part2-the-realm-and-greenland",
+       "audio": "audio/ch6/ch6-ep7-part2-the-realm-and-greenland.mp3",
+       "audioBytes": 4611351,
+       "transcript": "transcripts/ch6/ch6-ep7-part2-the-realm-and-greenland.vtt",
+       "images": "data/images/ch6-ep7-p2.json",
+       "quiz": "data/quiz/ch6-ep7-p2.json",
+       "duration": 550.2,
+       "quizStart": 460.2,
+       "quizCount": 3,
+       "pages": [
+        201,
+        202
+       ],
+       "eraAnchors": {},
+       "imageCount": 0,
+       "cover": "covers/ch6-ep7-p2.jpg"
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "title": "The Faroe Islands",
+     "pdfSections": [
+      "6.6"
+     ],
+     "pages": [
+      203,
+      207
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep8-p1",
+       "p": 1,
+       "np": 1,
+       "title": "The Faroe Islands",
+       "file": "ch6-ep8-the-faroe-islands",
+       "audio": "audio/ch6/ch6-ep8-the-faroe-islands.mp3",
+       "audioBytes": 7424657,
+       "transcript": "transcripts/ch6/ch6-ep8-the-faroe-islands.vtt",
+       "images": "data/images/ch6-ep8-p1.json",
+       "quiz": "data/quiz/ch6-ep8-p1.json",
+       "duration": 901.3,
+       "quizStart": 779.0,
+       "quizCount": 4,
+       "pages": [
+        203,
+        207
+       ],
+       "eraAnchors": {},
+       "imageCount": 4,
+       "cover": "covers/ch6-ep8-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "title": "Denmark and the Nordic countries",
+     "pdfSections": [
+      "6.7"
+     ],
+     "pages": [
+      208,
+      210
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep9-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Denmark and the Nordic countries",
+       "file": "ch6-ep9-denmark-and-the-nordic-countries",
+       "audio": "audio/ch6/ch6-ep9-denmark-and-the-nordic-countries.mp3",
+       "audioBytes": 5448392,
+       "transcript": "transcripts/ch6/ch6-ep9-denmark-and-the-nordic-countries.vtt",
+       "images": "data/images/ch6-ep9-p1.json",
+       "quiz": "data/quiz/ch6-ep9-p1.json",
+       "duration": 653.9,
+       "quizStart": 484.4,
+       "quizCount": 5,
+       "pages": [
+        208,
+        210
+       ],
+       "eraAnchors": {},
+       "imageCount": 3,
+       "cover": "covers/ch6-ep9-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "title": "Danish science and thinking",
+     "pdfSections": [
+      "6.8"
+     ],
+     "pages": [
+      211,
+      214
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep10-p1",
+       "p": 1,
+       "np": 2,
+       "title": "Danish science and thinking (part 1 of 2)",
+       "file": "ch6-ep10-part1-danish-science-and-thinking",
+       "audio": "audio/ch6/ch6-ep10-part1-danish-science-and-thinking.mp3",
+       "audioBytes": 4206195,
+       "transcript": "transcripts/ch6/ch6-ep10-part1-danish-science-and-thinking.vtt",
+       "images": "data/images/ch6-ep10-p1.json",
+       "quiz": "data/quiz/ch6-ep10-p1.json",
+       "duration": 498.2,
+       "quizStart": 368.6,
+       "quizCount": 4,
+       "pages": [
+        211,
+        212
+       ],
+       "eraAnchors": {},
+       "imageCount": 0,
+       "cover": "covers/ch6-ep10-p1.jpg"
+      },
+      {
+       "id": "ch6-ep10-p2",
+       "p": 2,
+       "np": 2,
+       "title": "Danish science and thinking (part 2 of 2)",
+       "file": "ch6-ep10-part2-danish-science-and-thinking",
+       "audio": "audio/ch6/ch6-ep10-part2-danish-science-and-thinking.mp3",
+       "audioBytes": 4086732,
+       "transcript": "transcripts/ch6/ch6-ep10-part2-danish-science-and-thinking.vtt",
+       "images": "data/images/ch6-ep10-p2.json",
+       "quiz": "data/quiz/ch6-ep10-p2.json",
+       "duration": 481.2,
+       "quizStart": 345.7,
+       "quizCount": 4,
+       "pages": [
+        213,
+        214
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch6-ep10-p2.jpg"
+      }
+     ]
+    },
+    {
+     "n": 11,
+     "title": "Church and religion",
+     "pdfSections": [
+      "6.9"
+     ],
+     "pages": [
+      215,
+      217
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep11-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Church and religion",
+       "file": "ch6-ep11-church-and-religion",
+       "audio": "audio/ch6/ch6-ep11-church-and-religion.mp3",
+       "audioBytes": 4901960,
+       "transcript": "transcripts/ch6/ch6-ep11-church-and-religion.vtt",
+       "images": "data/images/ch6-ep11-p1.json",
+       "quiz": "data/quiz/ch6-ep11-p1.json",
+       "duration": 587.0,
+       "quizStart": 501.9,
+       "quizCount": 3,
+       "pages": [
+        215,
+        217
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch6-ep11-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 12,
+     "title": "Customs and days of observance",
+     "pdfSections": [
+      "6.10"
+     ],
+     "pages": [
+      218,
+      220
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep12-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Customs and days of observance",
+       "file": "ch6-ep12-customs-and-holidays",
+       "audio": "audio/ch6/ch6-ep12-customs-and-holidays.mp3",
+       "audioBytes": 3806794,
+       "transcript": "transcripts/ch6/ch6-ep12-customs-and-holidays.vtt",
+       "images": "data/images/ch6-ep12-p1.json",
+       "quiz": "data/quiz/ch6-ep12-p1.json",
+       "duration": 446.3,
+       "quizStart": 394.8,
+       "quizCount": 1,
+       "pages": [
+        218,
+        220
+       ],
+       "eraAnchors": {},
+       "imageCount": 3,
+       "cover": "covers/ch6-ep12-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 13,
+     "title": "N.F.S. Grundtvig",
+     "pdfSections": [
+      "6.11"
+     ],
+     "pages": [
+      221,
+      223
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep13-p1",
+       "p": 1,
+       "np": 1,
+       "title": "N.F.S. Grundtvig",
+       "file": "ch6-ep13-grundtvig",
+       "audio": "audio/ch6/ch6-ep13-grundtvig.mp3",
+       "audioBytes": 5355755,
+       "transcript": "transcripts/ch6/ch6-ep13-grundtvig.vtt",
+       "images": "data/images/ch6-ep13-p1.json",
+       "quiz": "data/quiz/ch6-ep13-p1.json",
+       "duration": 641.7,
+       "quizStart": 506.1,
+       "quizCount": 4,
+       "pages": [
+        221,
+        223
+       ],
+       "eraAnchors": {},
+       "imageCount": 3,
+       "cover": "covers/ch6-ep13-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 14,
+     "title": "School and education",
+     "pdfSections": [
+      "6.12"
+     ],
+     "pages": [
+      224,
+      228
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep14-p1",
+       "p": 1,
+       "np": 1,
+       "title": "School and education",
+       "file": "ch6-ep14-school-and-education",
+       "audio": "audio/ch6/ch6-ep14-school-and-education.mp3",
+       "audioBytes": 7375312,
+       "transcript": "transcripts/ch6/ch6-ep14-school-and-education.vtt",
+       "images": "data/images/ch6-ep14-p1.json",
+       "quiz": "data/quiz/ch6-ep14-p1.json",
+       "duration": 899.0,
+       "quizStart": 857.3,
+       "quizCount": 1,
+       "pages": [
+        224,
+        228
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch6-ep14-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 15,
+     "title": "Family life",
+     "pdfSections": [
+      "6.13"
+     ],
+     "pages": [
+      229,
+      230
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep15-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Family life",
+       "file": "ch6-ep15-family-life",
+       "audio": "audio/ch6/ch6-ep15-family-life.mp3",
+       "audioBytes": 5553200,
+       "transcript": "transcripts/ch6/ch6-ep15-family-life.vtt",
+       "images": "data/images/ch6-ep15-p1.json",
+       "quiz": "data/quiz/ch6-ep15-p1.json",
+       "duration": 668.3,
+       "quizStart": 451.2,
+       "quizCount": 8,
+       "pages": [
+        229,
+        230
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch6-ep15-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 16,
+     "title": "Discrimination and hate crimes",
+     "pdfSections": [
+      "6.14"
+     ],
+     "pages": [
+      231,
+      233
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep16-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Discrimination and hate crimes",
+       "file": "ch6-ep16-discrimination-and-hate-crimes",
+       "audio": "audio/ch6/ch6-ep16-discrimination-and-hate-crimes.mp3",
+       "audioBytes": 4458264,
+       "transcript": "transcripts/ch6/ch6-ep16-discrimination-and-hate-crimes.vtt",
+       "images": "data/images/ch6-ep16-p1.json",
+       "quiz": "data/quiz/ch6-ep16-p1.json",
+       "duration": 535.3,
+       "quizStart": 491.0,
+       "quizCount": 1,
+       "pages": [
+        231,
+        233
+       ],
+       "eraAnchors": {},
+       "imageCount": 1,
+       "cover": "covers/ch6-ep16-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 17,
+     "title": "Equality between the sexes",
+     "pdfSections": [
+      "6.15"
+     ],
+     "pages": [
+      234,
+      237
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep17-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Equality between the sexes",
+       "file": "ch6-ep17-gender-equality",
+       "audio": "audio/ch6/ch6-ep17-gender-equality.mp3",
+       "audioBytes": 5289072,
+       "transcript": "transcripts/ch6/ch6-ep17-gender-equality.vtt",
+       "images": "data/images/ch6-ep17-p1.json",
+       "quiz": "data/quiz/ch6-ep17-p1.json",
+       "duration": 629.8,
+       "quizStart": 540.7,
+       "quizCount": 3,
+       "pages": [
+        234,
+        237
+       ],
+       "eraAnchors": {},
+       "imageCount": 2,
+       "cover": "covers/ch6-ep17-p1.jpg"
+      }
+     ]
+    },
+    {
+     "n": 18,
+     "title": "Health and the health service",
+     "pdfSections": [
+      "6.16"
+     ],
+     "pages": [
+      238,
+      241
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep18-p1",
+       "p": 1,
+       "np": 2,
+       "title": "Health and the health service (part 1 of 2)",
+       "file": "ch6-ep18-part1-health-and-healthcare",
+       "audio": "audio/ch6/ch6-ep18-part1-health-and-healthcare.mp3",
+       "audioBytes": 3807827,
+       "transcript": "transcripts/ch6/ch6-ep18-part1-health-and-healthcare.vtt",
+       "images": "data/images/ch6-ep18-p1.json",
+       "quiz": "data/quiz/ch6-ep18-p1.json",
+       "duration": 448.8,
+       "quizStart": 314.0,
+       "quizCount": 4,
+       "pages": [
+        238,
+        239
+       ],
+       "eraAnchors": {},
+       "imageCount": 1,
+       "cover": "covers/ch6-ep18-p1.jpg"
+      },
+      {
+       "id": "ch6-ep18-p2",
+       "p": 2,
+       "np": 2,
+       "title": "Health and the health service (part 2 of 2)",
+       "file": "ch6-ep18-part2-health-and-healthcare",
+       "audio": "audio/ch6/ch6-ep18-part2-health-and-healthcare.mp3",
+       "audioBytes": 4500346,
+       "transcript": "transcripts/ch6/ch6-ep18-part2-health-and-healthcare.vtt",
+       "images": "data/images/ch6-ep18-p2.json",
+       "quiz": "data/quiz/ch6-ep18-p2.json",
+       "duration": 536.4,
+       "quizStart": 445.7,
+       "quizCount": 3,
+       "pages": [
+        240,
+        241
+       ],
+       "eraAnchors": {},
+       "imageCount": 1,
+       "cover": "covers/ch6-ep18-p2.jpg"
+      }
+     ]
+    },
+    {
+     "n": 19,
+     "title": "Climate",
+     "pdfSections": [
+      "6.17"
+     ],
+     "pages": [
+      242,
+      246
+     ],
+     "eras": [],
+     "parts": [
+      {
+       "id": "ch6-ep19-p1",
+       "p": 1,
+       "np": 1,
+       "title": "Climate",
+       "file": "ch6-ep19-climate",
+       "audio": "audio/ch6/ch6-ep19-climate.mp3",
+       "audioBytes": 7415018,
+       "transcript": "transcripts/ch6/ch6-ep19-climate.vtt",
+       "images": "data/images/ch6-ep19-p1.json",
+       "quiz": "data/quiz/ch6-ep19-p1.json",
+       "duration": 901.9,
+       "quizStart": 757.5,
+       "quizCount": 4,
+       "pages": [
+        242,
+        246
+       ],
+       "eraAnchors": {},
+       "imageCount": 4,
+       "cover": "covers/ch6-ep19-p1.jpg"
+      }
+     ]
+    }
+   ],
+   "cover": "covers/chapter-6.jpg"
+  }
+ ],
+ "eras": [
+  {
+   "id": "e1",
+   "from": 750,
+   "to": 1050,
+   "titleDa": "Vikingetid",
+   "titleEn": "The Viking Age",
+   "pdfSection": "1.2",
+   "ep": "ep1",
+   "summary": "Denmark was gathered under one king and power began to be centralised. The Vikings traded, raided and settled abroad, and most Danes became Christian."
+  },
+  {
+   "id": "e2",
+   "from": 1050,
+   "to": 1500,
+   "titleDa": "Middelalder",
+   "titleEn": "The Middle Ages",
+   "pdfSection": "1.3",
+   "ep": "ep1",
+   "summary": "King, church and nobility often fought for power. The period brought the Jutland Law, the Black Death and the Kalmar Union."
+  },
+  {
+   "id": "e3",
+   "from": 1500,
+   "to": 1700,
+   "titleDa": "Reformation, Svenskekrige, Enevælde",
+   "titleEn": "Reformation, Swedish wars and absolutism",
+   "pdfSection": "1.4",
+   "ep": "ep1",
+   "summary": "Protestantism was introduced in 1536 and the king's power grew. After lost wars with Sweden, absolutism was introduced in 1660-61."
+  },
+  {
+   "id": "e4",
+   "from": 1600,
+   "to": 1800,
+   "titleDa": "Søfart og kolonimagt",
+   "titleEn": "Seafaring and colonial power",
+   "pdfSection": "1.5",
+   "ep": "ep2",
+   "summary": "Denmark became a colonial power, with trading posts in India, forts in Ghana and colonies in the West Indies."
+  },
+  {
+   "id": "e5",
+   "from": 1700,
+   "to": 1849,
+   "titleDa": "Oplysningstid",
+   "titleEn": "The Enlightenment and the road to democracy",
+   "pdfSection": "1.6",
+   "ep": "ep2",
+   "summary": "Enlightenment ideas, land reforms and Struensee's reforms led to Denmark's first free constitution in 1849."
+  },
+  {
+   "id": "e6",
+   "from": 1848,
+   "to": 1864,
+   "titleDa": "Slesvigske krige",
+   "titleEn": "The Schleswig wars",
+   "pdfSection": "1.7",
+   "ep": "ep2",
+   "summary": "Tension between Danes and Germans in the duchies led to two wars; Denmark lost Schleswig and Holstein in 1864."
+  },
+  {
+   "id": "e7",
+   "from": 1864,
+   "to": 1914,
+   "titleDa": "Industrialisering",
+   "titleEn": "Industrialisation and new political movements",
+   "pdfSection": "1.8",
+   "ep": "ep3",
+   "summary": "Industry, the labour movement, the cooperative movement and the women's movement reshaped society, and parliamentarism broke through in 1901."
+  },
+  {
+   "id": "e8",
+   "from": 1914,
+   "to": 1940,
+   "titleDa": "Verdenskrig og kriser",
+   "titleEn": "World war, crises and social reforms",
+   "pdfSection": "1.9",
+   "ep": "ep3",
+   "summary": "Denmark stayed out of the First World War, regained North Schleswig in 1920 and met the crisis of the 1930s with the Kanslergade Agreement."
+  },
+  {
+   "id": "e9",
+   "from": 1940,
+   "to": 1945,
+   "titleDa": "Besættelse",
+   "titleEn": "The German occupation",
+   "pdfSection": "1.10",
+   "ep": "ep4",
+   "summary": "Germany occupied Denmark on 9 April 1940. Resistance grew, most Danish Jews were saved in 1943, and Denmark was liberated on 5 May 1945."
+  },
+  {
+   "id": "e10",
+   "from": 1945,
+   "to": 1972,
+   "titleDa": "Kold krig og velfærd",
+   "titleEn": "Cold War, welfare and youth revolt",
+   "pdfSection": "1.11",
+   "ep": "ep4",
+   "summary": "Denmark joined NATO, the welfare state grew in the booming 1960s, and young people rebelled against traditional norms."
+  },
+  {
+   "id": "e11",
+   "from": 1972,
+   "to": 1990,
+   "titleDa": "EF og oliekrise",
+   "titleEn": "Europe and the oil crisis",
+   "pdfSection": "1.12",
+   "ep": "ep5",
+   "summary": "Denmark joined the EC in 1973 and was hit by the oil crisis; the landslide election of 1973 changed the party system."
+  },
+  {
+   "id": "e12",
+   "from": 1990,
+   "to": 2026,
+   "titleDa": "Globalt samfund",
+   "titleEn": "The global society",
+   "pdfSection": "1.13",
+   "ep": "ep6",
+   "summary": "The Cold War ended, the EU opt-outs were agreed, and Denmark took part in international missions and faced the 2008 financial crisis and Covid-19."
+  }
+ ],
+ "downloads": [
+  {
+   "id": "chapter-1-part1-of-2-audio",
+   "title": "Chapter 1: History of Denmark - audio (zip 1 of 2)",
+   "file": "chapter-1-part1-of-2-audio.zip",
+   "bytes": 48909499,
+   "chapter": 1,
+   "kind": "audio",
+   "parts": 6,
+   "description": "MP3, 64 kbps"
+  },
+  {
+   "id": "chapter-1-part2-of-2-audio",
+   "title": "Chapter 1: History of Denmark - audio (zip 2 of 2)",
+   "file": "chapter-1-part2-of-2-audio.zip",
+   "bytes": 45628808,
+   "chapter": 1,
+   "kind": "audio",
+   "parts": 5,
+   "description": "MP3, 64 kbps"
+  },
+  {
+   "id": "chapter-1-transcripts-vtt",
+   "title": "Chapter 1: History of Denmark - transcripts",
+   "file": "chapter-1-transcripts-vtt.zip",
+   "bytes": 92606,
+   "chapter": 1,
+   "kind": "transcripts",
+   "parts": 11,
+   "description": "WebVTT, time-synced"
+  },
+  {
+   "id": "chapter-2-audio",
+   "title": "Chapter 2: Danish democracy - audio",
+   "file": "chapter-2-audio.zip",
+   "bytes": 62440686,
+   "chapter": 2,
+   "kind": "audio",
+   "parts": 11,
+   "description": "MP3, 64 kbps"
+  },
+  {
+   "id": "chapter-2-transcripts-vtt",
+   "title": "Chapter 2: Danish democracy - transcripts",
+   "file": "chapter-2-transcripts-vtt.zip",
+   "bytes": 62055,
+   "chapter": 2,
+   "kind": "transcripts",
+   "parts": 11,
+   "description": "WebVTT, time-synced"
+  },
+  {
+   "id": "chapter-3-audio",
+   "title": "Chapter 3: The Danish economy - audio",
+   "file": "chapter-3-audio.zip",
+   "bytes": 32082724,
+   "chapter": 3,
+   "kind": "audio",
+   "parts": 5,
+   "description": "MP3, 64 kbps"
+  },
+  {
+   "id": "chapter-3-transcripts-vtt",
+   "title": "Chapter 3: The Danish economy - transcripts",
+   "file": "chapter-3-transcripts-vtt.zip",
+   "bytes": 30413,
+   "chapter": 3,
+   "kind": "transcripts",
+   "parts": 5,
+   "description": "WebVTT, time-synced"
+  },
+  {
+   "id": "chapter-4-audio",
+   "title": "Chapter 4: Denmark and the world - audio",
+   "file": "chapter-4-audio.zip",
+   "bytes": 38071339,
+   "chapter": 4,
+   "kind": "audio",
+   "parts": 7,
+   "description": "MP3, 64 kbps"
+  },
+  {
+   "id": "chapter-4-transcripts-vtt",
+   "title": "Chapter 4: Denmark and the world - transcripts",
+   "file": "chapter-4-transcripts-vtt.zip",
+   "bytes": 36236,
+   "chapter": 4,
+   "kind": "transcripts",
+   "parts": 7,
+   "description": "WebVTT, time-synced"
+  },
+  {
+   "id": "chapter-5-audio",
+   "title": "Chapter 5: Danish culture - audio",
+   "file": "chapter-5-audio.zip",
+   "bytes": 50124700,
+   "chapter": 5,
+   "kind": "audio",
+   "parts": 9,
+   "description": "MP3, 64 kbps"
+  },
+  {
+   "id": "chapter-5-transcripts-vtt",
+   "title": "Chapter 5: Danish culture - transcripts",
+   "file": "chapter-5-transcripts-vtt.zip",
+   "bytes": 48584,
+   "chapter": 5,
+   "kind": "transcripts",
+   "parts": 9,
+   "description": "WebVTT, time-synced"
+  },
+  {
+   "id": "chapter-6-part1-of-2-audio",
+   "title": "Chapter 6: Theme spotlights - audio (zip 1 of 2)",
+   "file": "chapter-6-part1-of-2-audio.zip",
+   "bytes": 65550181,
+   "chapter": 6,
+   "kind": "audio",
+   "parts": 12,
+   "description": "MP3, 64 kbps"
+  },
+  {
+   "id": "chapter-6-part2-of-2-audio",
+   "title": "Chapter 6: Theme spotlights - audio (zip 2 of 2)",
+   "file": "chapter-6-part2-of-2-audio.zip",
+   "bytes": 52465711,
+   "chapter": 6,
+   "kind": "audio",
+   "parts": 10,
+   "description": "MP3, 64 kbps"
+  },
+  {
+   "id": "chapter-6-transcripts-vtt",
+   "title": "Chapter 6: Theme spotlights - transcripts",
+   "file": "chapter-6-transcripts-vtt.zip",
+   "bytes": 114734,
+   "chapter": 6,
+   "kind": "transcripts",
+   "parts": 22,
+   "description": "WebVTT, time-synced"
+  },
+  {
+   "id": "all-transcripts-vtt",
+   "title": "All transcripts (65 files)",
+   "file": "all-transcripts-vtt.zip",
+   "bytes": 382008,
+   "chapter": null,
+   "kind": "transcripts",
+   "parts": 65,
+   "description": "WebVTT, time-synced, whole course"
+  }
+ ],
+ "stats": {
+  "parts": 65,
+  "episodes": 53,
+  "questions": 346,
+  "audioBytes": 381150189,
+  "seconds": 47638.10400000003,
+  "learnMissing": 1,
+  "images": 174
+ }
+}

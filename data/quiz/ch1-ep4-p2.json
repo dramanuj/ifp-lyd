@@ -1,0 +1,557 @@
+[
+{
+"id": "ch1-ep4-p2-q1",
+"n": 1,
+"q": "Which international organisation did Denmark become a member of in 1945?",
+"options": [
+{
+"l": "A",
+"t": "The UN"
+},
+{
+"l": "B",
+"t": "The EC"
+},
+{
+"l": "C",
+"t": "The WTO"
+}
+],
+"answer": "A",
+"answerText": "The UN",
+"appeared": "It appeared in 4 different exams, most recently in November 2024.",
+"da": {
+"q": "Hvilken international organisation blev Danmark medlem af i 1945?",
+"options": [
+"FN",
+"EF",
+"WTO"
+],
+"answer": "FN"
+},
+"qStart": 901.99,
+"aStart": 922.7,
+"aEnd": 929.7,
+"learn": {
+"start": 46.19,
+"end": 70.02,
+"text": "The war had created a strong wish to secure international peace and security. In 1945, a number of countries therefore founded the United Nations, the UN. Denmark was a member of the UN from the start, which was meant, among other things, to help prevent a new world war.",
+"score": 3.1
+}
+},
+{
+"id": "ch1-ep4-p2-q2",
+"n": 2,
+"q": "When did Denmark become a member of NATO?",
+"options": [
+{
+"l": "A",
+"t": "1949"
+},
+{
+"l": "B",
+"t": "1957"
+},
+{
+"l": "C",
+"t": "1973"
+}
+],
+"answer": "A",
+"answerText": "1949",
+"appeared": "It appeared in the May 2023 and May 2025 exams.",
+"da": {
+"q": "Hvornår blev Danmark medlem af NATO?",
+"options": [
+"1949",
+"1957",
+"1973"
+],
+"answer": "1949"
+},
+"qStart": 930.25,
+"aStart": 948.7,
+"aEnd": 955.66,
+"learn": {
+"start": 9.37,
+"end": 19.55,
+"text": "Denmark gave up its traditional policy of neutrality and became a member of NATO in 1949.",
+"score": 4.5
+}
+},
+{
+"id": "ch1-ep4-p2-q3",
+"n": 3,
+"q": "What is NATO?",
+"options": [
+{
+"l": "A",
+"t": "An international free trade area"
+},
+{
+"l": "B",
+"t": "An international defence alliance"
+},
+{
+"l": "C",
+"t": "An international refugee cooperation"
+}
+],
+"answer": "B",
+"answerText": "An international defence alliance",
+"appeared": "It appeared in the June 2022 exam.",
+"da": {
+"q": "Hvad er NATO?",
+"options": [
+"Et internationalt frihandelsområde",
+"En international forsvarsalliance",
+"Et internationalt flygtningesamarbejde"
+],
+"answer": "En international forsvarsalliance"
+},
+"qStart": 956.21,
+"aStart": 976.43,
+"aEnd": 983.08,
+"learn": {
+"start": 112.01,
+"end": 141.4,
+"text": "Denmark had tried to remain neutral in international conflicts since the England Wars at the beginning of the 1800s. But since the policy of neutrality could not prevent the German occupation in the Second World War, Denmark chose a side in the Cold War. It felt better protected as a member of the defence alliance NATO, the North Atlantic Treaty Organisation.",
+"score": 4.2
+}
+},
+{
+"id": "ch1-ep4-p2-q4",
+"n": 4,
+"q": "What characterised Denmark's defence policy through most of the Cold War?",
+"options": [
+{
+"l": "A",
+"t": "Denmark was allied with the Soviet Union through the Warsaw Pact"
+},
+{
+"l": "B",
+"t": "Denmark was neutral"
+},
+{
+"l": "C",
+"t": "Denmark was allied with the USA through NATO"
+}
+],
+"answer": "C",
+"answerText": "Denmark was allied with the USA through NATO",
+"appeared": "It appeared in the November 2024 and June 2026 exams.",
+"da": {
+"q": "Hvad kendetegnede Danmarks forsvarspolitik gennem det meste af Den Kolde Krig?",
+"options": [
+"Danmark var allieret med Sovjetunionen gennem Warszawa-pagten",
+"Danmark var neutralt",
+"Danmark var allieret med USA gennem NATO"
+],
+"answer": "Danmark var allieret med USA gennem NATO"
+},
+"qStart": 983.63,
+"aStart": 1007.02,
+"aEnd": 1015.58,
+"learn": {
+"start": 119.31,
+"end": 141.4,
+"text": "But since the policy of neutrality could not prevent the German occupation in the Second World War, Denmark chose a side in the Cold War. It felt better protected as a member of the defence alliance NATO, the North Atlantic Treaty Organisation.",
+"score": 7.0
+}
+},
+{
+"id": "ch1-ep4-p2-q5",
+"n": 5,
+"q": "When did Denmark receive economic help from the USA under the Marshall Plan?",
+"options": [
+{
+"l": "A",
+"t": "Around 1920"
+},
+{
+"l": "B",
+"t": "Around 1950"
+},
+{
+"l": "C",
+"t": "Around 1980"
+}
+],
+"answer": "B",
+"answerText": "Around 1950",
+"appeared": "It appeared in the June 2022 exam.",
+"da": {
+"q": "Hvornår fik Danmark økonomisk hjælp fra USA i forbindelse med Marshall-planen?",
+"options": [
+"Omkring 1920",
+"Omkring 1950",
+"Omkring 1980"
+],
+"answer": "Omkring 1950"
+},
+"qStart": 1016.13,
+"aStart": 1037.01,
+"aEnd": 1042.79,
+"learn": {
+"start": 201.51,
+"end": 223.36,
+"text": "In the years 1948 to 51, the USA gave very large sums of money to several Western European countries, among others Denmark. The money was given as part of the Marshall Plan, named after the American foreign minister George Marshall.",
+"score": 3.5
+}
+},
+{
+"id": "ch1-ep4-p2-q6",
+"n": 6,
+"q": "Which political party was formed in the late 1950s as a breakaway from the Communist Party of Denmark, DKP?",
+"options": [
+{
+"l": "A",
+"t": "The Red-Green Alliance"
+},
+{
+"l": "B",
+"t": "The Social Liberal Party"
+},
+{
+"l": "C",
+"t": "The Socialist People's Party, SF"
+}
+],
+"answer": "C",
+"answerText": "The Socialist People's Party, SF",
+"appeared": "It appeared in the November 2021, November 2023 and June 2026 exams.",
+"da": {
+"q": "Hvilket politisk parti blev dannet i slutningen af 1950’erne som udbryder af Danmarks Kommunistiske Parti (DKP)?",
+"options": [
+"Enhedslisten",
+"Det Radikale Venstre",
+"Socialistisk Folkeparti"
+],
+"answer": "Socialistisk Folkeparti"
+},
+"qStart": 1043.34,
+"aStart": 1068.0,
+"aEnd": 1078.06,
+"learn": {
+"start": 415.12,
+"end": 442.08,
+"text": "The only party that emerged in this period, and which is still in the Folketing, is SF, the Socialist People's Party. SF was formed in 1959 by a group of people who left DKP in protest against the communist countries' oppression of their populations, which the breakaways did not think DKP distanced itself enough from.",
+"score": 7.4
+}
+},
+{
+"id": "ch1-ep4-p2-q7",
+"n": 7,
+"q": "What did the latest amendment of the constitution, in 1953, involve, among other things?",
+"options": [
+{
+"l": "A",
+"t": "That the voting age was lowered to eighteen"
+},
+{
+"l": "B",
+"t": "That women could inherit the throne"
+},
+{
+"l": "C",
+"t": "That Denmark became a member of the UN"
+}
+],
+"answer": "B",
+"answerText": "That women could inherit the throne",
+"appeared": "It appeared in the November 2021 and November 2025 exams.",
+"da": {
+"q": "Hvad indebar den seneste ændring af grundloven i 1953 blandt andet?",
+"options": [
+"At valgretsalderen blev sænket til 18 år",
+"At kvinder fik mulighed for at arve tronen",
+"At Danmark blev medlem af FN"
+],
+"answer": "At kvinder fik mulighed for at arve tronen"
+},
+"qStart": 1078.61,
+"aStart": 1103.34,
+"aEnd": 1111.52,
+"learn": {
+"start": 370.62,
+"end": 407.43,
+"text": "The constitutional change in 1953 thereby made it possible for his eldest daughter, the later Queen Margrethe the Second, who reigned from nineteen seventy-two to twenty twenty-four, to inherit the throne. With a change to the Act of Succession in 2009, men and women got completely equal right of inheritance to the throne, so that it is always the eldest, son or daughter, who inherits the throne.",
+"score": 4.8
+}
+},
+{
+"id": "ch1-ep4-p2-q8",
+"n": 8,
+"q": "Does the constitution apply in the Faroe Islands and Greenland?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the May 2024 and November 2025 exams.",
+"da": {
+"q": "Gælder grundloven på Færøerne og i Grønland?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 1112.07,
+"aStart": 1126.4,
+"aEnd": 1132.44,
+"learn": {
+"start": 342.12,
+"end": 357.0,
+"text": "In addition, the constitution now also applied to Greenland, and not only to Denmark and the Faroe Islands.",
+"score": 4.0
+}
+},
+{
+"id": "ch1-ep4-p2-q9",
+"n": 9,
+"q": "When was the first law on the old-age pension adopted?",
+"options": [
+{
+"l": "A",
+"t": "1933"
+},
+{
+"l": "B",
+"t": "1956"
+},
+{
+"l": "C",
+"t": "1982"
+}
+],
+"answer": "B",
+"answerText": "1956",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvornår blev den første lov om folkepension vedtaget?",
+"options": [
+"1933",
+"1956",
+"1982"
+],
+"answer": "1956"
+},
+"qStart": 1132.99,
+"aStart": 1152.16,
+"aEnd": 1157.99,
+"learn": {
+"start": 495.14,
+"end": 515.69,
+"text": "The old-age pension, folkepensionen, which gives every citizen the right to a pension regardless of income, was for example introduced in 1956.",
+"score": 4.5
+}
+},
+{
+"id": "ch1-ep4-p2-q10",
+"n": 10,
+"q": "Which decade was especially characterised by high growth, full employment and a big increase in production?",
+"options": [
+{
+"l": "A",
+"t": "The 1960s"
+},
+{
+"l": "B",
+"t": "The 1970s"
+},
+{
+"l": "C",
+"t": "The 1980s"
+}
+],
+"answer": "A",
+"answerText": "The 1960s",
+"appeared": "It appeared in the November 2021, November 2023 and November 2025 exams.",
+"da": {
+"q": "Hvilket af følgende årtier var især kendetegnet ved høj vækst, fuld beskæftigelse og stor stigning i produktionen?",
+"options": [
+"1960’erne",
+"1970’erne",
+"1980’erne"
+],
+"answer": "1960’erne"
+},
+"qStart": 1158.54,
+"aStart": 1180.78,
+"aEnd": 1190.02,
+"learn": {
+"start": 450.91,
+"end": 473.03,
+"text": "From the end of the 1950s there was high economic growth in Europe, including in Denmark, which in the period 1957 to 73 had an economic boom almost without parallel in the country's history. There was full employment and a big increase in production, just as most incomes grew steadily in this period.",
+"score": 6.1
+}
+},
+{
+"id": "ch1-ep4-p2-q11",
+"n": 11,
+"q": "Which of the following did some young people become critical of in the 1960s?",
+"options": [
+{
+"l": "A",
+"t": "The nuclear family"
+},
+{
+"l": "B",
+"t": "Early retirement pay"
+},
+{
+"l": "C",
+"t": "Social media"
+}
+],
+"answer": "A",
+"answerText": "The nuclear family",
+"appeared": "It appeared in the June 2020 exam.",
+"da": {
+"q": "Hvilket af følgende områder stillede en del unge sig kritisk over for i 1960’erne?",
+"options": [
+"Kernefamilien",
+"Efterlønnen",
+"De sociale medier"
+],
+"answer": "Kernefamilien"
+},
+"qStart": 1190.57,
+"aStart": 1210.67,
+"aEnd": 1216.0,
+"learn": {
+"start": 632.49,
+"end": 656.79,
+"text": "Many young people, especially in the bigger towns, broke with society's traditional norms and values. Among other things, they questioned the USA's participation in the war in Vietnam, and the \"nuclear family\" with father, mother and children as society's supporting unit.",
+"score": 4.3
+}
+},
+{
+"id": "ch1-ep4-p2-q12",
+"n": 12,
+"q": "When did a larger group of young people rebel against society's traditional norms, so that, for example, it became more accepted to have children without being married?",
+"options": [
+{
+"l": "A",
+"t": "At the end of the 1920s"
+},
+{
+"l": "B",
+"t": "At the end of the 1940s"
+},
+{
+"l": "C",
+"t": "At the end of the 1960s"
+}
+],
+"answer": "C",
+"answerText": "At the end of the 1960s",
+"appeared": "It appeared in the June 2021, November 2022 and May 2025 exams.",
+"da": {
+"q": "Hvornår gjorde en større gruppe af unge oprør mod samfundets traditionelle normer, så det fx blev mere accepteret at få børn uden at være gift?",
+"options": [
+"I slutningen af 1920’erne",
+"I slutningen af 1940’erne",
+"I slutningen af 1960’erne"
+],
+"answer": "I slutningen af 1960’erne"
+},
+"qStart": 1216.55,
+"aStart": 1243.66,
+"aEnd": 1252.97,
+"learn": {
+"start": 27.64,
+"end": 41.68,
+"text": "Towards the end of the 1960s, disagreements between younger and older generations grew, because more young people questioned many of society's traditional norms.",
+"score": 8.0
+}
+},
+{
+"id": "ch1-ep4-p2-q13",
+"n": 13,
+"q": "When did it become forbidden for teachers to hit pupils in the folkeskole?",
+"options": [
+{
+"l": "A",
+"t": "1967"
+},
+{
+"l": "B",
+"t": "1987"
+},
+{
+"l": "C",
+"t": "2007"
+}
+],
+"answer": "A",
+"answerText": "1967",
+"appeared": "It appeared in the May 2024 exam.",
+"da": {
+"q": "Hvornår blev det forbudt for lærerne at slå eleverne i folkeskolen?",
+"options": [
+"1967",
+"1987",
+"2007"
+],
+"answer": "1967"
+},
+"qStart": 1253.52,
+"aStart": 1273.38,
+"aEnd": 1278.92,
+"learn": {
+"start": 741.42,
+"end": 760.7,
+"text": "Among other things, it became completely forbidden in 1967 for teachers to hit pupils in the Danish folkeskole.",
+"score": 6.5
+}
+},
+{
+"id": "ch1-ep4-p2-q14",
+"n": 14,
+"q": "In which year did Margrethe the Second become queen of Denmark?",
+"options": [
+{
+"l": "A",
+"t": "1972"
+},
+{
+"l": "B",
+"t": "1982"
+},
+{
+"l": "C",
+"t": "1992"
+}
+],
+"answer": "A",
+"answerText": "1972",
+"appeared": "It appeared in the June 2022 and May 2024 exams.",
+"da": {
+"q": "Hvilket år blev Margrethe d. 2. dronning af Danmark?",
+"options": [
+"1972",
+"1982",
+"1992"
+],
+"answer": "1972"
+},
+"qStart": 1279.47,
+"aStart": 1299.24,
+"aEnd": 1306.25,
+"learn": {
+"start": 786.64,
+"end": 796.18,
+"text": "Margrethe the Second became queen in 1972.",
+"score": 4.5
+}
+}
+]

@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch5-ep3-p1",
+ "images": [
+  {
+   "id": "p152-fig1",
+   "src": "images/ch5/p152-fig1.svg",
+   "start": 347.7,
+   "caption": "Helle Helle (b. 1965).",
+   "illustration": true,
+   "alt": "Helle Helle (b. 1965).",
+   "page": 152,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 406.1
+  },
+  {
+   "id": "p151-fig1",
+   "src": "images/ch5/p151-fig1.svg",
+   "start": 406.1,
+   "caption": "Yahya Hassan (1995-2020).",
+   "illustration": true,
+   "alt": "Yahya Hassan (1995-2020).",
+   "page": 151,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 496.1
+  }
+ ]
+}

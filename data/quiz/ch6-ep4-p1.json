@@ -1,0 +1,162 @@
+[
+{
+"id": "ch6-ep4-p1-q1",
+"n": 1,
+"q": "Which king is behind the building of, among other things, the Round Tower and Rosenborg Castle in Copenhagen?",
+"options": [
+{
+"l": "A",
+"t": "Christian the Fourth"
+},
+{
+"l": "B",
+"t": "Christian the Seventh"
+},
+{
+"l": "C",
+"t": "Christian the Tenth"
+}
+],
+"answer": "A",
+"answerText": "Christian the Fourth",
+"appeared": "It appeared in the November 2021 exam.",
+"da": {
+"q": "Hvilken konge står bag opførelsen af blandt andet Rundetårn og Rosenborg Slot i København?",
+"options": [
+"Christian den 4.",
+"Christian den 7.",
+"Christian den 10."
+],
+"answer": "Christian den 4."
+},
+"qStart": 552.84,
+"aStart": 574.86,
+"aEnd": 580.45,
+"learn": {
+"start": 460.12,
+"end": 500.56,
+"text": "Absalon built a castle in 1167; the king took the town over from Roskilde's bishop in 1416. Christian the Fourth's reign, 1588 to 1648, made Copenhagen a European city. The Round Tower, from 1642, is 41.55 metres high with a 200-metre spiral walkway; Rosenborg was finished in 1634; the Stock Exchange in 1640, with the Dragon Spire, half destroyed by fire in April 2024; Nyboder was decided in 1631.",
+"score": 6.9
+}
+},
+{
+"id": "ch6-ep4-p1-q2",
+"n": 2,
+"q": "On which of the following days of observance does the head of state give a speech every year to the whole realm community? The exam says the queen; today it is the king.",
+"options": [
+{
+"l": "A",
+"t": "Christmas Eve"
+},
+{
+"l": "B",
+"t": "New Year's Eve"
+},
+{
+"l": "C",
+"t": "Constitution Day"
+}
+],
+"answer": "B",
+"answerText": "New Year's Eve",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "På hvilken af følgende mærkedage holder dronningen hvert år en tale til hele rigsfællesskabet?",
+"options": [
+"Juleaften",
+"Nytårsaften",
+"Grundlovsdag"
+],
+"answer": "Nytårsaften"
+},
+"qStart": 581.0,
+"aStart": 605.84,
+"aEnd": 611.11,
+"learn": {
+"start": 264.22,
+"end": 282.89,
+"text": "It is from his reception room in one of the mansions that the king every New Year's Eve, nytårsaften, at 6 pm gives his New Year's speech to the whole realm community.",
+"score": 11.5
+}
+},
+{
+"id": "ch6-ep4-p1-q3",
+"n": 3,
+"q": "Which historic building in Copenhagen burned on the sixteenth of April 2024?",
+"options": [
+{
+"l": "A",
+"t": "Holmens Church"
+},
+{
+"l": "B",
+"t": "The Stock Exchange, Børsen"
+},
+{
+"l": "C",
+"t": "Rosenborg Castle"
+}
+],
+"answer": "B",
+"answerText": "The Stock Exchange, Børsen",
+"appeared": "It appeared in the May 2024 exam.",
+"da": {
+"q": "Hvilken historisk bygning i København brændte den 16. april 2024?",
+"options": [
+"Holmens Kirke",
+"Børsen",
+"Rosenborg Slot"
+],
+"answer": "Børsen"
+},
+"qStart": 611.56,
+"aStart": 633.98,
+"aEnd": 639.92,
+"learn": {
+"start": 162.82,
+"end": 183.65,
+"text": "The king wanted to make Copenhagen a European trading centre, and therefore he built the Stock Exchange, Børsen, which was finished in 1640.",
+"score": 5.5
+}
+},
+{
+"id": "ch6-ep4-p1-q4",
+"n": 4,
+"q": "In which castle in Copenhagen does the king and his family live part of the year?",
+"options": [
+{
+"l": "A",
+"t": "Christiansborg"
+},
+{
+"l": "B",
+"t": "Rosenborg"
+},
+{
+"l": "C",
+"t": "Amalienborg"
+}
+],
+"answer": "C",
+"answerText": "Amalienborg",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "På hvilket slot i København bor kongen og hans familie en del af året?",
+"options": [
+"Christiansborg",
+"Rosenborg",
+"Amalienborg"
+],
+"answer": "Amalienborg"
+},
+"qStart": 640.37,
+"aStart": 660.8,
+"aEnd": 666.14,
+"learn": {
+"start": 272.14,
+"end": 295.89,
+"text": "Older exams said the queen; the answer is New Year's Eve, not Christmas Eve and not Constitution Day. Amalienborg is where the king and family live; Rosenborg is a museum for the crown jewels.",
+"score": 4.8
+}
+}
+]

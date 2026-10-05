@@ -1,0 +1,277 @@
+[
+{
+"id": "ch4-ep6-p1-q1",
+"n": 1,
+"q": "What is NATO?",
+"options": [
+{
+"l": "A",
+"t": "An international free trade area"
+},
+{
+"l": "B",
+"t": "An international defence alliance"
+},
+{
+"l": "C",
+"t": "An international refugee cooperation"
+}
+],
+"answer": "B",
+"answerText": "An international defence alliance",
+"appeared": "It appeared in the June 2022 exam.",
+"da": {
+"q": "Hvad er NATO?",
+"options": [
+"Et internationalt frihandelsområde",
+"En international forsvarsalliance",
+"Et internationalt flygtningesamarbejde"
+],
+"answer": "En international forsvarsalliance"
+},
+"qStart": 575.91,
+"aStart": 596.06,
+"aEnd": 602.71,
+"learn": {
+"start": 49.41,
+"end": 59.44,
+"text": "NATO is an international defence alliance, a forsvarsalliance, not a trade area and not a refugee cooperation.",
+"score": 5.5
+}
+},
+{
+"id": "ch4-ep6-p1-q2",
+"n": 2,
+"q": "When did Denmark become a member of NATO?",
+"options": [
+{
+"l": "A",
+"t": "1949"
+},
+{
+"l": "B",
+"t": "1957"
+},
+{
+"l": "C",
+"t": "1973"
+}
+],
+"answer": "A",
+"answerText": "1949",
+"appeared": "It appeared in the May 2023 and May 2025 exams.",
+"da": {
+"q": "Hvornår blev Danmark medlem af NATO?",
+"options": [
+"1949",
+"1957",
+"1973"
+],
+"answer": "1949"
+},
+"qStart": 603.26,
+"aStart": 621.71,
+"aEnd": 628.66,
+"learn": {
+"start": 10.7,
+"end": 30.29,
+"text": "Even though Denmark, with its entry into NATO in 1949, gave up its traditional neutrality, Denmark kept a relatively low military profile until the end of the Cold War, around 1990. Denmark did, however, take part in many of the UN's peacekeeping missions.",
+"score": 3.9
+}
+},
+{
+"id": "ch4-ep6-p1-q3",
+"n": 3,
+"q": "What characterised Denmark's defence policy through most of the Cold War?",
+"options": [
+{
+"l": "A",
+"t": "Denmark was allied with the USA through NATO"
+},
+{
+"l": "B",
+"t": "Denmark was neutral"
+},
+{
+"l": "C",
+"t": "Denmark was allied with the Soviet Union through the Warsaw Pact"
+}
+],
+"answer": "A",
+"answerText": "Denmark was allied with the USA through NATO",
+"appeared": "It appeared in the November 2024 and June 2026 exams.",
+"da": {
+"q": "Hvad kendetegnede Danmarks forsvarspolitik gennem det meste af Den Kolde Krig?",
+"options": [
+"Danmark var allieret med USA gennem NATO",
+"Danmark var neutralt",
+"Danmark var allieret med Sovjetunionen gennem Warszawa-pagten"
+],
+"answer": "Danmark var allieret med USA gennem NATO"
+},
+"qStart": 629.21,
+"aStart": 652.73,
+"aEnd": 661.36,
+"learn": {
+"start": 490.31,
+"end": 506.48,
+"text": "Throughout the Cold War, Denmark was not neutral and not allied with the Soviet Union in the Warsaw Pact: it was allied with the USA and the other Western countries through NATO.",
+"score": 11.5
+}
+},
+{
+"id": "ch4-ep6-p1-q4",
+"n": 4,
+"q": "When did the Cold War end?",
+"options": [
+{
+"l": "A",
+"t": "Around 1950"
+},
+{
+"l": "B",
+"t": "Around 1970"
+},
+{
+"l": "C",
+"t": "Around 1990"
+}
+],
+"answer": "C",
+"answerText": "Around 1990",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvornår ophørte Den Kolde Krig?",
+"options": [
+"Omkring 1950",
+"Omkring 1970",
+"Omkring 1990"
+],
+"answer": "Omkring 1990"
+},
+"qStart": 661.91,
+"aStart": 679.93,
+"aEnd": 685.69,
+"learn": {
+"start": 10.7,
+"end": 30.29,
+"text": "Even though Denmark, with its entry into NATO in 1949, gave up its traditional neutrality, Denmark kept a relatively low military profile until the end of the Cold War, around 1990. Denmark did, however, take part in many of the UN's peacekeeping missions.",
+"score": 6.1
+}
+},
+{
+"id": "ch4-ep6-p1-q5",
+"n": 5,
+"q": "Which country did Denmark send soldiers to following the terror attack on the USA on the eleventh of September 2001?",
+"options": [
+{
+"l": "A",
+"t": "Mali"
+},
+{
+"l": "B",
+"t": "Kosovo"
+},
+{
+"l": "C",
+"t": "Afghanistan"
+}
+],
+"answer": "C",
+"answerText": "Afghanistan",
+"appeared": "It appeared in the November 2023 exam.",
+"da": {
+"q": "Hvilket land sendte Danmark soldater til på baggrund af terrorangrebet i USA den 11. september 2001?",
+"options": [
+"Mali",
+"Kosovo",
+"Afghanistan"
+],
+"answer": "Afghanistan"
+},
+"qStart": 686.24,
+"aStart": 707.88,
+"aEnd": 713.71,
+"learn": {
+"start": 506.48,
+"end": 532.99,
+"text": "The terror attack on the USA on the eleventh of September, 2001, killed about 3,000 people. Al Qaeda was based in Afghanistan; NATO-led forces invaded in October 2001, and the Folketing decided in 2002 to send soldiers.",
+"score": 8.3
+}
+},
+{
+"id": "ch4-ep6-p1-q6",
+"n": 6,
+"q": "Which country did Denmark send soldiers to in 2003, following an American-led invasion?",
+"options": [
+{
+"l": "A",
+"t": "Syria"
+},
+{
+"l": "B",
+"t": "Iraq"
+},
+{
+"l": "C",
+"t": "Libya"
+}
+],
+"answer": "B",
+"answerText": "Iraq",
+"appeared": "It appeared in the May 2024 exam.",
+"da": {
+"q": "Hvilket land sendte Danmark soldater til i 2003 på baggrund af en amerikansk ledet invasion?",
+"options": [
+"Syrien",
+"Irak",
+"Libyen"
+],
+"answer": "Irak"
+},
+"qStart": 714.26,
+"aStart": 734.46,
+"aEnd": 739.13,
+"learn": {
+"start": 516.26,
+"end": 552.19,
+"text": "Al Qaeda was based in Afghanistan; NATO-led forces invaded in October 2001, and the Folketing decided in 2002 to send soldiers. 44 Danish soldiers died in Afghanistan, and the Taliban retook Kabul in August 2021. In 2003, Denmark took part in the Iraq War, without a clear UN mandate and not as a NATO mission, with only a small majority in the Folketing; eight Danish soldiers died.",
+"score": 5.0
+}
+},
+{
+"id": "ch4-ep6-p1-q7",
+"n": 7,
+"q": "Did the Danish government at the time support the American-led invasion of Iraq in 2003?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the May 2023 and May 2025 exams.",
+"da": {
+"q": "Støttede den daværende danske regering den amerikansk ledede invasion af Irak i 2003 (Irak-krigen)?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 739.68,
+"aStart": 756.31,
+"aEnd": 762.21,
+"learn": {
+"start": 408.04,
+"end": 418.2,
+"text": "In total, eight Danish soldiers died in connection with the American-led intervention in Iraq.",
+"score": 4.0
+}
+}
+]

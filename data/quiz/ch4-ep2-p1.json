@@ -1,0 +1,227 @@
+[
+{
+"id": "ch4-ep2-p1-q1",
+"n": 1,
+"q": "What was a referendum held about in 1972?",
+"options": [
+{
+"l": "A",
+"t": "Denmark's entry into the EF"
+},
+{
+"l": "B",
+"t": "Denmark's entry into NATO"
+},
+{
+"l": "C",
+"t": "Denmark's entry into the UN"
+}
+],
+"answer": "A",
+"answerText": "Denmark's entry into the EF",
+"appeared": "It appeared in 4 different exams, most recently in June 2026.",
+"da": {
+"q": "Hvad blev der afholdt en folkeafstemning om i 1972?",
+"options": [
+"Danmarks indtræden i EF",
+"Danmarks indtræden i NATO",
+"Danmarks indtræden i FN"
+],
+"answer": "Danmarks indtræden i EF"
+},
+"qStart": 445.43,
+"aStart": 465.99,
+"aEnd": 474.36,
+"learn": {
+"start": 93.11,
+"end": 116.14,
+"text": "The Danes voted yes to membership of the EF in a referendum in 1972, and Denmark became a member in 1973. Since the constitution of 1953, more referendums have been held about Denmark's relationship with the EU than about any other subject, more than about the constitution or the voting age.",
+"score": 3.9
+}
+},
+{
+"id": "ch4-ep2-p1-q2",
+"n": 2,
+"q": "Which subject has been the subject of the most referendums in Denmark since 1953?",
+"options": [
+{
+"l": "A",
+"t": "The constitution"
+},
+{
+"l": "B",
+"t": "The voting age"
+},
+{
+"l": "C",
+"t": "Denmark's relationship to the EU"
+}
+],
+"answer": "C",
+"answerText": "Denmark's relationship to the EU",
+"appeared": "It appeared in the May 2023 and May 2025 exams.",
+"da": {
+"q": "Hvilket emne har der været afholdt flest folkeafstemninger om i Danmark siden 1953?",
+"options": [
+"Grundloven",
+"Valgretsalderen",
+"Danmarks forhold til EU"
+],
+"answer": "Danmarks forhold til EU"
+},
+"qStart": 474.91,
+"aStart": 496.1,
+"aEnd": 503.8,
+"learn": {
+"start": 95.74,
+"end": 116.14,
+"text": "Since the constitution of 1953, more referendums have been held about Denmark's relationship with the EU than about any other subject, more than about the constitution or the voting age.",
+"score": 8.0
+}
+},
+{
+"id": "ch4-ep2-p1-q3",
+"n": 3,
+"q": "Which of the Danish EU opt-outs was the subject of a referendum in 2022?",
+"options": [
+{
+"l": "A",
+"t": "The EU's common currency, the euro"
+},
+{
+"l": "B",
+"t": "The EU's common justice and immigration policy"
+},
+{
+"l": "C",
+"t": "The EU's defence and security policy"
+}
+],
+"answer": "C",
+"answerText": "The EU's defence and security policy",
+"appeared": "It appeared in the May 2024 exam.",
+"da": {
+"q": "Hvilket af de danske EU-forbehold var der folkeafstemning om i 2022?",
+"options": [
+"EU's fælles valuta (euroen)",
+"EU's fælles rets- og udlændingepolitik",
+"EU's forsvars- og sikkerhedspolitik"
+],
+"answer": "EU's forsvars- og sikkerhedspolitik"
+},
+"qStart": 504.35,
+"aStart": 529.61,
+"aEnd": 536.35,
+"learn": {
+"start": 266.7,
+"end": 286.14,
+"text": "Previously Denmark also had an opt-out on the EU's defence and security policy, so Denmark, for example, did not take part in military operations that are part of the EU cooperation. This so-called defence opt-out was lifted as a result of a referendum on the first of June, 2022.",
+"score": 6.5
+}
+},
+{
+"id": "ch4-ep2-p1-q4",
+"n": 4,
+"q": "Does Denmark take part in the EU's defence and security policy?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the November 2022 exam.",
+"da": {
+"q": "Deltager Danmark i EU’s forsvars- og sikkerhedspolitik?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 536.9,
+"aStart": 551.97,
+"aEnd": 556.6,
+"learn": {
+"start": 286.14,
+"end": 301.74,
+"text": "So today Denmark has no defence opt-out, and does take part in the EU's defence and security policy.",
+"score": 7.0
+}
+},
+{
+"id": "ch4-ep2-p1-q5",
+"n": 5,
+"q": "Does Denmark have an opt-out on the EU's defence and security policy?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Har Danmark forbehold for EU’s forsvars- og sikkerhedspolitik?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 557.15,
+"aStart": 572.48,
+"aEnd": 577.39,
+"learn": {
+"start": 286.14,
+"end": 301.74,
+"text": "So today Denmark has no defence opt-out, and does take part in the EU's defence and security policy.",
+"score": 7.0
+}
+},
+{
+"id": "ch4-ep2-p1-q6",
+"n": 6,
+"q": "Are Greenland and the Faroe Islands part of the EU?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the November 2022 and May 2025 exams.",
+"da": {
+"q": "Er Grønland og Færøerne en del af EU?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 577.94,
+"aStart": 592.07,
+"aEnd": 598.38,
+"learn": {
+"start": 415.94,
+"end": 429.38,
+"text": "And the exams also ask this: Greenland and the Faroe Islands are part of the Danish Realm, but they are not part of the EU.",
+"score": 4.0
+}
+}
+]

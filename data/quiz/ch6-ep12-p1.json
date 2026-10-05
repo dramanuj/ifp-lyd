@@ -1,0 +1,42 @@
+[
+{
+"id": "ch6-ep12-p1-q1",
+"n": 1,
+"q": "How is Sankthans traditionally celebrated in Denmark?",
+"options": [
+{
+"l": "A",
+"t": "People gather in the evening and light a bonfire"
+},
+{
+"l": "B",
+"t": "People hold a party and give each other presents"
+},
+{
+"l": "C",
+"t": "People dress up and hit the cat out of the barrel"
+}
+],
+"answer": "A",
+"answerText": "People gather in the evening and light a bonfire",
+"appeared": "It appeared in the June 2021 and November 2023 exams.",
+"da": {
+"q": "Hvordan fejrer man traditionelt sankthans i Danmark?",
+"options": [
+"Man samles om aftenen og tænder bål",
+"Man holder fest og giver hinanden gaver",
+"Man klæder sig ud og slår katten af tønden"
+],
+"answer": "Man samles om aftenen og tænder bål"
+},
+"qStart": 410.31,
+"aStart": 433.65,
+"aEnd": 442.51,
+"learn": {
+"start": 160.33,
+"end": 166.72,
+"text": "On the evening of the 23rd of June, Sankthans is celebrated.",
+"score": 3.5
+}
+}
+]

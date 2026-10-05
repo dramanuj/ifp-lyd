@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "partId": "ch6-ep5-p1",
+ "images": [
+  {
+   "id": "p190-fig1",
+   "src": "images/ch6/p190-fig1.svg",
+   "start": 103.0,
+   "caption": "Dannebrog flags hanging in an old town street.",
+   "illustration": true,
+   "alt": "Dannebrog flags hanging in an old town street.",
+   "page": 190,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 176.4
+  },
+  {
+   "id": "p191-fig1",
+   "src": "images/ch6/p191-fig1.svg",
+   "start": 176.4,
+   "caption": "King Frederik X of Denmark and the Royal Life Guards.",
+   "illustration": true,
+   "alt": "King Frederik X of Denmark and the Royal Life Guards.",
+   "page": 191,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 266.4
+  },
+  {
+   "id": "p192-fig1",
+   "src": "images/ch6/p192-fig1.svg",
+   "start": 309.6,
+   "caption": "King Frederik X with Queen Mary and their four children (from left) Princess Isabella, Crown Prince Christian, Princess Josephine and Prince Vincent.",
+   "illustration": true,
+   "alt": "King Frederik X with Queen Mary and their four children (from left) Princess Isabella, Crown Prince Christian, Princess Josephine and Prince Vincent.",
+   "page": 192,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 399.6
+  }
+ ]
+}

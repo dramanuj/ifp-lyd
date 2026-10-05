@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch6-ep15-p1",
+ "images": [
+  {
+   "id": "p229-fig1",
+   "src": "images/ch6/p229-fig1.svg",
+   "start": 144.2,
+   "caption": "The rainbow flag, a symbol of diversity and equality for LGBT+ people.",
+   "illustration": true,
+   "alt": "The rainbow flag, a symbol of diversity and equality for LGBT+ people.",
+   "page": 229,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 234.2
+  },
+  {
+   "id": "p230-fig1",
+   "src": "images/ch6/p230-fig1.svg",
+   "start": 333.4,
+   "caption": "A parent and children playing outdoors.",
+   "illustration": true,
+   "alt": "A parent and children playing outdoors.",
+   "page": 230,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 423.4
+  }
+ ]
+}

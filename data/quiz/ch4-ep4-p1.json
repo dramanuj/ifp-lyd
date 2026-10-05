@@ -1,0 +1,122 @@
+[
+{
+"id": "ch4-ep4-p1-q1",
+"n": 1,
+"q": "Which international organisation did Denmark become a member of in 1945?",
+"options": [
+{
+"l": "A",
+"t": "The EU"
+},
+{
+"l": "B",
+"t": "The WTO"
+},
+{
+"l": "C",
+"t": "The UN"
+}
+],
+"answer": "C",
+"answerText": "The UN",
+"appeared": "It appeared in 4 different exams, most recently in November 2024.",
+"da": {
+"q": "Hvilken international organisation blev Danmark medlem af i 1945?",
+"options": [
+"EU",
+"WTO",
+"FN"
+],
+"answer": "FN"
+},
+"qStart": 500.04,
+"aStart": 519.47,
+"aEnd": 526.52,
+"learn": {
+"start": 52.93,
+"end": 61.28,
+"text": "Denmark has been a member of the UN since its foundation in 1945.",
+"score": 3.0
+}
+},
+{
+"id": "ch4-ep4-p1-q2",
+"n": 2,
+"q": "Which international organisation has adopted 17 so-called Sustainable Development Goals on, for example, equality, climate and poverty?",
+"options": [
+{
+"l": "A",
+"t": "The UN"
+},
+{
+"l": "B",
+"t": "The EU"
+},
+{
+"l": "C",
+"t": "The WTO"
+}
+],
+"answer": "A",
+"answerText": "The UN",
+"appeared": "It appeared in the November 2022 and May 2024 exams.",
+"da": {
+"q": "Hvilken international organisation har vedtaget 17 såkaldte verdensmål om for eksempel ligestilling, klima og fattigdom?",
+"options": [
+"FN",
+"EU",
+"WTO"
+],
+"answer": "FN"
+},
+"qStart": 526.97,
+"aStart": 552.2,
+"aEnd": 558.58,
+"learn": {
+"start": 315.19,
+"end": 351.65,
+"text": "The 17 goals are very ambitious and cover a wide range. Besides fighting poverty and social development, the goals also focus on economic and environmental development, equality, climate, and include goals for peace and security. With the goals, the UN's member countries have thus, among other things, committed themselves to abolishing extreme poverty, securing education for all, better health, decent jobs and sustainable growth in all countries.",
+"score": 5.4
+}
+},
+{
+"id": "ch4-ep4-p1-q3",
+"n": 3,
+"q": "What are Denmark and a number of other countries especially committed to under the Paris Agreement from 2015?",
+"options": [
+{
+"l": "A",
+"t": "To reduce the emission of greenhouse gases into the atmosphere"
+},
+{
+"l": "B",
+"t": "To spend more money on defence"
+},
+{
+"l": "C",
+"t": "To cooperate on preventing cross-border crime"
+}
+],
+"answer": "A",
+"answerText": "To reduce the emission of greenhouse gases into the atmosphere",
+"appeared": "It appeared in the June 2022, May 2024 and November 2025 exams.",
+"da": {
+"q": "Hvad er Danmark og en række andre lande især forpligtet til ifølge Paris-aftalen fra 2015?",
+"options": [
+"At reducere udslippet af drivhusgasser i atmosfæren",
+"At bruge flere penge på forsvaret",
+"At samarbejde om forebyggelse af grænseoverskridende kriminalitet"
+],
+"answer": "At reducere udslippet af drivhusgasser i atmosfæren"
+},
+"qStart": 559.13,
+"aStart": 585.69,
+"aEnd": 596.8,
+"learn": {
+"start": 400.74,
+"end": 418.48,
+"text": "The exams also ask about one more UN agreement: in 2015 the UN adopted the Paris Agreement, the climate agreement in which Denmark and many other countries have committed to reducing greenhouse gas emissions.",
+"score": 7.5
+}
+}
+]

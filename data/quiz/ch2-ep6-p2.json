@@ -1,0 +1,42 @@
+[
+{
+"id": "ch2-ep6-p2-q1",
+"n": 1,
+"q": "Who does DA represent when collective agreements are negotiated on the Danish labour market?",
+"options": [
+{
+"l": "A",
+"t": "The employers"
+},
+{
+"l": "B",
+"t": "The government"
+},
+{
+"l": "C",
+"t": "The employees"
+}
+],
+"answer": "A",
+"answerText": "The employers",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvem repræsenterer DA, når der skal forhandles kollektive overenskomster på det danske arbejds- marked?",
+"options": [
+"Arbejdsgiverne",
+"Regeringen",
+"Lønmodtagerne"
+],
+"answer": "Arbejdsgiverne"
+},
+"qStart": 692.85,
+"aStart": 712.7,
+"aEnd": 717.95,
+"learn": {
+"start": 385.67,
+"end": 412.14,
+"text": "They can be organisations on the labour market, or leisure organisations where the members gather around a common hobby or interest such as football, scouting, birdlife, chess or ceramics. Others are members of organisations that want to promote particular causes, for example protecting the environment, like the Danish Society for Nature Conservation.",
+"score": 2.6
+}
+}
+]

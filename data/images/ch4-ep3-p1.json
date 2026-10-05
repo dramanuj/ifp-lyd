@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "partId": "ch4-ep3-p1",
+ "images": [
+  {
+   "id": "p127-fig1",
+   "src": "images/ch4/p127-fig1.svg",
+   "start": 128.3,
+   "caption": "Denmark's EU commissioner Dan Jørgensen at a meeting with the energy ministers of the EU member states.",
+   "illustration": true,
+   "alt": "Denmark's EU commissioner Dan Jørgensen at a meeting with the energy ministers of the EU member states.",
+   "page": 127,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 168.2
+  },
+  {
+   "id": "p127-fig2",
+   "src": "images/ch4/p127-fig2.svg",
+   "start": 168.2,
+   "caption": "To help propose and carry out EU legislation, the EU commissioners have a large administration, similar to the Danish ministries. In the EU these are called directorates-general.",
+   "illustration": true,
+   "alt": "To help propose and carry out EU legislation, the EU commissioners have a large administration, similar to the Danish ministries. In the EU these are called directorates-general.",
+   "page": 127,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 257.6
+  },
+  {
+   "id": "p128-fig1",
+   "src": "images/ch4/p128-fig1.svg",
+   "start": 257.6,
+   "caption": "The European Parliament in Brussels.",
+   "illustration": true,
+   "alt": "The European Parliament in Brussels.",
+   "page": 128,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 347.6
+  }
+ ]
+}

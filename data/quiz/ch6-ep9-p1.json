@@ -1,0 +1,202 @@
+[
+{
+"id": "ch6-ep9-p1-q1",
+"n": 1,
+"q": "Which three countries formed the Kalmar Union in 1397?",
+"options": [
+{
+"l": "A",
+"t": "Denmark, Sweden and England"
+},
+{
+"l": "B",
+"t": "Denmark, Norway and Sweden"
+},
+{
+"l": "C",
+"t": "Denmark, England and Norway"
+}
+],
+"answer": "B",
+"answerText": "Denmark, Norway and Sweden",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Hvilke tre lande dannede Kalmarunionen i 1397?",
+"options": [
+"Danmark, Sverige og England",
+"Danmark, Norge og Sverige",
+"Danmark, England og Norge"
+],
+"answer": "Danmark, Norge og Sverige"
+},
+"qStart": 499.86,
+"aStart": 522.06,
+"aEnd": 528.44,
+"learn": {
+"start": 402.19,
+"end": 426.06,
+"text": "The Kalmar Union, Kalmarunionen, from 1397, united the three kingdoms Denmark, Norway and Sweden, and lasted to 1523, the only time the whole Nordic region was united.",
+"score": 8.5
+}
+},
+{
+"id": "ch6-ep9-p1-q2",
+"n": 2,
+"q": "When did Iceland decide by a referendum to establish a republic independent of Denmark?",
+"options": [
+{
+"l": "A",
+"t": "1904"
+},
+{
+"l": "B",
+"t": "1944"
+},
+{
+"l": "C",
+"t": "1984"
+}
+],
+"answer": "B",
+"answerText": "1944",
+"appeared": "It appeared in the November 2020, May 2023 and November 2025 exams.",
+"da": {
+"q": "Hvornår besluttede Island ved en folkeafstemning at oprette en republik, der var uafhængig af Danmark?",
+"options": [
+"1904",
+"1944",
+"1984"
+],
+"answer": "1944"
+},
+"qStart": 528.99,
+"aStart": 550.01,
+"aEnd": 558.74,
+"learn": {
+"start": 214.62,
+"end": 247.69,
+"text": "And in Iceland it is also, because of the country's long-lasting connection with Denmark, 1380 to 1944, when Iceland decided by a referendum, folkeafstemning, to become an independent republic, independent of Denmark, common to learn Danish in school as a foreign language.",
+"score": 6.5
+}
+},
+{
+"id": "ch6-ep9-p1-q3",
+"n": 3,
+"q": "Which wars involving Denmark were fought in the 1600s?",
+"options": [
+{
+"l": "A",
+"t": "The Schleswig Wars"
+},
+{
+"l": "B",
+"t": "The England Wars"
+},
+{
+"l": "C",
+"t": "The Swedish Wars"
+}
+],
+"answer": "C",
+"answerText": "The Swedish Wars",
+"appeared": "It appeared in the November 2021 and November 2023 exams.",
+"da": {
+"q": "Hvilke krige med dansk deltagelse blev udkæmpet i 1600-tallet?",
+"options": [
+"De Slesvigske Krige",
+"Englandskrigene",
+"Svenskekrigene"
+],
+"answer": "Svenskekrigene"
+},
+"qStart": 559.29,
+"aStart": 578.75,
+"aEnd": 586.04,
+"learn": {
+"start": 121.22,
+"end": 139.55,
+"text": "In Denmark these wars are often called \"the Swedish Wars\", svenskekrigene.",
+"score": 5.0
+}
+},
+{
+"id": "ch6-ep9-p1-q4",
+"n": 4,
+"q": "Which religion was the most widespread in Denmark in the Middle Ages, roughly 1050 to 1500?",
+"options": [
+{
+"l": "A",
+"t": "Catholic Christianity"
+},
+{
+"l": "B",
+"t": "Protestant Christianity"
+},
+{
+"l": "C",
+"t": "Orthodox Christianity"
+}
+],
+"answer": "A",
+"answerText": "Catholic Christianity",
+"appeared": "It appeared in the June 2022 and November 2024 exams.",
+"da": {
+"q": "Hvilken religion var den mest udbredte i Danmark i middelalderen (cirka 1050-1500)?",
+"options": [
+"Katolsk kristendom",
+"Protestantisk kristendom",
+"Ortodoks kristendom"
+],
+"answer": "Katolsk kristendom"
+},
+"qStart": 586.59,
+"aStart": 610.08,
+"aEnd": 617.63,
+"learn": {
+"start": 247.69,
+"end": 259.8,
+"text": "The Nordic countries all became Christian and professed the Catholic faith in the Viking Age and the Middle Ages.",
+"score": 3.5
+}
+},
+{
+"id": "ch6-ep9-p1-q5",
+"n": 5,
+"q": "What is the Nordic organisation that handles cooperation between the Nordic countries' parliaments called?",
+"options": [
+{
+"l": "A",
+"t": "The Nordic Union"
+},
+{
+"l": "B",
+"t": "The Nordtinget"
+},
+{
+"l": "C",
+"t": "The Nordic Council, Nordisk Råd"
+}
+],
+"answer": "C",
+"answerText": "The Nordic Council, Nordisk Råd",
+"appeared": "It appeared in the November 2022, May 2025 and June 2026 exams.",
+"da": {
+"q": "Hvad hedder den nordiske organisation, der varetager samarbejdet mellem de nordiske landes parlamenter?",
+"options": [
+"Den Nordiske Union",
+"Nordtinget",
+"Nordisk Råd"
+],
+"answer": "Nordisk Råd"
+},
+"qStart": 618.18,
+"aStart": 640.33,
+"aEnd": 650.14,
+"learn": {
+"start": 341.73,
+"end": 370.33,
+"text": "They cooperate in the Nordic Council, Nordisk Råd, which consists of politicians from the national parliaments, and in the Nordic Council of Ministers, Nordisk Ministerråd, which consists of ministers from the countries' governments.",
+"score": 9.0
+}
+}
+]

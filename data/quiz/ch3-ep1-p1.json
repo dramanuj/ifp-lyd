@@ -1,0 +1,82 @@
+[
+{
+"id": "ch3-ep1-p1-q1",
+"n": 1,
+"q": "When was the first law on the old-age pension adopted?",
+"options": [
+{
+"l": "A",
+"t": "1933"
+},
+{
+"l": "B",
+"t": "1956"
+},
+{
+"l": "C",
+"t": "1982"
+}
+],
+"answer": "B",
+"answerText": "1956",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvornår blev den første lov om folkepension vedtaget?",
+"options": [
+"1933",
+"1956",
+"1982"
+],
+"answer": "1956"
+},
+"qStart": 662.1,
+"aStart": 681.13,
+"aEnd": 686.96,
+"learn": {
+"start": 459.92,
+"end": 481.16,
+"text": "So the first old-age pension law came in 1956, and a second followed in 1964.",
+"score": 6.5
+}
+},
+{
+"id": "ch3-ep1-p1-q2",
+"n": 2,
+"q": "What problems was the Kanslergade Agreement of 1933 meant to solve?",
+"options": [
+{
+"l": "A",
+"t": "Economic problems"
+},
+{
+"l": "B",
+"t": "Environmental problems"
+},
+{
+"l": "C",
+"t": "Integration problems"
+}
+],
+"answer": "A",
+"answerText": "Economic problems",
+"appeared": "It appeared in the June 2021, November 2022 and May 2025 exams.",
+"da": {
+"q": "Hvilke problemer i samfundet skulle Kanslergadeforliget fra 1933 især løse?",
+"options": [
+"Økonomiske problemer",
+"Miljømæssige problemer",
+"Integrationsproblemer"
+],
+"answer": "Økonomiske problemer"
+},
+"qStart": 687.51,
+"aStart": 707.76,
+"aEnd": 716.61,
+"learn": {
+"start": 429.84,
+"end": 447.46,
+"text": "The Kanslergade Agreement was made in 1933, during the economic crisis of the 1930s, so the problem it was meant to solve was economic.",
+"score": 6.5
+}
+}
+]

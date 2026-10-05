@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "partId": "ch6-ep9-p1",
+ "images": [
+  {
+   "id": "p208-fig1",
+   "src": "images/ch6/p208-fig1.svg",
+   "start": 21.7,
+   "caption": "From the left: the flags of Denmark, Sweden, Iceland, Finland and Norway.",
+   "illustration": true,
+   "alt": "From the left: the flags of Denmark, Sweden, Iceland, Finland and Norway.",
+   "page": 208,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 111.7
+  },
+  {
+   "id": "p209-fig1",
+   "src": "images/ch6/p209-fig1.svg",
+   "start": 121.2,
+   "caption": "Painting of the Swedish siege of Copenhagen in 1658-60.",
+   "illustration": true,
+   "alt": "Painting of the Swedish siege of Copenhagen in 1658-60.",
+   "page": 209,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "painting",
+   "width": 1600,
+   "height": 900,
+   "end": 211.2
+  },
+  {
+   "id": "p210-fig1",
+   "src": "images/ch6/p210-fig1.svg",
+   "start": 355.2,
+   "caption": "Geirangerfjord in western Norway.",
+   "illustration": true,
+   "alt": "Geirangerfjord in western Norway.",
+   "page": 210,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 445.2
+  }
+ ]
+}

@@ -1,0 +1,442 @@
+[
+{
+"id": "ch1-ep6-p2-q1",
+"n": 1,
+"q": "Which former Danish prime minister became Secretary General of NATO in 2009?",
+"options": [
+{
+"l": "A",
+"t": "Poul Nyrup Rasmussen"
+},
+{
+"l": "B",
+"t": "Anders Fogh Rasmussen"
+},
+{
+"l": "C",
+"t": "Helle Thorning-Schmidt"
+}
+],
+"answer": "B",
+"answerText": "Anders Fogh Rasmussen",
+"appeared": "It appeared in the November 2021 and November 2025 exams.",
+"da": {
+"q": "Hvilken tidligere dansk statsminister blev i 2009 generalsekretær for NATO?",
+"options": [
+"Poul Nyrup Rasmussen",
+"Anders Fogh Rasmussen",
+"Helle Thorning-Schmidt"
+],
+"answer": "Anders Fogh Rasmussen"
+},
+"qStart": 874.85,
+"aStart": 897.67,
+"aEnd": 905.32,
+"learn": {
+"start": 821.76,
+"end": 837.83,
+"text": "Poul Nyrup Rasmussen of the Social Democrats was prime minister from 1993 to 2001. Anders Fogh Rasmussen became NATO Secretary General in 2009.",
+"score": 10.0
+}
+},
+{
+"id": "ch1-ep6-p2-q2",
+"n": 2,
+"q": "Who was Denmark's first female prime minister?",
+"options": [
+{
+"l": "A",
+"t": "Margrethe Vestager"
+},
+{
+"l": "B",
+"t": "Helle Thorning-Schmidt"
+},
+{
+"l": "C",
+"t": "Mette Frederiksen"
+}
+],
+"answer": "B",
+"answerText": "Helle Thorning-Schmidt",
+"appeared": "It appeared in the November 2022 exam.",
+"da": {
+"q": "Hvem var Danmarks første kvindelige statsminister?",
+"options": [
+"Margrethe Vestager",
+"Helle Thorning-Schmidt",
+"Mette Frederiksen"
+],
+"answer": "Helle Thorning-Schmidt"
+},
+"qStart": 905.87,
+"aStart": 924.15,
+"aEnd": 929.62,
+"learn": {
+"start": 118.73,
+"end": 148.37,
+"text": "Two years later, in 2011, the Social Democrats regained power, and Helle Thorning-Schmidt became Denmark's first female prime minister, for the next four years until 2015, when Lars Løkke Rasmussen again became prime minister.",
+"score": 9.5
+}
+},
+{
+"id": "ch1-ep6-p2-q3",
+"n": 3,
+"q": "Which party did Helle Thorning-Schmidt belong to when she was prime minister from 2011 to 2015?",
+"options": [
+{
+"l": "A",
+"t": "The Social Democrats"
+},
+{
+"l": "B",
+"t": "The Social Liberal Party"
+},
+{
+"l": "C",
+"t": "Venstre"
+}
+],
+"answer": "A",
+"answerText": "The Social Democrats",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Hvilket parti tilhørte Helle Thorning-Schmidt, da hun var statsminister i perioden 2011-15?",
+"options": [
+"Socialdemokraterne",
+"Radikale Venstre",
+"Venstre"
+],
+"answer": "Socialdemokraterne"
+},
+"qStart": 930.17,
+"aStart": 952.46,
+"aEnd": 958.39,
+"learn": {
+"start": 118.73,
+"end": 148.37,
+"text": "Two years later, in 2011, the Social Democrats regained power, and Helle Thorning-Schmidt became Denmark's first female prime minister, for the next four years until 2015, when Lars Løkke Rasmussen again became prime minister.",
+"score": 10.0
+}
+},
+{
+"id": "ch1-ep6-p2-q4",
+"n": 4,
+"q": "Which party did Lars Løkke Rasmussen belong to when he was prime minister in 2009 to 11 and 2015 to 19?",
+"options": [
+{
+"l": "A",
+"t": "Venstre"
+},
+{
+"l": "B",
+"t": "The Social Democrats"
+},
+{
+"l": "C",
+"t": "The Conservative People's Party"
+}
+],
+"answer": "A",
+"answerText": "Venstre",
+"appeared": "It appeared in the May 2023 exam.",
+"da": {
+"q": "Hvilket parti tilhørte Lars Løkke Rasmussen, da han var statsminister i perioderne 2009-11 og 2015-19?",
+"options": [
+"Venstre",
+"Socialdemokratiet",
+"Det Konservative Folkeparti"
+],
+"answer": "Venstre"
+},
+"qStart": 958.94,
+"aStart": 982.79,
+"aEnd": 987.49,
+"learn": {
+"start": 111.92,
+"end": 131.71,
+"text": "He was succeeded as prime minister by his party colleague Lars Løkke Rasmussen of Venstre, who was prime minister from 2009 to 2011, and again from 2015 to 2019.",
+"score": 9.5
+}
+},
+{
+"id": "ch1-ep6-p2-q5",
+"n": 5,
+"q": "How has the unemployment benefit period for the unemployed developed since 1994?",
+"options": [
+{
+"l": "A",
+"t": "It has become longer"
+},
+{
+"l": "B",
+"t": "It is unchanged"
+},
+{
+"l": "C",
+"t": "It has become shorter"
+}
+],
+"answer": "C",
+"answerText": "It has become shorter",
+"appeared": "It appeared in the November 2022 and November 2024 exams.",
+"da": {
+"q": "Hvordan har dagpengeperioden for arbejdsløse udviklet sig siden 1994?",
+"options": [
+"Den er blevet længere",
+"Den er uændret",
+"Den er blevet kortere"
+],
+"answer": "Den er blevet kortere"
+},
+"qStart": 988.04,
+"aStart": 1008.74,
+"aEnd": 1016.13,
+"learn": {
+"start": 218.16,
+"end": 241.82,
+"text": "In this connection, the period in which one can receive support as unemployed from an unemployment insurance fund, the A-kasse, has gradually been shortened since the 1990s and since the last reform in the area in 2010 has been two years.",
+"score": 6.5
+}
+},
+{
+"id": "ch1-ep6-p2-q6",
+"n": 6,
+"q": "Which party was founded in 2022 by the former minister Inger Støjberg?",
+"options": [
+{
+"l": "A",
+"t": "Nye Borgerlige, the New Right"
+},
+{
+"l": "B",
+"t": "The Moderates"
+},
+{
+"l": "C",
+"t": "The Denmark Democrats"
+}
+],
+"answer": "C",
+"answerText": "The Denmark Democrats",
+"appeared": "It appeared in the November 2022 and June 2026 exams.",
+"da": {
+"q": "Hvilket parti blev i 2022 stiftet af tidligere minister Inger Støjberg?",
+"options": [
+"Nye Borgerlige",
+"Moderaterne",
+"Danmarksdemokraterne"
+],
+"answer": "Danmarksdemokraterne"
+},
+"qStart": 1016.68,
+"aStart": 1037.48,
+"aEnd": 1045.09,
+"learn": {
+"start": 460.92,
+"end": 475.66,
+"text": "The Denmark Democrats was founded by former Minister for Immigration and Integration Inger Støjberg.",
+"score": 8.0
+}
+},
+{
+"id": "ch1-ep6-p2-q7",
+"n": 7,
+"q": "Which party has Inger Støjberg previously been a member of?",
+"options": [
+{
+"l": "A",
+"t": "The Social Democrats"
+},
+{
+"l": "B",
+"t": "Venstre"
+},
+{
+"l": "C",
+"t": "The Conservative People's Party"
+}
+],
+"answer": "B",
+"answerText": "Venstre",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "Hvilket parti har Inger Støjberg tidligere været medlem af?",
+"options": [
+"Socialdemokratiet",
+"Venstre",
+"Det Konservative Folkeparti"
+],
+"answer": "Venstre"
+},
+"qStart": 1045.64,
+"aStart": 1065.14,
+"aEnd": 1070.18,
+"learn": {
+"start": 452.57,
+"end": 478.92,
+"text": "Both were formed by politicians who had earlier been leading members of Venstre, and both were first elected to the Folketing in 2022. The Denmark Democrats was founded by former Minister for Immigration and Integration Inger Støjberg. The party is critical of immigration to Denmark.",
+"score": 3.5
+}
+},
+{
+"id": "ch1-ep6-p2-q8",
+"n": 8,
+"q": "When were the Moderates first elected to the Folketing?",
+"options": [
+{
+"l": "A",
+"t": "2007"
+},
+{
+"l": "B",
+"t": "2015"
+},
+{
+"l": "C",
+"t": "2022"
+}
+],
+"answer": "C",
+"answerText": "2022",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "Hvornår blev Moderaterne valgt til Folketinget første gang?",
+"options": [
+"2007",
+"2015",
+"2022"
+],
+"answer": "2022"
+},
+"qStart": 1070.73,
+"aStart": 1088.82,
+"aEnd": 1094.07,
+"learn": {
+"start": 441.54,
+"end": 460.97,
+"text": "The Alternative was elected to the Folketing for the first time in 2015. In addition, two parties, the Denmark Democrats and the Moderates, emerged shortly before the general election in 2022.",
+"score": 4.8
+}
+},
+{
+"id": "ch1-ep6-p2-q9",
+"n": 9,
+"q": "Which of the following parties is the oldest?",
+"options": [
+{
+"l": "A",
+"t": "The Social Liberal Party"
+},
+{
+"l": "B",
+"t": "SF"
+},
+{
+"l": "C",
+"t": "The Red-Green Alliance"
+}
+],
+"answer": "A",
+"answerText": "The Social Liberal Party",
+"appeared": "It appeared in the May 2023 and November 2025 exams.",
+"da": {
+"q": "Hvilket af følgende partier er ældst?",
+"options": [
+"Radikale Venstre",
+"SF",
+"Enhedslisten"
+],
+"answer": "Radikale Venstre"
+},
+"qStart": 1094.52,
+"aStart": 1114.01,
+"aEnd": 1121.66,
+"learn": {
+"start": 565.69,
+"end": 583.9,
+"text": "Thus the Folketing's five oldest parties, the Social Democrats, SF, Venstre, the Conservatives and the Social Liberal Party, together got fifty-seven percent of the votes.",
+"score": 6.5
+}
+},
+{
+"id": "ch1-ep6-p2-q10",
+"n": 10,
+"q": "Which of the following parties is the oldest?",
+"options": [
+{
+"l": "A",
+"t": "The Conservative People's Party"
+},
+{
+"l": "B",
+"t": "The Socialist People's Party, SF"
+},
+{
+"l": "C",
+"t": "The Danish People's Party"
+}
+],
+"answer": "A",
+"answerText": "The Conservative People's Party",
+"appeared": "It appeared in the June 2020 and November 2020 exams.",
+"da": {
+"q": "Hvilket af følgende politiske partier er ældst?",
+"options": [
+"Det Konservative Folkeparti",
+"Socialistisk Folkeparti",
+"Dansk Folkeparti"
+],
+"answer": "Det Konservative Folkeparti"
+},
+"qStart": 1122.11,
+"aStart": 1143.37,
+"aEnd": 1150.76,
+"learn": {
+"start": 615.35,
+"end": 651.95,
+"text": "The twelve parties elected to the Folketing in 2026, by share of the vote, are: the Social Democrats, with the letter A, SF with F, Venstre with V, Liberal Alliance with I, the Danish People's Party with O, the Moderates with M, the Conservative People's Party with C, the Red-Green Alliance with Ø, the Social Liberal Party with B, the Denmark Democrats with Æ, the Alternative with Å, and the Citizens' Party with H.",
+"score": 5.5
+}
+},
+{
+"id": "ch1-ep6-p2-q11",
+"n": 11,
+"q": "Which of the following parties is the newest?",
+"options": [
+{
+"l": "A",
+"t": "Alternativet, the Alternative"
+},
+{
+"l": "B",
+"t": "The Socialist People's Party"
+},
+{
+"l": "C",
+"t": "The Red-Green Alliance"
+}
+],
+"answer": "A",
+"answerText": "Alternativet, the Alternative",
+"appeared": "It appeared in the November 2023 and May 2025 exams.",
+"da": {
+"q": "Hvilket af følgende partier er nyest?",
+"options": [
+"Alternativet",
+"Socialistisk Folkeparti",
+"Enhedslisten"
+],
+"answer": "Alternativet"
+},
+"qStart": 1151.31,
+"aStart": 1171.41,
+"aEnd": 1179.52,
+"learn": {
+"start": 424.47,
+"end": 441.54,
+"text": "The Alternative, Alternativet, has, among other things, emphasised that greater focus should be put on the green area.",
+"score": 3.0
+}
+}
+]

@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "partId": "ch1-ep1-p2",
+ "images": [
+  {
+   "id": "p013-fig1",
+   "src": "images/ch1/p013-fig1.svg",
+   "start": 146.0,
+   "caption": "\"Christian III's Bible\" is the first translation of the Bible into Danish and was published in 1550.",
+   "illustration": true,
+   "alt": "\"Christian III's Bible\" is the first translation of the Bible into Danish and was published in 1550.",
+   "page": 13,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 232.5
+  },
+  {
+   "id": "p014-fig1",
+   "src": "images/ch1/p014-fig1.svg",
+   "start": 232.5,
+   "caption": "Christian IV.",
+   "illustration": true,
+   "alt": "Christian IV.",
+   "page": 14,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 322.5
+  },
+  {
+   "id": "p016-fig1",
+   "src": "images/ch1/p016-fig1.svg",
+   "start": 475.7,
+   "caption": "The homage to Frederik III as hereditary king on Copenhagen's palace square, after the royal charter had been annulled in 1660.",
+   "illustration": true,
+   "alt": "The homage to Frederik III as hereditary king on Copenhagen's palace square, after the royal charter had been annulled in 1660.",
+   "page": 16,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 565.7
+  }
+ ]
+}

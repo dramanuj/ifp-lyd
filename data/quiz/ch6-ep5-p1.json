@@ -1,0 +1,322 @@
+[
+{
+"id": "ch6-ep5-p1-q1",
+"n": 1,
+"q": "What is the eldest son of Crown Prince Frederik and Crown Princess Mary called?",
+"options": [
+{
+"l": "A",
+"t": "Gorm"
+},
+{
+"l": "B",
+"t": "Harald"
+},
+{
+"l": "C",
+"t": "Christian"
+}
+],
+"answer": "C",
+"answerText": "Christian",
+"appeared": "It appeared in the June 2020 and November 2022 exams.",
+"da": {
+"q": "Hvad hedder Kronprins Frederik og Kronprinsesse Marys ældste søn?",
+"options": [
+"Gorm",
+"Harald",
+"Christian"
+],
+"answer": "Christian"
+},
+"qStart": 456.78,
+"aStart": 474.53,
+"aEnd": 480.98,
+"learn": {
+"start": 425.45,
+"end": 440.73,
+"text": "He has been married to Queen Mary, from Australia, since 2004, and they have four children, with Crown Prince Christian the eldest.",
+"score": 5.5
+}
+},
+{
+"id": "ch6-ep5-p1-q2",
+"n": 2,
+"q": "In which year did Margrethe the Second become queen of Denmark?",
+"options": [
+{
+"l": "A",
+"t": "1972"
+},
+{
+"l": "B",
+"t": "1982"
+},
+{
+"l": "C",
+"t": "1992"
+}
+],
+"answer": "A",
+"answerText": "1972",
+"appeared": "It appeared in the June 2022 and May 2024 exams.",
+"da": {
+"q": "Hvilket år blev Margrethe d. 2. dronning af Danmark?",
+"options": [
+"1972",
+"1982",
+"1992"
+],
+"answer": "1972"
+},
+"qStart": 481.53,
+"aStart": 500.92,
+"aEnd": 507.92,
+"learn": {
+"start": 164.84,
+"end": 198.24,
+"text": "Denmark's present monarch is King Frederik the Tenth, born 1968, who belongs to this family. He succeeded his mother Queen Margrethe the Second, who chose to abdicate on the fourteenth of January 2024, the same date in 1972 on which she herself took over the throne at her father Frederik the Ninth's death.",
+"score": 4.8
+}
+},
+{
+"id": "ch6-ep5-p1-q3",
+"n": 3,
+"q": "Who became Denmark's new king in January 2024?",
+"options": [
+{
+"l": "A",
+"t": "Frederik the Fourth"
+},
+{
+"l": "B",
+"t": "Frederik the Seventh"
+},
+{
+"l": "C",
+"t": "Frederik the Tenth"
+}
+],
+"answer": "C",
+"answerText": "Frederik the Tenth",
+"appeared": "It appeared in the May 2024 exam.",
+"da": {
+"q": "Hvem blev Danmarks nye konge i januar 2024?",
+"options": [
+"Frederik den 4.",
+"Frederik den 7.",
+"Frederik den 10."
+],
+"answer": "Frederik den 10."
+},
+"qStart": 508.47,
+"aStart": 527.79,
+"aEnd": 532.9,
+"learn": {
+"start": 164.84,
+"end": 198.24,
+"text": "Denmark's present monarch is King Frederik the Tenth, born 1968, who belongs to this family. He succeeded his mother Queen Margrethe the Second, who chose to abdicate on the fourteenth of January 2024, the same date in 1972 on which she herself took over the throne at her father Frederik the Ninth's death.",
+"score": 6.1
+}
+},
+{
+"id": "ch6-ep5-p1-q4",
+"n": 4,
+"q": "Which country does Queen Mary originally come from?",
+"options": [
+{
+"l": "A",
+"t": "Canada"
+},
+{
+"l": "B",
+"t": "Great Britain"
+},
+{
+"l": "C",
+"t": "Australia"
+}
+],
+"answer": "C",
+"answerText": "Australia",
+"appeared": "It appeared in the May 2025 exam.",
+"da": {
+"q": "Hvilket land kommer dronning Mary oprindeligt fra?",
+"options": [
+"Canada",
+"Storbritannien",
+"Australien"
+],
+"answer": "Australien"
+},
+"qStart": 533.45,
+"aStart": 550.34,
+"aEnd": 555.11,
+"learn": {
+"start": 309.63,
+"end": 325.26,
+"text": "The king has since 2004 been married to Queen Mary, born 1972, who originally comes from Australia.",
+"score": 4.5
+}
+},
+{
+"id": "ch6-ep5-p1-q5",
+"n": 5,
+"q": "In which castle in Copenhagen does the king and his family live part of the year?",
+"options": [
+{
+"l": "A",
+"t": "Christiansborg"
+},
+{
+"l": "B",
+"t": "Rosenborg"
+},
+{
+"l": "C",
+"t": "Amalienborg"
+}
+],
+"answer": "C",
+"answerText": "Amalienborg",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "På hvilket slot i København bor kongen og hans familie en del af året?",
+"options": [
+"Christiansborg",
+"Rosenborg",
+"Amalienborg"
+],
+"answer": "Amalienborg"
+},
+"qStart": 555.56,
+"aStart": 575.98,
+"aEnd": 581.33,
+"learn": {
+"start": 281.52,
+"end": 302.35,
+"text": "Many follow, for example on TV, when the monarch on New Year's Eve gives his traditional speech from the royal family's home at Amalienborg in Copenhagen or from the residence at Fredensborg Palace, Fredensborg Slot, outside Copenhagen.",
+"score": 4.5
+}
+},
+{
+"id": "ch6-ep5-p1-q6",
+"n": 6,
+"q": "Which of the following castles is one of the royal family's residences outside Copenhagen? The exam says Queen Margrethe's residences.",
+"options": [
+{
+"l": "A",
+"t": "Egeskov Castle"
+},
+{
+"l": "B",
+"t": "Fredensborg Castle"
+},
+{
+"l": "C",
+"t": "Kronborg Castle"
+}
+],
+"answer": "B",
+"answerText": "Fredensborg Castle",
+"appeared": "It appeared in the June 2020 exam.",
+"da": {
+"q": "Hvilket af følgende slotte er en af Dronning Margrethes residenser udenfor København?",
+"options": [
+"Egeskov Slot",
+"Fredensborg Slot",
+"Kronborg Slot"
+],
+"answer": "Fredensborg Slot"
+},
+"qStart": 581.88,
+"aStart": 606.02,
+"aEnd": 611.29,
+"learn": {
+"start": 281.52,
+"end": 302.35,
+"text": "Many follow, for example on TV, when the monarch on New Year's Eve gives his traditional speech from the royal family's home at Amalienborg in Copenhagen or from the residence at Fredensborg Palace, Fredensborg Slot, outside Copenhagen.",
+"score": 5.5
+}
+},
+{
+"id": "ch6-ep5-p1-q7",
+"n": 7,
+"q": "Which day of observance is celebrated on the fifth of June?",
+"options": [
+{
+"l": "A",
+"t": "The Queen's birthday"
+},
+{
+"l": "B",
+"t": "Denmark's liberation"
+},
+{
+"l": "C",
+"t": "Constitution Day"
+}
+],
+"answer": "C",
+"answerText": "Constitution Day",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Hvilken mærkedag fejres den 5. juni?",
+"options": [
+"Dronningens fødselsdag",
+"Danmarks befrielse",
+"Grundlovsdag"
+],
+"answer": "Grundlovsdag"
+},
+"qStart": 611.84,
+"aStart": 631.18,
+"aEnd": 636.62,
+"learn": {
+"start": 84.48,
+"end": 102.49,
+"text": "Historical days of observance are also marked by flying Dannebrog. This applies, for example, to Denmark's liberation on the fifth of May, and Constitution Day, grundlovsdag, on the fifth of June.",
+"score": 6.1
+}
+},
+{
+"id": "ch6-ep5-p1-q8",
+"n": 8,
+"q": "On which date is Denmark's liberation in 1945, after five years of German occupation, marked?",
+"options": [
+{
+"l": "A",
+"t": "The eighth of March"
+},
+{
+"l": "B",
+"t": "The ninth of April"
+},
+{
+"l": "C",
+"t": "The fifth of May"
+}
+],
+"answer": "C",
+"answerText": "The fifth of May",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "På hvilken dato markeres Danmarks befrielse i 1945 efter fem års tysk besættelse?",
+"options": [
+"8. marts",
+"9. april",
+"5. maj"
+],
+"answer": "5. maj"
+},
+"qStart": 637.17,
+"aStart": 659.63,
+"aEnd": 665.05,
+"learn": {
+"start": 84.48,
+"end": 102.49,
+"text": "Historical days of observance are also marked by flying Dannebrog. This applies, for example, to Denmark's liberation on the fifth of May, and Constitution Day, grundlovsdag, on the fifth of June.",
+"score": 5.2
+}
+}
+]

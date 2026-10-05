@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch3-ep3-p1",
+ "images": [
+  {
+   "id": "p112-fig1",
+   "src": "images/ch3/p112-fig1.svg",
+   "start": 250.2,
+   "caption": "Vejen Library in southern Jutland.",
+   "illustration": true,
+   "alt": "Vejen Library in southern Jutland.",
+   "page": 112,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 340.2
+  },
+  {
+   "id": "p113-fig1",
+   "src": "images/ch3/p113-fig1.svg",
+   "start": 370.9,
+   "caption": "Pensioners on a balcony in an apartment in Copenhagen.",
+   "illustration": true,
+   "alt": "Pensioners on a balcony in an apartment in Copenhagen.",
+   "page": 113,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 460.9
+  }
+ ]
+}

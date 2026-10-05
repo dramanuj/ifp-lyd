@@ -1,0 +1,90 @@
+{
+ "version": 1,
+ "partId": "ch1-ep3-p1",
+ "images": [
+  {
+   "id": "p027-fig1",
+   "src": "images/ch1/p027-fig1.svg",
+   "start": 95.8,
+   "caption": "Work at a brewery around 1900.",
+   "illustration": true,
+   "alt": "Work at a brewery around 1900.",
+   "page": 27,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 185.8
+  },
+  {
+   "id": "p028-fig1",
+   "src": "images/ch1/p028-fig1.svg",
+   "start": 188.7,
+   "caption": "A political meeting of the labour movement around 1870.",
+   "illustration": true,
+   "alt": "A political meeting of the labour movement around 1870.",
+   "page": 28,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 278.7
+  },
+  {
+   "id": "p029-fig1",
+   "src": "images/ch1/p029-fig1.svg",
+   "start": 385.8,
+   "caption": "The cooperative shop (Brugsen) in Lyderslev.",
+   "illustration": true,
+   "alt": "The cooperative shop (Brugsen) in Lyderslev.",
+   "page": 29,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 475.8
+  },
+  {
+   "id": "p030-fig1",
+   "src": "images/ch1/p030-fig1.svg",
+   "start": 533.2,
+   "caption": "The landowner Jacob Brønnum Scavenius Estrup of the party Højre was Denmark's council president (head of government) from 1875 to 1894.",
+   "illustration": true,
+   "alt": "The landowner Jacob Brønnum Scavenius Estrup of the party Højre was Denmark's council president (head of government) from 1875 to 1894.",
+   "page": 30,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 623.2
+  },
+  {
+   "id": "p032-fig1",
+   "src": "images/ch1/p032-fig1.svg",
+   "start": 666.8,
+   "caption": "A pennant from the Danish Women's Society (Dansk Kvindesamfund).",
+   "illustration": true,
+   "alt": "A pennant from the Danish Women's Society (Dansk Kvindesamfund).",
+   "page": 32,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 706.6
+  },
+  {
+   "id": "p031-fig1",
+   "src": "images/ch1/p031-fig1.svg",
+   "start": 706.6,
+   "caption": "Nathalie Zahle (1827-1913) campaigned for women's right to education and independence. In 1877 she founded the girls' school \"N. Zahle's School\" in Copenhagen.",
+   "illustration": true,
+   "alt": "Nathalie Zahle (1827-1913) campaigned for women's right to education and independence. In 1877 she founded the girls' school \"N. Zahle's School\" in Copenhagen.",
+   "page": 31,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 796.6
+  }
+ ]
+}

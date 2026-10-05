@@ -1,0 +1,62 @@
+{
+ "version": 1,
+ "partId": "ch1-ep4-p1",
+ "images": [
+  {
+   "id": "p038-fig1",
+   "src": "images/ch1/p038-fig1.svg",
+   "start": 52.2,
+   "caption": "German aircraft over Copenhagen on 9 April 1940.",
+   "illustration": true,
+   "alt": "German aircraft over Copenhagen on 9 April 1940.",
+   "page": 38,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 142.2
+  },
+  {
+   "id": "p042-fig1",
+   "src": "images/ch1/p042-fig1.svg",
+   "start": 154.2,
+   "caption": "Celebrating the liberation in Copenhagen on 5 May after five years of German occupation.",
+   "illustration": true,
+   "alt": "Celebrating the liberation in Copenhagen on 5 May after five years of German occupation.",
+   "page": 42,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 244.2
+  },
+  {
+   "id": "p040-fig1",
+   "src": "images/ch1/p040-fig1.svg",
+   "start": 266.4,
+   "caption": "Unrest in Odense in August 1943.",
+   "illustration": true,
+   "alt": "Unrest in Odense in August 1943.",
+   "page": 40,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 308.6
+  },
+  {
+   "id": "p040-fig2",
+   "src": "images/ch1/p040-fig2.svg",
+   "start": 308.6,
+   "caption": "The scuttling of the naval ship Peder Skram in 1943.",
+   "illustration": true,
+   "alt": "The scuttling of the naval ship Peder Skram in 1943.",
+   "page": 40,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 398.6
+  }
+ ]
+}

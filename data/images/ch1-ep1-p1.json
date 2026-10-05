@@ -1,0 +1,76 @@
+{
+ "version": 1,
+ "partId": "ch1-ep1-p1",
+ "images": [
+  {
+   "id": "p007-fig1",
+   "src": "images/ch1/p007-fig1.svg",
+   "start": 212.6,
+   "caption": "The Viking fortress Trelleborg near Slagelse in West Zealand.",
+   "illustration": true,
+   "alt": "The Viking fortress Trelleborg near Slagelse in West Zealand.",
+   "page": 7,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 290.4
+  },
+  {
+   "id": "p008-fig1",
+   "src": "images/ch1/p008-fig1.svg",
+   "start": 290.4,
+   "caption": "A Viking ship from the 800s.",
+   "illustration": true,
+   "alt": "A Viking ship from the 800s.",
+   "page": 8,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 380.4
+  },
+  {
+   "id": "p006-fig1",
+   "src": "images/ch1/p006-fig1.svg",
+   "start": 432.4,
+   "caption": "The great Jelling Stone was raised by King Harald Bluetooth around 965.",
+   "illustration": true,
+   "alt": "The great Jelling Stone was raised by King Harald Bluetooth around 965.",
+   "page": 6,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 522.4
+  },
+  {
+   "id": "p011-fig1",
+   "src": "images/ch1/p011-fig1.svg",
+   "start": 617.2,
+   "caption": "Nørre Asminderup Church in north-west Zealand is one of Denmark's many medieval churches.",
+   "illustration": true,
+   "alt": "Nørre Asminderup Church in north-west Zealand is one of Denmark's many medieval churches.",
+   "page": 11,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 707.2
+  },
+  {
+   "id": "p012-fig1",
+   "src": "images/ch1/p012-fig1.svg",
+   "start": 836.4,
+   "caption": "Margrete I is buried in Roskilde Cathedral.",
+   "illustration": true,
+   "alt": "Margrete I is buried in Roskilde Cathedral.",
+   "page": 12,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 926.4
+  }
+ ]
+}

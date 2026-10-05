@@ -1,0 +1,302 @@
+[
+{
+"id": "ch3-ep2-p1-q1",
+"n": 1,
+"q": "What has happened to the old-age pension age since 2018?",
+"options": [
+{
+"l": "A",
+"t": "It has become higher"
+},
+{
+"l": "B",
+"t": "It is unchanged"
+},
+{
+"l": "C",
+"t": "It has become lower"
+}
+],
+"answer": "A",
+"answerText": "It has become higher",
+"appeared": "It appeared in the November 2023 and May 2025 exams.",
+"da": {
+"q": "Hvad er der sket med folkepensionsalderen siden 2018?",
+"options": [
+"Den er blevet højere",
+"Den er uændret",
+"Den er blevet lavere"
+],
+"answer": "Den er blevet højere"
+},
+"qStart": 646.41,
+"aStart": 665.19,
+"aEnd": 672.29,
+"learn": {
+"start": 251.57,
+"end": 269.32,
+"text": "It has thus become harder for those who have a lasting and significantly reduced ability to work to get the disability-type early retirement pension, førtidspension.",
+"score": 5.0
+}
+},
+{
+"id": "ch3-ep2-p1-q2",
+"n": 2,
+"q": "How has the unemployment benefit period for the unemployed developed since 1994?",
+"options": [
+{
+"l": "A",
+"t": "It has become longer"
+},
+{
+"l": "B",
+"t": "It is unchanged"
+},
+{
+"l": "C",
+"t": "It has become shorter"
+}
+],
+"answer": "C",
+"answerText": "It has become shorter",
+"appeared": "It appeared in the November 2022 and November 2024 exams.",
+"da": {
+"q": "Hvordan har dagpengeperioden for arbejdsløse udviklet sig siden 1994?",
+"options": [
+"Den er blevet længere",
+"Den er uændret",
+"Den er blevet kortere"
+],
+"answer": "Den er blevet kortere"
+},
+"qStart": 672.84,
+"aStart": 693.33,
+"aEnd": 700.72,
+"learn": {
+"start": 186.86,
+"end": 226.55,
+"text": "There have also been attempts to get more people into work by shortening the so-called unemployment benefit period, the dagpengeperiode, that is the period in which you can receive support as unemployed from an unemployment insurance fund, an A-kasse. In 1993 a limit of seven years was set for the unemployment benefit period, and it has been continuously reduced: in 1995 to five years, in 1998 to four years, and since 2010 it has been two years.",
+"score": 6.5
+}
+},
+{
+"id": "ch3-ep2-p1-q3",
+"n": 3,
+"q": "What characterised the 1960s in Denmark, among other things?",
+"options": [
+{
+"l": "A",
+"t": "Oil crisis and high unemployment"
+},
+{
+"l": "B",
+"t": "High economic growth with a big increase in production and consumption"
+}
+],
+"answer": "B",
+"answerText": "High economic growth with a big increase in production and consumption",
+"appeared": "It appeared in the November 2021 and November 2023 exams.",
+"da": {
+"q": "Hvad karakteriserede blandt andet 1960’erne i Danmark?",
+"options": [
+"Oliekrise og høj arbejdsløshed",
+"Høj økonomisk vækst med stor stigning i produktion og forbrug"
+],
+"answer": "Høj økonomisk vækst med stor stigning i produktion og forbrug"
+},
+"qStart": 701.27,
+"aStart": 722.67,
+"aEnd": 733.04,
+"learn": {
+"start": 11.13,
+"end": 28.06,
+"text": "In the period 1957 to 73 there was strong economic growth. So the 1960s were years of very high growth, with rising production and consumption and high employment.",
+"score": 7.4
+}
+},
+{
+"id": "ch3-ep2-p1-q4",
+"n": 4,
+"q": "What is moms, VAT?",
+"options": [
+{
+"l": "A",
+"t": "A duty on, among other things, goods you buy in the shops"
+},
+{
+"l": "B",
+"t": "A tax you pay on your income"
+},
+{
+"l": "C",
+"t": "A fee you pay for access to DR's TV and radio channels"
+}
+],
+"answer": "A",
+"answerText": "A duty on, among other things, goods you buy in the shops",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "Hvad er moms?",
+"options": [
+"En afgift på blandt andet varer man køber i butikkerne",
+"En skat man betaler af sin indkomst",
+"Et gebyr man betaler for at have adgang til DR's tv- og radiokanaler"
+],
+"answer": "En afgift på blandt andet varer man køber i butikkerne"
+},
+"qStart": 733.59,
+"aStart": 755.93,
+"aEnd": 763.63,
+"learn": {
+"start": 386.28,
+"end": 404.52,
+"text": "The Danish welfare society is financed through taxes on, for example, income, and through, among other things, VAT, moms, and duties on goods and services. Moms, VAT, is a duty on goods and services you buy, for example in the shops.",
+"score": 9.6
+}
+},
+{
+"id": "ch3-ep2-p1-q5",
+"n": 5,
+"q": "Do all taxable citizens pay church tax?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the June 2022 and May 2023 exams.",
+"da": {
+"q": "Betaler alle skattepligtige borgere kirkeskat?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 764.18,
+"aStart": 778.16,
+"aEnd": 784.49,
+"learn": {
+"start": 477.41,
+"end": 496.02,
+"text": "If you are a member of the national church, folkekirken, you also typically pay about 1 percent church tax. Church tax is paid only by taxable members of the national church.",
+"score": 3.5
+}
+},
+{
+"id": "ch3-ep2-p1-q6",
+"n": 6,
+"q": "Who must pay church tax?",
+"options": [
+{
+"l": "A",
+"t": "All taxable citizens"
+},
+{
+"l": "B",
+"t": "Taxable members of the national church, folkekirken"
+}
+],
+"answer": "B",
+"answerText": "Taxable members of the national church, folkekirken",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvem skal betale kirkeskat?",
+"options": [
+"Alle skattepligtige borgere",
+"Skattepligtige medlemmer af folkekirken"
+],
+"answer": "Skattepligtige medlemmer af folkekirken"
+},
+"qStart": 785.04,
+"aStart": 802.2,
+"aEnd": 809.8,
+"learn": {
+"start": 477.41,
+"end": 496.02,
+"text": "If you are a member of the national church, folkekirken, you also typically pay about 1 percent church tax. Church tax is paid only by taxable members of the national church.",
+"score": 9.1
+}
+},
+{
+"id": "ch3-ep2-p1-q7",
+"n": 7,
+"q": "Can the regions levy taxes?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the May 2023 exam.",
+"da": {
+"q": "Kan regionerne opkræve skatter?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 810.35,
+"aStart": 823.5,
+"aEnd": 828.1,
+"learn": {
+"start": 406.57,
+"end": 416.91,
+"text": "Only the state and the municipalities levy income tax: the regions cannot levy taxes.",
+"score": 3.0
+}
+},
+{
+"id": "ch3-ep2-p1-q8",
+"n": 8,
+"q": "Which authorities levy taxes?",
+"options": [
+{
+"l": "A",
+"t": "The state and the regions"
+},
+{
+"l": "B",
+"t": "The state and the municipalities"
+},
+{
+"l": "C",
+"t": "The regions and the municipalities"
+}
+],
+"answer": "B",
+"answerText": "The state and the municipalities",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Hvilke myndigheder udskriver skatter?",
+"options": [
+"Staten og regionerne",
+"Staten og kommunerne",
+"Regionerne og kommunerne"
+],
+"answer": "Staten og kommunerne"
+},
+"qStart": 828.65,
+"aStart": 849.17,
+"aEnd": 855.86,
+"learn": {
+"start": 406.57,
+"end": 416.91,
+"text": "Only the state and the municipalities levy income tax: the regions cannot levy taxes.",
+"score": 5.0
+}
+}
+]

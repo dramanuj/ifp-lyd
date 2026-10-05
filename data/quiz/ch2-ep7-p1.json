@@ -1,0 +1,147 @@
+[
+{
+"id": "ch2-ep7-p1-q1",
+"n": 1,
+"q": "Which body has as its primary task to check whether there have been neglect or errors in public authorities' handling of cases?",
+"options": [
+{
+"l": "A",
+"t": "The Ethics Council"
+},
+{
+"l": "B",
+"t": "The Parliamentary Ombudsman, Folketingets Ombudsmand"
+},
+{
+"l": "C",
+"t": "The Press Council"
+}
+],
+"answer": "B",
+"answerText": "The Parliamentary Ombudsman, Folketingets Ombudsmand",
+"appeared": "It appeared in 4 different exams, most recently in May 2025.",
+"da": {
+"q": "Hvilken instans har som sin primære opgave at kontrollere, om der er sket forsømmelser eller fejl i offentlige myndigheders sagsbehandling?",
+"options": [
+"Etisk Råd",
+"Folketingets Ombudsmand",
+"Pressenævnet"
+],
+"answer": "Folketingets Ombudsmand"
+},
+"qStart": 588.27,
+"aStart": 613.37,
+"aEnd": 623.11,
+"learn": {
+"start": 397.38,
+"end": 420.62,
+"text": "In the Danish constitution it is also laid down that the administration is controlled by the Parliamentary Ombudsman, Folketingets Ombudsmand. The Ombudsman assesses whether errors or neglect have occurred in the public authorities' work.",
+"score": 10.4
+}
+},
+{
+"id": "ch2-ep7-p1-q2",
+"n": 2,
+"q": "According to Danish law, can you demand that another citizen never speaks critically about your religion?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the November 2023 and November 2025 exams.",
+"da": {
+"q": "Kan man ifølge dansk lov kræve, at en anden borger aldrig må udtale sig kritisk om ens religion?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 623.66,
+"aStart": 640.65,
+"aEnd": 647.44,
+"learn": {
+"start": 80.9,
+"end": 101.44,
+"text": "So in Denmark you cannot demand that other people never criticise your religion. The limits are set by law, for example defamation, and only the courts decide whether they have been crossed.",
+"score": 3.5
+}
+},
+{
+"id": "ch2-ep7-p1-q3",
+"n": 3,
+"q": "Which authority can dissolve, ban, an association that seeks to reach its goals by violence?",
+"options": [
+{
+"l": "A",
+"t": "The police"
+},
+{
+"l": "B",
+"t": "The courts"
+}
+],
+"answer": "B",
+"answerText": "The courts",
+"appeared": "It appeared in the November 2023 exam.",
+"da": {
+"q": "Hvilken myndighed kan opløse (forbyde) en forening, der søger at opnå sine mål med vold?",
+"options": [
+"Politiet",
+"Domstolene"
+],
+"answer": "Domstolene"
+},
+"qStart": 647.99,
+"aStart": 665.84,
+"aEnd": 671.09,
+"learn": {
+"start": 172.47,
+"end": 192.46,
+"text": "An association can also be judged unlawful and demanded dissolved if it seeks to reach its goals by violence or other illegality.",
+"score": 5.0
+}
+},
+{
+"id": "ch2-ep7-p1-q4",
+"n": 4,
+"q": "Can a government decide that an association is to be dissolved forever?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "Kan en regering bestemme, at en forening skal opløses for altid?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 671.64,
+"aStart": 686.49,
+"aEnd": 691.33,
+"learn": {
+"start": 172.47,
+"end": 204.33,
+"text": "An association can also be judged unlawful and demanded dissolved if it seeks to reach its goals by violence or other illegality. But the limits are wide in Denmark. It is also part of democracy that only the courts can decide whether the limits for freedom of expression and other rights secured by the constitution have been exceeded.",
+"score": 2.3
+}
+}
+]

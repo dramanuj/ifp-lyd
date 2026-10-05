@@ -1,0 +1,62 @@
+{
+ "version": 1,
+ "partId": "ch1-ep3-p2",
+ "images": [
+  {
+   "id": "p033-fig1",
+   "src": "images/ch1/p033-fig1.svg",
+   "start": 174.4,
+   "caption": "Danish soldiers who took part in the First World War.",
+   "illustration": true,
+   "alt": "Danish soldiers who took part in the First World War.",
+   "page": 33,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 212.9
+  },
+  {
+   "id": "p034-fig1",
+   "src": "images/ch1/p034-fig1.svg",
+   "start": 212.9,
+   "caption": "Health Authority appeals against the spread of the \"Spanish flu\" in 1918.",
+   "illustration": true,
+   "alt": "Health Authority appeals against the spread of the \"Spanish flu\" in 1918.",
+   "page": 34,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 302.9
+  },
+  {
+   "id": "p036-fig1",
+   "src": "images/ch1/p036-fig1.svg",
+   "start": 449.8,
+   "caption": "The stock-market crash of 1929 on Wall Street, New York.",
+   "illustration": true,
+   "alt": "The stock-market crash of 1929 on Wall Street, New York.",
+   "page": 36,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 487.3
+  },
+  {
+   "id": "p037-fig1",
+   "src": "images/ch1/p037-fig1.svg",
+   "start": 487.3,
+   "caption": "Denmark's first Social Democratic prime minister, Thorvald Stauning, here on an election poster from 1935.",
+   "illustration": true,
+   "alt": "Denmark's first Social Democratic prime minister, Thorvald Stauning, here on an election poster from 1935.",
+   "page": 37,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 577.3
+  }
+ ]
+}

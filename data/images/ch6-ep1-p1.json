@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch6-ep1-p1",
+ "images": [
+  {
+   "id": "p175-fig1",
+   "src": "images/ch6/p175-fig1.svg",
+   "start": 197.3,
+   "caption": "Map of Denmark's seas and islands.",
+   "illustration": true,
+   "alt": "Map of Denmark's seas and islands.",
+   "page": 175,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "map",
+   "width": 1600,
+   "height": 900,
+   "end": 254.4
+  },
+  {
+   "id": "p176-fig1",
+   "src": "images/ch6/p176-fig1.svg",
+   "start": 254.4,
+   "caption": "The Øresund Bridge between Zealand and Scania.",
+   "illustration": true,
+   "alt": "The Øresund Bridge between Zealand and Scania.",
+   "page": 176,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 344.4
+  }
+ ]
+}

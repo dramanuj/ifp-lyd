@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "partId": "ch5-ep6-p1",
+ "images": [
+  {
+   "id": "p161-fig1",
+   "src": "images/ch5/p161-fig1.svg",
+   "start": 127.9,
+   "caption": "Aarhus University and the university park.",
+   "illustration": true,
+   "alt": "Aarhus University and the university park.",
+   "page": 161,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 217.9
+  },
+  {
+   "id": "p162-fig1",
+   "src": "images/ch5/p162-fig1.svg",
+   "start": 235.2,
+   "caption": "The Sydney Opera House, designed by Jørn Utzon.",
+   "illustration": true,
+   "alt": "The Sydney Opera House, designed by Jørn Utzon.",
+   "page": 162,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 325.2
+  },
+  {
+   "id": "p163-fig1",
+   "src": "images/ch5/p163-fig1.svg",
+   "start": 393.1,
+   "caption": "The Wadden Sea Centre, designed by Dorte Mandrup.",
+   "illustration": true,
+   "alt": "The Wadden Sea Centre, designed by Dorte Mandrup.",
+   "page": 163,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 483.1
+  }
+ ]
+}

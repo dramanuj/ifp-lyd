@@ -1,0 +1,482 @@
+[
+{
+"id": "ch1-ep3-p1-q1",
+"n": 1,
+"q": "Who are the contracting parties when collective agreements on, for example, pay, pension and working conditions are made on the private labour market?",
+"options": [
+{
+"l": "A",
+"t": "The state and the municipalities"
+},
+{
+"l": "B",
+"t": "The government and civil servants"
+},
+{
+"l": "C",
+"t": "Trade unions and employers' organisations"
+}
+],
+"answer": "C",
+"answerText": "Trade unions and employers' organisations",
+"appeared": "It appeared in the June 2020, June 2022 and May 2023 exams.",
+"da": {
+"q": "Hvem er aftaleparter, når der skal indgås overenskomster om fx løn, pension og arbejdsforhold på det private arbejdsmarked?",
+"options": [
+"Stat og kommuner",
+"Regering og embedsmænd",
+"Fagforeninger og arbejdsgiverorganisationer"
+],
+"answer": "Fagforeninger og arbejdsgiverorganisationer"
+},
+"qStart": 844.85,
+"aStart": 872.83,
+"aEnd": 882.64,
+"learn": {
+"start": 232.41,
+"end": 257.16,
+"text": "And the workers got the right to organise and to look after their interests collectively, through trade unions and shop stewards. For example, to negotiate pay and working conditions, or to strike according to specific rules. The September Compromise still underlies the way agreements are made on the Danish labour market.",
+"score": 8.5
+}
+},
+{
+"id": "ch1-ep3-p1-q2",
+"n": 2,
+"q": "Who does DA represent when collective agreements are negotiated on the Danish labour market?",
+"options": [
+{
+"l": "A",
+"t": "The employers"
+},
+{
+"l": "B",
+"t": "The government"
+},
+{
+"l": "C",
+"t": "The employees"
+}
+],
+"answer": "A",
+"answerText": "The employers",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvem repræsenterer DA, når der skal forhandles kollektive overenskomster på det danske arbejds- marked?",
+"options": [
+"Arbejdsgiverne",
+"Regeringen",
+"Lønmodtagerne"
+],
+"answer": "Arbejdsgiverne"
+},
+"qStart": 883.19,
+"aStart": 903.03,
+"aEnd": 908.29,
+"learn": {
+"start": 200.94,
+"end": 232.41,
+"text": "Then comes one of the most important agreements in Danish history. A long dispute in 1899 between employers and workers ended in September the same year with a historic agreement, the September Compromise, Septemberforliget, between the labour market's two main organisations, which today are called DA, the Danish Employers' Confederation, and FH, the Danish Trade Union Confederation.",
+"score": 4.8
+}
+},
+{
+"id": "ch1-ep3-p1-q3",
+"n": 3,
+"q": "Which political party arose in the 1870s as part of the labour movement?",
+"options": [
+{
+"l": "A",
+"t": "The Social Liberal Party"
+},
+{
+"l": "B",
+"t": "The Social Democrats"
+},
+{
+"l": "C",
+"t": "The Socialist People's Party, SF"
+}
+],
+"answer": "B",
+"answerText": "The Social Democrats",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvilket politisk parti opstod i 1870’erne som en del af arbejderbevægelsen?",
+"options": [
+"Radikale Venstre",
+"Socialdemokratiet",
+"Socialistisk Folkeparti"
+],
+"answer": "Socialdemokratiet"
+},
+"qStart": 908.84,
+"aStart": 930.96,
+"aEnd": 936.74,
+"learn": {
+"start": 184.49,
+"end": 200.94,
+"text": "A political workers' party also emerged: the Social Democrats, Socialdemokratiet. At the beginning it was part of the labour movement, but in 1878 it became an independent party.",
+"score": 7.0
+}
+},
+{
+"id": "ch1-ep3-p1-q4",
+"n": 4,
+"q": "What is the movement called in which farmers in the 1800s joined forces to set up dairies and cooperative stores?",
+"options": [
+{
+"l": "A",
+"t": "The grassroots movement"
+},
+{
+"l": "B",
+"t": "The resistance movement"
+},
+{
+"l": "C",
+"t": "The cooperative movement, andelsbevægelsen"
+}
+],
+"answer": "C",
+"answerText": "The cooperative movement, andelsbevægelsen",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvad kaldes den bevægelse, hvor bønderne i 1800-tallet slog sig sammen om at oprette mejerier og brugsforeninger?",
+"options": [
+"Græsrodsbevægelsen",
+"Modstandsbevægelsen",
+"Andelsbevægelsen"
+],
+"answer": "Andelsbevægelsen"
+},
+"qStart": 937.29,
+"aStart": 961.31,
+"aEnd": 968.29,
+"learn": {
+"start": 325.05,
+"end": 344.92,
+"text": "But the cooperative movement spread unusually widely in Denmark compared with other countries. Farmers joined forces to set up, among other things, dairies and cooperative stores.",
+"score": 9.6
+}
+},
+{
+"id": "ch1-ep3-p1-q5",
+"n": 5,
+"q": "When did the cooperative movement arise in Denmark, with the first cooperative stores and dairies?",
+"options": [
+{
+"l": "A",
+"t": "In the 1700s"
+},
+{
+"l": "B",
+"t": "In the 1800s"
+},
+{
+"l": "C",
+"t": "In the 1900s"
+}
+],
+"answer": "B",
+"answerText": "In the 1800s",
+"appeared": "It appeared in the November 2020 and June 2022 exams.",
+"da": {
+"q": "Hvornår opstod andelsbevægelsen i Danmark med oprettelsen af de første brugsforeninger og andelsmejerier?",
+"options": [
+"I 1700-tallet",
+"I 1800-tallet",
+"I 1900-tallet"
+],
+"answer": "I 1800-tallet"
+},
+"qStart": 968.84,
+"aStart": 990.5,
+"aEnd": 997.53,
+"learn": {
+"start": 313.2,
+"end": 325.05,
+"text": "That means the cooperative movement took root in Denmark in the 1800s.",
+"score": 4.5
+}
+},
+{
+"id": "ch1-ep3-p1-q6",
+"n": 6,
+"q": "Which population group gave the party Venstre most of its votes at the end of the 1800s?",
+"options": [
+{
+"l": "A",
+"t": "Landowners"
+},
+{
+"l": "B",
+"t": "Workers"
+},
+{
+"l": "C",
+"t": "Farmers"
+}
+],
+"answer": "C",
+"answerText": "Farmers",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvilken af følgende befolkningsgrupper fik partiet Venstre flest stemmer fra i slutningen af 1800- tallet?",
+"options": [
+"Godsejere",
+"Arbejdere",
+"Bønder"
+],
+"answer": "Bønder"
+},
+"qStart": 998.08,
+"aStart": 1017.61,
+"aEnd": 1022.6,
+"learn": {
+"start": 21.57,
+"end": 47.48,
+"text": "The end of the 1800s and the beginning of the 1900s were marked by a far-reaching modernisation of Danish society. Industrial development got going, prosperity rose, and new political reforms were meant to secure a freer economy. Domestically, a marked conflict arose between the landowners' party, Højre, and the farmers' party, Venstre.",
+"score": 4.2
+}
+},
+{
+"id": "ch1-ep3-p1-q7",
+"n": 7,
+"q": "Which party did workers typically vote for in the middle of the 1900s?",
+"options": [
+{
+"l": "A",
+"t": "Venstre"
+},
+{
+"l": "B",
+"t": "The Social Democrats"
+},
+{
+"l": "C",
+"t": "The Social Liberal Party"
+}
+],
+"answer": "B",
+"answerText": "The Social Democrats",
+"appeared": "It appeared in the November 2020 and June 2022 exams.",
+"da": {
+"q": "Hvilket parti stemte arbejdere typisk på i midten af 1900-tallet?",
+"options": [
+"Venstre",
+"Socialdemokratiet",
+"Radikale Venstre"
+],
+"answer": "Socialdemokratiet"
+},
+"qStart": 1023.15,
+"aStart": 1043.35,
+"aEnd": 1050.57,
+"learn": {
+"start": 184.49,
+"end": 195.0,
+"text": "A political workers' party also emerged: the Social Democrats, Socialdemokratiet.",
+"score": 5.0
+}
+},
+{
+"id": "ch1-ep3-p1-q8",
+"n": 8,
+"q": "Which party did farmers typically vote for in the middle of the 1900s?",
+"options": [
+{
+"l": "A",
+"t": "The Danish People's Party"
+},
+{
+"l": "B",
+"t": "The Conservative People's Party"
+},
+{
+"l": "C",
+"t": "Venstre"
+}
+],
+"answer": "C",
+"answerText": "Venstre",
+"appeared": "It appeared in the June 2020 and May 2024 exams.",
+"da": {
+"q": "Hvilket parti stemte landmænd typisk på i midten af 1900-tallet?",
+"options": [
+"Dansk Folkeparti",
+"Det Konservative Folkeparti",
+"Venstre"
+],
+"answer": "Venstre"
+},
+"qStart": 1051.12,
+"aStart": 1071.49,
+"aEnd": 1077.68,
+"learn": {
+"start": 32.4,
+"end": 47.48,
+"text": "Domestically, a marked conflict arose between the landowners' party, Højre, and the farmers' party, Venstre.",
+"score": 3.5
+}
+},
+{
+"id": "ch1-ep3-p1-q9",
+"n": 9,
+"q": "In which decade did Denmark's first railway line open?",
+"options": [
+{
+"l": "A",
+"t": "The 1780s"
+},
+{
+"l": "B",
+"t": "The 1840s"
+},
+{
+"l": "C",
+"t": "The 1910s"
+}
+],
+"answer": "B",
+"answerText": "The 1840s",
+"appeared": "It appeared in the November 2021, May 2024 and November 2025 exams.",
+"da": {
+"q": "I hvilket årti åbnede Danmarks første jernbanestrækning?",
+"options": [
+"1780’erne",
+"1840’erne",
+"1910’erne"
+],
+"answer": "1840’erne"
+},
+"qStart": 1078.23,
+"aStart": 1097.71,
+"aEnd": 1106.68,
+"learn": {
+"start": 63.18,
+"end": 95.77,
+"text": "The first railway within Denmark's present borders opened in 1847, and ran between Copenhagen and Roskilde. But industrialisation only really broke through in the second half of the 1800s. And only after the Second World War did Denmark go from being an agricultural society to being a real industrial society.",
+"score": 3.1
+}
+},
+{
+"id": "ch1-ep3-p1-q10",
+"n": 10,
+"q": "In which sector did most people work around 1850?",
+"options": [
+{
+"l": "A",
+"t": "Industry"
+},
+{
+"l": "B",
+"t": "Fishing"
+},
+{
+"l": "C",
+"t": "Agriculture"
+}
+],
+"answer": "C",
+"answerText": "Agriculture",
+"appeared": "It appeared in the May 2024 and June 2026 exams.",
+"da": {
+"q": "I hvilken sektor arbejdede der flest mennesker omkring 1850?",
+"options": [
+"Industri",
+"Fiskeri",
+"Landbrug"
+],
+"answer": "Landbrug"
+},
+"qStart": 1107.23,
+"aStart": 1124.75,
+"aEnd": 1131.27,
+"learn": {
+"start": 82.31,
+"end": 111.85,
+"text": "And only after the Second World War did Denmark go from being an agricultural society to being a real industrial society. So around 1850, and for a long time after, most Danes still earned their living in agriculture. The beginning of industrialisation made large parts of the population move from the countryside into the towns, to work in industry or in crafts.",
+"score": 4.2
+}
+},
+{
+"id": "ch1-ep3-p1-q11",
+"n": 11,
+"q": "On which day is women's international day of struggle marked?",
+"options": [
+{
+"l": "A",
+"t": "The eighth of March"
+},
+{
+"l": "B",
+"t": "The fourth of May"
+},
+{
+"l": "C",
+"t": "The fifth of June"
+}
+],
+"answer": "A",
+"answerText": "The eighth of March",
+"appeared": "It appeared in the May 2024 and June 2026 exams.",
+"da": {
+"q": "Hvilken dag markeres kvindernes internationale kampdag?",
+"options": [
+"8. marts",
+"4. maj",
+"5. juni"
+],
+"answer": "8. marts"
+},
+"qStart": 1131.82,
+"aStart": 1151.04,
+"aEnd": 1158.04,
+"learn": {
+"start": 730.98,
+"end": 756.22,
+"text": "From 1921, the observance got a fixed annual date, the eighth of March, which is today women's international day of struggle in many countries around the world.",
+"score": 7.0
+}
+},
+{
+"id": "ch1-ep3-p1-q12",
+"n": 12,
+"q": "Through which constitutional amendment did women get the vote for the Folketing?",
+"options": [
+{
+"l": "A",
+"t": "The amendment of 1866"
+},
+{
+"l": "B",
+"t": "The amendment of 1915"
+},
+{
+"l": "C",
+"t": "The amendment of 1953"
+}
+],
+"answer": "B",
+"answerText": "The amendment of 1915",
+"appeared": "It appeared in 4 different exams, most recently in May 2025.",
+"da": {
+"q": "Ved hvilken grundlovsændring fik kvinder valgret til Folketinget?",
+"options": [
+"Grundlovsændringen i 1866",
+"Grundlovsændringen i 1915",
+"Grundlovsændringen i 1953"
+],
+"answer": "Grundlovsændringen i 1915"
+},
+"qStart": 1158.59,
+"aStart": 1181.48,
+"aEnd": 1189.78,
+"learn": {
+"start": 767.79,
+"end": 785.29,
+"text": "And finally in 1915, with effect from 1918, the constitution was changed so that Danish women got the vote for the Rigsdag's two chambers, the Folketing and the Landsting.",
+"score": 4.5
+}
+}
+]

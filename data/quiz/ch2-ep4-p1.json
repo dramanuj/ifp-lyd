@@ -1,0 +1,122 @@
+[
+{
+"id": "ch2-ep4-p1-q1",
+"n": 1,
+"q": "What share of voters normally vote at elections to the Folketing?",
+"options": [
+{
+"l": "A",
+"t": "60 to 69 percent"
+},
+{
+"l": "B",
+"t": "70 to 79 percent"
+},
+{
+"l": "C",
+"t": "80 to 89 percent"
+}
+],
+"answer": "C",
+"answerText": "80 to 89 percent",
+"appeared": "It appeared in the June 2020 and November 2025 exams.",
+"da": {
+"q": "Hvor stor en andel af vælgerne stemmer normalt ved valg til Folketinget?",
+"options": [
+"60-69 %",
+"70-79 %",
+"80-89 %"
+],
+"answer": "80-89 %"
+},
+"qStart": 383.57,
+"aStart": 404.66,
+"aEnd": 412.17,
+"learn": {
+"start": 307.05,
+"end": 323.76,
+"text": "The Danish election system normally requires a party to get at least two percent of the valid votes cast to get into the Folketing.",
+"score": 3.5
+}
+},
+{
+"id": "ch2-ep4-p1-q2",
+"n": 2,
+"q": "How many percent of the votes at a general election must a party normally get to enter the Folketing?",
+"options": [
+{
+"l": "A",
+"t": "At least 2 percent"
+},
+{
+"l": "B",
+"t": "At least 4 percent"
+},
+{
+"l": "C",
+"t": "At least 6 percent"
+}
+],
+"answer": "A",
+"answerText": "At least 2 percent",
+"appeared": "It appeared in the June 2021 and November 2024 exams.",
+"da": {
+"q": "Hvor mange procent af stemmerne ved et folketingsvalg skal et parti normalt have for at komme i Folketinget?",
+"options": [
+"Mindst 2 %",
+"Mindst 4 %",
+"Mindst 6 %"
+],
+"answer": "Mindst 2 %"
+},
+"qStart": 412.72,
+"aStart": 434.0,
+"aEnd": 440.89,
+"learn": {
+"start": 307.05,
+"end": 323.76,
+"text": "The Danish election system normally requires a party to get at least two percent of the valid votes cast to get into the Folketing.",
+"score": 10.0
+}
+},
+{
+"id": "ch2-ep4-p1-q3",
+"n": 3,
+"q": "How often must there be a general election according to the constitution?",
+"options": [
+{
+"l": "A",
+"t": "At least every third year"
+},
+{
+"l": "B",
+"t": "At least every fourth year"
+},
+{
+"l": "C",
+"t": "At least every fifth year"
+}
+],
+"answer": "B",
+"answerText": "At least every fourth year",
+"appeared": "It appeared in the November 2021 exam.",
+"da": {
+"q": "Hvor ofte skal der ifølge grundloven være folketingsvalg i Danmark?",
+"options": [
+"Mindst hvert tredje år",
+"Mindst hvert fjerde år",
+"Mindst hvert femte år"
+],
+"answer": "Mindst hvert fjerde år"
+},
+"qStart": 441.44,
+"aStart": 461.78,
+"aEnd": 467.87,
+"learn": {
+"start": 68.63,
+"end": 83.66,
+"text": "A general election must be held at least every four years. This is in the constitution.",
+"score": 6.1
+}
+}
+]

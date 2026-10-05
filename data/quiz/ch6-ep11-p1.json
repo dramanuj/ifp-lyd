@@ -1,0 +1,112 @@
+[
+{
+"id": "ch6-ep11-p1-q1",
+"n": 1,
+"q": "Do all taxable citizens pay church tax?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the June 2022 exam.",
+"da": {
+"q": "Betaler alle skattepligtige borgere kirkeskat?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 517.43,
+"aStart": 531.22,
+"aEnd": 535.94,
+"learn": {
+"start": 69.88,
+"end": 76.46,
+"text": "The members of the national church pay a special church tax.",
+"score": 3.0
+}
+},
+{
+"id": "ch6-ep11-p1-q2",
+"n": 2,
+"q": "Is it a requirement that a Danish citizen must be a member of the national church?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Er det et krav, at man som dansk statsborger skal være medlem af folkekirken?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 536.49,
+"aStart": 551.85,
+"aEnd": 556.64,
+"learn": {
+"start": 176.26,
+"end": 182.7,
+"text": "You do not have to be a member of the national church to be a Danish citizen.",
+"score": 5.0
+}
+},
+{
+"id": "ch6-ep11-p1-q3",
+"n": 3,
+"q": "How large a share of Denmark's population is a member of the national church?",
+"options": [
+{
+"l": "A",
+"t": "About 40 percent"
+},
+{
+"l": "B",
+"t": "About 55 percent"
+},
+{
+"l": "C",
+"t": "About 70 percent"
+}
+],
+"answer": "C",
+"answerText": "About 70 percent",
+"appeared": "It appeared in the May 2024 exam.",
+"da": {
+"q": "Hvor stor en andel af Danmarks befolkning er medlem af folkekirken?",
+"options": [
+"Cirka 40 procent",
+"Cirka 55 procent",
+"Cirka 70 procent"
+],
+"answer": "Cirka 70 procent"
+},
+"qStart": 557.19,
+"aStart": 577.88,
+"aEnd": 583.2,
+"learn": {
+"start": 143.85,
+"end": 158.2,
+"text": "The majority of the Danish population, about 70 percent in 2026, is a member of the national church.",
+"score": 7.0
+}
+}
+]

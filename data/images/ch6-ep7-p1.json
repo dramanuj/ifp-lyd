@@ -1,0 +1,76 @@
+{
+ "version": 1,
+ "partId": "ch6-ep7-p1",
+ "images": [
+  {
+   "id": "p196-fig1",
+   "src": "images/ch6/p196-fig1.svg",
+   "start": 3.7,
+   "caption": "The flags of Denmark, the Faroe Islands and Greenland.",
+   "illustration": true,
+   "alt": "The flags of Denmark, the Faroe Islands and Greenland.",
+   "page": 196,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 93.7
+  },
+  {
+   "id": "p197-fig1",
+   "src": "images/ch6/p197-fig1.svg",
+   "start": 101.5,
+   "caption": "Icebergs in Disko Bay (Qeqertarsuup tunua), Greenland.",
+   "illustration": true,
+   "alt": "Icebergs in Disko Bay (Qeqertarsuup tunua), Greenland.",
+   "page": 197,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 130.2
+  },
+  {
+   "id": "p198-fig1",
+   "src": "images/ch6/p198-fig1.svg",
+   "start": 130.2,
+   "caption": "Map of Greenland.",
+   "illustration": true,
+   "alt": "Map of Greenland.",
+   "page": 198,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "map",
+   "width": 1600,
+   "height": 900,
+   "end": 220.2
+  },
+  {
+   "id": "p201-fig1",
+   "src": "images/ch6/p201-fig1.svg",
+   "start": 236.0,
+   "caption": "Greenland's capital Nuuk seen from the air.",
+   "illustration": true,
+   "alt": "Greenland's capital Nuuk seen from the air.",
+   "page": 201,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 326.0
+  },
+  {
+   "id": "p200-fig1",
+   "src": "images/ch6/p200-fig1.svg",
+   "start": 362.7,
+   "caption": "Greenlanders in front of a skin tent in 1909.",
+   "illustration": true,
+   "alt": "Greenlanders in front of a skin tent in 1909.",
+   "page": 200,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 452.7
+  }
+ ]
+}

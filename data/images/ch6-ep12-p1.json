@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "partId": "ch6-ep12-p1",
+ "images": [
+  {
+   "id": "p218-fig1",
+   "src": "images/ch6/p218-fig1.svg",
+   "start": 78.3,
+   "caption": "Painted Easter eggs in a basket.",
+   "illustration": true,
+   "alt": "Painted Easter eggs in a basket.",
+   "page": 218,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 168.3
+  },
+  {
+   "id": "p219-fig1",
+   "src": "images/ch6/p219-fig1.svg",
+   "start": 172.9,
+   "caption": "A Sankthans (midsummer) bonfire.",
+   "illustration": true,
+   "alt": "A Sankthans (midsummer) bonfire.",
+   "page": 219,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 188.0
+  },
+  {
+   "id": "p219-fig2",
+   "src": "images/ch6/p219-fig2.svg",
+   "start": 188.0,
+   "caption": "Christmas decoration with Danish flags.",
+   "illustration": true,
+   "alt": "Christmas decoration with Danish flags.",
+   "page": 219,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 278.0
+  }
+ ]
+}

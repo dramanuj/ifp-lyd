@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch6-ep17-p1",
+ "images": [
+  {
+   "id": "p234-fig1",
+   "src": "images/ch6/p234-fig1.svg",
+   "start": 54.7,
+   "caption": "Women demonstrate for equal pay around 1970.",
+   "illustration": true,
+   "alt": "Women demonstrate for equal pay around 1970.",
+   "page": 234,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 144.7
+  },
+  {
+   "id": "p237-fig1",
+   "src": "images/ch6/p237-fig1.svg",
+   "start": 319.1,
+   "caption": "TV host Sofie Linde.",
+   "illustration": true,
+   "alt": "TV host Sofie Linde.",
+   "page": 237,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 409.1
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+[
+{
+"id": "ch4-ep1-p1-q1",
+"n": 1,
+"q": "Which of the following international organisations did Denmark become a member of in 1973?",
+"options": [
+{
+"l": "A",
+"t": "The EF, the European Communities"
+},
+{
+"l": "B",
+"t": "The WTO"
+},
+{
+"l": "C",
+"t": "The OECD"
+}
+],
+"answer": "A",
+"answerText": "The EF, the European Communities",
+"appeared": "It appeared in the November 2021 exam.",
+"da": {
+"q": "Hvilken af følgende internationale organisationer blev Danmark medlem af i 1973?",
+"options": [
+"EF",
+"WTO",
+"OECD"
+],
+"answer": "EF"
+},
+"qStart": 565.17,
+"aStart": 587.8,
+"aEnd": 594.61,
+"learn": {
+"start": 45.77,
+"end": 63.23,
+"text": "But the decisions of these international organisations also help set the framework for Danish society. International, and especially European, cooperation therefore has great importance for Denmark.",
+"score": 3.9
+}
+},
+{
+"id": "ch4-ep1-p1-q2",
+"n": 2,
+"q": "What is the Nordic organisation that handles cooperation between the Nordic countries' parliaments called?",
+"options": [
+{
+"l": "A",
+"t": "The Nordic Union"
+},
+{
+"l": "B",
+"t": "The Nordtinget"
+},
+{
+"l": "C",
+"t": "The Nordic Council, Nordisk Råd"
+}
+],
+"answer": "C",
+"answerText": "The Nordic Council, Nordisk Råd",
+"appeared": "It appeared in the November 2022, May 2025 and June 2026 exams.",
+"da": {
+"q": "Hvad hedder den nordiske organisation, der varetager samarbejdet mellem de nordiske landes parlamenter?",
+"options": [
+"Den Nordiske Union",
+"Nordtinget",
+"Nordisk Råd"
+],
+"answer": "Nordisk Råd"
+},
+"qStart": 595.16,
+"aStart": 617.09,
+"aEnd": 626.9,
+"learn": {
+"start": 87.95,
+"end": 110.08,
+"text": "The exams also ask this: the Nordic Council, Nordisk Råd, is the organisation for cooperation between the parliaments of the Nordic countries, and the Nordic Council of Ministers is the cooperation between the governments.",
+"score": 12.0
+}
+}
+]

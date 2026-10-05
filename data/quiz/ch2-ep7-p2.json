@@ -1,0 +1,162 @@
+[
+{
+"id": "ch2-ep7-p2-q1",
+"n": 1,
+"q": "How long can the police hold an arrested person with legal residence in Denmark before the person must be brought before a judge?",
+"options": [
+{
+"l": "A",
+"t": "Up to 1 døgn, one day and night"
+},
+{
+"l": "B",
+"t": "Up to 3 døgn"
+},
+{
+"l": "C",
+"t": "Up to 1 week"
+}
+],
+"answer": "A",
+"answerText": "Up to 1 døgn, one day and night",
+"appeared": "It appeared in 4 different exams, most recently in June 2026.",
+"da": {
+"q": "Hvor længe kan politiet tilbageholde en anholdt person, der har lovligt ophold i Danmark, før personen skal stilles for en dommer?",
+"options": [
+"I op til 1 døgn",
+"I op til 3 døgn",
+"I op til 1 uge"
+],
+"answer": "I op til 1 døgn"
+},
+"qStart": 560.2,
+"aStart": 583.67,
+"aEnd": 592.57,
+"learn": {
+"start": 411.37,
+"end": 435.15,
+"text": "The police can under certain conditions arrest a person who is reasonably suspected of a punishable offence. If a citizen is arrested, they must be brought before a judge within 24 hours, one døgn.",
+"score": 6.5
+}
+},
+{
+"id": "ch2-ep7-p2-q2",
+"n": 2,
+"q": "What is the age of criminal responsibility in Denmark?",
+"options": [
+{
+"l": "A",
+"t": "12 years"
+},
+{
+"l": "B",
+"t": "15 years"
+},
+{
+"l": "C",
+"t": "18 years"
+}
+],
+"answer": "B",
+"answerText": "15 years",
+"appeared": "It appeared in 5 different exams, most recently in November 2025.",
+"da": {
+"q": "Hvad er den kriminelle lavalder i Danmark?",
+"options": [
+"12 år",
+"15 år",
+"18 år"
+],
+"answer": "15 år"
+},
+"qStart": 593.12,
+"aStart": 611.18,
+"aEnd": 618.64,
+"learn": {
+"start": 162.67,
+"end": 179.73,
+"text": "In Denmark, the age of criminal responsibility is 15 years.",
+"score": 7.0
+}
+},
+{
+"id": "ch2-ep7-p2-q3",
+"n": 3,
+"q": "Who decides whether a citizen is to be remanded in custody?",
+"options": [
+{
+"l": "A",
+"t": "A lawyer"
+},
+{
+"l": "B",
+"t": "A judge"
+},
+{
+"l": "C",
+"t": "A police officer"
+}
+],
+"answer": "B",
+"answerText": "A judge",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "Hvem afgør, om en borger skal varetægtsfængsles?",
+"options": [
+"En advokat",
+"En dommer",
+"En politibetjent"
+],
+"answer": "En dommer"
+},
+"qStart": 619.19,
+"aStart": 637.21,
+"aEnd": 642.46,
+"learn": {
+"start": 435.15,
+"end": 447.55,
+"text": "It is up to the judge to decide whether the citizen is to be released or remanded in custody while the police and the prosecution service investigate the case.",
+"score": 5.5
+}
+},
+{
+"id": "ch2-ep7-p2-q4",
+"n": 4,
+"q": "Who has conscription in Denmark?",
+"options": [
+{
+"l": "A",
+"t": "Only men"
+},
+{
+"l": "B",
+"t": "Only women"
+},
+{
+"l": "C",
+"t": "Both men and women"
+}
+],
+"answer": "C",
+"answerText": "Both men and women",
+"appeared": "It appeared in the June 2026 exam.",
+"da": {
+"q": "Hvem har værnepligt i Danmark?",
+"options": [
+"Kun mænd",
+"Kun kvinder",
+"Både mænd og kvinder"
+],
+"answer": "Både mænd og kvinder"
+},
+"qStart": 643.01,
+"aStart": 660.29,
+"aEnd": 666.14,
+"learn": {
+"start": 9.9,
+"end": 21.3,
+"text": "All men and women with Danish citizenship over 18 years of age who have residence or stay in Denmark must serve conscription for a period.",
+"score": 5.0
+}
+}
+]

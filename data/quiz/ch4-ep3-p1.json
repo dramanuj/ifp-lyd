@@ -1,0 +1,157 @@
+[
+{
+"id": "ch4-ep3-p1-q1",
+"n": 1,
+"q": "Who does the Council of the European Union consist of?",
+"options": [
+{
+"l": "A",
+"t": "Politicians directly elected by the EU's populations"
+},
+{
+"l": "B",
+"t": "Civil servants appointed by the EU Commission"
+},
+{
+"l": "C",
+"t": "Ministers from the member states' governments"
+}
+],
+"answer": "C",
+"answerText": "Ministers from the member states' governments",
+"appeared": "It appeared in the May 2023 and November 2024 exams.",
+"da": {
+"q": "Hvem består Rådet for Den Europæiske Union af?",
+"options": [
+"Politikere direkte valgt af EU’s befolkninger",
+"Embedsmænd udpeget af EU-Kommissionen",
+"Ministre fra medlemsstaternes regeringer"
+],
+"answer": "Ministre fra medlemsstaternes regeringer"
+},
+"qStart": 668.95,
+"aStart": 692.51,
+"aEnd": 701.08,
+"learn": {
+"start": 332.5,
+"end": 351.75,
+"text": "Fourth, the Council, the Council of the European Union, in Danish Rådet for Den Europæiske Union, or Ministerrådet. In the Council, the member states' ministers from the member countries' governments meet at regular intervals.",
+"score": 7.8
+}
+},
+{
+"id": "ch4-ep3-p1-q2",
+"n": 2,
+"q": "Who does the European Parliament consist of?",
+"options": [
+{
+"l": "A",
+"t": "Civil servants appointed by the EU Commission"
+},
+{
+"l": "B",
+"t": "Ministers from the member states' governments"
+},
+{
+"l": "C",
+"t": "Politicians directly elected by the EU's populations"
+}
+],
+"answer": "C",
+"answerText": "Politicians directly elected by the EU's populations",
+"appeared": "It appeared in the November 2023 exam.",
+"da": {
+"q": "Hvem består Europa-Parlamentet af?",
+"options": [
+"Embedsmænd udpeget af EU-Kommissionen",
+"Ministre fra medlemsstaternes regeringer",
+"Politikere direkte valgt af EU’s befolkninger"
+],
+"answer": "Politikere direkte valgt af EU’s befolkninger"
+},
+"qStart": 701.63,
+"aStart": 724.66,
+"aEnd": 732.5,
+"learn": {
+"start": 186.63,
+"end": 198.41,
+"text": "The European Parliament is the directly elected assembly in the European cooperation, since its members are elected by the citizens of the EU's member countries.",
+"score": 5.0
+}
+},
+{
+"id": "ch4-ep3-p1-q3",
+"n": 3,
+"q": "Are the members of the European Parliament directly elected by the populations of the EU's member countries?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Er Europa-Parlamentets medlemmer direkte valgt af befolkningerne i EU’s medlemslande?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 733.05,
+"aStart": 749.7,
+"aEnd": 754.4,
+"learn": {
+"start": 186.63,
+"end": 198.41,
+"text": "The European Parliament is the directly elected assembly in the European cooperation, since its members are elected by the citizens of the EU's member countries.",
+"score": 7.0
+}
+},
+{
+"id": "ch4-ep3-p1-q4",
+"n": 4,
+"q": "Where did Margrethe Vestager work in the period 2014 to 24?",
+"options": [
+{
+"l": "A",
+"t": "The UN"
+},
+{
+"l": "B",
+"t": "NATO"
+},
+{
+"l": "C",
+"t": "The EU"
+}
+],
+"answer": "C",
+"answerText": "The EU",
+"appeared": "It appeared in the May 2025 exam.",
+"da": {
+"q": "Hvor har Margrethe Vestager arbejdet i perioden 2014-24?",
+"options": [
+"FN",
+"NATO",
+"EU"
+],
+"answer": "EU"
+},
+"qStart": 754.85,
+"aStart": 774.36,
+"aEnd": 779.28,
+"learn": {
+"start": 144.56,
+"end": 168.19,
+"text": "In the period 2014 to 24, Margrethe Vestager, born 1968, from the Social Liberal Party, who was earlier minister for economic and interior affairs in Denmark, was appointed as Danish commissioner.",
+"score": 5.0
+}
+}
+]

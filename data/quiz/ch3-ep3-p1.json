@@ -1,0 +1,282 @@
+[
+{
+"id": "ch3-ep3-p1-q1",
+"n": 1,
+"q": "What are the regions responsible for running?",
+"options": [
+{
+"l": "A",
+"t": "The police"
+},
+{
+"l": "B",
+"t": "Hospitals, sygehuse"
+},
+{
+"l": "C",
+"t": "Kindergartens"
+}
+],
+"answer": "B",
+"answerText": "Hospitals, sygehuse",
+"appeared": "It appeared in the June 2020 and June 2022 exams.",
+"da": {
+"q": "Hvad har regionerne ansvaret for at drive?",
+"options": [
+"Politi",
+"Sygehuse",
+"Børnehaver"
+],
+"answer": "Sygehuse"
+},
+"qStart": 519.77,
+"aStart": 537.18,
+"aEnd": 544.33,
+"learn": {
+"start": 94.01,
+"end": 106.99,
+"text": "In addition come the regions, which are responsible for running most of the health service. The regions run the hospitals, sygehusene.",
+"score": 3.9
+}
+},
+{
+"id": "ch3-ep3-p1-q2",
+"n": 2,
+"q": "Who has the main responsibility for running the hospitals?",
+"options": [
+{
+"l": "A",
+"t": "The state"
+},
+{
+"l": "B",
+"t": "The regions"
+},
+{
+"l": "C",
+"t": "The municipalities"
+}
+],
+"answer": "B",
+"answerText": "The regions",
+"appeared": "It appeared in the May 2025 exam.",
+"da": {
+"q": "Hvem har hovedansvaret for driften af sygehusene?",
+"options": [
+"Staten",
+"Regionerne",
+"Kommunerne"
+],
+"answer": "Regionerne"
+},
+"qStart": 544.88,
+"aStart": 562.78,
+"aEnd": 567.91,
+"learn": {
+"start": 94.01,
+"end": 106.99,
+"text": "In addition come the regions, which are responsible for running most of the health service. The regions run the hospitals, sygehusene.",
+"score": 3.0
+}
+},
+{
+"id": "ch3-ep3-p1-q3",
+"n": 3,
+"q": "Who is responsible for running the jobcentres?",
+"options": [
+{
+"l": "A",
+"t": "The municipalities"
+},
+{
+"l": "B",
+"t": "The regions"
+},
+{
+"l": "C",
+"t": "The state"
+}
+],
+"answer": "A",
+"answerText": "The municipalities",
+"appeared": "It appeared in the November 2021 exam.",
+"da": {
+"q": "Hvem har ansvaret for driften af jobcentrene?",
+"options": [
+"Kommunerne",
+"Regionerne",
+"Staten"
+],
+"answer": "Kommunerne"
+},
+"qStart": 568.46,
+"aStart": 586.07,
+"aEnd": 591.83,
+"learn": {
+"start": 88.86,
+"end": 104.01,
+"text": "It is the municipalities that in practice deliver most welfare benefits to citizens. In addition come the regions, which are responsible for running most of the health service.",
+"score": 3.0
+}
+},
+{
+"id": "ch3-ep3-p1-q4",
+"n": 4,
+"q": "Which of the following areas is the state responsible for running?",
+"options": [
+{
+"l": "A",
+"t": "The police"
+},
+{
+"l": "B",
+"t": "Kindergartens"
+},
+{
+"l": "C",
+"t": "Hospitals"
+}
+],
+"answer": "A",
+"answerText": "The police",
+"appeared": "It appeared in the November 2022 and November 2024 exams.",
+"da": {
+"q": "Hvilket af følgende områder har staten ansvaret for driften af?",
+"options": [
+"Politiet",
+"Børnehaver",
+"Sygehuse"
+],
+"answer": "Politiet"
+},
+"qStart": 592.38,
+"aStart": 610.44,
+"aEnd": 617.45,
+"learn": {
+"start": 94.01,
+"end": 113.06,
+"text": "In addition come the regions, which are responsible for running most of the health service. The regions run the hospitals, sygehusene. They do not run the police, which is a state task, and not the nurseries, which are a municipal task.",
+"score": 3.5
+}
+},
+{
+"id": "ch3-ep3-p1-q5",
+"n": 5,
+"q": "Which of the following areas is the state responsible for running?",
+"options": [
+{
+"l": "A",
+"t": "Courts"
+},
+{
+"l": "B",
+"t": "Folkeskoler"
+},
+{
+"l": "C",
+"t": "Hospitals"
+}
+],
+"answer": "A",
+"answerText": "Courts",
+"appeared": "It appeared in the May 2024 exam.",
+"da": {
+"q": "Hvilket af følgende områder har staten ansvaret for driften af?",
+"options": [
+"Domstole",
+"Folkeskoler",
+"Sygehuse"
+],
+"answer": "Domstole"
+},
+"qStart": 618.0,
+"aStart": 635.68,
+"aEnd": 640.26,
+"learn": {
+"start": 152.32,
+"end": 173.6,
+"text": "The state solves a number of overall tasks such as, for example, the police, the judiciary, that is the courts, domstolene, and defence, as well as tasks such as upper secondary education, gymnasiums and so on, higher education and research.",
+"score": 2.5
+}
+},
+{
+"id": "ch3-ep3-p1-q6",
+"n": 6,
+"q": "Which of the following areas are the municipalities responsible for running?",
+"options": [
+{
+"l": "A",
+"t": "Courts"
+},
+{
+"l": "B",
+"t": "Nurseries"
+},
+{
+"l": "C",
+"t": "Hospitals"
+}
+],
+"answer": "B",
+"answerText": "Nurseries",
+"appeared": "It appeared in the May 2023 exam.",
+"da": {
+"q": "Hvilket af følgende områder har kommunerne ansvaret for driften af?",
+"options": [
+"Domstole",
+"Vuggestuer",
+"Sygehuse"
+],
+"answer": "Vuggestuer"
+},
+"qStart": 640.81,
+"aStart": 659.0,
+"aEnd": 664.06,
+"learn": {
+"start": 94.01,
+"end": 113.06,
+"text": "In addition come the regions, which are responsible for running most of the health service. The regions run the hospitals, sygehusene. They do not run the police, which is a state task, and not the nurseries, which are a municipal task.",
+"score": 2.7
+}
+},
+{
+"id": "ch3-ep3-p1-q7",
+"n": 7,
+"q": "Which of the following areas are the municipalities responsible for running?",
+"options": [
+{
+"l": "A",
+"t": "The folkeskoler"
+},
+{
+"l": "B",
+"t": "The courts"
+},
+{
+"l": "C",
+"t": "The hospitals"
+}
+],
+"answer": "A",
+"answerText": "The folkeskoler",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Hvilket af følgende områder har kommunerne ansvaret for at drive?",
+"options": [
+"Folkeskolerne",
+"Domstolene",
+"Sygehusene"
+],
+"answer": "Folkeskolerne"
+},
+"qStart": 664.61,
+"aStart": 683.78,
+"aEnd": 689.58,
+"learn": {
+"start": 88.86,
+"end": 104.01,
+"text": "It is the municipalities that in practice deliver most welfare benefits to citizens. In addition come the regions, which are responsible for running most of the health service.",
+"score": 2.6
+}
+}
+]

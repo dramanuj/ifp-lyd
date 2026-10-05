@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch6-ep11-p1",
+ "images": [
+  {
+   "id": "p217-fig1",
+   "src": "images/ch6/p217-fig1.svg",
+   "start": 373.1,
+   "caption": "A mosque in Denmark.",
+   "illustration": true,
+   "alt": "A mosque in Denmark.",
+   "page": 217,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 406.3
+  },
+  {
+   "id": "p215-fig1",
+   "src": "images/ch6/p215-fig1.svg",
+   "start": 406.3,
+   "caption": "Bellinge Church on Funen.",
+   "illustration": true,
+   "alt": "Bellinge Church on Funen.",
+   "page": 215,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 496.3
+  }
+ ]
+}

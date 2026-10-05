@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "partId": "ch2-ep5-p1",
+ "images": [
+  {
+   "id": "p088-fig1",
+   "src": "images/ch2/p088-fig1.svg",
+   "start": 428.2,
+   "caption": "A meeting of the municipal council in Holstebro Municipality in West Jutland.",
+   "illustration": true,
+   "alt": "A meeting of the municipal council in Holstebro Municipality in West Jutland.",
+   "page": 88,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 504.0
+  },
+  {
+   "id": "p087-fig1",
+   "src": "images/ch2/p087-fig1.svg",
+   "start": 504.0,
+   "caption": "Map of Denmark's municipalities and regions.",
+   "illustration": true,
+   "alt": "Map of Denmark's municipalities and regions.",
+   "page": 87,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "map",
+   "width": 1600,
+   "height": 900,
+   "end": 594.0
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+[
+{
+"id": "ch6-ep17-p1-q1",
+"n": 1,
+"q": "Which of the following subjects did the TV host Sofie Linde put focus on in a TV show in August 2020?",
+"options": [
+{
+"l": "A",
+"t": "Terrorism"
+},
+{
+"l": "B",
+"t": "Racism"
+},
+{
+"l": "C",
+"t": "Sexism"
+}
+],
+"answer": "C",
+"answerText": "Sexism",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Hvilket af følgende emner satte tv-vært Sofie Linde fokus på i et tv-show i august 2020?",
+"options": [
+"Terrorisme",
+"Racisme",
+"Sexisme"
+],
+"answer": "Sexisme"
+},
+"qStart": 556.2,
+"aStart": 576.86,
+"aEnd": 581.77,
+"learn": {
+"start": 310.32,
+"end": 342.12,
+"text": "In Denmark the movement only really broke through in 2020, after the TV host Sofie Linde at a gala show with an award ceremony for comedians began, in August 2020, to talk about something completely different from comedians, namely sexism, sexisme, and her own experiences within the TV industry with sexual harassment and offences.",
+"score": 7.5
+}
+},
+{
+"id": "ch6-ep17-p1-q2",
+"n": 2,
+"q": "Are there more men or women who complete a higher education?",
+"options": [
+{
+"l": "A",
+"t": "Men"
+},
+{
+"l": "B",
+"t": "Women"
+}
+],
+"answer": "B",
+"answerText": "Women",
+"appeared": "It appeared in the June 2022 and November 2023 exams.",
+"da": {
+"q": "Er der flest mænd eller kvinder, der fuldfører en videregående uddannelse?",
+"options": [
+"Mænd",
+"Kvinder"
+],
+"answer": "Kvinder"
+},
+"qStart": 582.32,
+"aStart": 597.12,
+"aEnd": 603.91,
+"learn": {
+"start": 138.05,
+"end": 152.49,
+"text": "So today more women than men complete a higher education, en videregående uddannelse; the answer in Danish is kvinder, women.",
+"score": 6.5
+}
+},
+{
+"id": "ch6-ep17-p1-q3",
+"n": 3,
+"q": "Is there a rule in Danish law that an employer must give women and men equal pay for the same work?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Er der i dansk lov en regel om, at en arbejdsgiver skal give kvinder og mænd lige løn for samme arbejde?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 604.46,
+"aStart": 621.3,
+"aEnd": 626.0,
+"learn": {
+"start": 68.6,
+"end": 91.11,
+"text": "The pay differences between men and women have gradually become smaller over the last 100 years. A milestone on the way was when the Folketing in 1976, after demands from the EF, now the EU, passed a law on equal pay for the same work.",
+"score": 5.2
+}
+}
+]

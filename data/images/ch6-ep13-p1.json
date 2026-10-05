@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "partId": "ch6-ep13-p1",
+ "images": [
+  {
+   "id": "p221-fig1",
+   "src": "images/ch6/p221-fig1.svg",
+   "start": 7.5,
+   "caption": "N.F.S. Grundtvig (1783-1872).",
+   "illustration": true,
+   "alt": "N.F.S. Grundtvig (1783-1872).",
+   "page": 221,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 97.5
+  },
+  {
+   "id": "p222-fig1",
+   "src": "images/ch6/p222-fig1.svg",
+   "start": 235.4,
+   "caption": "Rødding Folk High School in Southern Jutland.",
+   "illustration": true,
+   "alt": "Rødding Folk High School in Southern Jutland.",
+   "page": 222,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 235.4
+  },
+  {
+   "id": "p222-fig2",
+   "src": "images/ch6/p222-fig2.svg",
+   "start": 235.4,
+   "caption": "Students singing around a piano at a folk high school.",
+   "illustration": true,
+   "alt": "Students singing around a piano at a folk high school.",
+   "page": 222,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 325.4
+  }
+ ]
+}

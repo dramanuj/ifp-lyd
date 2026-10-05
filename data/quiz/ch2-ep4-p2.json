@@ -1,0 +1,187 @@
+[
+{
+"id": "ch2-ep4-p2-q1",
+"n": 1,
+"q": "Who adopts a bill?",
+"options": [
+{
+"l": "A",
+"t": "The government"
+},
+{
+"l": "B",
+"t": "The Folketing"
+}
+],
+"answer": "B",
+"answerText": "The Folketing",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvem vedtager et lovforslag?",
+"options": [
+"Regeringen",
+"Folketinget"
+],
+"answer": "Folketinget"
+},
+"qStart": 499.13,
+"aStart": 512.78,
+"aEnd": 518.03,
+"learn": {
+"start": 142.04,
+"end": 149.15,
+"text": "So it is the Folketing, not the government, that adopts a bill.",
+"score": 3.5
+}
+},
+{
+"id": "ch2-ep4-p2-q2",
+"n": 2,
+"q": "Which subject has been the subject of the most referendums in Denmark since 1953?",
+"options": [
+{
+"l": "A",
+"t": "The constitution"
+},
+{
+"l": "B",
+"t": "The voting age"
+},
+{
+"l": "C",
+"t": "Denmark's relationship to the EU"
+}
+],
+"answer": "C",
+"answerText": "Denmark's relationship to the EU",
+"appeared": "It appeared in the May 2023 and May 2025 exams.",
+"da": {
+"q": "Hvilket emne har der været afholdt flest folkeafstemninger om i Danmark siden 1953?",
+"options": [
+"Grundloven",
+"Valgretsalderen",
+"Danmarks forhold til EU"
+],
+"answer": "Danmarks forhold til EU"
+},
+"qStart": 518.58,
+"aStart": 539.77,
+"aEnd": 547.47,
+"learn": {
+"start": 235.23,
+"end": 267.61,
+"text": "This rule has become especially important in connection with Denmark's membership of the EU. Since the constitution was last changed in 1953, 16 referendums have been held. More than half of them have been about Denmark's relationship to the EU.",
+"score": 6.2
+}
+},
+{
+"id": "ch2-ep4-p2-q3",
+"n": 3,
+"q": "Which of the Danish EU opt-outs was the subject of a referendum in 2022?",
+"options": [
+{
+"l": "A",
+"t": "The EU's common currency, the euro"
+},
+{
+"l": "B",
+"t": "The EU's common justice and immigration policy"
+},
+{
+"l": "C",
+"t": "The EU's defence and security policy"
+}
+],
+"answer": "C",
+"answerText": "The EU's defence and security policy",
+"appeared": "It appeared in the May 2024 exam.",
+"da": {
+"q": "Hvilket af de danske EU-forbehold var der folkeafstemning om i 2022?",
+"options": [
+"EU's fælles valuta (euroen)",
+"EU's fælles rets- og udlændingepolitik",
+"EU's forsvars- og sikkerhedspolitik"
+],
+"answer": "EU's forsvars- og sikkerhedspolitik"
+},
+"qStart": 548.02,
+"aStart": 573.29,
+"aEnd": 580.03,
+"learn": {
+"start": 284.7,
+"end": 309.25,
+"text": "In the latest referendum, in 2022, a majority, 66 percent, voted yes to abolishing the opt-out on the EU's defence and security policy.",
+"score": 7.5
+}
+},
+{
+"id": "ch2-ep4-p2-q4",
+"n": 4,
+"q": "Does Denmark take part in the EU's defence and security policy?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the November 2022 exam.",
+"da": {
+"q": "Deltager Danmark i EU’s forsvars- og sikkerhedspolitik?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 580.58,
+"aStart": 595.64,
+"aEnd": 600.27,
+"learn": {
+"start": 298.13,
+"end": 318.5,
+"text": "So since that referendum in 2022, Denmark no longer has an opt-out, a forbehold, on the EU's defence and security policy.",
+"score": 4.0
+}
+},
+{
+"id": "ch2-ep4-p2-q5",
+"n": 5,
+"q": "Does Denmark have an opt-out on the EU's defence and security policy?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "B",
+"answerText": "No",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Har Danmark forbehold for EU’s forsvars- og sikkerhedspolitik?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Nej"
+},
+"qStart": 600.82,
+"aStart": 616.15,
+"aEnd": 621.07,
+"learn": {
+"start": 298.13,
+"end": 328.27,
+"text": "So since that referendum in 2022, Denmark no longer has an opt-out, a forbehold, on the EU's defence and security policy. Since 2018, citizens have also had the opportunity to get influence by putting forward so-called citizens' proposals, borgerforslag.",
+"score": 6.1
+}
+}
+]

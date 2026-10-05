@@ -1,0 +1,152 @@
+[
+{
+"id": "ch2-ep2-p1-q1",
+"n": 1,
+"q": "Can everyone, under normal circumstances, attend meetings in the Folketing chamber?",
+"options": [
+{
+"l": "A",
+"t": "Yes"
+},
+{
+"l": "B",
+"t": "No"
+}
+],
+"answer": "A",
+"answerText": "Yes",
+"appeared": "It appeared in the June 2020 exam.",
+"da": {
+"q": "Kan alle under normale omstændigheder overvære møder i folketingssalen?",
+"options": [
+"Ja",
+"Nej"
+],
+"answer": "Ja"
+},
+"qStart": 674.02,
+"aStart": 690.41,
+"aEnd": 694.75,
+"learn": {
+"start": 54.97,
+"end": 67.11,
+"text": "The Folketing's meetings are, as a starting point, public. Anyone can come into the public gallery in the chamber and listen to the debates.",
+"score": 2.6
+}
+},
+{
+"id": "ch2-ep2-p1-q2",
+"n": 2,
+"q": "Who can be a member of a committee in the Folketing?",
+"options": [
+{
+"l": "A",
+"t": "Politicians who are members of the Folketing"
+},
+{
+"l": "B",
+"t": "Civil servants employed in a ministry"
+}
+],
+"answer": "A",
+"answerText": "Politicians who are members of the Folketing",
+"appeared": "It appeared in the June 2020 exam.",
+"da": {
+"q": "Hvem kan være medlem af et udvalg i Folketinget?",
+"options": [
+"Politikere, der er medlemmer af Folketinget",
+"Embedsmænd, der er ansat i et ministerium"
+],
+"answer": "Politikere, der er medlemmer af Folketinget"
+},
+"qStart": 695.3,
+"aStart": 712.86,
+"aEnd": 719.48,
+"learn": {
+"start": 502.61,
+"end": 515.94,
+"text": "The committees are put together so that each party has a number of committee members that roughly corresponds to the party's size in the Folketing.",
+"score": 5.0
+}
+},
+{
+"id": "ch2-ep2-p1-q3",
+"n": 3,
+"q": "Which court convicted the former minister for immigration and integration, Inger Støjberg, of illegally separating asylum-seeking couples?",
+"options": [
+{
+"l": "A",
+"t": "The High Court, Landsretten"
+},
+{
+"l": "B",
+"t": "The Supreme Court, Højesteret"
+},
+{
+"l": "C",
+"t": "The Court of Impeachment, Rigsretten"
+}
+],
+"answer": "C",
+"answerText": "The Court of Impeachment, Rigsretten",
+"appeared": "It appeared in the June 2022 exam.",
+"da": {
+"q": "Hvilken domstol dømte tidligere udlændinge- og integrationsminister Inger Støjberg for ulovligt at have adskilt asylsøgende par?",
+"options": [
+"Landsretten",
+"Højesteret",
+"Rigsretten"
+],
+"answer": "Rigsretten"
+},
+"qStart": 719.93,
+"aStart": 747.81,
+"aEnd": 754.41,
+"learn": {
+"start": 354.46,
+"end": 392.91,
+"text": "And in 2021, a former minister for immigration and integration was sentenced to 60 days of unconditional imprisonment for illegally separating asylum-seeking spouses and cohabiting couples at asylum centres. That former minister for immigration and integration was Inger Støjberg, who later founded the party Danmarksdemokraterne, which you met in Chapter One.",
+"score": 9.6
+}
+},
+{
+"id": "ch2-ep2-p1-q4",
+"n": 4,
+"q": "What did the Folketing's indictment in the impeachment case against the former minister Inger Støjberg concern, among other things?",
+"options": [
+{
+"l": "A",
+"t": "Confiscation of refugees' valuables on entry"
+},
+{
+"l": "B",
+"t": "A temporary stop to family reunifications"
+},
+{
+"l": "C",
+"t": "Separation of asylum-seeking spouses and cohabiting couples"
+}
+],
+"answer": "C",
+"answerText": "Separation of asylum-seeking spouses and cohabiting couples",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvad omhandler Folketingets tiltale i rigsretssagen mod tidligere udlændinge- og integrationsmini- ster Inger Støjberg blandt andet?",
+"options": [
+"Beslaglæggelse af flygtninges værdigenstande ved indrejse",
+"Midlertidigt stop for familiesammenføringer",
+"Adskillelse af asylsøgende ægtefæller og samlevende par"
+],
+"answer": "Adskillelse af asylsøgende ægtefæller og samlevende par"
+},
+"qStart": 754.96,
+"aStart": 784.47,
+"aEnd": 792.7,
+"learn": {
+"start": 354.46,
+"end": 392.91,
+"text": "And in 2021, a former minister for immigration and integration was sentenced to 60 days of unconditional imprisonment for illegally separating asylum-seeking spouses and cohabiting couples at asylum centres. That former minister for immigration and integration was Inger Støjberg, who later founded the party Danmarksdemokraterne, which you met in Chapter One.",
+"score": 10.0
+}
+}
+]

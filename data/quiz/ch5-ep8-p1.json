@@ -1,0 +1,122 @@
+[
+{
+"id": "ch5-ep8-p1-q1",
+"n": 1,
+"q": "In which decades does most of the TV series Matador take place?",
+"options": [
+{
+"l": "A",
+"t": "The 1880s and 1890s"
+},
+{
+"l": "B",
+"t": "The 1930s and 1940s"
+},
+{
+"l": "C",
+"t": "The 1960s and 1970s"
+}
+],
+"answer": "B",
+"answerText": "The 1930s and 1940s",
+"appeared": "It appeared in the June 2022 exam.",
+"da": {
+"q": "I hvilke årtier udspiller det meste af tv-serien Matador sig?",
+"options": [
+"1880’erne og 1890’erne",
+"1930’erne og 1940’erne",
+"1960’erne og 1970’erne"
+],
+"answer": "1930’erne og 1940’erne"
+},
+"qStart": 528.93,
+"aStart": 552.03,
+"aEnd": 558.82,
+"learn": {
+"start": 283.11,
+"end": 292.02,
+"text": "The TV series Matador takes place in Denmark of the 1930s and 1940s.",
+"score": 6.0
+}
+},
+{
+"id": "ch5-ep8-p1-q2",
+"n": 2,
+"q": "Who is known for having written the script for the TV series Matador?",
+"options": [
+{
+"l": "A",
+"t": "Anders Thomas Jensen"
+},
+{
+"l": "B",
+"t": "Lise Nørgaard"
+},
+{
+"l": "C",
+"t": "Nils Malmros"
+}
+],
+"answer": "B",
+"answerText": "Lise Nørgaard",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Hvem er kendt for at have skrevet manuskriptet til tv-serien Matador?",
+"options": [
+"Anders Thomas Jensen",
+"Lise Nørgaard",
+"Nils Malmros"
+],
+"answer": "Lise Nørgaard"
+},
+"qStart": 559.37,
+"aStart": 578.88,
+"aEnd": 584.75,
+"learn": {
+"start": 307.91,
+"end": 327.93,
+"text": "Matador is the most watched TV series in Denmark ever. The script was especially written by the author Lise Nørgaard, who lived from 1917 to 2023.",
+"score": 6.1
+}
+},
+{
+"id": "ch5-ep8-p1-q3",
+"n": 3,
+"q": "Which Danish TV series describes, among other things, daily life and historical events in the period 1929 to 47?",
+"options": [
+{
+"l": "A",
+"t": "Krøniken"
+},
+{
+"l": "B",
+"t": "Borgen"
+},
+{
+"l": "C",
+"t": "Matador"
+}
+],
+"answer": "C",
+"answerText": "Matador",
+"appeared": "It appeared in the May 2024 exam.",
+"da": {
+"q": "Hvilken dansk tv-serie beskriver blandt andet dagligliv og historiske begivenheder i perioden 1929-47?",
+"options": [
+"Krøniken",
+"Borgen",
+"Matador"
+],
+"answer": "Matador"
+},
+"qStart": 585.3,
+"aStart": 607.83,
+"aEnd": 612.46,
+"learn": {
+"start": 296.55,
+"end": 320.82,
+"text": "The norms of the time and important historical events are described. The series' 24 episodes were first shown on television in 1978 to 82 and have later been rebroadcast countless times. Matador is the most watched TV series in Denmark ever.",
+"score": 3.5
+}
+}
+]

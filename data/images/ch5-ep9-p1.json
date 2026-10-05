@@ -1,0 +1,76 @@
+{
+ "version": 1,
+ "partId": "ch5-ep9-p1",
+ "images": [
+  {
+   "id": "p170-fig1",
+   "src": "images/ch5/p170-fig1.svg",
+   "start": 66.2,
+   "caption": "Thomas Vinterberg won an Oscar for the film 'Druk' (Another Round).",
+   "illustration": true,
+   "alt": "Thomas Vinterberg won an Oscar for the film 'Druk' (Another Round).",
+   "page": 170,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 131.6
+  },
+  {
+   "id": "p171-fig1",
+   "src": "images/ch5/p171-fig1.svg",
+   "start": 131.6,
+   "caption": "Susanne Bier (second from left) at the gala premiere of 'Hævnen' (In a Better World) at the Imperial cinema in Copenhagen, with three of the film's actors.",
+   "illustration": true,
+   "alt": "Susanne Bier (second from left) at the gala premiere of 'Hævnen' (In a Better World) at the Imperial cinema in Copenhagen, with three of the film's actors.",
+   "page": 171,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 137.3
+  },
+  {
+   "id": "p171-fig2",
+   "src": "images/ch5/p171-fig2.svg",
+   "start": 137.3,
+   "caption": "'Pelle Erobreren' (Pelle the Conqueror) by Bille August.",
+   "illustration": true,
+   "alt": "'Pelle Erobreren' (Pelle the Conqueror) by Bille August.",
+   "page": 171,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 227.3
+  },
+  {
+   "id": "p172-fig1",
+   "src": "images/ch5/p172-fig1.svg",
+   "start": 251.5,
+   "caption": "Mads Mikkelsen (b. 1965).",
+   "illustration": true,
+   "alt": "Mads Mikkelsen (b. 1965).",
+   "page": 172,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 341.5
+  },
+  {
+   "id": "p173-fig1",
+   "src": "images/ch5/p173-fig1.svg",
+   "start": 537.7,
+   "caption": "Sofie Gråbøl (b. 1968) as Sarah Lund in the TV series Forbrydelsen (The Killing).",
+   "illustration": true,
+   "alt": "Sofie Gråbøl (b. 1968) as Sarah Lund in the TV series Forbrydelsen (The Killing).",
+   "page": 173,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 627.7
+  }
+ ]
+}

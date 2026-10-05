@@ -1,0 +1,242 @@
+[
+{
+"id": "ch5-ep1-p1-q1",
+"n": 1,
+"q": "Which king had it written on one of the Jelling stones that he made the Danes Christian?",
+"options": [
+{
+"l": "A",
+"t": "Svend Forkbeard"
+},
+{
+"l": "B",
+"t": "Harald Bluetooth"
+},
+{
+"l": "C",
+"t": "Valdemar the Victorious"
+}
+],
+"answer": "B",
+"answerText": "Harald Bluetooth",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Hvilken konge fik skrevet på den ene af Jellingstenene, at han gjorde danskerne (danerne) kristne?",
+"options": [
+"Svend Tveskæg",
+"Harald Blåtand",
+"Valdemar Sejr"
+],
+"answer": "Harald Blåtand"
+},
+"qStart": 539.28,
+"aStart": 559.39,
+"aEnd": 564.71,
+"learn": {
+"start": 138.76,
+"end": 157.07,
+"text": "The best-known Danish rune inscription is on Harald Bluetooth's Jelling stone from the second half of the 900s. Here King Harald tells that he won all of Denmark and Norway for himself and made the Danes Christian.",
+"score": 7.0
+}
+},
+{
+"id": "ch5-ep1-p1-q2",
+"n": 2,
+"q": "When did King Harald Bluetooth have it written on one of the Jelling stones that he made the Danes Christian?",
+"options": [
+{
+"l": "A",
+"t": "The 900s"
+},
+{
+"l": "B",
+"t": "The 1200s"
+},
+{
+"l": "C",
+"t": "The 1500s"
+}
+],
+"answer": "A",
+"answerText": "The 900s",
+"appeared": "It appeared in the May 2025 exam.",
+"da": {
+"q": "Hvornår fik kong Harald Blåtand skrevet på den ene af Jellingstenene, at han gjorde danerne (danskerne) kristne?",
+"options": [
+"900-tallet",
+"1200-tallet",
+"1500-tallet"
+],
+"answer": "900-tallet"
+},
+"qStart": 565.26,
+"aStart": 586.4,
+"aEnd": 591.82,
+"learn": {
+"start": 138.76,
+"end": 157.07,
+"text": "The best-known Danish rune inscription is on Harald Bluetooth's Jelling stone from the second half of the 900s. Here King Harald tells that he won all of Denmark and Norway for himself and made the Danes Christian.",
+"score": 7.4
+}
+},
+{
+"id": "ch5-ep1-p1-q3",
+"n": 3,
+"q": "What is Denmark's national anthem with text by Adam Oehlenschläger called?",
+"options": [
+{
+"l": "A",
+"t": "I Danmark er jeg født"
+},
+{
+"l": "B",
+"t": "Vi elsker vort land"
+},
+{
+"l": "C",
+"t": "Der er et yndigt land"
+}
+],
+"answer": "C",
+"answerText": "Der er et yndigt land",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Hvad hedder Danmarks nationalsang med tekst af Adam Oehlenschläger?",
+"options": [
+"I Danmark er jeg født",
+"Vi elsker vort land",
+"Der er et yndigt land"
+],
+"answer": "Der er et yndigt land"
+},
+"qStart": 592.37,
+"aStart": 613.13,
+"aEnd": 618.76,
+"learn": {
+"start": 369.12,
+"end": 384.68,
+"text": "Oehlenschläger wrote one of Denmark's two national anthems, \"Der er et yndigt land\", \"There is a lovely land\", in 1819.",
+"score": 7.5
+}
+},
+{
+"id": "ch5-ep1-p1-q4",
+"n": 4,
+"q": "Who wrote around the year 1200 the work Gesta Danorum, which contains stories about Denmark's history and Nordic mythology?",
+"options": [
+{
+"l": "A",
+"t": "Saxo"
+},
+{
+"l": "B",
+"t": "Brorson"
+},
+{
+"l": "C",
+"t": "Ansgar"
+}
+],
+"answer": "A",
+"answerText": "Saxo",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvem skrev omkring år 1200 værket Gesta Danorum, der indeholder fortællinger om Danmarks hi- storie og nordisk mytologi?",
+"options": [
+"Saxo",
+"Brorson",
+"Ansgar"
+],
+"answer": "Saxo"
+},
+"qStart": 619.31,
+"aStart": 641.36,
+"aEnd": 646.11,
+"learn": {
+"start": 165.35,
+"end": 195.69,
+"text": "That also applies to Saxo's Danish history, Gesta Danorum, \"The Deeds of the Danes\", from the beginning of the 1200s. Saxo lived from about 1160 to 1208. The work was meant to show that Denmark was a country in its own right, independent of the Germans, and that Denmark's king at the time, Valdemar the Great, who reigned from 1131 to 82, was the country's rightful ruler.",
+"score": 5.0
+}
+},
+{
+"id": "ch5-ep1-p1-q5",
+"n": 5,
+"q": "Who wrote the comedy Jeppe på Bjerget in 1722?",
+"options": [
+{
+"l": "A",
+"t": "Klaus Rifbjerg"
+},
+{
+"l": "B",
+"t": "Karen Blixen"
+},
+{
+"l": "C",
+"t": "Ludvig Holberg"
+}
+],
+"answer": "C",
+"answerText": "Ludvig Holberg",
+"appeared": "It appeared in the June 2021 exam.",
+"da": {
+"q": "Hvem skrev i 1722 komedien Jeppe på Bjerget?",
+"options": [
+"Klaus Rifbjerg",
+"Karen Blixen",
+"Ludvig Holberg"
+],
+"answer": "Ludvig Holberg"
+},
+"qStart": 646.66,
+"aStart": 665.93,
+"aEnd": 671.01,
+"learn": {
+"start": 478.19,
+"end": 491.67,
+"text": "Ludvig Holberg, 1684 to 1754, wrote the comedy Jeppe på Bjerget in 1722.",
+"score": 8.0
+}
+},
+{
+"id": "ch5-ep1-p1-q6",
+"n": 6,
+"q": "Which of the following stories was written by H.C. Andersen?",
+"options": [
+{
+"l": "A",
+"t": "Hans og Grete, Hansel and Gretel"
+},
+{
+"l": "B",
+"t": "Skønheden og udyret, Beauty and the Beast"
+},
+{
+"l": "C",
+"t": "Den grimme ælling, The Ugly Duckling"
+}
+],
+"answer": "C",
+"answerText": "Den grimme ælling, The Ugly Duckling",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Hvilken af følgende fortællinger er skrevet af H.C. Andersen?",
+"options": [
+"Hans og Grete",
+"Skønheden og udyret",
+"Den grimme ælling"
+],
+"answer": "Den grimme ælling"
+},
+"qStart": 671.56,
+"aStart": 695.55,
+"aEnd": 702.25,
+"learn": {
+"start": 312.15,
+"end": 317.37,
+"text": "Den grimme ælling, The Ugly Duckling.",
+"score": 7.5
+}
+}
+]

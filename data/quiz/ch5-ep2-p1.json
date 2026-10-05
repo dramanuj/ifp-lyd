@@ -1,0 +1,362 @@
+[
+{
+"id": "ch5-ep2-p1-q1",
+"n": 1,
+"q": "Which Danish author received the Nobel Prize in Literature in 1944?",
+"options": [
+{
+"l": "A",
+"t": "Klaus Rifbjerg"
+},
+{
+"l": "B",
+"t": "Steen Steensen Blicher"
+},
+{
+"l": "C",
+"t": "Johannes V. Jensen"
+}
+],
+"answer": "C",
+"answerText": "Johannes V. Jensen",
+"appeared": "It appeared in the June 2020 exam.",
+"da": {
+"q": "Hvilken dansk forfatter fik i 1944 Nobelprisen i litteratur?",
+"options": [
+"Klaus Rifbjerg",
+"Steen Steensen Blicher",
+"Johannes V. Jensen"
+],
+"answer": "Johannes V. Jensen"
+},
+"qStart": 459.91,
+"aStart": 483.11,
+"aEnd": 490.24,
+"learn": {
+"start": 415.36,
+"end": 429.8,
+"text": "Johannes V. Jensen wrote Kongens Fald in 1901 and received the Nobel Prize in Literature in 1944.",
+"score": 7.0
+}
+},
+{
+"id": "ch5-ep2-p1-q2",
+"n": 2,
+"q": "Which Nobel Prize did Johannes V. Jensen receive in 1944?",
+"options": [
+{
+"l": "A",
+"t": "The Nobel Prize in Physics"
+},
+{
+"l": "B",
+"t": "The Nobel Prize in Economics"
+},
+{
+"l": "C",
+"t": "The Nobel Prize in Literature"
+}
+],
+"answer": "C",
+"answerText": "The Nobel Prize in Literature",
+"appeared": "It appeared in the November 2023 exam.",
+"da": {
+"q": "Hvilken nobelpris fik Johannes V. Jensen i 1944?",
+"options": [
+"Nobelprisen i fysik",
+"Nobelprisen i økonomi",
+"Nobelprisen i litteratur"
+],
+"answer": "Nobelprisen i litteratur"
+},
+"qStart": 490.69,
+"aStart": 513.95,
+"aEnd": 519.97,
+"learn": {
+"start": 421.04,
+"end": 429.8,
+"text": "Jensen wrote Kongens Fald in 1901 and received the Nobel Prize in Literature in 1944.",
+"score": 8.5
+}
+},
+{
+"id": "ch5-ep2-p1-q3",
+"n": 3,
+"q": "Who wrote the novel Lykke-Per around the year 1900?",
+"options": [
+{
+"l": "A",
+"t": "Carl Nielsen"
+},
+{
+"l": "B",
+"t": "Christen Købke"
+},
+{
+"l": "C",
+"t": "Henrik Pontoppidan"
+}
+],
+"answer": "C",
+"answerText": "Henrik Pontoppidan",
+"appeared": "It appeared in the June 2020 and May 2023 exams.",
+"da": {
+"q": "Hvem skrev omkring år 1900 romanen Lykke-Per?",
+"options": [
+"Carl Nielsen",
+"Christen Købke",
+"Henrik Pontoppidan"
+],
+"answer": "Henrik Pontoppidan"
+},
+"qStart": 520.52,
+"aStart": 539.71,
+"aEnd": 546.71,
+"learn": {
+"start": 398.05,
+"end": 410.94,
+"text": "Henrik Pontoppidan wrote Lykke-Per, 1898 to 1904, and received the Nobel Prize in Literature in 1917.",
+"score": 6.0
+}
+},
+{
+"id": "ch5-ep2-p1-q4",
+"n": 4,
+"q": "Who wrote the novel Den kroniske uskyld in the 1950s?",
+"options": [
+{
+"l": "A",
+"t": "Ludvig Holberg"
+},
+{
+"l": "B",
+"t": "Klaus Rifbjerg"
+},
+{
+"l": "C",
+"t": "Peter Høeg"
+}
+],
+"answer": "B",
+"answerText": "Klaus Rifbjerg",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Hvem skrev i 1950’erne romanen Den kroniske uskyld?",
+"options": [
+"Ludvig Holberg",
+"Klaus Rifbjerg",
+"Peter Høeg"
+],
+"answer": "Klaus Rifbjerg"
+},
+"qStart": 547.26,
+"aStart": 566.17,
+"aEnd": 571.61,
+"learn": {
+"start": 435.37,
+"end": 443.96,
+"text": "Klaus Rifbjerg wrote Den kroniske uskyld in 1958.",
+"score": 7.0
+}
+},
+{
+"id": "ch5-ep2-p1-q5",
+"n": 5,
+"q": "What is Karen Blixen known for?",
+"options": [
+{
+"l": "A",
+"t": "She was a ballet dancer"
+},
+{
+"l": "B",
+"t": "She was an actress"
+},
+{
+"l": "C",
+"t": "She was an author"
+}
+],
+"answer": "C",
+"answerText": "She was an author",
+"appeared": "It appeared in the November 2020 exam.",
+"da": {
+"q": "Hvad er Karen Blixen kendt for?",
+"options": [
+"Hun var balletdanser",
+"Hun var skuespiller",
+"Hun var forfatter"
+],
+"answer": "Hun var forfatter"
+},
+"qStart": 572.16,
+"aStart": 589.94,
+"aEnd": 595.12,
+"learn": {
+"start": 243.16,
+"end": 253.97,
+"text": "Karen Blixen's best-known work is Den Afrikanske Farm, \"Out of Africa\", from 1937.",
+"score": 3.0
+}
+},
+{
+"id": "ch5-ep2-p1-q6",
+"n": 6,
+"q": "Who wrote the novel Barndommens Gade from 1943?",
+"options": [
+{
+"l": "A",
+"t": "Naja Marie Aidt"
+},
+{
+"l": "B",
+"t": "Leonora Christina Skov"
+},
+{
+"l": "C",
+"t": "Tove Ditlevsen"
+}
+],
+"answer": "C",
+"answerText": "Tove Ditlevsen",
+"appeared": "It appeared in the November 2021 and May 2025 exams.",
+"da": {
+"q": "Hvem har skrevet romanen ”Barndommens Gade” fra 1943?",
+"options": [
+"Naja Marie Aidt",
+"Leonora Christina Skov",
+"Tove Ditlevsen"
+],
+"answer": "Tove Ditlevsen"
+},
+"qStart": 595.67,
+"aStart": 615.73,
+"aEnd": 622.71,
+"learn": {
+"start": 429.8,
+"end": 439.43,
+"text": "Tove Ditlevsen wrote Barndommens Gade in 1943.",
+"score": 7.0
+}
+},
+{
+"id": "ch5-ep2-p1-q7",
+"n": 7,
+"q": "Which Danish author wrote the book Den Afrikanske Farm?",
+"options": [
+{
+"l": "A",
+"t": "Karen Blixen"
+},
+{
+"l": "B",
+"t": "H.C. Andersen"
+},
+{
+"l": "C",
+"t": "Tove Ditlevsen"
+}
+],
+"answer": "A",
+"answerText": "Karen Blixen",
+"appeared": "It appeared in the June 2022 and November 2024 exams.",
+"da": {
+"q": "Hvilken dansk forfatter har skrevet bogen Den Afrikanske Farm?",
+"options": [
+"Karen Blixen",
+"H.C. Andersen",
+"Tove Ditlevsen"
+],
+"answer": "Karen Blixen"
+},
+"qStart": 623.16,
+"aStart": 644.35,
+"aEnd": 651.35,
+"learn": {
+"start": 422.92,
+"end": 435.37,
+"text": "Karen Blixen wrote Den Afrikanske Farm in 1937, about Kenya.",
+"score": 7.0
+}
+},
+{
+"id": "ch5-ep2-p1-q8",
+"n": 8,
+"q": "Who wrote the novels Pelle Erobreren and Ditte Menneskebarn at the beginning of the 1900s?",
+"options": [
+{
+"l": "A",
+"t": "Steen Steensen Blicher"
+},
+{
+"l": "B",
+"t": "Martin Andersen Nexø"
+},
+{
+"l": "C",
+"t": "Klaus Rifbjerg"
+}
+],
+"answer": "B",
+"answerText": "Martin Andersen Nexø",
+"appeared": "It appeared in the November 2022 exam.",
+"da": {
+"q": "Hvem skrev romanerne Pelle Erobreren og Ditte Menneskebarn i begyndelsen af 1900-tallet?",
+"options": [
+"Steen Steensen Blicher",
+"Martin Andersen Nexø",
+"Klaus Rifbjerg"
+],
+"answer": "Martin Andersen Nexø"
+},
+"qStart": 651.9,
+"aStart": 673.47,
+"aEnd": 679.23,
+"learn": {
+"start": 401.53,
+"end": 415.36,
+"text": "Martin Andersen Nexø wrote Pelle Erobreren and Ditte Menneskebarn.",
+"score": 9.5
+}
+},
+{
+"id": "ch5-ep2-p1-q9",
+"n": 9,
+"q": "Who is known for having described how to behave in Takt og Tone, Hvordan Vi Omgås, from 1918?",
+"options": [
+{
+"l": "A",
+"t": "Herman Bang"
+},
+{
+"l": "B",
+"t": "Emma Gad"
+},
+{
+"l": "C",
+"t": "Karen Blixen"
+}
+],
+"answer": "B",
+"answerText": "Emma Gad",
+"appeared": "It appeared in the November 2023 exam.",
+"da": {
+"q": "Hvem er kendt for at have beskrevet, hvordan man skal opføre sig i ’Takt og Tone – Hvordan Vi Omgås’ fra 1918?",
+"options": [
+"Herman Bang",
+"Emma Gad",
+"Karen Blixen"
+],
+"answer": "Emma Gad"
+},
+"qStart": 679.78,
+"aStart": 700.56,
+"aEnd": 705.83,
+"learn": {
+"start": 122.28,
+"end": 156.35,
+"text": "Emma Gad also thought that people, through clear rules, should be helped to be together without conflict. She is therefore first and foremost known for \"Takt og Tone – Hvordan Vi Omgås\", \"Tact and Tone: How We Get Along\", from 1918, which is the best-known Danish book about how one should behave.",
+"score": 8.7
+}
+}
+]

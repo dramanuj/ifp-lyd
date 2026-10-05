@@ -1,0 +1,42 @@
+[
+{
+"id": "ch4-ep5-p1-q1",
+"n": 1,
+"q": "Which continent receives the largest share of Denmark's development aid?",
+"options": [
+{
+"l": "A",
+"t": "Asia"
+},
+{
+"l": "B",
+"t": "South America"
+},
+{
+"l": "C",
+"t": "Africa"
+}
+],
+"answer": "C",
+"answerText": "Africa",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Hvilket kontinent modtager den største andel af Danmarks udviklingsbistand?",
+"options": [
+"Asien",
+"Sydamerika",
+"Afrika"
+],
+"answer": "Afrika"
+},
+"qStart": 335.14,
+"aStart": 352.97,
+"aEnd": 358.05,
+"learn": {
+"start": 100.89,
+"end": 134.92,
+"text": "Africa is the part of the world that has historically had the biggest focus in Danish development policy, and which has received most of the Danish development aid. That is connected, among other things, with Africa being a neighbour to Europe, and with what happens in Africa being able to have great importance for Europe, and thereby for Denmark. There is a big difference between the 54 African countries, but overall Africa is the world's poorest continent, and in several places there are civil wars and other conflicts.",
+"score": 4.2
+}
+}
+]

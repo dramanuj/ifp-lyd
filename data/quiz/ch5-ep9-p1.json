@@ -1,0 +1,322 @@
+[
+{
+"id": "ch5-ep9-p1-q1",
+"n": 1,
+"q": "Which Danish film won an Oscar for best international film in April 2021?",
+"options": [
+{
+"l": "A",
+"t": "Druk"
+},
+{
+"l": "B",
+"t": "Festen"
+},
+{
+"l": "C",
+"t": "Idioterne"
+}
+],
+"answer": "A",
+"answerText": "Druk",
+"appeared": "It appeared in the June 2021 and November 2022 exams.",
+"da": {
+"q": "Hvilken dansk film vandt i april 2021 en Oscar for bedste internationale film?",
+"options": [
+"Druk",
+"Festen",
+"Idioterne"
+],
+"answer": "Druk"
+},
+"qStart": 569.61,
+"aStart": 588.83,
+"aEnd": 595.0,
+"learn": {
+"start": 73.33,
+"end": 106.52,
+"text": "Thomas Vinterberg's family drama Festen, \"The Celebration\", from 1998, won the jury's special prize, Prix du Jury, at the film festival in Cannes in France in 1998, while another of his films, Druk, \"Another Round\", from 2020, won an Oscar in 2021.",
+"score": 5.5
+}
+},
+{
+"id": "ch5-ep9-p1-q2",
+"n": 2,
+"q": "For which film did Gabriel Axel win an Oscar in 1988?",
+"options": [
+{
+"l": "A",
+"t": "Druk"
+},
+{
+"l": "B",
+"t": "Italiensk for begyndere"
+},
+{
+"l": "C",
+"t": "Babettes gæstebud"
+}
+],
+"answer": "C",
+"answerText": "Babettes gæstebud",
+"appeared": "It appeared in the June 2022 exam.",
+"da": {
+"q": "For hvilken film vandt Gabriel Axel en Oscar i 1988?",
+"options": [
+"Druk",
+"Italiensk for begyndere",
+"Babettes gæstebud"
+],
+"answer": "Babettes gæstebud"
+},
+"qStart": 595.55,
+"aStart": 614.02,
+"aEnd": 619.2,
+"learn": {
+"start": 137.33,
+"end": 173.47,
+"text": "Gabriel Axel won, as the first Danish director, an Oscar for the film version of Karen Blixen's story Babettes Gæstebud, \"Babette's Feast\", from 1987, in 1988, about how a strict Christian congregation, which denies the good things of life, one day is served a lavish meal and therefore suddenly becomes happier and better people.",
+"score": 8.0
+}
+},
+{
+"id": "ch5-ep9-p1-q3",
+"n": 3,
+"q": "Which film director won an Oscar for the film Hævnen from 2010?",
+"options": [
+{
+"l": "A",
+"t": "Erik Balling"
+},
+{
+"l": "B",
+"t": "Carl Theodor Dreyer"
+},
+{
+"l": "C",
+"t": "Susanne Bier"
+}
+],
+"answer": "C",
+"answerText": "Susanne Bier",
+"appeared": "It appeared in the May 2023 exam.",
+"da": {
+"q": "Hvilken filminstruktør vandt en Oscar for filmen Hævnen fra 2010?",
+"options": [
+"Erik Balling",
+"Carl Theodor Dreyer",
+"Susanne Bier"
+],
+"answer": "Susanne Bier"
+},
+"qStart": 619.75,
+"aStart": 639.09,
+"aEnd": 643.86,
+"learn": {
+"start": 180.86,
+"end": 200.99,
+"text": "Susanne Bier has won both an Oscar and a Golden Globe for Hævnen, \"In a Better World\", from 2010, which focuses on in which situations in life it is respectively right and wrong to take revenge on others.",
+"score": 7.0
+}
+},
+{
+"id": "ch5-ep9-p1-q4",
+"n": 4,
+"q": "For which film did Bille August win an Oscar?",
+"options": [
+{
+"l": "A",
+"t": "Pelle Erobreren"
+},
+{
+"l": "B",
+"t": "Jerusalem"
+},
+{
+"l": "C",
+"t": "Zappa"
+}
+],
+"answer": "A",
+"answerText": "Pelle Erobreren",
+"appeared": "It appeared in the November 2023 exam.",
+"da": {
+"q": "For hvilken film har Bille August vundet en Oscar?",
+"options": [
+"Pelle Erobreren",
+"Jerusalem",
+"Zappa"
+],
+"answer": "Pelle Erobreren"
+},
+"qStart": 644.41,
+"aStart": 661.9,
+"aEnd": 667.63,
+"learn": {
+"start": 149.61,
+"end": 180.91,
+"text": "Bille August won both an Oscar and the Palmes d'Or for the film Pelle Erobreren, from 1987.",
+"score": 7.0
+}
+},
+{
+"id": "ch5-ep9-p1-q5",
+"n": 5,
+"q": "Who directed the films Idioterne and Dancer in the Dark?",
+"options": [
+{
+"l": "A",
+"t": "Susanne Bier"
+},
+{
+"l": "B",
+"t": "Lars von Trier"
+},
+{
+"l": "C",
+"t": "Lone Scherfig"
+}
+],
+"answer": "B",
+"answerText": "Lars von Trier",
+"appeared": "It appeared in the November 2024 exam.",
+"da": {
+"q": "Hvem har instrueret filmene 'Idioterne' og 'Dancer in the Dark'?",
+"options": [
+"Susanne Bier",
+"Lars von Trier",
+"Lone Scherfig"
+],
+"answer": "Lars von Trier"
+},
+"qStart": 668.18,
+"aStart": 686.46,
+"aEnd": 691.76,
+"learn": {
+"start": 479.42,
+"end": 501.1,
+"text": "Lars von Trier's first dogme film was Idioterne in 1998, and he won the Palme d'Or in 2000 for Dancer in the Dark, with Björk.",
+"score": 7.5
+}
+},
+{
+"id": "ch5-ep9-p1-q6",
+"n": 6,
+"q": "What is Susanne Bier, born 1960, especially known for?",
+"options": [
+{
+"l": "A",
+"t": "She is a physicist"
+},
+{
+"l": "B",
+"t": "She is a politician"
+},
+{
+"l": "C",
+"t": "She is a film director"
+}
+],
+"answer": "C",
+"answerText": "She is a film director",
+"appeared": "It appeared in the May 2025 exam.",
+"da": {
+"q": "Hvad er Susanne Bier (født 1960) særligt kendt for?",
+"options": [
+"Hun er fysiker",
+"Hun er politiker",
+"Hun er filminstruktør"
+],
+"answer": "Hun er filminstruktør"
+},
+"qStart": 692.31,
+"aStart": 712.18,
+"aEnd": 717.55,
+"learn": {
+"start": 131.6,
+"end": 173.47,
+"text": "The directors Gabriel Axel, who lived from 1918 to 2014, Bille August and Susanne Bier, born 1960, have also received international recognition. Gabriel Axel won, as the first Danish director, an Oscar for the film version of Karen Blixen's story Babettes Gæstebud, \"Babette's Feast\", from 1987, in 1988, about how a strict Christian congregation, which denies the good things of life, one day is served a lavish meal and therefore suddenly becomes happier and better people.",
+"score": 6.1
+}
+},
+{
+"id": "ch5-ep9-p1-q7",
+"n": 7,
+"q": "What is Sofie Gråbøl, born 1968, especially known for?",
+"options": [
+{
+"l": "A",
+"t": "She is an author"
+},
+{
+"l": "B",
+"t": "She is an actress"
+},
+{
+"l": "C",
+"t": "She is a painter"
+}
+],
+"answer": "B",
+"answerText": "She is an actress",
+"appeared": "It appeared in the November 2025 exam.",
+"da": {
+"q": "Hvad er Sofie Gråbøl (f. 1968) særligt kendt for?",
+"options": [
+"Hun er forfatter",
+"Hun er skuespiller",
+"Hun er kunstmaler"
+],
+"answer": "Hun er skuespiller"
+},
+"qStart": 718.1,
+"aStart": 737.9,
+"aEnd": 743.53,
+"learn": {
+"start": 313.08,
+"end": 346.3,
+"text": "Sofie Gråbøl, born 1968, is one of Denmark's best-known actresses, skuespillere, and has played several lead roles as somewhat insecure, awkward people.",
+"score": 5.0
+}
+},
+{
+"id": "ch5-ep9-p1-q8",
+"n": 8,
+"q": "What is Mads Mikkelsen, born 1965, especially known for?",
+"options": [
+{
+"l": "A",
+"t": "He is an actor"
+},
+{
+"l": "B",
+"t": "He is an author"
+},
+{
+"l": "C",
+"t": "He is a musician"
+}
+],
+"answer": "A",
+"answerText": "He is an actor",
+"appeared": "It appeared in the June 2026 exam.",
+"da": {
+"q": "Hvad er Mads Mikkelsen (født 1965) særligt kendt for?",
+"options": [
+"Han er skuespiller",
+"Han er forfatter",
+"Han er musiker"
+],
+"answer": "Han er skuespiller"
+},
+"qStart": 744.08,
+"aStart": 763.61,
+"aEnd": 768.98,
+"learn": {
+"start": 187.45,
+"end": 222.98,
+"text": "One of the 21st century's most prominent actors is Mads Mikkelsen, born 1965. Mads Mikkelsen received the award for best male actor at the Cannes Film Festival in 2012 for the role in Jagten, \"The Hunt\", from 2012, as the teaching assistant Lucas, who is falsely accused of paedophilia.",
+"score": 4.8
+}
+}
+]

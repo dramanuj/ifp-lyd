@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "partId": "ch4-ep4-p1",
+ "images": [
+  {
+   "id": "p131-fig1",
+   "src": "images/ch4/p131-fig1.svg",
+   "start": 20.8,
+   "caption": "The UN flag.",
+   "illustration": true,
+   "alt": "The UN flag.",
+   "page": 131,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 99.4
+  },
+  {
+   "id": "p132-fig1",
+   "src": "images/ch4/p132-fig1.svg",
+   "start": 99.4,
+   "caption": "The then US president Joe Biden (b. 1942) addresses the UN General Assembly in 2023.",
+   "illustration": true,
+   "alt": "The then US president Joe Biden (b. 1942) addresses the UN General Assembly in 2023.",
+   "page": 132,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900,
+   "end": 189.4
+  },
+  {
+   "id": "p133-fig1",
+   "src": "images/ch4/p133-fig1.svg",
+   "start": 320.9,
+   "caption": "The UN's 17 Sustainable Development Goals.",
+   "illustration": true,
+   "alt": "The UN's 17 Sustainable Development Goals.",
+   "page": 133,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "chart",
+   "width": 1600,
+   "height": 900,
+   "end": 410.9
+  }
+ ]
+}
