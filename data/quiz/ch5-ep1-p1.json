@@ -6,11 +6,11 @@
 "options": [
 {
 "l": "A",
-"t": "Svend Forkbeard"
+"t": "Svend Tveskæg"
 },
 {
 "l": "B",
-"t": "Harald Bluetooth"
+"t": "Harald Blåtand"
 },
 {
 "l": "C",
@@ -18,7 +18,7 @@
 }
 ],
 "answer": "B",
-"answerText": "Harald Bluetooth",
+"answerText": "Harald Blåtand",
 "appeared": "It appeared in the November 2020 exam.",
 "da": {
 "q": "Hvilken konge fik skrevet på den ene af Jellingstenene, at han gjorde danskerne (danerne) kristne?",
@@ -29,20 +29,20 @@
 ],
 "answer": "Harald Blåtand"
 },
-"qStart": 539.28,
-"aStart": 559.39,
-"aEnd": 564.71,
+"qStart": 539.6,
+"aStart": 559.71,
+"aEnd": 564.96,
 "learn": {
-"start": 138.76,
-"end": 157.07,
-"text": "The best-known Danish rune inscription is on Harald Bluetooth's Jelling stone from the second half of the 900s. Here King Harald tells that he won all of Denmark and Norway for himself and made the Danes Christian.",
+"start": 138.79,
+"end": 157.23,
+"text": "The best-known Danish rune inscription is on Harald Blåtand's Jelling stone from the second half of the 900s. Here King Harald tells that he won all of Denmark and Norway for himself and made the Danes Christian.",
 "score": 7.0
 }
 },
 {
 "id": "ch5-ep1-p1-q2",
 "n": 2,
-"q": "When did King Harald Bluetooth have it written on one of the Jelling stones that he made the Danes Christian?",
+"q": "When did King Harald Blåtand have it written on one of the Jelling stones that he made the Danes Christian?",
 "options": [
 {
 "l": "A",
@@ -69,13 +69,13 @@
 ],
 "answer": "900-tallet"
 },
-"qStart": 565.26,
-"aStart": 586.4,
-"aEnd": 591.82,
+"qStart": 565.54,
+"aStart": 586.7,
+"aEnd": 592.12,
 "learn": {
-"start": 138.76,
-"end": 157.07,
-"text": "The best-known Danish rune inscription is on Harald Bluetooth's Jelling stone from the second half of the 900s. Here King Harald tells that he won all of Denmark and Norway for himself and made the Danes Christian.",
+"start": 138.79,
+"end": 157.23,
+"text": "The best-known Danish rune inscription is on Harald Blåtand's Jelling stone from the second half of the 900s. Here King Harald tells that he won all of Denmark and Norway for himself and made the Danes Christian.",
 "score": 7.4
 }
 },
@@ -109,12 +109,12 @@
 ],
 "answer": "Der er et yndigt land"
 },
-"qStart": 592.37,
-"aStart": 613.13,
-"aEnd": 618.76,
+"qStart": 592.67,
+"aStart": 613.43,
+"aEnd": 619.06,
 "learn": {
-"start": 369.12,
-"end": 384.68,
+"start": 369.42,
+"end": 384.98,
 "text": "Oehlenschläger wrote one of Denmark's two national anthems, \"Der er et yndigt land\", \"There is a lovely land\", in 1819.",
 "score": 7.5
 }
@@ -149,13 +149,13 @@
 ],
 "answer": "Saxo"
 },
-"qStart": 619.31,
-"aStart": 641.36,
-"aEnd": 646.11,
+"qStart": 619.61,
+"aStart": 641.66,
+"aEnd": 646.41,
 "learn": {
-"start": 165.35,
-"end": 195.69,
-"text": "That also applies to Saxo's Danish history, Gesta Danorum, \"The Deeds of the Danes\", from the beginning of the 1200s. Saxo lived from about 1160 to 1208. The work was meant to show that Denmark was a country in its own right, independent of the Germans, and that Denmark's king at the time, Valdemar the Great, who reigned from 1131 to 82, was the country's rightful ruler.",
+"start": 165.58,
+"end": 195.94,
+"text": "That also applies to Saxo's Danish history, Gesta Danorum, \"The Deeds of the Danes\", from the beginning of the 1200s. Saxo lived from about 1160 to 1208. The work was meant to show that Denmark was a country in its own right, independent of the Germans, and that Denmark's king at the time, Valdemar den Store, who reigned from 1131 to 82, was the country's rightful ruler.",
 "score": 5.0
 }
 },
@@ -189,12 +189,12 @@
 ],
 "answer": "Ludvig Holberg"
 },
-"qStart": 646.66,
-"aStart": 665.93,
-"aEnd": 671.01,
+"qStart": 646.96,
+"aStart": 666.23,
+"aEnd": 671.31,
 "learn": {
-"start": 478.19,
-"end": 491.67,
+"start": 478.49,
+"end": 491.97,
 "text": "Ludvig Holberg, 1684 to 1754, wrote the comedy Jeppe på Bjerget in 1722.",
 "score": 8.0
 }
@@ -229,12 +229,12 @@
 ],
 "answer": "Den grimme ælling"
 },
-"qStart": 671.56,
-"aStart": 695.55,
-"aEnd": 702.25,
+"qStart": 671.86,
+"aStart": 695.85,
+"aEnd": 702.55,
 "learn": {
-"start": 312.15,
-"end": 317.37,
+"start": 312.45,
+"end": 317.67,
 "text": "Den grimme ælling, The Ugly Duckling.",
 "score": 7.5
 }

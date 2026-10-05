@@ -29,12 +29,12 @@
 ],
 "answer": "Han var kunstmaler"
 },
-"qStart": 730.84,
-"aStart": 751.28,
-"aEnd": 756.46,
+"qStart": 730.85,
+"aStart": 751.3,
+"aEnd": 756.48,
 "learn": {
-"start": 662.3,
-"end": 679.49,
+"start": 662.32,
+"end": 679.51,
 "text": "Bertel Thorvaldsen, 1770 to 1844, is the best-known sculptor; his museum opened in 1848. C.W. Eckersberg was a leading Golden Age painter.",
 "score": 2.7
 }
@@ -69,12 +69,12 @@
 ],
 "answer": "I 1800-tallet"
 },
-"qStart": 757.01,
-"aStart": 775.82,
-"aEnd": 782.66,
+"qStart": 757.03,
+"aStart": 775.84,
+"aEnd": 782.68,
 "learn": {
-"start": 227.97,
-"end": 242.61,
+"start": 227.99,
+"end": 242.63,
 "text": "Andersen, who lived from 1805 to 75, the philosopher Søren Kierkegaard, 1813 to 55, who lived in the 1800s, the physicist H.C.",
 "score": 4.5
 }
@@ -109,12 +109,12 @@
 ],
 "answer": "Olafur Eliasson"
 },
-"qStart": 783.21,
-"aStart": 805.5,
-"aEnd": 811.23,
+"qStart": 783.23,
+"aStart": 805.52,
+"aEnd": 811.25,
 "learn": {
-"start": 585.77,
-"end": 617.27,
+"start": 585.78,
+"end": 617.29,
 "text": "Another artist who has made a mark in recent decades is the Danish-Icelandic Olafur Eliasson, born 1967. One of his best-known works is Your Rainbow Panorama, in Danish Din regnbueudsigt, from 2011, on top of the art museum ARoS in Aarhus, which is a 150-metre-long circular glass walkway where you can look out over Aarhus in all the colours of the rainbow.",
 "score": 10.4
 }
@@ -149,12 +149,12 @@
 ],
 "answer": "De var kunstmalere"
 },
-"qStart": 811.78,
-"aStart": 830.93,
-"aEnd": 836.18,
+"qStart": 811.8,
+"aStart": 830.94,
+"aEnd": 836.2,
 "learn": {
-"start": 369.02,
-"end": 390.81,
+"start": 369.04,
+"end": 390.83,
 "text": "Krøyer, who lived from 1851 to 1909, and the married couple Anna Ancher, 1859 to 1935, and Michael Ancher, 1849 to 1927, who belong to the circle of the so-called Skagen Painters.",
 "score": 4.5
 }
@@ -189,12 +189,12 @@
 ],
 "answer": "Han var kunstmaler"
 },
-"qStart": 836.63,
-"aStart": 859.31,
-"aEnd": 864.41,
+"qStart": 836.65,
+"aStart": 859.32,
+"aEnd": 864.43,
 "learn": {
-"start": 369.02,
-"end": 390.81,
+"start": 369.04,
+"end": 390.83,
 "text": "Krøyer, who lived from 1851 to 1909, and the married couple Anna Ancher, 1859 to 1935, and Michael Ancher, 1849 to 1927, who belong to the circle of the so-called Skagen Painters.",
 "score": 3.0
 }
@@ -229,12 +229,12 @@
 ],
 "answer": "Skagen"
 },
-"qStart": 864.86,
-"aStart": 887.57,
-"aEnd": 894.16,
+"qStart": 864.88,
+"aStart": 887.58,
+"aEnd": 894.18,
 "learn": {
-"start": 369.02,
-"end": 398.56,
+"start": 369.04,
+"end": 398.58,
 "text": "Krøyer, who lived from 1851 to 1909, and the married couple Anna Ancher, 1859 to 1935, and Michael Ancher, 1849 to 1927, who belong to the circle of the so-called Skagen Painters. Towards the end of the 1800s, a number of painters settled in Skagen, which is Denmark's northernmost town.",
 "score": 6.5
 }
@@ -269,12 +269,12 @@
 ],
 "answer": "Aarhus"
 },
-"qStart": 894.71,
-"aStart": 915.32,
-"aEnd": 920.02,
+"qStart": 894.73,
+"aStart": 915.34,
+"aEnd": 920.04,
 "learn": {
-"start": 592.43,
-"end": 617.27,
+"start": 592.45,
+"end": 617.29,
 "text": "One of his best-known works is Your Rainbow Panorama, in Danish Din regnbueudsigt, from 2011, on top of the art museum ARoS in Aarhus, which is a 150-metre-long circular glass walkway where you can look out over Aarhus in all the colours of the rainbow.",
 "score": 5.5
 }

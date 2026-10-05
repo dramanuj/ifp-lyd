@@ -29,12 +29,12 @@
 ],
 "answer": "Danmark, Norge og Sverige"
 },
-"qStart": 865.47,
-"aStart": 887.67,
-"aEnd": 894.05,
+"qStart": 862.13,
+"aStart": 884.32,
+"aEnd": 890.7,
 "learn": {
-"start": 812.58,
-"end": 836.38,
+"start": 809.23,
+"end": 833.03,
 "text": "And in 1397 she gathered Denmark, Norway and Sweden, which at that time also included Finland, in a union with Denmark as the dominant power. This was called the Kalmar Union, because the union treaty was signed in the Swedish town of Kalmar.",
 "score": 6.5
 }
@@ -46,11 +46,11 @@
 "options": [
 {
 "l": "A",
-"t": "Svend Forkbeard"
+"t": "Svend Tveskæg"
 },
 {
 "l": "B",
-"t": "Harald Bluetooth"
+"t": "Harald Blåtand"
 },
 {
 "l": "C",
@@ -58,7 +58,7 @@
 }
 ],
 "answer": "B",
-"answerText": "Harald Bluetooth",
+"answerText": "Harald Blåtand",
 "appeared": "It appeared in the November 2020 exam.",
 "da": {
 "q": "Hvilken konge fik skrevet på den ene af Jellingstenene, at han gjorde danskerne (danerne) kristne?",
@@ -69,20 +69,20 @@
 ],
 "answer": "Harald Blåtand"
 },
-"qStart": 894.6,
-"aStart": 914.7,
-"aEnd": 920.03,
+"qStart": 891.28,
+"aStart": 911.39,
+"aEnd": 916.64,
 "learn": {
-"start": 426.31,
-"end": 444.93,
-"text": "And around the year 965, Harald Bluetooth was baptised. The runestone he raised at Jelling says that King Harald won all of Denmark and Norway for himself and made the Danes Christian.",
+"start": 422.2,
+"end": 440.87,
+"text": "And around the year 965, Harald Blåtand was baptised. The runestone he raised at Jelling says that King Harald won all of Denmark and Norway for himself and made the Danes Christian.",
 "score": 7.0
 }
 },
 {
 "id": "ch1-ep1-p1-q3",
 "n": 3,
-"q": "When did King Harald Bluetooth have it written on one of the Jelling stones that he made the Danes Christian?",
+"q": "When did King Harald Blåtand have it written on one of the Jelling stones that he made the Danes Christian?",
 "options": [
 {
 "l": "A",
@@ -109,13 +109,13 @@
 ],
 "answer": "900-tallet"
 },
-"qStart": 920.58,
-"aStart": 941.81,
-"aEnd": 947.23,
+"qStart": 917.22,
+"aStart": 938.48,
+"aEnd": 943.9,
 "learn": {
-"start": 426.31,
-"end": 444.93,
-"text": "And around the year 965, Harald Bluetooth was baptised. The runestone he raised at Jelling says that King Harald won all of Denmark and Norway for himself and made the Danes Christian.",
+"start": 422.2,
+"end": 440.87,
+"text": "And around the year 965, Harald Blåtand was baptised. The runestone he raised at Jelling says that King Harald won all of Denmark and Norway for himself and made the Danes Christian.",
 "score": 6.1
 }
 },
@@ -149,12 +149,12 @@
 ],
 "answer": "Freja og Thor"
 },
-"qStart": 947.78,
-"aStart": 966.45,
-"aEnd": 973.48,
+"qStart": 944.45,
+"aStart": 963.12,
+"aEnd": 970.15,
 "learn": {
-"start": 375.48,
-"end": 390.73,
+"start": 371.37,
+"end": 386.62,
 "text": "Among the other gods: Freja, goddess of fertility, and Thor, god of thunder and war, who drove across the sky in his chariot.",
 "score": 4.0
 }
@@ -189,12 +189,12 @@
 ],
 "answer": "Katolsk kristendom"
 },
-"qStart": 974.03,
-"aStart": 997.61,
-"aEnd": 1005.12,
+"qStart": 970.7,
+"aStart": 994.28,
+"aEnd": 1001.79,
 "learn": {
-"start": 412.48,
-"end": 432.42,
+"start": 408.37,
+"end": 428.32,
 "text": "But then something new arrived: Christianity came to Denmark in the Viking Age, and slowly replaced the old religion. The German missionary Ansgar built churches in the middle of the 800s in Hedeby and Ribe.",
 "score": 3.9
 }
@@ -229,12 +229,12 @@
 ],
 "answer": "Der blev bygget tusindvis af kirker"
 },
-"qStart": 1005.67,
-"aStart": 1029.71,
-"aEnd": 1035.64,
+"qStart": 1002.34,
+"aStart": 1026.38,
+"aEnd": 1032.31,
 "learn": {
-"start": 412.48,
-"end": 432.42,
+"start": 408.37,
+"end": 428.32,
 "text": "But then something new arrived: Christianity came to Denmark in the Viking Age, and slowly replaced the old religion. The German missionary Ansgar built churches in the middle of the 800s in Hedeby and Ribe.",
 "score": 4.3
 }
@@ -269,12 +269,12 @@
 ],
 "answer": "I 1300-tallet"
 },
-"qStart": 1036.19,
-"aStart": 1058.72,
-"aEnd": 1066.1,
+"qStart": 1032.86,
+"aStart": 1055.39,
+"aEnd": 1062.77,
 "learn": {
-"start": 776.39,
-"end": 798.07,
+"start": 773.04,
+"end": 794.72,
 "text": "During his reign, the plague called the Black Death raged. It hit Denmark and the rest of Europe around 1350, and killed up to half of the population. That is the 1300s.",
 "score": 6.5
 }
@@ -282,7 +282,7 @@
 {
 "id": "ch1-ep1-p1-q8",
 "n": 8,
-"q": "In which century was England conquered by the Danish king Svend Forkbeard?",
+"q": "In which century was England conquered by the Danish king Svend Tveskæg?",
 "options": [
 {
 "l": "A",
@@ -309,20 +309,20 @@
 ],
 "answer": "1000-tallet"
 },
-"qStart": 1066.65,
-"aStart": 1087.31,
-"aEnd": 1092.83,
+"qStart": 1063.34,
+"aStart": 1083.78,
+"aEnd": 1089.29,
 "learn": {
-"start": 288.68,
-"end": 303.67,
-"text": "The Danish king Svend Forkbeard, Svend Tveskæg, who reigned from nine eighty-seven to ten fourteen, conquered England, and became its king in the year 1013, that is, in the 1000s.",
+"start": 286.9,
+"end": 300.56,
+"text": "The Danish king Svend Tveskæg, who reigned from nine eighty-seven to ten fourteen, conquered England, and became its king in the year 1013, that is, in the 1000s.",
 "score": 7.5
 }
 },
 {
 "id": "ch1-ep1-p1-q9",
 "n": 9,
-"q": "Which of these countries was conquered by Svend Forkbeard in the 1000s?",
+"q": "Which of these countries was conquered by Svend Tveskæg in the 1000s?",
 "options": [
 {
 "l": "A",
@@ -349,13 +349,13 @@
 ],
 "answer": "England"
 },
-"qStart": 1093.38,
-"aStart": 1111.37,
-"aEnd": 1116.38,
+"qStart": 1089.88,
+"aStart": 1107.71,
+"aEnd": 1112.72,
 "learn": {
-"start": 288.68,
-"end": 303.67,
-"text": "The Danish king Svend Forkbeard, Svend Tveskæg, who reigned from nine eighty-seven to ten fourteen, conquered England, and became its king in the year 1013, that is, in the 1000s.",
+"start": 286.9,
+"end": 300.56,
+"text": "The Danish king Svend Tveskæg, who reigned from nine eighty-seven to ten fourteen, conquered England, and became its king in the year 1013, that is, in the 1000s.",
 "score": 5.5
 }
 },
@@ -366,7 +366,7 @@
 "options": [
 {
 "l": "A",
-"t": "Cnut the Great"
+"t": "Knud den Store"
 },
 {
 "l": "B",
@@ -389,12 +389,12 @@
 ],
 "answer": "Margrete den 1."
 },
-"qStart": 1116.93,
-"aStart": 1137.78,
-"aEnd": 1143.64,
+"qStart": 1113.29,
+"aStart": 1134.48,
+"aEnd": 1140.33,
 "learn": {
-"start": 798.07,
-"end": 830.43,
+"start": 794.72,
+"end": 827.08,
 "text": "After Valdemar Atterdag died in 1375, his daughter Margrete the First took power. She also became regent in Norway, which at that time included the Faroe Islands, Iceland and parts of Greenland. And in 1397 she gathered Denmark, Norway and Sweden, which at that time also included Finland, in a union with Denmark as the dominant power.",
 "score": 6.2
 }
@@ -429,12 +429,12 @@
 ],
 "answer": "Tórshavn"
 },
-"qStart": 1144.19,
-"aStart": 1160.96,
-"aEnd": 1167.86,
+"qStart": 1140.88,
+"aStart": 1157.65,
+"aEnd": 1164.56,
 "learn": {
-"start": 408.24,
-"end": 418.16,
+"start": 404.13,
+"end": 414.05,
 "text": "And Tórshavn, the largest town in the Faroe Islands, is of course Thor's harbour.",
 "score": 5.5
 }

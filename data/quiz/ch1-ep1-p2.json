@@ -24,12 +24,12 @@
 ],
 "answer": "Kongen fik mere magt over kirken"
 },
-"qStart": 676.46,
-"aStart": 697.82,
-"aEnd": 704.32,
+"qStart": 676.43,
+"aStart": 697.79,
+"aEnd": 704.29,
 "learn": {
-"start": 633.79,
-"end": 652.23,
+"start": 633.69,
+"end": 652.13,
 "text": "The Reformation gave the king power over the church, and absolutism gave the king even more power.",
 "score": 7.5
 }
@@ -64,9 +64,9 @@
 ],
 "answer": "Overgangen fra katolsk til protestantisk kristendom"
 },
-"qStart": 704.87,
-"aStart": 730.68,
-"aEnd": 738.31,
+"qStart": 704.84,
+"aStart": 730.65,
+"aEnd": 738.28,
 "learn": {
 "start": 98.28,
 "end": 123.87,
@@ -104,9 +104,9 @@
 ],
 "answer": "Christian den 4."
 },
-"qStart": 738.86,
-"aStart": 760.96,
-"aEnd": 766.55,
+"qStart": 738.83,
+"aStart": 760.93,
+"aEnd": 766.52,
 "learn": {
 "start": 218.56,
 "end": 262.65,
@@ -144,9 +144,9 @@
 ],
 "answer": "Svenskekrigene"
 },
-"qStart": 767.1,
-"aStart": 786.53,
-"aEnd": 793.82,
+"qStart": 767.07,
+"aStart": 786.5,
+"aEnd": 793.79,
 "learn": {
 "start": 3.69,
 "end": 23.55,
@@ -184,9 +184,9 @@
 ],
 "answer": "Halland"
 },
-"qStart": 794.37,
-"aStart": 812.92,
-"aEnd": 817.45,
+"qStart": 794.34,
+"aStart": 812.89,
+"aEnd": 817.42,
 "learn": {
 "start": 296.64,
 "end": 327.4,
@@ -224,9 +224,9 @@
 ],
 "answer": "Skåne, Halland og Blekinge"
 },
-"qStart": 818.0,
-"aStart": 839.31,
-"aEnd": 845.86,
+"qStart": 817.97,
+"aStart": 839.28,
+"aEnd": 845.83,
 "learn": {
 "start": 353.03,
 "end": 376.29,
@@ -259,9 +259,9 @@
 ],
 "answer": "Danmark mistede Skåne"
 },
-"qStart": 846.41,
-"aStart": 864.5,
-"aEnd": 870.35,
+"qStart": 846.38,
+"aStart": 864.47,
+"aEnd": 870.32,
 "learn": {
 "start": 232.49,
 "end": 269.78,
@@ -299,9 +299,9 @@
 ],
 "answer": "Kongen"
 },
-"qStart": 870.9,
-"aStart": 891.03,
-"aEnd": 897.62,
+"qStart": 870.87,
+"aStart": 891.0,
+"aEnd": 897.59,
 "learn": {
 "start": 3.69,
 "end": 27.61,
