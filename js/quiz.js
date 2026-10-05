@@ -37,13 +37,44 @@
       .catch(function () { s.loading = false; s.error = 'The questions could not be loaded. Please check your internet connection and try again.'; return s; });
   }
 
+  /* ---------- weak spots (questions answered wrongly most often) ---------- */
+  var WEAK_MAX = 10;
+  function weakQuestions(limit) {
+    var list = S.quizWeak().slice(0, limit || WEAK_MAX), byPart = {};
+    list.forEach(function (w) { var pid = w.id.replace(/-q\d+$/, ''); (byPart[pid] = byPart[pid] || []).push(w.id); });
+    return Promise.all(Object.keys(byPart).filter(function (pid) { return D.byId[pid] && D.byId[pid].quiz; }).map(function (pid) { return loadPartQuiz(D.byId[pid]); })).then(function (all) {
+      var m = {}; all.forEach(function (a) { a.forEach(function (x) { m[x.id] = x; }); });
+      return list.map(function (w) { return m[w.id] ? { q: m[w.id], w: w } : null; }).filter(Boolean);
+    });
+  }
+  function weakHTML() {
+    var w = S.quizWeak(), saving = S.canSaveProgress();
+    var head = '<section class="weak" id="weak" aria-labelledby="weakH"><h2 class="h3" id="weakH">Your weak spots</h2>';
+    if (!w.length) {
+      return head + '<p>' + (saving ? 'There is nothing here yet. When you answer a question wrongly, it is saved on this device. It will then appear here, so you can practise it again.' :
+        'There is nothing here yet. When you answer a question wrongly, it can be saved on this device, and it will appear here. Saving is switched off at the moment.') + '</p>' +
+        (saving ? '' : '<p><button class="btn ghost sm" id="weakConsent" type="button">Change my choice about saving</button></p>') + '</section>';
+    }
+    return head + '<p>' + plural(w.length, 'question') + ' that you get wrong most often' + (w.length > WEAK_MAX ? '. The ' + WEAK_MAX + ' hardest are shown below' : '') + '.' + (saving ? '' : ' Saving is switched off, so this list is kept only until you close the page.') + '</p>' +
+      '<ol class="weaklist" id="weakList" aria-live="polite"><li class="muted small">Loading the questions…</li></ol>' +
+      '<p><a class="btn red sm" href="#/quiz/weak">Practise my weak spots (' + Math.min(w.length, WEAK_MAX) + ')</a></p></section>';
+  }
+  function weakMount(root) {
+    var b = root.querySelector('#weakConsent'); if (b) b.onclick = function () { DCE.openConsent(true); };
+    var ul = root.querySelector('#weakList'); if (!ul) return;
+    weakQuestions(WEAK_MAX).then(function (rows) {
+      if (!document.body.contains(ul)) return;
+      ul.innerHTML = rows.length ? rows.map(function (r) { return '<li><span>' + esc(r.q.q) + '</span> <span class="muted small">Wrong ' + r.w.wrong + (r.w.wrong === 1 ? ' time' : ' times') + '</span></li>'; }).join('') : '<li class="muted small">The questions could not be loaded.</li>';
+    }).catch(function () { ul.innerHTML = '<li class="muted small">The questions could not be loaded.</li>'; });
+  }
+
   /* ---------- hub ---------- */
   function hub() {
     return { title: 'Quiz', html: function () {
       var qs = DCE.quizSummary();
       var resume = sess && !sess.loading && !sess.done && sess.qs.length ? '<div class="callout ok resume"><b>You have a quiz in progress:</b> ' + esc(sess.label) + ' (question ' + (sess.idx + 1) + ' of ' + sess.qs.length + '). <a class="btn red sm" href="#/quiz/resume">Resume</a></div>' : '';
       return V.head({ eyebrow: 'Practice mode, no audio', h1: 'Quiz', lede: 'Practise ' + D.stats.questions + ' real exam questions. They are organised like the podcasts. You see one question at a time, in English. You can also show the Danish original, because the real exam is in Danish.' }) +
-        '<div class="wrap sec">' + resume + '<div class="qsummary"><div><b>' + qs.answered + '</b> of ' + D.stats.questions + ' questions answered' + (qs.answered ? ' · <b>' + Math.round(qs.ok / qs.answered * 100) + '%</b> correct the last time' : '') + '</div><a class="more" href="#/progress">My learning ' + I.right + '</a></div>' +
+        '<div class="wrap sec">' + weakHTML() + resume + '<div class="qsummary"><div><b>' + qs.answered + '</b> of ' + D.stats.questions + ' questions answered' + (qs.answered ? ' · <b>' + Math.round(qs.ok / qs.answered * 100) + '%</b> correct the last time' : '') + '</div><a class="more" href="#/progress">My learning ' + I.right + '</a></div>' +
         V.editionBox() +
         D.chapters.map(function (c) {
           return '<details class="qch"' + (c.n === 1 ? ' open' : '') + '><summary><span><b>Chapter ' + c.n + ' · ' + esc(c.titleDa) + '</b> <span class="muted small">' + esc(c.titleEn) + '</span></span><span class="muted small">' + plural(c.quizCount, 'question') + '</span></summary>' +
@@ -54,7 +85,7 @@
               }).join('') + '</ul>';
             }).join('') + '</details>';
         }).join('') + '</div>';
-    } };
+    }, mount: weakMount };
   }
 
   /* ---------- run ---------- */
@@ -62,6 +93,7 @@
     var kind = args[0], id = args[1], pending = null;
     if (kind === 'resume') { if (!sess) return { html: '', mount: function () { location.replace('#/quiz'); } }; }
     else if (kind === 'part' || kind === 'chapter') pending = start(kind, id, { limit: +qs.n || 0 });
+    else if (kind === 'weak') pending = start('missed', null, { label: 'My weak spots', qs: weakQuestions(WEAK_MAX).then(function (rows) { return rows.map(function (r) { return r.q; }); }) });
     else return { html: '', mount: function () { location.replace('#/quiz'); } };
     return { title: 'Quiz', stable: true, html: function () {
       return '<div class="quizpage"><div class="wrap qw"><div id="qbody"></div></div></div>';

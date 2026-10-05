@@ -77,11 +77,21 @@
   function quizScore(key, s, n) { mem.progress.quiz.s[key] = { s: s, n: n, t: Date.now() }; flush(); emit(); }
   function quizGetScore(key) { return mem.progress.quiz.s[key] || null; }
   function quizAll() { return mem.progress.quiz; }
+  /* Weak spots: questions answered wrongly more often than rightly. Most wrong answers first, then the most recent. */
+  function quizWeak() {
+    var q = mem.progress.quiz.q, out = [];
+    Object.keys(q).forEach(function (id) {
+      var o = q[id], wrong = (o.att || 0) - (o.ok || 0);
+      if (wrong > 0 && (o.ok || 0) <= wrong) out.push({ id: id, wrong: wrong, att: o.att, ok: o.ok || 0, last: !!o.last, t: o.t || 0 });
+    });
+    out.sort(function (a, b) { return (b.wrong - a.wrong) || ((a.last ? 1 : 0) - (b.last ? 1 : 0)) || (b.t - a.t); });
+    return out;
+  }
 
   DCE.store = {
     init: init, setConsent: setConsent, deleteAll: deleteAll, resetProgress: resetProgress, resetQuiz: resetQuiz,
     getPart: getPart, setPart: setPart, removePart: removePart, pref: pref, chapterStats: chapterStats,
-    quizRecord: quizRecord, quizGet: quizGet, quizScore: quizScore, quizGetScore: quizGetScore, quizAll: quizAll,
+    quizRecord: quizRecord, quizGet: quizGet, quizScore: quizScore, quizGetScore: quizGetScore, quizAll: quizAll, quizWeak: quizWeak,
     consent: function () { return consent; },
     canSaveProgress: function () { return !!(consent && consent.progress); },
     last: function () { return mem.progress.last; },

@@ -119,7 +119,7 @@
         '<div class="row"><button class="btn dark" id="chg" type="button">Change my choice</button><button class="btn ghost" id="wipe" type="button">Delete all my data</button></div>' +
         '<h2 class="h2 mt">Exactly what is saved on your device</h2><div class="tablewrap" tabindex="0" role="region" aria-label="Table of saved items"><table><thead><tr><th scope="col">Item</th><th scope="col">What it is for</th><th scope="col">Do we ask first?</th><th scope="col">How long</th></tr></thead><tbody>' +
         '<tr><td><code>' + k.consent + '</code></td><td>Remembers your choice, so we do not ask again.</td><td>No. We need it to respect your choice.</td><td>12 months, then we ask again</td></tr>' +
-        '<tr><td><code>' + k.progress + '</code></td><td>Where you stopped in each part, finished parts, and your quiz results.</td><td>Yes (“Progress”)</td><td>Deleted after 12 months without use, or when you ask</td></tr>' +
+        '<tr><td><code>' + k.progress + '</code></td><td>Where you stopped in each part, finished parts, your quiz results, and which questions you answered wrongly (used for the “Your weak spots” list on the Quiz page).</td><td>Yes (“Progress”)</td><td>Deleted after 12 months without use, or when you ask</td></tr>' +
         '<tr><td><code>' + k.prefs + '</code></td><td>Speed, repeat mode, light or dark theme, timeline zoom, quiz language.</td><td>Yes (“Settings”)</td><td>Same as progress</td></tr>' +
         '<tr><td>Cookies</td><td>This site does not use cookies.</td><td>Not needed</td><td>Not applicable</td></tr></tbody></table></div>' +
         '<h2 class="h2">Reporting a mistake</h2><p>“Report a mistake” is only a link. It opens GitHub in a new tab, with the part and the time filled in. This site sends nothing. If you choose to continue, GitHub’s own terms and privacy statement apply, and what you post there is public.</p>' +
@@ -144,7 +144,7 @@
         '<dt>Speed</dt><dd>Use the speed button to listen more slowly or faster, from 0.75 to 2 times.</dd>' +
         '<dt>The quiz at the end of each part</dt><dd>Each part ends with real exam questions. The narrator reads the question and the options, pauses, then gives the answer. The written answers stay hidden until they are read out. You can reveal them yourself if you wish.</dd>' +
         '<dt>The Quiz tab</dt><dd>Practise the same questions without audio. Choose a part, or mix a whole chapter. If you get one wrong, you can listen to the part of the podcast that explains it.</dd>' +
-        '<dt>Saved progress</dt><dd>If you agree, the site remembers where you stopped and your quiz results. They are saved only on this device. You can delete them at any time on the <a href="#/progress">My learning</a> page.</dd>' +
+        '<dt>Saved progress</dt><dd>If you agree, the site remembers where you stopped, your quiz results, and the questions you got wrong. They are saved only on this device. You can delete them at any time on the <a href="#/progress">My learning</a> page.</dd>' +
         '<dt>Downloads</dt><dd>On the <a href="#/downloads">Downloads</a> page you can save the audio and transcripts to listen offline.</dd>' +
         '<dt>Report a mistake</dt><dd>If you notice a mistake, press <b>Report a mistake</b> in the player, or the <b>Report</b> link beside a transcript line. GitHub opens in a new tab with the part and the time already filled in. You then describe the mistake. You need a free GitHub account. Nothing is sent until you press the green button on GitHub.</dd></dl>' +
         V.editionBox() + '</div>';

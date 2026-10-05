@@ -420,3 +420,9 @@ a.pill { text-decoration: none; }
 /* timeline cards: keep the dates readable on bright illustrations */
 .erac .thumb.has-img::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 60%; background: linear-gradient(transparent, rgba(0,0,0,.72)); z-index: 1; pointer-events: none; }
 .erac .bigdate { text-shadow: 0 1px 6px rgba(0,0,0,.6); }
+
+/* quiz hub: weak spots module */
+.weak { border: 2px solid var(--red); border-radius: 14px; padding: 18px 20px; margin: 0 0 22px; background: var(--card, transparent); }
+.weak .h3 { margin: 0 0 8px; }
+.weaklist { margin: 8px 0 14px; padding-left: 1.3em; display: grid; gap: 6px; }
+.weaklist li { line-height: 1.4; }
