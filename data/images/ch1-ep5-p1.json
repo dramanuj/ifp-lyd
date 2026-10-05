@@ -5,7 +5,7 @@
   {
    "id": "p051-fig1",
    "src": "images/ch1/p051-fig1.svg",
-   "start": 198.4,
+   "start": 0.0,
    "caption": "A demonstration on City Hall Square against Denmark's membership of the EC.",
    "illustration": true,
    "alt": "A demonstration on City Hall Square against Denmark's membership of the EC.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 288.4
+   "height": 900
   },
   {
    "id": "p054-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 791.7
+   "height": 900
   },
   {
    "id": "p053-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 905.1
+   "height": 900
   }
  ]
 }

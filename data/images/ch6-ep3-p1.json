@@ -5,7 +5,7 @@
   {
    "id": "p182-fig1",
    "src": "images/ch6/p182-fig1.svg",
-   "start": 69.0,
+   "start": 0.0,
    "caption": "Kronborg Castle at Helsingør (Elsinore).",
    "illustration": true,
    "alt": "Kronborg Castle at Helsingør (Elsinore).",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 159.0
+   "height": 900
   },
   {
    "id": "p183-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 260.4
+   "height": 900
   },
   {
    "id": "p184-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 367.9
+   "height": 900
   },
   {
    "id": "p185-fig1",
@@ -55,8 +52,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 538.9
+   "height": 900
   },
   {
    "id": "p185-fig2",
@@ -69,8 +65,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 628.9
+   "height": 900
   }
  ]
 }

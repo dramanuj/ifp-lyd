@@ -5,7 +5,7 @@
   {
    "id": "p007-fig1",
    "src": "images/ch1/p007-fig1.svg",
-   "start": 212.6,
+   "start": 0.0,
    "caption": "The Viking fortress Trelleborg near Slagelse in West Zealand.",
    "illustration": true,
    "alt": "The Viking fortress Trelleborg near Slagelse in West Zealand.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 290.4
+   "height": 900
   },
   {
    "id": "p008-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 380.4
+   "height": 900
   },
   {
    "id": "p006-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 522.4
+   "height": 900
   },
   {
    "id": "p011-fig1",
@@ -55,8 +52,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 707.2
+   "height": 900
   },
   {
    "id": "p012-fig1",
@@ -69,8 +65,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 926.4
+   "height": 900
   }
  ]
 }

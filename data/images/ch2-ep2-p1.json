@@ -5,7 +5,7 @@
   {
    "id": "p074-fig1",
    "src": "images/ch2/p074-fig1.svg",
-   "start": 351.4,
+   "start": 0.0,
    "caption": "Christiansborg Palace.",
    "illustration": true,
    "alt": "Christiansborg Palace.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 441.4
+   "height": 900
   }
  ]
 }

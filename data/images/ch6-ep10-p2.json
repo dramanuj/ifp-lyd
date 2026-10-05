@@ -5,7 +5,7 @@
   {
    "id": "p213-fig1",
    "src": "images/ch6/p213-fig1.svg",
-   "start": 108.5,
+   "start": 0.0,
    "caption": "Inge Lehmann.",
    "illustration": true,
    "alt": "Inge Lehmann.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 186.6
+   "height": 900
   },
   {
    "id": "p214-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 276.6
+   "height": 900
   }
  ]
 }

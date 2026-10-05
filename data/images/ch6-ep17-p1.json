@@ -5,7 +5,7 @@
   {
    "id": "p234-fig1",
    "src": "images/ch6/p234-fig1.svg",
-   "start": 54.7,
+   "start": 0.0,
    "caption": "Women demonstrate for equal pay around 1970.",
    "illustration": true,
    "alt": "Women demonstrate for equal pay around 1970.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 144.7
+   "height": 900
   },
   {
    "id": "p237-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 409.1
+   "height": 900
   }
  ]
 }

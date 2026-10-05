@@ -5,7 +5,7 @@
   {
    "id": "p100-fig1",
    "src": "images/ch2/p100-fig1.svg",
-   "start": 68.9,
+   "start": 0.0,
    "caption": "Conscripts in the Danish defence forces.",
    "illustration": true,
    "alt": "Conscripts in the Danish defence forces.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 158.9
+   "height": 900
   }
  ]
 }

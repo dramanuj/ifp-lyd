@@ -5,7 +5,7 @@
   {
    "id": "p239-fig1",
    "src": "images/ch6/p239-fig1.svg",
-   "start": 279.6,
+   "start": 0.0,
    "caption": "A poster asking customers for ID: 18 years for tobacco, 16 for low-strength alcohol, 18 for stronger alcohol.",
    "illustration": true,
    "alt": "A poster asking customers for ID: 18 years for tobacco, 16 for low-strength alcohol, 18 for stronger alcohol.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 369.6
+   "height": 900
   }
  ]
 }

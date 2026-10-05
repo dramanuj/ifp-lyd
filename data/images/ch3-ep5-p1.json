@@ -5,7 +5,7 @@
   {
    "id": "p119-fig1",
    "src": "images/ch3/p119-fig1.svg",
-   "start": 430.8,
+   "start": 0.0,
    "caption": "Road workers.",
    "illustration": true,
    "alt": "Road workers.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 520.8
+   "height": 900
   }
  ]
 }

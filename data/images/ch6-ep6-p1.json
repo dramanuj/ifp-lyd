@@ -5,7 +5,7 @@
   {
    "id": "p194-fig1",
    "src": "images/ch6/p194-fig1.svg",
-   "start": 224.3,
+   "start": 0.0,
    "caption": "Iranian refugees arrive in Denmark in 1984.",
    "illustration": true,
    "alt": "Iranian refugees arrive in Denmark in 1984.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 314.3
+   "height": 900
   },
   {
    "id": "p193-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 454.4
+   "height": 900
   },
   {
    "id": "p195-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 544.4
+   "height": 900
   }
  ]
 }

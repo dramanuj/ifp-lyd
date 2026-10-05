@@ -5,7 +5,7 @@
   {
    "id": "p221-fig1",
    "src": "images/ch6/p221-fig1.svg",
-   "start": 7.5,
+   "start": 0.0,
    "caption": "N.F.S. Grundtvig (1783-1872).",
    "illustration": true,
    "alt": "N.F.S. Grundtvig (1783-1872).",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 97.5
+   "height": 900
   },
   {
    "id": "p222-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 235.4
+   "height": 900
   },
   {
    "id": "p222-fig2",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 325.4
+   "height": 900
   }
  ]
 }

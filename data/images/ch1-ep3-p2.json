@@ -5,7 +5,7 @@
   {
    "id": "p033-fig1",
    "src": "images/ch1/p033-fig1.svg",
-   "start": 174.4,
+   "start": 0.0,
    "caption": "Danish soldiers who took part in the First World War.",
    "illustration": true,
    "alt": "Danish soldiers who took part in the First World War.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 212.9
+   "height": 900
   },
   {
    "id": "p034-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 302.9
+   "height": 900
   },
   {
    "id": "p036-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 487.3
+   "height": 900
   },
   {
    "id": "p037-fig1",
@@ -55,8 +52,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 577.3
+   "height": 900
   }
  ]
 }

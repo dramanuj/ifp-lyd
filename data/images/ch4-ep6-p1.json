@@ -5,7 +5,7 @@
   {
    "id": "p137-fig1",
    "src": "images/ch4/p137-fig1.svg",
-   "start": 496.2,
+   "start": 0.0,
    "caption": "Danish UN forces in Bosnia.",
    "illustration": true,
    "alt": "Danish UN forces in Bosnia.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 522.9
+   "height": 900
   },
   {
    "id": "p138-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 612.9
+   "height": 900
   }
  ]
 }

@@ -5,7 +5,7 @@
   {
    "id": "p179-fig1",
    "src": "images/ch6/p179-fig1.svg",
-   "start": 350.7,
+   "start": 0.0,
    "caption": "The Wadden Sea at high tide and low tide.",
    "illustration": true,
    "alt": "The Wadden Sea at high tide and low tide.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 440.7
+   "height": 900
   },
   {
    "id": "p180-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 470.0
+   "height": 900
   },
   {
    "id": "p181-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 560.0
+   "height": 900
   }
  ]
 }

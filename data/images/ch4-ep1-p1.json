@@ -5,7 +5,7 @@
   {
    "id": "p123-fig1",
    "src": "images/ch4/p123-fig1.svg",
-   "start": 190.4,
+   "start": 0.0,
    "caption": "The EU's 27 member states.",
    "illustration": true,
    "alt": "The EU's 27 member states.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "map",
    "width": 1600,
-   "height": 900,
-   "end": 280.4
+   "height": 900
   }
  ]
 }

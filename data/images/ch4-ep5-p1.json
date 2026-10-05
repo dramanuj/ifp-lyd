@@ -5,7 +5,7 @@
   {
    "id": "p135-fig1",
    "src": "images/ch4/p135-fig1.svg",
-   "start": 311.5,
+   "start": 0.0,
    "caption": "Foreign Minister Lars Løkke Rasmussen visits a cocoa plantation in Ghana.",
    "illustration": true,
    "alt": "Foreign Minister Lars Løkke Rasmussen visits a cocoa plantation in Ghana.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 401.5
+   "height": 900
   }
  ]
 }

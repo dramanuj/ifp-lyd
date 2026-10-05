@@ -5,7 +5,7 @@
   {
    "id": "p093-fig1",
    "src": "images/ch2/p093-fig1.svg",
-   "start": 255.4,
+   "start": 0.0,
    "caption": "Studio hosts before a news broadcast on TV 2.",
    "illustration": true,
    "alt": "Studio hosts before a news broadcast on TV 2.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 345.4
+   "height": 900
   }
  ]
 }

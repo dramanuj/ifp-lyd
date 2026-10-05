@@ -5,7 +5,7 @@
   {
    "id": "p091-fig1",
    "src": "images/ch2/p091-fig1.svg",
-   "start": 346.0,
+   "start": 0.0,
    "caption": "The Speaker of the Folketing, Søren Gade of Venstre.",
    "illustration": true,
    "alt": "The Speaker of the Folketing, Søren Gade of Venstre.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 352.1
+   "height": 900
   },
   {
    "id": "p094-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 442.1
+   "height": 900
   }
  ]
 }

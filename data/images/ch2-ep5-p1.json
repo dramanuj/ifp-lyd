@@ -5,7 +5,7 @@
   {
    "id": "p088-fig1",
    "src": "images/ch2/p088-fig1.svg",
-   "start": 428.2,
+   "start": 0.0,
    "caption": "A meeting of the municipal council in Holstebro Municipality in West Jutland.",
    "illustration": true,
    "alt": "A meeting of the municipal council in Holstebro Municipality in West Jutland.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 504.0
+   "height": 900
   },
   {
    "id": "p087-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "map",
    "width": 1600,
-   "height": 900,
-   "end": 594.0
+   "height": 900
   }
  ]
 }

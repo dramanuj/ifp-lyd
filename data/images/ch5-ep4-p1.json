@@ -5,7 +5,7 @@
   {
    "id": "p153-fig1",
    "src": "images/ch5/p153-fig1.svg",
-   "start": 47.8,
+   "start": 0.0,
    "caption": "The Sun Chariot from the Bronze Age, found in Trundholm Moor in north-west Zealand.",
    "illustration": true,
    "alt": "The Sun Chariot from the Bronze Age, found in Trundholm Moor in north-west Zealand.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 129.8
+   "height": 900
   },
   {
    "id": "p154-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 219.8
+   "height": 900
   },
   {
    "id": "p156-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "painting",
    "width": 1600,
-   "height": 900,
-   "end": 494.0
+   "height": 900
   },
   {
    "id": "p157-fig1",
@@ -55,8 +52,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 682.4
+   "height": 900
   }
  ]
 }

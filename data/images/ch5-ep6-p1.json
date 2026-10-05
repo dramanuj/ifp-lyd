@@ -5,7 +5,7 @@
   {
    "id": "p161-fig1",
    "src": "images/ch5/p161-fig1.svg",
-   "start": 127.9,
+   "start": 0.0,
    "caption": "Aarhus University and the university park.",
    "illustration": true,
    "alt": "Aarhus University and the university park.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 217.9
+   "height": 900
   },
   {
    "id": "p162-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 325.2
+   "height": 900
   },
   {
    "id": "p163-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 483.1
+   "height": 900
   }
  ]
 }

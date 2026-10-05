@@ -5,7 +5,7 @@
   {
    "id": "p187-fig1",
    "src": "images/ch6/p187-fig1.svg",
-   "start": 232.1,
+   "start": 0.0,
    "caption": "Amalienborg seen from the air.",
    "illustration": true,
    "alt": "Amalienborg seen from the air.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 322.1
+   "height": 900
   },
   {
    "id": "p189-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 462.8
+   "height": 900
   },
   {
    "id": "p186-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 462.8
+   "height": 900
   },
   {
    "id": "p186-fig2",
@@ -55,8 +52,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 511.7
+   "height": 900
   },
   {
    "id": "p188-fig1",
@@ -69,8 +65,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 511.7
+   "height": 900
   },
   {
    "id": "p188-fig2",
@@ -83,8 +78,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 601.7
+   "height": 900
   }
  ]
 }

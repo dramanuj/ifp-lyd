@@ -1,5 +1,19 @@
 {
  "version": 1,
  "partId": "ch6-ep10-p1",
- "images": []
+ "images": [
+  {
+   "id": "p213-fig1",
+   "src": "images/ch6/p213-fig1.svg",
+   "start": 0.0,
+   "caption": "Inge Lehmann.",
+   "illustration": true,
+   "alt": "Inge Lehmann.",
+   "page": 213,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900
+  }
+ ]
 }

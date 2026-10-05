@@ -5,7 +5,7 @@
   {
    "id": "p013-fig1",
    "src": "images/ch1/p013-fig1.svg",
-   "start": 146.0,
+   "start": 0.0,
    "caption": "\"Christian III's Bible\" is the first translation of the Bible into Danish and was published in 1550.",
    "illustration": true,
    "alt": "\"Christian III's Bible\" is the first translation of the Bible into Danish and was published in 1550.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 232.5
+   "height": 900
   },
   {
    "id": "p014-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 322.5
+   "height": 900
   },
   {
    "id": "p016-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 565.7
+   "height": 900
   }
  ]
 }

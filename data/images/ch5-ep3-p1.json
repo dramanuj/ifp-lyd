@@ -5,7 +5,7 @@
   {
    "id": "p152-fig1",
    "src": "images/ch5/p152-fig1.svg",
-   "start": 347.7,
+   "start": 0.0,
    "caption": "Helle Helle (b. 1965).",
    "illustration": true,
    "alt": "Helle Helle (b. 1965).",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 406.1
+   "height": 900
   },
   {
    "id": "p151-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 496.1
+   "height": 900
   }
  ]
 }

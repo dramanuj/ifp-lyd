@@ -5,7 +5,7 @@
   {
    "id": "p105-fig1",
    "src": "images/ch3/p105-fig1.svg",
-   "start": 123.7,
+   "start": 0.0,
    "caption": "A social and health care assistant at work in home care.",
    "illustration": true,
    "alt": "A social and health care assistant at work in home care.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 142.6
+   "height": 900
   },
   {
    "id": "p104-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "chart",
    "width": 1600,
-   "height": 900,
-   "end": 232.6
+   "height": 900
   },
   {
    "id": "p107-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 647.5
+   "height": 900
   }
  ]
 }

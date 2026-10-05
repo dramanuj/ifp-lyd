@@ -1,5 +1,19 @@
 {
  "version": 1,
  "partId": "ch6-ep7-p2",
- "images": []
+ "images": [
+  {
+   "id": "p196-fig1",
+   "src": "images/ch6/p196-fig1.svg",
+   "start": 0.0,
+   "caption": "The flags of Denmark, the Faroe Islands and Greenland.",
+   "illustration": true,
+   "alt": "The flags of Denmark, the Faroe Islands and Greenland.",
+   "page": 196,
+   "credit": "Original illustration, IFP Lyd",
+   "kind": "illustration",
+   "width": 1600,
+   "height": 900
+  }
+ ]
 }

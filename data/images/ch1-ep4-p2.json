@@ -5,7 +5,7 @@
   {
    "id": "p044-fig1",
    "src": "images/ch1/p044-fig1.svg",
-   "start": 93.0,
+   "start": 0.0,
    "caption": "Soviet troops exercising in Poland and Canadian troops in West Germany during the Cold War.",
    "illustration": true,
    "alt": "Soviet troops exercising in Poland and Canadian troops in West Germany during the Cold War.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 183.0
+   "height": 900
   },
   {
    "id": "p044-fig2",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 274.5
+   "height": 900
   },
   {
    "id": "p045-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 364.5
+   "height": 900
   },
   {
    "id": "p047-fig1",
@@ -55,8 +52,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 542.9
+   "height": 900
   },
   {
    "id": "p049-fig1",
@@ -69,8 +65,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 782.2
+   "height": 900
   },
   {
    "id": "p047-fig2",
@@ -83,8 +78,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 796.2
+   "height": 900
   },
   {
    "id": "p046-fig1",
@@ -97,8 +91,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 886.2
+   "height": 900
   }
  ]
 }

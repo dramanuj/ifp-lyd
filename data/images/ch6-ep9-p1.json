@@ -5,7 +5,7 @@
   {
    "id": "p208-fig1",
    "src": "images/ch6/p208-fig1.svg",
-   "start": 21.7,
+   "start": 0.0,
    "caption": "From the left: the flags of Denmark, Sweden, Iceland, Finland and Norway.",
    "illustration": true,
    "alt": "From the left: the flags of Denmark, Sweden, Iceland, Finland and Norway.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 111.7
+   "height": 900
   },
   {
    "id": "p209-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "painting",
    "width": 1600,
-   "height": 900,
-   "end": 211.2
+   "height": 900
   },
   {
    "id": "p210-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 445.2
+   "height": 900
   }
  ]
 }

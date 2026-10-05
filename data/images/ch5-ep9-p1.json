@@ -5,7 +5,7 @@
   {
    "id": "p170-fig1",
    "src": "images/ch5/p170-fig1.svg",
-   "start": 66.2,
+   "start": 0.0,
    "caption": "Thomas Vinterberg won an Oscar for the film 'Druk' (Another Round).",
    "illustration": true,
    "alt": "Thomas Vinterberg won an Oscar for the film 'Druk' (Another Round).",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 131.6
+   "height": 900
   },
   {
    "id": "p171-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 137.3
+   "height": 900
   },
   {
    "id": "p171-fig2",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 227.3
+   "height": 900
   },
   {
    "id": "p172-fig1",
@@ -55,8 +52,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 341.5
+   "height": 900
   },
   {
    "id": "p173-fig1",
@@ -69,8 +65,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 627.7
+   "height": 900
   }
  ]
 }

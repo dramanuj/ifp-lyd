@@ -5,7 +5,7 @@
   {
    "id": "p141-fig1",
    "src": "images/ch4/p141-fig1.svg",
-   "start": 118.7,
+   "start": 0.0,
    "caption": "Rebuilding a stronger defence of Danish territory is an important task in these years.",
    "illustration": true,
    "alt": "Rebuilding a stronger defence of Danish territory is an important task in these years.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 208.7
+   "height": 900
   },
   {
    "id": "p140-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 466.3
+   "height": 900
   },
   {
    "id": "p143-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 673.5
+   "height": 900
   }
  ]
 }

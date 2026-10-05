@@ -5,7 +5,7 @@
   {
    "id": "p076-fig1",
    "src": "images/ch2/p076-fig1.svg",
-   "start": 129.7,
+   "start": 0.0,
    "caption": "Government ministers walking out of a palace gateway.",
    "illustration": true,
    "alt": "Government ministers walking out of a palace gateway.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 219.7
+   "height": 900
   },
   {
    "id": "p078-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 581.6
+   "height": 900
   }
  ]
 }

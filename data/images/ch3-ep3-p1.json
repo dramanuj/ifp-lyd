@@ -5,7 +5,7 @@
   {
    "id": "p112-fig1",
    "src": "images/ch3/p112-fig1.svg",
-   "start": 250.2,
+   "start": 0.0,
    "caption": "Vejen Library in southern Jutland.",
    "illustration": true,
    "alt": "Vejen Library in southern Jutland.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 340.2
+   "height": 900
   },
   {
    "id": "p113-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 460.9
+   "height": 900
   }
  ]
 }

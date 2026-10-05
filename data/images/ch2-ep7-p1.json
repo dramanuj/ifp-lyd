@@ -5,7 +5,7 @@
   {
    "id": "p097-fig1",
    "src": "images/ch2/p097-fig1.svg",
-   "start": 299.8,
+   "start": 0.0,
    "caption": "A demonstration on Christiansborg Palace Square in Copenhagen in 2023 against the abolition of Great Prayer Day (Store Bededag).",
    "illustration": true,
    "alt": "A demonstration on Christiansborg Palace Square in Copenhagen in 2023 against the abolition of Great Prayer Day (Store Bededag).",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 299.8
+   "height": 900
   },
   {
    "id": "p098-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 389.8
+   "height": 900
   },
   {
    "id": "p099-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 618.1
+   "height": 900
   }
  ]
 }

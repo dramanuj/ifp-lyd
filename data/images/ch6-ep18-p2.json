@@ -5,7 +5,7 @@
   {
    "id": "p241-fig1",
    "src": "images/ch6/p241-fig1.svg",
-   "start": 190.3,
+   "start": 0.0,
    "caption": "A patient being seen by a doctor and a nurse at the hospital in Køge.",
    "illustration": true,
    "alt": "A patient being seen by a doctor and a nurse at the hospital in Køge.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 280.3
+   "height": 900
   }
  ]
 }

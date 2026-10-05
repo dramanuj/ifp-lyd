@@ -5,7 +5,7 @@
   {
    "id": "p225-fig1",
    "src": "images/ch6/p225-fig1.svg",
-   "start": 276.2,
+   "start": 0.0,
    "caption": "Pupils in 8th grade working together in groups.",
    "illustration": true,
    "alt": "Pupils in 8th grade working together in groups.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 366.2
+   "height": 900
   },
   {
    "id": "p228-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 786.9
+   "height": 900
   }
  ]
 }

@@ -5,7 +5,7 @@
   {
    "id": "p127-fig1",
    "src": "images/ch4/p127-fig1.svg",
-   "start": 128.3,
+   "start": 0.0,
    "caption": "Denmark's EU commissioner Dan Jørgensen at a meeting with the energy ministers of the EU member states.",
    "illustration": true,
    "alt": "Denmark's EU commissioner Dan Jørgensen at a meeting with the energy ministers of the EU member states.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 168.2
+   "height": 900
   },
   {
    "id": "p127-fig2",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 257.6
+   "height": 900
   },
   {
    "id": "p128-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 347.6
+   "height": 900
   }
  ]
 }

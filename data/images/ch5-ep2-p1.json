@@ -5,7 +5,7 @@
   {
    "id": "p150-fig1",
    "src": "images/ch5/p150-fig1.svg",
-   "start": 301.7,
+   "start": 0.0,
    "caption": "Tove Ditlevsen (1917-76).",
    "illustration": true,
    "alt": "Tove Ditlevsen (1917-76).",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 391.7
+   "height": 900
   },
   {
    "id": "p148-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 491.5
+   "height": 900
   }
  ]
 }

@@ -5,7 +5,7 @@
   {
    "id": "p175-fig1",
    "src": "images/ch6/p175-fig1.svg",
-   "start": 197.3,
+   "start": 0.0,
    "caption": "Map of Denmark's seas and islands.",
    "illustration": true,
    "alt": "Map of Denmark's seas and islands.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "map",
    "width": 1600,
-   "height": 900,
-   "end": 254.4
+   "height": 900
   },
   {
    "id": "p176-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 344.4
+   "height": 900
   }
  ]
 }

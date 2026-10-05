@@ -5,7 +5,7 @@
   {
    "id": "p027-fig1",
    "src": "images/ch1/p027-fig1.svg",
-   "start": 95.8,
+   "start": 0.0,
    "caption": "Work at a brewery around 1900.",
    "illustration": true,
    "alt": "Work at a brewery around 1900.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 185.8
+   "height": 900
   },
   {
    "id": "p028-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 278.7
+   "height": 900
   },
   {
    "id": "p029-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 475.8
+   "height": 900
   },
   {
    "id": "p030-fig1",
@@ -55,8 +52,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 623.2
+   "height": 900
   },
   {
    "id": "p032-fig1",
@@ -69,8 +65,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 706.6
+   "height": 900
   },
   {
    "id": "p031-fig1",
@@ -83,8 +78,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 796.6
+   "height": 900
   }
  ]
 }

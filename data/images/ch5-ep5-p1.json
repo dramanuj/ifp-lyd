@@ -5,7 +5,7 @@
   {
    "id": "p159-fig1",
    "src": "images/ch5/p159-fig1.svg",
-   "start": 261.8,
+   "start": 0.0,
    "caption": "Gasolin, a Danish rock group in the 1970s.",
    "illustration": true,
    "alt": "Gasolin, a Danish rock group in the 1970s.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 351.8
+   "height": 900
   },
   {
    "id": "p160-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 405.9
+   "height": 900
   },
   {
    "id": "p160-fig2",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 495.9
+   "height": 900
   }
  ]
 }

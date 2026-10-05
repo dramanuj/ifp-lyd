@@ -5,7 +5,7 @@
   {
    "id": "p108-fig1",
    "src": "images/ch3/p108-fig1.svg",
-   "start": 141.0,
+   "start": 0.0,
    "caption": "Elderly people being served a meal at a care home.",
    "illustration": true,
    "alt": "Elderly people being served a meal at a care home.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 231.0
+   "height": 900
   },
   {
    "id": "p109-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 378.7
+   "height": 900
   },
   {
    "id": "p110-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 667.5
+   "height": 900
   }
  ]
 }

@@ -5,7 +5,7 @@
   {
    "id": "p131-fig1",
    "src": "images/ch4/p131-fig1.svg",
-   "start": 20.8,
+   "start": 0.0,
    "caption": "The UN flag.",
    "illustration": true,
    "alt": "The UN flag.",
@@ -13,8 +13,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 99.4
+   "height": 900
   },
   {
    "id": "p132-fig1",
@@ -27,8 +26,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "illustration",
    "width": 1600,
-   "height": 900,
-   "end": 189.4
+   "height": 900
   },
   {
    "id": "p133-fig1",
@@ -41,8 +39,7 @@
    "credit": "Original illustration, IFP Lyd",
    "kind": "chart",
    "width": 1600,
-   "height": 900,
-   "end": 410.9
+   "height": 900
   }
  ]
 }
