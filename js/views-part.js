@@ -31,27 +31,31 @@
           '<div class="stage-media" id="media"><div class="imgpanel tile ch' + pt.ch + '" id="imgpanel"><span class="tile-cross" aria-hidden="true"></span><img id="imA" alt=""><img id="imB" alt=""><span class="img-empty" id="imEmpty"><span class="ie-mark" aria-hidden="true">' + I.mark + '</span><span id="imEmptyTxt">No picture at this moment</span></span><canvas id="snap" class="snap" width="1600" height="900" aria-hidden="true" hidden></canvas><button type="button" class="anim-btn" id="animBtn" aria-pressed="false">Pause animation</button></div>' +
           '<div class="capline"><div><span id="cap" class="cap"></span><span id="credit" class="credit"></span></div><span id="pageref" class="pageref"></span></div></div>' +
           '<div class="stage-text"><div class="tabs"><div class="tablist" role="tablist" aria-label="View"><button class="tab" role="tab" data-v="tr" aria-selected="true" id="tabTr" aria-controls="tr">Transcript</button><button class="tab" role="tab" data-v="gal" aria-selected="false" id="tabGal" aria-controls="gal" tabindex="-1">Gallery</button></div>' +
-          '<button class="imgtoggle" type="button" id="imgToggle" aria-pressed="true">' + I.img + '<span>Picture</span></button></div>' +
-          '<div class="tr-tools" id="trTools"><span class="tr-note small">' + I.lock + ' Quiz answers stay hidden until they are read out.</span><button class="swbtn" id="revAll" type="button" aria-pressed="false"><span class="knob" aria-hidden="true"></span>Reveal all answers</button></div>' +
+          '<button class="imgtoggle" type="button" id="imgToggle" aria-pressed="true" aria-label="Show picture">' + I.img + '<span>Picture</span></button></div>' +
+          '<div class="tr-tools" id="trTools"><span class="tr-note small">' + I.lock + ' Quiz answers stay hidden until they are read out.</span><button class="swbtn" id="revAll" type="button" aria-pressed="false" aria-label="Reveal all answers"><span class="knob" aria-hidden="true"></span><span class="lg" aria-hidden="true">Reveal all answers</span><span class="sh" aria-hidden="true">Answers</span></button></div>' +
           '<div class="tr-wrap"><div class="transcript" id="tr" tabindex="0" role="tabpanel" aria-labelledby="tabTr" aria-label="Transcript, synced to audio"><p class="muted-d tr-load">Loading transcript…</p></div>' +
           '<div class="gallery" id="gal" role="tabpanel" aria-labelledby="tabGal" hidden></div>' +
           '<button class="jump" id="jump" type="button" hidden>Jump to current line</button></div></div>' +
           '<div class="controls" id="controls">' +
-          '<div class="now"><div><span class="kicker-d">' + D.partLabel(pt) + '</span><h1 class="ptitle">' + esc(pt.title) + '</h1></div>' +
+          '<div class="now"><div><span class="kicker-d">' + D.partLabel(pt) + '</span><h1 class="ptitle" title="' + esc(pt.title) + '">' + esc(pt.title) + '</h1></div>' +
           '<div class="statuses"><span class="status" id="finBadge" hidden>' + I.check + ' Finished</span></div></div>' +
           '<div class="seek"><span class="t" id="tNow">0:00</span><div class="seekwrap"><input id="seek" type="range" min="0" max="' + (pt.dur || 0) + '" step="0.1" value="0" aria-label="Seek"></div><span class="t" id="tDur">' + fmt(pt.dur) + '</span></div>' +
-          '<div class="btnrow"><button class="pill" id="rate" type="button"></button>' +
+          '<div class="btnrow main" id="mainRow"><button class="pill" id="rate" type="button"></button>' +
           '<button class="ctl" id="back" type="button" aria-label="Back 15 seconds">' + I.back + '</button>' +
           '<button class="ctl big flag" id="play" type="button" aria-label="Play">' + I.fplay + '</button>' +
           '<button class="ctl" id="fwd" type="button" aria-label="Forward 15 seconds">' + I.fwd + '</button>' +
-          '<button class="pill" id="rep" type="button">' + I.repeat + '<span>Repeat</span></button></div>' +
-          '<div class="btnrow sub"><button class="pill sm" id="prev" type="button" aria-label="Previous part"' + (prev ? '' : ' disabled') + '>' + I.left + '<span>Prev</span></button>' +
+          '<button class="pill" id="rep" type="button">' + I.repeat + '<span>Repeat</span></button>' +
+          '<button class="pill more-btn" id="more" type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="sheet" aria-label="More options"><svg viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/></svg><span>More</span></button></div>' +
+          '<div class="sheet" id="sheet"><div class="sheet-back" id="sheetBack"></div><div class="sheet-panel" id="sheetPanel"><div class="sheet-grip" id="sheetGrip" aria-hidden="true"></div>' +
+          '<div class="sheet-head"><div><span class="kicker-d">' + D.partLabel(pt) + '</span><h2 class="sheet-title" id="sheetTitle">' + esc(pt.title) + '</h2></div><button class="pill sm" id="sheetClose" type="button">Close</button></div>' +
+          '<div class="sheet-body"><div class="btnrow sub" id="subRow"><button class="pill sm" id="prev" type="button" aria-label="Previous part"' + (prev ? '' : ' disabled') + '>' + I.left + '<span>Prev</span></button>' +
           '<button class="pill sm" id="quiz" type="button" aria-label="Jump to the exam practice at ' + fmt(pt.quizStart) + '">Quiz <span class="x">· ' + fmt(pt.quizStart) + '</span></button>' +
           '<label class="pill sm sel"><span class="sr">Sleep timer</span><select id="sleep" aria-label="Sleep timer"><option value="0">Sleep</option><option value="5">5 min</option><option value="15">15 min</option><option value="30">30 min</option><option value="end">End of part</option></select></label>' +
           '<a class="pill sm flag-pill" id="flag" href="' + esc(reportUrl(0)) + '" target="_blank" rel="noopener noreferrer">' + I.flag + '<span>Report a mistake</span></a>' +
           '<button class="pill sm" id="fin" type="button"></button>' +
-          '<button class="pill sm" id="next" type="button" aria-label="Next part"' + (next ? '' : ' disabled') + '><span>Next</span>' + I.right + '</button></div>' +
-          '<p class="small notice" id="note" aria-live="polite"></p><p class="small ai-line">These podcasts were made with artificial intelligence (AI). We have not checked every fact. Please check the official learning material. If you notice a mistake, use “Report a mistake” in the player or the footer. It opens GitHub with the details filled in.</p></div></div></section>' +
+          '<button class="pill sm" id="next" type="button" aria-label="Next part"' + (next ? '' : ' disabled') + '><span>Next</span>' + I.right + '</button></div></div></div></div>' +
+          '<p class="small notice" id="note" aria-live="polite"></p></div>' +
+          '<p class="small ai-line" id="aiLine">These podcasts were made with artificial intelligence (AI). We have not checked every fact. Please check the official learning material. If you notice a mistake, use “Report a mistake” in the player or the footer. It opens GitHub with the details filled in.</p></div></section>' +
           '<div class="wrap sec"><div class="two"><div><h2 class="h2">About this part</h2>' +
           V.basedOn(pt.pagesArr) +
           '<p class="muted">' + (ep.pdfSections && ep.pdfSections.length ? 'Sections ' + esc(ep.pdfSections.join(', ')) + ' of the learning material. ' : '') + (pt.quizCount ? 'It ends with ' + V.plural(pt.quizCount, 'real exam question') + '. ' : '') + 'See <a href="#/about">About</a> to learn how this was made.</p>' +
@@ -253,14 +257,66 @@
         tabs.forEach(function (b) { b.onclick = function () { setTab(b.dataset.v); }; b.onkeydown = function (e) { if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') { var o = tabs[0] === b ? tabs[1] : tabs[0]; setTab(o.dataset.v); o.focus(); } }; });
         $('#imgToggle').onclick = function () { var on = this.getAttribute('aria-pressed') !== 'true'; this.setAttribute('aria-pressed', on); $('#media').classList.toggle('collapsed', !on); };
         function keys(e) {
+          if (e.key === 'Escape' && sheetOpen) { closeSheet(); return; }
           if (e.target.closest('input,select,textarea,button') && e.key !== 'k' ? e.target.closest('input,select,textarea') : false) return;
           if (e.target.closest('input,select,textarea') || e.ctrlKey || e.metaKey || e.altKey) return;
           if (e.key === 'k') { e.preventDefault(); P.toggle(); } else if (e.key === 'j') P.skip(-15); else if (e.key === 'l') P.skip(15);
           else if (e.key === '[') P.setRate(Math.max(0.75, +(P.st.rate - 0.25).toFixed(2))); else if (e.key === ']') P.setRate(Math.min(2, +(P.st.rate + 0.25).toFixed(2)));
           else if (e.key === 'r') $('#rep').click();
         }
+        /* ---- phone layout: docked bar, "More" sheet, transcript sizing ---- */
+        var mq = matchMedia('(max-width: 899px)'), sheet = $('#sheet'), panel = $('#sheetPanel'), moreBtn = $('#more'), ctl = $('#controls'), wrapEl = $('.tr-wrap'), docRoot = document.documentElement, sheetOpen = false, ro = null;
+        function focusables() { return [].filter.call(panel.querySelectorAll('button,select,a[href]'), function (x) { return !x.disabled && x.offsetParent !== null; }); }
+        function openSheet() {
+          if (sheetOpen) return; sheetOpen = true; sheet.classList.add('open'); sheet.setAttribute('role', 'dialog'); sheet.setAttribute('aria-modal', 'true'); sheet.setAttribute('aria-labelledby', 'sheetTitle');
+          moreBtn.setAttribute('aria-expanded', 'true'); panel.style.transform = ''; $('#sheetClose').focus();
+        }
+        function closeSheet(noFocus) {
+          if (!sheetOpen) return; sheetOpen = false; sheet.classList.remove('open'); sheet.removeAttribute('role'); sheet.removeAttribute('aria-modal'); sheet.removeAttribute('aria-labelledby');
+          moreBtn.setAttribute('aria-expanded', 'false'); if (!noFocus) moreBtn.focus();
+        }
+        moreBtn.onclick = function () { sheetOpen ? closeSheet() : openSheet(); };
+        $('#sheetClose').onclick = function () { closeSheet(); }; $('#sheetBack').onclick = function () { closeSheet(); };
+        sheet.addEventListener('keydown', function (e) {
+          if (!sheetOpen) return;
+          if (e.key === 'Escape') { e.preventDefault(); e.stopPropagation(); closeSheet(); return; }
+          if (e.key !== 'Tab') return;
+          var f = focusables(); if (!f.length) return; var first = f[0], last = f[f.length - 1];
+          if (!panel.contains(document.activeElement)) { e.preventDefault(); first.focus(); }
+          else if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+          else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+        });
+        ['quiz', 'prev', 'next'].forEach(function (id) { $('#' + id).addEventListener('click', function () { closeSheet(true); }); });
+        (function swipe() {
+          var y0 = null, dy = 0, g = panel.querySelector('.sheet-head'), grip = $('#sheetGrip');
+          [g, grip].forEach(function (h) {
+            h.addEventListener('touchstart', function (e) { y0 = e.touches[0].clientY; dy = 0; }, { passive: true });
+            h.addEventListener('touchmove', function (e) { if (y0 == null) return; dy = Math.max(0, e.touches[0].clientY - y0); panel.style.transform = 'translateY(' + dy + 'px)'; }, { passive: true });
+            h.addEventListener('touchend', function () { if (y0 == null) return; y0 = null; if (dy > 70) closeSheet(); else panel.style.transform = ''; });
+          });
+        })();
+        /* Put "Repeat" and the status note where they belong for the current width. */
+        function place() {
+          var rep = $('#rep'), note = $('#note'), ai = $('#aiLine');
+          if (mq.matches) { var sub = $('#subRow'); if (rep.parentNode !== sub) sub.insertBefore(rep, sub.firstChild); if (note.parentNode === ctl) ai.parentNode.insertBefore(note, ai); }
+          else { closeSheet(true); var row = $('#mainRow'); if (rep.parentNode !== row) row.insertBefore(rep, moreBtn); if (note.parentNode !== ctl) ctl.appendChild(note); }
+          size();
+        }
+        /* Size the transcript so its bottom sits just above the docked bar. Only measured positions are used (no 100vh). */
+        function size() {
+          if (!mq.matches) { wrapEl.style.height = ''; docRoot.style.removeProperty('--dock-h'); return; }
+          docRoot.style.setProperty('--dock-h', Math.ceil(ctl.getBoundingClientRect().height) + 'px');
+          var top = wrapEl.getBoundingClientRect().top + window.pageYOffset, dock = ctl.getBoundingClientRect().top;
+          var h = Math.round(dock - top - 14); wrapEl.style.height = Math.max(160, Math.min(h, 640)) + 'px';
+        }
+        mq.addListener ? mq.addListener(place) : mq.addEventListener('change', place);
+        window.addEventListener('resize', size); window.addEventListener('orientationchange', size);
+        if (window.ResizeObserver) { ro = new ResizeObserver(size); ro.observe(ctl); ro.observe($('#media')); ro.observe($('#trTools')); }
+        if (mq.matches && window.innerHeight < 760) { $('#imgToggle').setAttribute('aria-pressed', 'false'); $('#media').classList.add('collapsed'); }
+        place(); setTimeout(size, 400); setTimeout(size, 1500);
+        $('#imgToggle').addEventListener('click', function () { setTimeout(size, 0); });
         document.addEventListener('keydown', keys);
-        this._off = function () { offUn.forEach(function (f) { f(); }); clearInterval(timer); document.removeEventListener('keydown', keys); document.body.classList.remove('on-episode'); if (P.st.loop && !loopInfo) P.setLoop(null); };
+        this._off = function () { if (ro) ro.disconnect(); window.removeEventListener('resize', size); window.removeEventListener('orientationchange', size); docRoot.style.removeProperty('--dock-h'); offUn.forEach(function (f) { f(); }); clearInterval(timer); document.removeEventListener('keydown', keys); document.body.classList.remove('on-episode'); if (P.st.loop && !loopInfo) P.setLoop(null); };
       },
       unmount: function () { if (this._off) this._off(); P.st.loop = null; }
     };
