@@ -39,7 +39,7 @@
   /* ---------- shared components ---------- */
   function thumb(part, extraCls, inner, cover) {
     return '<span class="thumb tile ch' + (part ? part.ch : 1) + (extraCls ? ' ' + extraCls : '') + '"' + (part ? ' data-part="' + part.id + '"' : '') + (cover ? ' data-cover="' + esc(cover) + '"' : '') + '>' +
-      '<span class="tile-cross" aria-hidden="true"></span><img alt="" loading="lazy" hidden>' + (inner || '') + '</span>';
+      '<span class="tile-cross" aria-hidden="true"></span><img alt="" hidden>' + (inner || '') + '</span>';
   }
   function hydrateThumbs(root) {
     if (DCE.flags) DCE.flags.decorate(root);
@@ -51,7 +51,7 @@
       function viaImage() {
         D.firstImage(p).then(function (im) { if (!im) return; img.onerror = null; img.onload = shown; img.src = D.url(im.src); });
       }
-      if (cover) { img.onload = shown; img.onerror = viaImage; img.src = D.url(cover); } else viaImage();
+      viaImage(); /* cards use the wide illustration; the square cover (with its text band) is kept for the lock screen and the MP3 */
     }
     if ('IntersectionObserver' in window) {
       var io = new IntersectionObserver(function (es) { es.forEach(function (e) { if (e.isIntersecting) { io.unobserve(e.target); fill(e.target); } }); }, { rootMargin: '300px' });
